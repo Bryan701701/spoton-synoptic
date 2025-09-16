@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-16T09:53:49Z",
+  "fetched_at": "2025-09-16T10:22:01Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 16 Sep 2025",
   "valid": "For the period 06:00 (UTC) on Tue 16 Sep 2025 to 06:00 (UTC) on Wed 17 Sep 2025",
   "general_synopsis": "Low mid-Atlantic 997 expected 200 miles west of Rockall 976 by midnight tonight. Low Forties 988 losing its identity",
@@ -29,7 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nWest or northwest 6 to gale 8, decreasing 4 or 5 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Mon 15 Sep 2025\nGale now ceased, but northwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nNorthwesterly gale force 8 continuing",
       "wind": "West or northwest 6 to gale 8, decreasing 4 or 5 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -65,7 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nCyclonic becoming west, 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough at first in south.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Mon 15 Sep 2025\nGale now ceased, but northwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nGale force 8 backing westerly imminent",
       "wind": "Cyclonic becoming west, 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough at first in south.",
       "weather": "Showers.",
@@ -97,7 +97,6 @@
     },
     "Dover": {
       "text": "Wind\nWest 5 to 7, occasionally gale 8 at first, backing southwest 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nShowers then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Mon 15 Sep 2025\nSevere gale force 9 now veered westerly and decreased gale force 8",
       "wind": "West 5 to 7, occasionally gale 8 at first, backing southwest 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Showers then rain.",
@@ -163,6 +162,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWest, backing south or southwest, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers, then rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "West, backing south or southwest, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers, then rain.",
@@ -185,7 +185,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest 3 to 5, becoming cyclonic 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough, becoming very rough or high later.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Mon 15 Sep 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSoutheasterly severe gale force 9 expected soon",
       "wind": "West 3 to 5, becoming cyclonic 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough, becoming very rough or high later.",
       "weather": "Showers then rain.",
@@ -193,6 +193,7 @@
     },
     "Malin": {
       "text": "Wind\nNorth or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSoutheasterly gale force 8 expected later",
       "wind": "North or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -200,6 +201,7 @@
     },
     "Hebrides": {
       "text": "Wind\nNorth or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSoutheasterly gale force 8 expected later",
       "wind": "North or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -207,6 +209,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorth or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nEasterly severe gale force 9 expected later",
       "wind": "North or northwest 4 to 6, veering east or southeast 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
