@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-17T09:52:42Z",
+  "fetched_at": "2025-09-17T10:20:55Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 17 Sep 2025",
   "valid": "For the period 06:00 (UTC) on Wed 17 Sep 2025 to 06:00 (UTC) on Thu 18 Sep 2025",
   "general_synopsis": "Low 250 miles west of Rockall 975, expected Bailey 981 by midnight tonight. New high expected Biscay 1024 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly, backing southeasterly, 4 to 6, then veering southwesterly later.\nSea state\nModerate occasionally rough.\nWeather\nShowers, occasional rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Northwesterly, backing southeasterly, 4 to 6, then veering southwesterly later.",
       "sea_state": "Moderate occasionally rough.",
       "weather": "Showers, occasional rain later.",
@@ -29,6 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nVariable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.\nSea state\nModerate or rough.\nWeather\nRain for a time.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain for a time.",
@@ -36,6 +38,7 @@
     },
     "Cromarty": {
       "text": "Wind\nVariable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.\nSea state\nModerate or rough, occasionally slight.\nWeather\nRain for a time.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly severe gale force 9 expected later",
       "wind": "Variable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.",
       "sea_state": "Moderate or rough, occasionally slight.",
       "weather": "Rain for a time.",
@@ -43,6 +46,7 @@
     },
     "Forth": {
       "text": "Wind\nVariable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.\nSea state\nModerate or rough, occasionally slight.\nWeather\nRain for a time.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming south or southeast 5 to 7, then veering southwest.",
       "sea_state": "Moderate or rough, occasionally slight.",
       "weather": "Rain for a time.",
@@ -94,6 +98,7 @@
     },
     "Dover": {
       "text": "Wind\nSouthwest 4 to 6, occasionally 7 at first.\nSea state\nModerate or rough.\nWeather\nOccasional drizzle.\nVisibility\nModerate occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 imminent",
       "wind": "Southwest 4 to 6, occasionally 7 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional drizzle.",
@@ -150,7 +155,6 @@
     },
     "Lundy": {
       "text": "Wind\nSouthwest 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nRain at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 16 Sep 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwest 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain at times.",
@@ -158,7 +162,6 @@
     },
     "Fastnet": {
       "text": "Wind\nSouthwest 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nRain at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwest 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Rain at times.",
@@ -166,7 +169,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nSouthwest 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nRain at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 16 Sep 2025\nSoutherly gale force 8 expected soon",
       "wind": "Southwest 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain at times.",
@@ -174,7 +176,7 @@
     },
     "Shannon": {
       "text": "Wind\nSouthwest 7 to severe gale 9, decreasing 4 to 6.\nSea state\nVery rough or high, becoming rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 16 Sep 2025\nGale force 8 veering southwesterly imminent and increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southwest 7 to severe gale 9, decreasing 4 to 6.",
       "sea_state": "Very rough or high, becoming rough later.",
       "weather": "Showers, rain later.",
@@ -190,7 +192,7 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic, becoming southwest, 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming very rough or high.\nWeather\nRain then squally showers.\nVisibility\nModerate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Tue 16 Sep 2025\nGale force 8 veering southwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 increasing severe gale force 9 imminent",
       "wind": "Cyclonic, becoming southwest, 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming very rough or high.",
       "weather": "Rain then squally showers.",
@@ -198,7 +200,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic, becoming southwest, except in north, 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming very rough or high.\nWeather\nRain then squally showers.\nVisibility\nModerate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nGale force 8 veering southwesterly and increasing severe gale force 9 imminent",
       "wind": "Cyclonic, becoming southwest, except in north, 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming very rough or high.",
       "weather": "Rain then squally showers.",
@@ -206,7 +208,7 @@
     },
     "Bailey": {
       "text": "Wind\nEast, becoming cyclonic, 7 to severe gale 9.\nSea state\nRough or very rough, becoming high.\nWeather\nOccasional rain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 16 Sep 2025\nEasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSevere gale force 9 now backed northeasterly",
       "wind": "East, becoming cyclonic, 7 to severe gale 9.",
       "sea_state": "Rough or very rough, becoming high.",
       "weather": "Occasional rain.",
@@ -214,6 +216,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNortheast 4 to 6, becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough or high later in west.\nWeather\nFair then occasional rain.\nVisibility\nGood becoming moderate or poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nSouthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "Northeast 4 to 6, becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough or high later in west.",
       "weather": "Fair then occasional rain.",
@@ -221,7 +224,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNortheasterly, becoming cyclonic in south, 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 16 Sep 2025\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nGale force 8 backing northeasterly and increasing severe gale force 9 soon",
       "wind": "Northeasterly, becoming cyclonic in south, 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming very rough, occasionally high later.",
       "weather": "Rain or showers.",
@@ -229,7 +232,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 16 Sep 2025\nNortheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 17 Sep 2025\nNortheasterly gale force 8 increasing severe gale force 9 soon",
       "wind": "Northeasterly 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming very rough, occasionally high later.",
       "weather": "Rain or showers.",
