@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-18T15:53:06Z",
+  "fetched_at": "2025-09-18T16:26:17Z",
   "issued": "Issued at: 10:30 (UTC) on Thu 18 Sep 2025",
   "valid": "For the period 12:00 (UTC) on Thu 18 Sep 2025 to 12:00 (UTC) on Fri 19 Sep 2025",
   "general_synopsis": "New low expected Rockall 991 by 0600 tomorrow. Low Fair Isle 985 moving steadily east and losing its identity",
@@ -46,7 +46,6 @@
     },
     "Forth": {
       "text": "Wind\nWest or southwest 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Thu 18 Sep 2025\nSouthwesterly gale force 8 continuing",
       "wind": "West or southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate.",
       "weather": "Showers.",
@@ -188,6 +187,7 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic 4 to 6, becoming southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Thu 18 Sep 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Showers.",
@@ -195,7 +195,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6 for a time.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Wed 17 Sep 2025\nSouthwesterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Thu 18 Sep 2025\nGale now ceased but southwesterly gale force 8 expected later",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6 for a time.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Rain or showers.",
@@ -203,7 +203,7 @@
     },
     "Bailey": {
       "text": "Wind\nNortheast, becoming cyclonic later, 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Wed 17 Sep 2025\nNortheasterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Thu 18 Sep 2025\nNortheasterly gale force 8 increasing severe gale force 9 soon",
       "wind": "Northeast, becoming cyclonic later, 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -219,7 +219,6 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Thu 18 Sep 2025\nGale force 8 now backed northerly",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
