@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Inputs (optional, workflow can pass these)
+# Optional inputs (workflow can pass these)
 PRODUCT_TIME="${PRODUCT_TIME:-}"     # e.g. 2025-09-19T08:20:00Z
-GENERATED_UTC="${GENERATED_UTC:-}"   # defaults to now in gen_sidecar.py if empty
+GENERATED_UTC="${GENERATED_UTC:-}"   # defaults to now inside gen_sidecar.py if empty
 
 need_files=(
   synoptic/atlantic_focus.png
@@ -11,12 +11,12 @@ need_files=(
   synoptic/shipping_forecast_latest.json
 )
 
-# 0) All must exist
+# 0) All must exist locally
 for f in "${need_files[@]}"; do
   [[ -f "$f" ]] || { echo "ERROR: missing $f" >&2; exit 1; }
 done
 
-# 1) Stage (force) and ensure they are actually staged
+# 1) Stage (force) and assert they’re staged
 git add -f "${need_files[@]}"
 for p in "${need_files[@]}"; do
   git diff --cached --name-only | grep -qx "$p" \
@@ -36,17 +36,13 @@ export SF_PATH="synoptic/shipping_forecast_latest.json"
 python3 tools/gen_sidecar.py
 [[ -f synoptic/atlantic_focus.png.json ]] || { echo "ERROR: sidecar not written" >&2; exit 1; }
 
-# 4) Sanity-check pinned URLs resolve (must be 200) before amending
-png_url="https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${COMMIT_SHA}/synoptic/atlantic_focus.png"
-areas_url="https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${COMMIT_SHA}/synoptic/atlantic_focus_areas.json"
-sf_url="https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${COMMIT_SHA}/synoptic/shipping_forecast_latest.json"
-
-for u in "$png_url" "$areas_url" "$sf_url"; do
-  code=$(curl -sI "$u" | head -n1 | awk '{print $2}')
-  [[ "$code" == "200" ]] || { echo "ERROR: $u -> HTTP $code" >&2; exit 1; }
+# 4) Sanity-check that all three payloads are in the commit’s tree (no network)
+for p in "${need_files[@]}"; do
+  git cat-file -e "${COMMIT_SHA}:${p}" \
+    || { echo "ERROR: ${p} not found in commit tree ${COMMIT_SHA}" >&2; exit 1; }
 done
 
-# 5) Amend the same commit to include the sidecar (atomic)
+# 5) Amend the same commit to include sidecar (atomic)
 git add -f synoptic/atlantic_focus.png.json
 git commit --amend --no-edit
 
