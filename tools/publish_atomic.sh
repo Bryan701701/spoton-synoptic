@@ -16,12 +16,14 @@ for f in "${need_files[@]}"; do
   [[ -f "$f" ]] || { echo "ERROR: missing $f" >&2; exit 1; }
 done
 
-# 1) Stage (force) and assert they’re staged
+# 1) Stage (force) whatever changed
 git add -f "${need_files[@]}"
-for p in "${need_files[@]}"; do
-  git diff --cached --name-only | grep -qx "$p" \
-    || { echo "ERROR: $p not staged" >&2; exit 1; }
-done
+
+# If nothing changed, exit gracefully (no-op publish)
+if git diff --cached --quiet; then
+  echo "Nothing to publish — all three artefacts unchanged."
+  exit 0
+fi
 
 # 2) Commit payloads
 git commit -m "Synoptic atomic: PNG + areas + SF"
