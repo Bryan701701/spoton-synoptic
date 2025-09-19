@@ -36,13 +36,17 @@ export SF_PATH="synoptic/shipping_forecast_latest.json"
 python3 tools/gen_sidecar.py
 [[ -f synoptic/atlantic_focus.png.json ]] || { echo "ERROR: sidecar not written" >&2; exit 1; }
 
-# 4) Sanity-check that all three payloads are in the commit’s tree (no network)
-for p in "${need_files[@]}"; do
-  git cat-file -e "${COMMIT_SHA}:${p}" \
-    || { echo "ERROR: ${p} not found in commit tree ${COMMIT_SHA}" >&2; exit 1; }
+# 4) Sanity-check the blobs exist in THIS commit (local, no network)
+for path in \
+  synoptic/atlantic_focus.png \
+  synoptic/atlantic_focus_areas.json \
+  synoptic/shipping_forecast_latest.json
+do
+  git cat-file -e "${COMMIT_SHA}:${path}" \
+    || { echo "ERROR: ${path} missing in commit ${COMMIT_SHA}" >&2; exit 1; }
 done
 
-# 5) Amend the same commit to include sidecar (atomic)
+# 5) Amend the same commit to include the sidecar (atomic)
 git add -f synoptic/atlantic_focus.png.json
 git commit --amend --no-edit
 
