@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-20T09:19:32Z",
+  "fetched_at": "2025-09-20T10:00:28Z",
   "issued": "Issued at: 04:05 (UTC) on Sat 20 Sep 2025",
   "valid": "For the period 06:00 (UTC) on Sat 20 Sep 2025 to 06:00 (UTC) on Sun 21 Sep 2025",
   "general_synopsis": "Low Norwegian Basin 994 losing its identity by midnight tonight. New low expected Humber 997 by same time",
@@ -62,7 +62,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouthwest 3 or 4, veering north or northwest 6 or 7, occasionally gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough, occasionally very rough later.\nWeather\nRain or showers, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:36 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNortheasterly gale force 8 expected soon, backing northerly and increasing severe gale force 9 later",
       "wind": "Southwest 3 or 4, veering north or northwest 6 or 7, occasionally gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough, occasionally very rough later.",
       "weather": "Rain or showers, perhaps thundery later.",
@@ -78,7 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nSouth or southwest, becoming cyclonic 4 or 5, increasing 6 to gale 8 later.\nSea state\nSlight or moderate, becoming rough or very rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:36 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNorthwesterly severe gale force 9 expected later",
       "wind": "South or southwest, becoming cyclonic 4 or 5, increasing 6 to gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough or very rough later.",
       "weather": "Rain or showers.",
@@ -86,7 +86,7 @@
     },
     "Humber": {
       "text": "Wind\nSouth or southwest 4 or 5, becoming cyclonic 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate becoming moderate or rough later, occasionally very rough later.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
       "wind": "South or southwest 4 or 5, becoming cyclonic 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate becoming moderate or rough later, occasionally very rough later.",
       "weather": "Showers, perhaps thundery.",
@@ -155,7 +155,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic, becoming west or northwest, 4 to 6, increasing 7 or gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nThundery rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNorthwesterly gale force 8 imminent",
       "wind": "Cyclonic, becoming west or northwest, 4 to 6, increasing 7 or gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Thundery rain or showers.",
@@ -203,6 +203,7 @@
     },
     "Malin": {
       "text": "Wind\nNorth 4 to 6.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 expected soon",
       "wind": "North 4 to 6.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Showers.",
@@ -240,7 +241,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly 4 to 6, increasing 7 or gale 8, becoming variable 3 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Fri 19 Sep 2025\nNortherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 continuing",
       "wind": "Northerly 4 to 6, increasing 7 or gale 8, becoming variable 3 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
