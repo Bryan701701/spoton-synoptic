@@ -35,7 +35,7 @@
       "x": 2795.325,
       "y": 857.9431818181818,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNortheasterly gale force 8 expected soon, backing northerly and increasing severe gale force 9 later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon"
     },
     {
       "name": "Dover",
@@ -44,7 +44,7 @@
       "x": 2729.4594530451577,
       "y": 1152.5698803239516,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 continuing"
     },
     {
       "name": "Faeroes",
@@ -53,7 +53,7 @@
       "x": 2182.8615621556096,
       "y": 438.6553311406299,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nGale now ceased, but northerly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nNorthwesterly gale force 8 continuing"
     },
     {
       "name": "Fair Isle",
@@ -116,7 +116,7 @@
       "x": 3088.104751794571,
       "y": 906.5732721462239,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon"
     },
     {
       "name": "Hebrides",
@@ -134,7 +134,7 @@
       "x": 2824.655930230702,
       "y": 966.2612355492694,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 imminent, veering northwesterly and increasing storm force 10 soon"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nNorthwesterly storm force 10 decreasing gale force 8 soon"
     },
     {
       "name": "Irish Sea",
@@ -142,8 +142,8 @@
       "lat": 53.5004243685001,
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n07:18 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 expected soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Lundy",
@@ -151,8 +151,8 @@
       "lat": 51.249351957500096,
       "x": 2357.7165366331938,
       "y": 1116.2022741047663,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Malin",
@@ -160,8 +160,8 @@
       "lat": 55.5690157085001,
       "x": 2142.388659287721,
       "y": 828.3555896063114,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 expected soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Plymouth",
@@ -178,8 +178,8 @@
       "lat": 49.61468528450005,
       "x": 2487.756562177697,
       "y": 1225.1305169510422,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nWesterly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Rockall",
@@ -196,8 +196,8 @@
       "lat": 51.762720115,
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Sole",
@@ -205,8 +205,8 @@
       "lat": 49.236251666499996,
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nGale force 8 veering northerly imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Southeast Iceland",
@@ -224,7 +224,7 @@
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nNorthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nGale now ceased but northwesterly gale force 8 expected later"
     },
     {
       "name": "Thames",
@@ -233,7 +233,7 @@
       "x": 2849.5258142282423,
       "y": 1066.9617177208152,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nSouthwesterly gale force 8 continuing"
     },
     {
       "name": "Tyne",
@@ -242,7 +242,7 @@
       "x": 2612.2737150516245,
       "y": 858.3295201966364,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nNortherly gale force 8 imminent, increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon"
     },
     {
       "name": "Viking",
@@ -251,7 +251,7 @@
       "x": 2799.435120669437,
       "y": 549.7492914222237,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n07:18 (UTC) on Sat 20 Sep 2025\nNorthwesterly gale force 8 imminent"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nGale now ceased but northwesterly gale force 8 expected soon"
     },
     {
       "name": "Wight",
@@ -259,8 +259,8 @@
       "lat": 50.093147651500104,
       "x": 2649.7913338640187,
       "y": 1193.2475246773113,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:38 (UTC) on Fri 19 Sep 2025\nWesterly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Biscay",
@@ -287,8 +287,8 @@
       "x": 2991.53299758165,
       "y": 533.0942827900454,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Sat 20 Sep 2025\nNorthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:48 (UTC) on Sat 20 Sep 2025\nGale now ceased but northwesterly gale force 8 expected later"
     }
   ],
-  "generated_utc": "2025-09-20T22:15:46Z"
+  "generated_utc": "2025-09-20T22:38:59Z"
 }
