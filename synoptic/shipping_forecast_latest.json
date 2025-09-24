@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-24T21:51:56Z",
+  "fetched_at": "2025-09-24T22:19:10Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 24 Sep 2025",
   "valid": "For the period 18:00 (UTC) on Wed 24 Sep 2025 to 18:00 (UTC) on Thu 25 Sep 2025",
   "general_synopsis": "Low 250 miles southwest of Iceland 994 expected just northwest of Iceland with little change by midday tomorrow. High southern Norway 1034, slow-moving with little change by same time",
@@ -169,6 +169,7 @@
     },
     "Shannon": {
       "text": "Wind\nSouth 4 or 5, increasing 6 or 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later in far northwest.\nWeather\nOccasional rain.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 or 5, increasing 6 or 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later in far northwest.",
       "weather": "Occasional rain.",
@@ -176,7 +177,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth 4 to 6, increasing 7 or gale 8.\nSea state\nRough, becoming very rough later in west.\nWeather\nRain and drizzle at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Wed 24 Sep 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutherly severe gale force 9 expected later",
       "wind": "South 4 to 6, increasing 7 or gale 8.",
       "sea_state": "Rough, becoming very rough later in west.",
       "weather": "Rain and drizzle at times.",
@@ -191,6 +192,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth 5 to 7.\nSea state\nRough, occasionally moderate in southeast.\nWeather\nMainly fair.\nVisibility\nGood, occasionally poor in west.",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "South 5 to 7.",
       "sea_state": "Rough, occasionally moderate in southeast.",
       "weather": "Mainly fair.",
@@ -198,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth 4 to 6, backing southeast 7 or gale 8 later.\nSea state\nRough.\nWeather\nRain or drizzle then showers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Wed 24 Sep 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutherly severe gale force 9 expected later",
       "wind": "South 4 to 6, backing southeast 7 or gale 8 later.",
       "sea_state": "Rough.",
       "weather": "Rain or drizzle then showers.",
@@ -213,6 +215,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouth 4 to 6.\nSea state\nModerate or rough.\nWeather\nOccasional rain and drizzle.\nVisibility\nModerate or poor, occasionally good.",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutheasterly gale force 8 expected later",
       "wind": "South 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain and drizzle.",
@@ -220,6 +223,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutherly, backing southeasterly, 5 to 7.\nSea state\nRough occasionally very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:12 (UTC) on Wed 24 Sep 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly, backing southeasterly, 5 to 7.",
       "sea_state": "Rough occasionally very rough.",
       "weather": "Rain or showers.",
