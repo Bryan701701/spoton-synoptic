@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-24T15:42:48Z",
+  "fetched_at": "2025-09-24T15:54:42Z",
   "issued": "Issued at: 10:30 (UTC) on Wed 24 Sep 2025",
   "valid": "For the period 12:00 (UTC) on Wed 24 Sep 2025 to 12:00 (UTC) on Thu 25 Sep 2025",
   "general_synopsis": "Low 400 miles southwest of Iceland 992 expected just west of Iceland with little change by 0600 Thursday. High southern Norway 1035 slow-moving with little change by same time",
@@ -176,6 +176,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth 5 to 7.\nSea state\nRough.\nWeather\nRain and drizzle at times.\nVisibility\nModerate or poor, occasionally good.",
+      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Wed 24 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "South 5 to 7.",
       "sea_state": "Rough.",
       "weather": "Rain and drizzle at times.",
@@ -197,6 +198,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth 4 to 6, occasionally 7 at first.\nSea state\nRough.\nWeather\nRain or drizzle then showers.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Wed 24 Sep 2025\nSoutheasterly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7 at first.",
       "sea_state": "Rough.",
       "weather": "Rain or drizzle then showers.",
