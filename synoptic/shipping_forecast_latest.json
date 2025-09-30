@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-09-30T15:52:07Z",
+  "fetched_at": "2025-09-30T16:26:55Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 30 Sep 2025",
   "valid": "For the period 12:00 (UTC) on Tue 30 Sep 2025 to 12:00 (UTC) on Wed 1 Oct 2025",
   "general_synopsis": "High london 1027 slow-moving, dissipating by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southeasterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southeasterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -205,6 +207,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later in far northeast.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Sep 2025\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later in far northeast.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -212,6 +215,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7, then veering southwesterly later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Sep 2025\nSoutheasterly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7, then veering southwesterly later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -219,6 +223,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7, then veering southwesterly later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers, perhaps thundery.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Sep 2025\nSoutheasterly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7, then veering southwesterly later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers, perhaps thundery.",
