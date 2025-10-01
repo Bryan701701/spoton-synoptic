@@ -16,3 +16,11 @@
 !tools/
 !tools/*.sh
 !tools/*.py
+
+# --- NEW: keep warehouse artifacts ---
+!warehouse/
+!warehouse/**/
+!warehouse/**/*.parquet
+!warehouse/**/*.csv
+!warehouse/**/*.json
+!warehouse/**/*.md
