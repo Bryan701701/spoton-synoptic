@@ -56,4 +56,26 @@ df = pd.read_parquet(
     "https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/warehouse/parquet/latest/shipping_forecast.parquet"
 )
 
+
+
+
+
+library(arrow)
+
+# Load the global daily dataset
+df <- read_parquet("https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/warehouse/parquet/latest/sf_global_daily.parquet")
+
+head(df)
+
+⚠️ Notes
+	•	Satellite source data © EUMETSAT. This repository republishes a derived PNG only.
+	•	Shipping Forecast © UK Met Office, Crown Copyright. This repository republishes parsed, machine-readable versions.
+	•	SpotOn warehouse datasets are provided as-is, with no warranty, for research, experimentation, and visualisation purposes.
+
+
+
+
+
+
+
 print(df.head())
