@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-02T03:30:12Z",
+  "fetched_at": "2025-10-02T03:47:57Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 1 Oct 2025",
   "valid": "For the period 00:00 (UTC) on Thu 2 Oct 2025 to 00:00 (UTC) on Fri 3 Oct 2025",
   "general_synopsis": "New low 1000 expected just west of Rockall by 1800 Thursday. New high expected west Trafalgar 1024 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 1 Oct 2025\nSoutherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 increasing severe gale force 9 later",
       "wind": "Southerly or southeasterly 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Occasional rain.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, perhaps severe gale 9.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 1 Oct 2025\nSoutherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 increasing severe gale force 9 later",
       "wind": "Southerly or southeasterly 6 to gale 8, perhaps severe gale 9.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Occasional rain.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Wed 1 Oct 2025\nSoutheasterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 continue",
       "wind": "Southerly or southeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -32,6 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSouth 4 to 6, occasionally 7, perhaps gale 8 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -39,6 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSouth 4 to 6, occasionally 7, perhaps gale 8 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -46,6 +48,7 @@
     },
     "Forth": {
       "text": "Wind\nSouth 4 to 6, occasionally 7, perhaps gale 8 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -53,6 +56,7 @@
     },
     "Tyne": {
       "text": "Wind\nSouth 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, occasionally rough later i.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, occasionally rough later i.",
       "weather": "Occasional rain.",
@@ -60,6 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouth 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, occasionally rough later i.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, occasionally rough later i.",
       "weather": "Occasional rain.",
@@ -81,6 +86,7 @@
     },
     "Humber": {
       "text": "Wind\nSouth or southeast 3 to 5, increasing 5 or 6 later.\nSea state\nSmooth or slight, becoming slight or moderate later.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:32 (UTC) on Thu 2 Oct 2025\nSoutherly gale force 8 expected later",
       "wind": "South or southeast 3 to 5, increasing 5 or 6 later.",
       "sea_state": "Smooth or slight, becoming slight or moderate later.",
       "weather": "Mainly fair.",
