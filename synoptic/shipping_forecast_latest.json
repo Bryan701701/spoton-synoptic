@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-05T15:17:56Z",
+  "fetched_at": "2025-10-05T15:52:02Z",
   "issued": "Issued at: 10:30 (UTC) on Sun 5 Oct 2025",
   "valid": "For the period 12:00 (UTC) on Sun 5 Oct 2025 to 12:00 (UTC) on Mon 6 Oct 2025",
   "general_synopsis": "Low North Utsire 970 expected Baltic sea 1001 by 0600 tomorrow. High west of FitzRoy 1030 expected Biscay 1029 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing westerly, then southwesterly later, 4 to 6.\nSea state\nVery rough or high becoming rough or very rough, then moderate or rough later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:42 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 6 to gale 8, backing westerly, then southwesterly later, 4 to 6.",
       "sea_state": "Very rough or high becoming rough or very rough, then moderate or rough later.",
       "weather": "Rain.",
@@ -24,7 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 7 to severe gale 9, backing westerly 4 or 5 later.\nSea state\nVery rough or high, becoming moderate or rough later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Sat 4 Oct 2025\nGale force 8 now veered westerly, veering northwesterly and increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 7 to severe gale 9, backing westerly 4 or 5 later.",
       "sea_state": "Very rough or high, becoming moderate or rough later.",
       "weather": "Rain.",
@@ -40,7 +39,6 @@
     },
     "Cromarty": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 4 to 6.\nSea state\nRough or very rough, becoming moderate later.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:42 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest 6 to gale 8, backing southwest 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate later.",
       "weather": "Occasional rain.",
@@ -70,7 +68,7 @@
     },
     "Fisher": {
       "text": "Wind\nWest or northwest 7 to severe gale 9, decreasing 4 to 6 later.\nSea state\nVery rough or high, becoming moderate or rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sat 4 Oct 2025\nNorthwesterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "West or northwest 7 to severe gale 9, decreasing 4 to 6 later.",
       "sea_state": "Very rough or high, becoming moderate or rough later.",
       "weather": "Showers, rain later.",
@@ -78,7 +76,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest or northwest 7 to severe gale 9, decreasing 4 to 6 later.\nSea state\nVery rough or high, becoming moderate or rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Sat 4 Oct 2025\nGale force 8 veering northwesterly and increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "West or northwest 7 to severe gale 9, decreasing 4 to 6 later.",
       "sea_state": "Very rough or high, becoming moderate or rough later.",
       "weather": "Showers, rain later.",
@@ -86,7 +84,6 @@
     },
     "Humber": {
       "text": "Wind\nNorthwest 6 to gale 8, backing west 4 to 6.\nSea state\nRough or very rough, becoming moderate later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Sat 4 Oct 2025\nSevere gale force 9 veering northwesterly and decreasing gale force 8 imminent",
       "wind": "Northwest 6 to gale 8, backing west 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate later.",
       "weather": "Showers.",
@@ -193,6 +190,7 @@
     },
     "Malin": {
       "text": "Wind\nWest 4 to 6, backing southwest 5 to 7.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "West 4 to 6, backing southwest 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -200,6 +198,7 @@
     },
     "Hebrides": {
       "text": "Wind\nWest 4 to 6, backing southwest 5 to 7.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "West 4 to 6, backing southwest 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -215,7 +214,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing southwesterly 4 to 6, then occasionally 7 later.\nSea state\nRough or very rough, occasionally high at first in southeast, becoming moderate or rough later in southeast.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:42 (UTC) on Sun 5 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nGale now ceased, but southwesterly gale force 8 expected later",
       "wind": "Northwesterly 6 to gale 8, backing southwesterly 4 to 6, then occasionally 7 later.",
       "sea_state": "Rough or very rough, occasionally high at first in southeast, becoming moderate or rough later in southeast.",
       "weather": "Occasional rain.",
@@ -223,6 +222,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouthwesterly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sun 5 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
