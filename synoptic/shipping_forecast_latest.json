@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-09T09:52:41Z",
+  "fetched_at": "2025-10-09T10:23:06Z",
   "issued": "Issued at: 04:05 (UTC) on Thu 9 Oct 2025",
   "valid": "For the period 06:00 (UTC) on Thu 9 Oct 2025 to 06:00 (UTC) on Fri 10 Oct 2025",
   "general_synopsis": "High 100 miles west of Shannon 1032 expected south Shannon 1035 by midnight tonight. New low expected north Iceland 993 by same time",
@@ -23,6 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSouthwesterly, veering westerly or northwesterly, 5 to 7.\nSea state\nModerate at first, otherwise rough or very rough.\nWeather\nOccasional rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 9 Oct 2025\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwesterly, veering westerly or northwesterly, 5 to 7.",
       "sea_state": "Moderate at first, otherwise rough or very rough.",
       "weather": "Occasional rain or showers.",
@@ -65,6 +66,7 @@
     },
     "Fisher": {
       "text": "Wind\nWesterly, veering northwesterly, 4 to 6, increasing 7 in northeast.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 9 Oct 2025\nNorthwesterly gale force 8 expected soon",
       "wind": "Westerly, veering northwesterly, 4 to 6, increasing 7 in northeast.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -198,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nWest, backing southwest, 6 to gale 8.\nSea state\nVery rough, occasionally high at first in north.\nWeather\nFair then occasional rain.\nVisibility\nGood becoming moderate, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 8 Oct 2025\nWesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 9 Oct 2025\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "West, backing southwest, 6 to gale 8.",
       "sea_state": "Very rough, occasionally high at first in north.",
       "weather": "Fair then occasional rain.",
@@ -206,7 +208,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nWest 6 to gale 8.\nSea state\nVery rough, but moderate or rough in far southeast.\nWeather\nShowers, rain later.\nVisibility\nGood, becoming moderate or poor later.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 8 Oct 2025\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 9 Oct 2025\nWesterly gale force 8 continuing",
       "wind": "West 6 to gale 8.",
       "sea_state": "Very rough, but moderate or rough in far southeast.",
       "weather": "Showers, rain later.",
