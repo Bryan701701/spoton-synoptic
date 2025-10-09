@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-09T03:33:12Z",
+  "fetched_at": "2025-10-09T03:53:47Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 8 Oct 2025",
   "valid": "For the period 00:00 (UTC) on Thu 9 Oct 2025 to 00:00 (UTC) on Fri 10 Oct 2025",
   "general_synopsis": "High 250 miles west of Sole 1031 expected south Shannon 1034 by 1800 Thursday. New low expected just northwest of Iceland 992 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nSouthwesterly, veering westerly or northwesterly, 5 to 7.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Thu 9 Oct 2025\nWesterly gale force 8 imminent",
       "wind": "Southwesterly, veering westerly or northwesterly, 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -213,7 +214,7 @@
     },
     "Faeroes": {
       "text": "Wind\nWesterly 6 to gale 8, occasionally severe gale 9 at first in north.\nSea state\nRough or very rough, occasionally high in north.\nWeather\nShowers, rain later.\nVisibility\nGood, becoming moderate or poor later.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Wed 8 Oct 2025\nWesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Thu 9 Oct 2025\nWesterly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "Westerly 6 to gale 8, occasionally severe gale 9 at first in north.",
       "sea_state": "Rough or very rough, occasionally high in north.",
       "weather": "Showers, rain later.",
@@ -221,7 +222,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly or southwesterly 7 to severe gale 9, occasionally storm 10 at first.\nSea state\nHigh becoming very rough, occasionally rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, becoming moderate or poor later.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 8 Oct 2025\nWesterly gale force 8 expected imminent, increasing storm force 10 soon, then decreasing gale force 8 later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Thu 9 Oct 2025\nWesterly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "Westerly or southwesterly 7 to severe gale 9, occasionally storm 10 at first.",
       "sea_state": "High becoming very rough, occasionally rough later.",
       "weather": "Showers, rain later.",
