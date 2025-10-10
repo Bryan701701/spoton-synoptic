@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-10T09:52:19Z",
+  "fetched_at": "2025-10-10T10:22:46Z",
   "issued": "Issued at: 04:05 (UTC) on Fri 10 Oct 2025",
   "valid": "For the period 06:00 (UTC) on Fri 10 Oct 2025 to 06:00 (UTC) on Sat 11 Oct 2025",
   "general_synopsis": "High Shannon 1035 expected Fastnet with little change by midnight tonight",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 5 to 7, perhaps gale 8 later.\nSea state\nRough occasionally very rough.\nWeather\nRain at times.\nVisibility\nModerate occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Fri 10 Oct 2025\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough occasionally very rough.",
       "weather": "Rain at times.",
@@ -64,6 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwesterly 5 to 7, perhaps gale 8 later in northeast.\nSea state\nModerate or rough, occasionally very rough later in northeast.\nWeather\nMainly fair.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Fri 10 Oct 2025\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 5 to 7, perhaps gale 8 later in northeast.",
       "sea_state": "Moderate or rough, occasionally very rough later in northeast.",
       "weather": "Mainly fair.",
@@ -197,7 +199,6 @@
     },
     "Bailey": {
       "text": "Wind\nWesterly 6 or 7, occasionally gale 8 at first in north, backing southwesterly 4 to 6.\nSea state\nVery rough becoming rough, occasionally moderate later.\nWeather\nOccasional rain and drizzle.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 9 Oct 2025\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "Westerly 6 or 7, occasionally gale 8 at first in north, backing southwesterly 4 to 6.",
       "sea_state": "Very rough becoming rough, occasionally moderate later.",
       "weather": "Occasional rain and drizzle.",
@@ -221,7 +222,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly 6 to gale 8, backing southwesterly 4 to 6.\nSea state\nVery rough becoming rough.\nWeather\nRain at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Thu 9 Oct 2025\nWesterly gale force 8 continuing",
       "wind": "Westerly 6 to gale 8, backing southwesterly 4 to 6.",
       "sea_state": "Very rough becoming rough.",
       "weather": "Rain at times.",
