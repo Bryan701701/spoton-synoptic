@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-19T15:52:01Z",
+  "fetched_at": "2025-10-19T16:23:31Z",
   "issued": "Issued at: 10:30 (UTC) on Sun 19 Oct 2025",
   "valid": "For the period 12:00 (UTC) on Sun 19 Oct 2025 to 12:00 (UTC) on Mon 20 Oct 2025",
   "general_synopsis": "Atlantic low 974 expected Fastnet 980 by 0600 tomorrow",
@@ -103,6 +103,7 @@
     },
     "Wight": {
       "text": "Wind\nSoutheast veering south or southwest, 5 to 7 perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate, occasionally rough later.\nWeather\nSqually rain for a time.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sun 19 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southeast veering south or southwest, 5 to 7 perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate, occasionally rough later.",
       "weather": "Squally rain for a time.",
@@ -110,7 +111,7 @@
     },
     "Portland": {
       "text": "Wind\nSoutherly 5 to 7, occasionally gale 8 at first, veering southwest 3 to 5, increasing 6 to gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nSqually rain, then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sat 18 Oct 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sun 19 Oct 2025\nGale now ceased but southwesterly gale force 8 expected later",
       "wind": "Southerly 5 to 7, occasionally gale 8 at first, veering southwest 3 to 5, increasing 6 to gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Squally rain, then showers.",
@@ -173,7 +174,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheast 6 to gale 8, veering southwest 4 to 6, becoming cyclonic 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate later.\nWeather\nSqually rain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8, veering southwest 4 to 6, becoming cyclonic 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate later.",
       "weather": "Squally rain, then showers.",
@@ -196,7 +196,6 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 3 to 5.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 3 to 5.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -219,6 +218,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutheasterly 4 to 6, backing easterly 5 to 7 perhaps gale 8 later in east.\nSea state\nModerate or rough becoming very rough later in southeast.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sun 19 Oct 2025\nEasterly gale force 8 expected later",
       "wind": "Southeasterly 4 to 6, backing easterly 5 to 7 perhaps gale 8 later in east.",
       "sea_state": "Moderate or rough becoming very rough later in southeast.",
       "weather": "Rain.",
