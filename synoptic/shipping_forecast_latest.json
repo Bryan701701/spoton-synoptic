@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-20T03:17:15Z",
+  "fetched_at": "2025-10-20T03:59:06Z",
   "issued": "Issued at: 23:15 (UTC) on Sun 19 Oct 2025",
   "valid": "For the period 00:00 (UTC) on Mon 20 Oct 2025 to 00:00 (UTC) on Tue 21 Oct 2025",
   "general_synopsis": "Low Shannon 980 expected southern England 985 by 1800 Monday",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 until later.\nSea state\nModerate or rough occasionally very rough for a time.\nWeather\nShowers, then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Moderate or rough occasionally very rough for a time.",
       "weather": "Showers, then rain.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 until later.\nSea state\nModerate or rough occasionally very rough for a time.\nWeather\nShowers, then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Moderate or rough occasionally very rough for a time.",
       "weather": "Showers, then rain.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 until later.\nSea state\nModerate or rough occasionally very rough for a time.\nWeather\nShowers, then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Moderate or rough occasionally very rough for a time.",
       "weather": "Showers, then rain.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 until later.\nSea state\nModerate or rough occasionally very rough for a time.\nWeather\nShowers, then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Moderate or rough occasionally very rough for a time.",
       "weather": "Showers, then rain.",
@@ -89,6 +89,7 @@
     },
     "Thames": {
       "text": "Wind\nSoutheast veering southwest, 5 to 7 occasionally gale 8 later.\nSea state\nMainly moderate, occasionally rough.\nWeather\nSqually showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "Southeast veering southwest, 5 to 7 occasionally gale 8 later.",
       "sea_state": "Mainly moderate, occasionally rough.",
       "weather": "Squally showers.",
@@ -96,6 +97,7 @@
     },
     "Dover": {
       "text": "Wind\nSoutheast veering southwest, 5 to 7 occasionally gale 8 later.\nSea state\nMainly moderate, occasionally rough.\nWeather\nSqually showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "Southeast veering southwest, 5 to 7 occasionally gale 8 later.",
       "sea_state": "Mainly moderate, occasionally rough.",
       "weather": "Squally showers.",
@@ -127,7 +129,7 @@
     },
     "Biscay": {
       "text": "Wind\nSouthwest, 5 to 7, occasionally gale 8 until later.\nSea state\nModerate or rough, becoming rough or very rough for a time.\nWeather\nSqually showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwest, 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Moderate or rough, becoming rough or very rough for a time.",
       "weather": "Squally showers.",
@@ -142,7 +144,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn south, southwesterly, 4 to 6, occasionally 7 in north. In north, mainly westerly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nIn south, moderate in south, but rough, occasionally very rough for a time in north. in north, very rough or high, becoming moderate or rough later.\nWeather\nIn south, showers . In north, squally showers.\nVisibility\nIn south, good. In north, good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 19 Oct 2025\nGale now ceased but westerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nWesterly gale force 8 continuing",
       "wind": "In south, southwesterly, 4 to 6, occasionally 7 in north. In north, mainly westerly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "In south, moderate in south, but rough, occasionally very rough for a time in north. in north, very rough or high, becoming moderate or rough later.",
       "weather": "In south, showers . In north, squally showers.",
@@ -189,6 +191,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, occasionally very rough for a time in north.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Mon 20 Oct 2025\nNortherly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, occasionally very rough for a time in north.",
       "weather": "Rain or showers.",
