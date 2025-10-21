@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-21T15:42:05Z",
+  "fetched_at": "2025-10-21T15:57:34Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 21 Oct 2025",
   "valid": "For the period 12:00 (UTC) on Tue 21 Oct 2025 to 12:00 (UTC) on Wed 22 Oct 2025",
   "general_synopsis": "Low Hebrides 980 expected Faeroes 973 by 0600 tomorrow",
@@ -120,6 +120,7 @@
     },
     "Biscay": {
       "text": "Wind\nWesterly or southwesterly, becoming cyclonic in north, 5 to 7.\nSea state\nModerate or rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 21 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Westerly or southwesterly, becoming cyclonic in north, 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or thundery showers.",
@@ -134,6 +135,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWesterly or southwesterly, becoming cyclonic in north, 5 to 7.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 21 Oct 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Westerly or southwesterly, becoming cyclonic in north, 5 to 7.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Rain or thundery showers.",
@@ -198,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 6 to gale 8, increasing severe gale 9 later in north, perhaps storm 10 later in north.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Tue 21 Oct 2025\nNortherly gale force 8 increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 21 Oct 2025\nNortherly gale force 8 increasing severe gale force 9 soon, increasing storm force 10 later",
       "wind": "Cyclonic 6 to gale 8, increasing severe gale 9 later in north, perhaps storm 10 later in north.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain or showers.",
@@ -214,7 +216,7 @@
     },
     "Faeroes": {
       "text": "Wind\nIn east, cyclonic, mainly westerly later, 3 to 5, increasing 6 to gale 8. In west, cyclonic 7 to severe gale 9.\nSea state\nIn east, rough or very rough. in west, very rough or high.\nWeather\nIn east, occasional rain, fog patches. In west, rain.\nVisibility\nIn east, moderate or good, occasionally very poor. In west, moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Mon 20 Oct 2025\nNortheasterly gale force 8 increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 21 Oct 2025\nSevere gale force 9 backing northwesterly soon",
       "wind": "In east, cyclonic, mainly westerly later, 3 to 5, increasing 6 to gale 8. In west, cyclonic 7 to severe gale 9.",
       "sea_state": "In east, rough or very rough. in west, very rough or high.",
       "weather": "In east, occasional rain, fog patches. In west, rain.",
@@ -222,7 +224,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly or northeasterly 7 or gale 8, increasing gale 8 to storm 10, perhaps violent storm 11 later.\nSea state\nVery rough or high, becoming high or very high later.\nWeather\nRain, wintry showers in north.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Tue 21 Oct 2025\nNortheasterly gale force 8 increasing severe gale force 9 soon, increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 21 Oct 2025\nNortheasterly severe gale force 9 increasing storm force 10 imminent, increasing violent storm force 11 later",
       "wind": "Northerly or northeasterly 7 or gale 8, increasing gale 8 to storm 10, perhaps violent storm 11 later.",
       "sea_state": "Very rough or high, becoming high or very high later.",
       "weather": "Rain, wintry showers in north.",
