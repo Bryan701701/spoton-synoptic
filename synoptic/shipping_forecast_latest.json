@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-22T16:52:23Z",
+  "fetched_at": "2025-10-22T17:19:42Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 22 Oct 2025",
   "valid": "For the period 18:00 (UTC) on Wed 22 Oct 2025 to 18:00 (UTC) on Thu 23 Oct 2025",
   "general_synopsis": "Low Faeroes 972 expected Bailey 981 by midday tomorrow. Low FitzRoy 990 expected Thames 971 by same time",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nVariable 2 to 4, becoming easterly 4 or 5, backing northerly or northeasterly 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n16:58 (UTC) on Wed 22 Oct 2025\nNortheasterly gale 8 expected later",
       "wind": "Variable 2 to 4, becoming easterly 4 or 5, backing northerly or northeasterly 6 to gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -29,6 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nVariable 2 to 4, becoming easterly 4 or 5, backing northerly or northeasterly 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n16:58 (UTC) on Wed 22 Oct 2025\nNortherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming easterly 4 or 5, backing northerly or northeasterly 6 to gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -90,7 +92,7 @@
     },
     "Thames": {
       "text": "Wind\nSouth 2 to 4, becoming cyclonic 6 to gale 8, then northwest 7 to severe gale 9 later.\nSea state\nSlight, occasionally moderate at first, becoming moderate or rough.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nSoutheasterly gale force 8 expected south, veering northwesterly severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n17:08 (UTC) on Wed 22 Oct 2025\nSoutheasterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
       "wind": "South 2 to 4, becoming cyclonic 6 to gale 8, then northwest 7 to severe gale 9 later.",
       "sea_state": "Slight, occasionally moderate at first, becoming moderate or rough.",
       "weather": "Rain at times.",
