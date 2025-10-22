@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-22T18:56:58Z",
+  "fetched_at": "2025-10-22T19:18:50Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 22 Oct 2025",
   "valid": "For the period 18:00 (UTC) on Wed 22 Oct 2025 to 18:00 (UTC) on Thu 23 Oct 2025",
   "general_synopsis": "Low Faeroes 972 expected Bailey 981 by midday tomorrow. Low FitzRoy 990 expected Thames 971 by same time",
@@ -59,9 +59,9 @@
       "visibility": "Good, occasionally poor."
     },
     "Dogger": {
-      "text": "Wind\nWest backing southeast 3 to 5, becoming cyclonic 6 to gale 8, increasing severe gale 9 at times.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nWest backing southeast 3 to 5, becoming cyclonic 6 to gale 8, occasionally severe gale 9.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
       "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
-      "wind": "West backing southeast 3 to 5, becoming cyclonic 6 to gale 8, increasing severe gale 9 at times.",
+      "wind": "West backing southeast 3 to 5, becoming cyclonic 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain at times.",
       "visibility": "Good, occasionally poor."
@@ -83,9 +83,9 @@
       "visibility": "Good, occasionally poor."
     },
     "Humber": {
-      "text": "Wind\nWest backing southeast 3 to 5, becoming cyclonic 6 to gale 8, increasing severe gale 9 at times.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nWest backing southeast 3 to 5, becoming cyclonic 6 to gale 8, occasionally severe gale 9.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
       "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
-      "wind": "West backing southeast 3 to 5, becoming cyclonic 6 to gale 8, increasing severe gale 9 at times.",
+      "wind": "West backing southeast 3 to 5, becoming cyclonic 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain at times.",
       "visibility": "Good, occasionally poor."
@@ -154,9 +154,9 @@
       "visibility": "Good, occasionally poor."
     },
     "Sole": {
-      "text": "Wind\nSouthwest veering northwest 7 to severe gale 9, occasionally storm 10 at first.\nSea state\nRough or very rough, occasionally moderate at first, becoming very rough or high.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nSouthwest veering northwest 7 to severe gale 9.\nSea state\nRough or very rough, occasionally moderate at first, becoming very rough or high.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
       "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
-      "wind": "Southwest veering northwest 7 to severe gale 9, occasionally storm 10 at first.",
+      "wind": "Southwest veering northwest 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally moderate at first, becoming very rough or high.",
       "weather": "Thundery showers.",
       "visibility": "Good, occasionally poor."
@@ -184,17 +184,17 @@
       "visibility": "Good, occasionally poor."
     },
     "Shannon": {
-      "text": "Wind\nNorthwest 6 to gale 8, increasing severe gale 9 at times.\nSea state\nModerate at first in east, otherwise rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nNorthwest 6 to gale 8, occasionally severe gale 9 except.\nSea state\nModerate at first in east, otherwise rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
       "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
-      "wind": "Northwest 6 to gale 8, increasing severe gale 9 at times.",
+      "wind": "Northwest 6 to gale 8, occasionally severe gale 9 except.",
       "sea_state": "Moderate at first in east, otherwise rough, becoming very rough, occasionally high later.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
     },
     "Rockall": {
-      "text": "Wind\nNorthwest 6 to gale 8, increasing severe gale 9 at times.\nSea state\nModerate at first in east, otherwise rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nNorthwest 6 to gale 8, occasionally severe gale 9 except.\nSea state\nModerate at first in east, otherwise rough, becoming very rough, occasionally high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
       "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
-      "wind": "Northwest 6 to gale 8, increasing severe gale 9 at times.",
+      "wind": "Northwest 6 to gale 8, occasionally severe gale 9 except.",
       "sea_state": "Moderate at first in east, otherwise rough, becoming very rough, occasionally high later.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
@@ -232,9 +232,9 @@
       "visibility": "Good."
     },
     "Faeroes": {
-      "text": "Wind\nCyclonic 6 to gale 8, increasing severe gale 9 at times, becoming northeast 4 to 6 later.\nSea state\nRough or very rough, occasionally high in west.\nWeather\nShowers.\nVisibility\nGood.",
+      "text": "Wind\nCyclonic 6 to gale 8, occasionally severe gale 9, becoming northeast 4 to 6 later.\nSea state\nRough or very rough, occasionally high in west.\nWeather\nShowers.\nVisibility\nGood.",
       "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Wed 22 Oct 2025\nSevere gale force 9 backing southwesterly imminent",
-      "wind": "Cyclonic 6 to gale 8, increasing severe gale 9 at times, becoming northeast 4 to 6 later.",
+      "wind": "Cyclonic 6 to gale 8, occasionally severe gale 9, becoming northeast 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally high in west.",
       "weather": "Showers.",
       "visibility": "Good."
