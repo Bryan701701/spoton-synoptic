@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-23T15:52:51Z",
+  "fetched_at": "2025-10-23T16:28:03Z",
   "issued": "Issued at: 10:30 (UTC) on Thu 23 Oct 2025",
   "valid": "For the period 12:00 (UTC) on Thu 23 Oct 2025 to 12:00 (UTC) on Fri 24 Oct 2025",
   "general_synopsis": "Low Thames 973 expected German Bight 976 by 0600 tomorrow. Low Bailey 979 expected Ireland 991 by same time",
@@ -23,7 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNortheasterly 4 to 6, increasing 6 to gale 8 for a time.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n16:58 (UTC) on Wed 22 Oct 2025\nNortheasterly gale 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 4 to 6, increasing 6 to gale 8 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -55,7 +55,7 @@
     },
     "Tyne": {
       "text": "Wind\nCyclonic 6 to gale 8.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNorthwesterly gale force 8 continuing",
       "wind": "Cyclonic 6 to gale 8.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain.",
@@ -63,7 +63,7 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic 6 to gale 8, occasionally severe gale 9.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNorthwesterly severe gale force 9 continuing",
       "wind": "Cyclonic 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain.",
@@ -71,7 +71,7 @@
     },
     "Fisher": {
       "text": "Wind\nCyclonic 6 to gale 8.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nEasterly gale 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nGale force 8 now backed northeasterly",
       "wind": "Cyclonic 6 to gale 8.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain.",
@@ -87,7 +87,7 @@
     },
     "Humber": {
       "text": "Wind\nCyclonic 6 to gale 8, occasionally severe gale 9, perhaps storm 10 later.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNorthwesterly severe gale force 9 continuing",
       "wind": "Cyclonic 6 to gale 8, occasionally severe gale 9, perhaps storm 10 later.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain.",
@@ -95,7 +95,7 @@
     },
     "Thames": {
       "text": "Wind\nCyclonic becoming west or northwest, 7 to severe gale 9, occasionally storm 10 at first.\nSea state\nRough or very rough occasionally moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 23 Oct 2025\nSouthwesterly gale force 8 veering and increasing northwesterly storm force 10 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNorthwesterly storm force 10 now decreased severe gale force 9",
       "wind": "Cyclonic becoming west or northwest, 7 to severe gale 9, occasionally storm 10 at first.",
       "sea_state": "Rough or very rough occasionally moderate.",
       "weather": "Rain.",
@@ -111,7 +111,7 @@
     },
     "Wight": {
       "text": "Wind\nNorthwest 6 to gale 8, occasionally severe gale 9, backing west 5 to 7.\nSea state\nModerate or rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Thu 23 Oct 2025\nNorthwesterly storm force 10 now decreased severe gale force 9",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest 6 to gale 8, occasionally severe gale 9, backing west 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally showers.",
@@ -150,7 +150,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn south, cyclonic 4 to 6. In north, northwesterly 5 to 7, occasionally gale 8 at first.\nSea state\nIn south, rough or very rough. in north, rough or very rough, occasionally high at first in far east.\nWeather\nShowers.\nVisibility\nIn south, moderate or good. In north, good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 23 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "In south, cyclonic 4 to 6. In north, northwesterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "In south, rough or very rough. in north, rough or very rough, occasionally high at first in far east.",
       "weather": "Showers.",
@@ -158,7 +157,7 @@
     },
     "Sole": {
       "text": "Wind\nNorthwesterly 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough, occasionally high at first in far east.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Wed 22 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nGale now ceased but westerly gale force 8 expected later",
       "wind": "Northwesterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough, occasionally high at first in far east.",
       "weather": "Showers.",
@@ -166,7 +165,7 @@
     },
     "Lundy": {
       "text": "Wind\nWest or northwest 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Wed 22 Oct 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nGale now ceased but westerly gale force 8 expected later",
       "wind": "West or northwest 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Showers.",
@@ -174,7 +173,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWest or northwest 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Wed 22 Oct 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 23 Oct 2025\nGale now ceased but westerly gale force 8 expected later",
       "wind": "West or northwest 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Showers.",
@@ -182,7 +181,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nWest or northwest 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Wed 22 Oct 2025\nNorthwesterly gale force 8 expected soon",
       "wind": "West or northwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
