@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-25T21:51:31Z",
+  "fetched_at": "2025-10-25T22:18:31Z",
   "issued": "Issued at: 16:25 (UTC) on Sat 25 Oct 2025",
   "valid": "For the period 18:00 (UTC) on Sat 25 Oct 2025 to 18:00 (UTC) on Sun 26 Oct 2025",
   "general_synopsis": "Low Fisher 981 expected Denmark 983 by midday tomorrow. New low expected Bailey 992 by same time",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nCyclonic 4 or 5, becoming northwesterly 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 or 5, becoming northwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -23,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nCyclonic 4 or 5, becoming northwesterly 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 or 5, becoming northwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -102,6 +104,7 @@
     },
     "Dover": {
       "text": "Wind\nNorthwest 5 to 7.\nSea state\nModerate, occasionally rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nWesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7.",
       "sea_state": "Moderate, occasionally rough.",
       "weather": "Showers.",
@@ -109,6 +112,7 @@
     },
     "Wight": {
       "text": "Wind\nNorthwest 5 to 7.\nSea state\nModerate, occasionally rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nWesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7.",
       "sea_state": "Moderate, occasionally rough.",
       "weather": "Showers.",
@@ -116,6 +120,7 @@
     },
     "Portland": {
       "text": "Wind\nNorthwest 5 to 7.\nSea state\nModerate, occasionally rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nWesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7.",
       "sea_state": "Moderate, occasionally rough.",
       "weather": "Showers.",
@@ -123,6 +128,7 @@
     },
     "Plymouth": {
       "text": "Wind\nNorthwest 5 to 7.\nSea state\nModerate, occasionally rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nWesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7.",
       "sea_state": "Moderate, occasionally rough.",
       "weather": "Showers.",
@@ -158,7 +164,7 @@
     },
     "Lundy": {
       "text": "Wind\nNorthwest 5 to 7, occasionally gale 8 at first, and perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nGale now ceased, but northwesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7, occasionally gale 8 at first, and perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -166,6 +172,7 @@
     },
     "Fastnet": {
       "text": "Wind\nNorthwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -173,7 +180,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nNorthwest 5 to 7, occasionally gale 8 at first, and perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nGale now ceased, but northwesterly gale force 8 expected later",
       "wind": "Northwest 5 to 7, occasionally gale 8 at first, and perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -181,6 +188,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or northwest 5 to 7.\nSea state\nRough.\nWeather\nShowers, rain later.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sat 25 Oct 2025\nNorthwesterly gale force 8 expected later",
       "wind": "West or northwest 5 to 7.",
       "sea_state": "Rough.",
       "weather": "Showers, rain later.",
@@ -228,7 +236,6 @@
     },
     "Faeroes": {
       "text": "Wind\nNorth or northwest 6 to gale 8, becoming cyclonic 3 to 5, then northeast 4 to 6 later.\nSea state\nRough or very rough becoming moderate or rough later.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sat 25 Oct 2025\nNortherly gale force 8 continuing",
       "wind": "North or northwest 6 to gale 8, becoming cyclonic 3 to 5, then northeast 4 to 6 later.",
       "sea_state": "Rough or very rough becoming moderate or rough later.",
       "weather": "Wintry showers.",
