@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-27T03:21:47Z",
+  "fetched_at": "2025-10-27T04:03:31Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 26 Oct 2025",
   "valid": "For the period 00:00 (UTC) on Mon 27 Oct 2025 to 00:00 (UTC) on Tue 28 Oct 2025",
   "general_synopsis": "Low Hebrides 991 moving rather quickly southeast and losing its identity",
@@ -62,7 +62,7 @@
     },
     "Dogger": {
       "text": "Wind\nWest or northwest 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Sun 26 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nNorthwesterly gale force 8 continuing",
       "wind": "West or northwest 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain or thundery showers.",
@@ -78,7 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest or northwest 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Sun 26 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nNorthwesterly gale force 8 continuing",
       "wind": "West or northwest 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain or thundery showers.",
@@ -86,7 +86,7 @@
     },
     "Humber": {
       "text": "Wind\nWest or northwest 6 to gale 8, decreasing 4 to 6 later.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Sun 26 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nNorthwesterly gale force 8 continuing",
       "wind": "West or northwest 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain or thundery showers.",
@@ -126,7 +126,6 @@
     },
     "Plymouth": {
       "text": "Wind\nWest or southwest 6 or 7 occasionally gale 8 at first, veering northwest 4 or 5 for a time.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Sun 26 Oct 2025\nWesterly gale force 8 continuing",
       "wind": "West or southwest 6 or 7 occasionally gale 8 at first, veering northwest 4 or 5 for a time.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Rain or showers.",
@@ -193,7 +192,7 @@
     },
     "Rockall": {
       "text": "Wind\nNorthwest 6 to gale 8, decreasing 4 to 6, backing west 6 to gale 8 later.\nSea state\nRough or very rough occasionally high later.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Sun 26 Oct 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nGale now ceased but westerly gale force 8 expected soon",
       "wind": "Northwest 6 to gale 8, decreasing 4 to 6, backing west 6 to gale 8 later.",
       "sea_state": "Rough or very rough occasionally high later.",
       "weather": "Rain or squally showers.",
@@ -216,6 +215,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorthwest veering east later, 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough occasionally moderate later in north.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nEasterly gale force 8 expected later",
       "wind": "Northwest veering east later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough occasionally moderate later in north.",
       "weather": "Rain or squally showers.",
