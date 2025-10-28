@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-28T22:20:50Z",
+  "fetched_at": "2025-10-28T22:53:41Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 28 Oct 2025",
   "valid": "For the period 18:00 (UTC) on Tue 28 Oct 2025 to 18:00 (UTC) on Wed 29 Oct 2025",
   "general_synopsis": "Low just west of Rockall 986 expected Malin 988 by midday tomorrow. Lows Cromarty 991 and FitzRoy 1006 losing their identities",
@@ -57,7 +57,6 @@
     },
     "Dogger": {
       "text": "Wind\nWest 5 to 7, occasionally gale 8 at first, backing southwest 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:38 (UTC) on Tue 28 Oct 2025\nWesterly gale force 8 continuing",
       "wind": "West 5 to 7, occasionally gale 8 at first, backing southwest 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -72,7 +71,6 @@
     },
     "German Bight": {
       "text": "Wind\nWest backing southwest, 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nGale force 8 backing westerly imminent",
       "wind": "West backing southwest, 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Rain or showers.",
@@ -128,8 +126,8 @@
       "visibility": "Good, occasionally poor."
     },
     "Trafalgar": {
-      "text": "Wind\nEasterly or southeasterly becoming cyclonic 2 to 4 in north, otherwise southeasterly veering southwesterly 3 to 5 increasing 5 to 7 perhaps gale 8 later in southwest.\nSea state\nSligh tor moderate becoming rough or very rough later in southwest.\nWeather\nThundery showers.\nVisibility\nGood occasionally poor.",
-      "wind": "Easterly or southeasterly becoming cyclonic 2 to 4 in north, otherwise southeasterly veering southwesterly 3 to 5 increasing 5 to 7 perhaps gale 8 later in southwest.",
+      "text": "c 2 to 4 in north, otherwise southeasterly veering southwesterly 3 to 5 increasing 5 to 7 perhaps gale 8 later in southwest.\nSea state\nSligh tor moderate becoming rough or very rough later in southwest.\nWeather\nThundery showers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:34 (UTC) on Tue 28 Oct 2025\nSouthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Tue 28 Oct 2025",
       "sea_state": "Sligh tor moderate becoming rough or very rough later in southwest.",
       "weather": "Thundery showers.",
       "visibility": "Good occasionally poor."
@@ -178,7 +176,7 @@
     },
     "Rockall": {
       "text": "Wind\nWesterly becoming cyclonic, 6 to gale 8, occasionally severe gale 9, then becoming northwesterly 4 to 6 later.\nSea state\nRough or very rough, increasing high for a time in south.\nWeather\nRain or squally showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nWesterly severe gale force 9 decreasing gale force 8 imminent, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n22:34 (UTC) on Tue 28 Oct 2025\nWesterly severe gale force 9 decreasing gale force 8 imminent and veering northwesterly soon",
       "wind": "Westerly becoming cyclonic, 6 to gale 8, occasionally severe gale 9, then becoming northwesterly 4 to 6 later.",
       "sea_state": "Rough or very rough, increasing high for a time in south.",
       "weather": "Rain or squally showers.",
