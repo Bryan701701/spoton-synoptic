@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-28T03:45:17Z",
+  "fetched_at": "2025-10-28T04:25:43Z",
   "issued": "Issued at: 23:30 (UTC) on Mon 27 Oct 2025",
   "valid": "For the period 00:00 (UTC) on Tue 28 Oct 2025 to 00:00 (UTC) on Wed 29 Oct 2025",
   "general_synopsis": "Low 150 miles west of Bailey 989 expected 50 miles west of Bailey 982 by 1800 Tuesday",
@@ -68,7 +68,6 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwesterly 6 to gale 8, becoming variable 2 to 4, becoming westerly 6 to gale 8 later in south.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 27 Oct 2025\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, becoming variable 2 to 4, becoming westerly 6 to gale 8 later in south.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -76,7 +75,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest or northwest 6 to gale 8, becoming cyclonic 3 to 5 for a time.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Mon 27 Oct 2025\nNorthwesterly gale force 8 backing southwesterly later",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nGale force 8 backing westerly imminent",
       "wind": "West or northwest 6 to gale 8, becoming cyclonic 3 to 5 for a time.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain or showers.",
@@ -84,7 +83,7 @@
     },
     "Humber": {
       "text": "Wind\nWest or southwest 5 to 7 increasing gale 8 at times.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Mon 27 Oct 2025\nGale now ceased but southwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nGale force 8 veering westerly imminent",
       "wind": "West or southwest 5 to 7 increasing gale 8 at times.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -92,7 +91,7 @@
     },
     "Thames": {
       "text": "Wind\nWest or southwest 5 to 7 increasing gale 8 at times.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Mon 27 Oct 2025\nGale now ceased but southwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nGale force 8 veering westerly imminent",
       "wind": "West or southwest 5 to 7 increasing gale 8 at times.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -185,7 +184,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest 7 to severe gale 9, backing southwest 5 to 7, becoming cyclonic 7 to severe gale 9.\nSea state\nVery rough or high.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Mon 27 Oct 2025\nWesterly gale force 8 expected imminent, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nWesterly severe gale force 9 decreasing gale force 8 imminent, increasing severe gale force 9 later",
       "wind": "West 7 to severe gale 9, backing southwest 5 to 7, becoming cyclonic 7 to severe gale 9.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or showers.",
@@ -193,7 +192,7 @@
     },
     "Malin": {
       "text": "Wind\nWest 7 to severe gale 9, backing southwest 5 to 7.\nSea state\nVery rough or high becoming rough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 27 Oct 2025\nWesterly gale force 8 increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nWesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "West 7 to severe gale 9, backing southwest 5 to 7.",
       "sea_state": "Very rough or high becoming rough or very rough.",
       "weather": "Rain or showers.",
@@ -201,6 +200,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough, occasionally moderate at first in north.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate at first in north.",
       "weather": "Rain or showers.",
@@ -208,7 +208,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8.\nSea state\nRough or very rough, occasionally moderate at first in north.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Mon 27 Oct 2025\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 28 Oct 2025\nGale force 8 backing northeasterly soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough, occasionally moderate at first in north.",
       "weather": "Rain or showers.",
