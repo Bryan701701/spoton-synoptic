@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-29T21:51:53Z",
+  "fetched_at": "2025-10-29T22:20:41Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 29 Oct 2025",
   "valid": "For the period 18:00 (UTC) on Wed 29 Oct 2025 to 18:00 (UTC) on Thu 30 Oct 2025",
   "general_synopsis": "Low moving rather quickly northeast expected just west of Shannon 962 by midday tomorrow. Lows Cromarty 989, northwest Ireland 991 and Southeast Iceland 998 losing their identities",
@@ -29,6 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nIn east, cyclonic 4 to 6. In west, cyclonic, becoming southeasterly later, 4 to 6.\nSea state\nModerate, occasionally rough.\nWeather\nIn east, showers. In west, rain or showers.\nVisibility\nIn east, moderate or good. In west, good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "In east, cyclonic 4 to 6. In west, cyclonic, becoming southeasterly later, 4 to 6.",
       "sea_state": "Moderate, occasionally rough.",
       "weather": "In east, showers. In west, rain or showers.",
@@ -36,6 +37,7 @@
     },
     "Cromarty": {
       "text": "Wind\nCyclonic, becoming southeasterly later, 4 to 6, occasionally 7.\nSea state\nModerate.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic, becoming southeasterly later, 4 to 6, occasionally 7.",
       "sea_state": "Moderate.",
       "weather": "Rain or showers.",
@@ -43,6 +45,7 @@
     },
     "Forth": {
       "text": "Wind\nCyclonic, becoming southeasterly later, 4 to 6.\nSea state\nModerate.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic, becoming southeasterly later, 4 to 6.",
       "sea_state": "Moderate.",
       "weather": "Rain or showers.",
@@ -50,6 +53,7 @@
     },
     "Tyne": {
       "text": "Wind\nCyclonic, becoming southeasterly later, 4 to 6.\nSea state\nModerate.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic, becoming southeasterly later, 4 to 6.",
       "sea_state": "Moderate.",
       "weather": "Rain or showers.",
@@ -57,6 +61,7 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic, becoming southeasterly later, 4 to 6.\nSea state\nModerate.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic, becoming southeasterly later, 4 to 6.",
       "sea_state": "Moderate.",
       "weather": "Rain or showers.",
@@ -128,8 +133,8 @@
       "visibility": "In northwest, good, occasionally poor. In southeast, good."
     },
     "Trafalgar": {
-      "text": "Wind\nCyclonic 4 to 6, increasing 7 or gale 8 for a time in south.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "wind": "Cyclonic 4 to 6, increasing 7 or gale 8 for a time in south.",
+      "text": "r a time in south.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSouthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Wed 29 Oct 2025",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
@@ -152,7 +157,7 @@
     },
     "Lundy": {
       "text": "Wind\nWest backing south or southeast, 5 to 7, decreasing 3 to 5 for a time, increasing 7 or gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough later, then rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "West backing south or southeast, 5 to 7, decreasing 3 to 5 for a time, increasing 7 or gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, then rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -160,7 +165,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWest backing south or southeast, 5 to 7, increasing 7 or gale 8 later, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:33 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "West backing south or southeast, 5 to 7, increasing 7 or gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -168,7 +173,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nWest backing south or southeast, 5 to 7, decreasing 3 to 5 for a time, increasing 7 or gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough later, then rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "West backing south or southeast, 5 to 7, decreasing 3 to 5 for a time, increasing 7 or gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, then rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -200,7 +205,7 @@
     },
     "Hebrides": {
       "text": "Wind\nNorth veering southeast, 4 to 6, increasing 7 to severe gale 9 later, perhaps storm 10 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly storm force 10 expected later",
       "wind": "North veering southeast, 4 to 6, increasing 7 to severe gale 9 later, perhaps storm 10 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -216,7 +221,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNortheast 4 to 6, occasionally 7 at first, veering southeast 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "Northeast 4 to 6, occasionally 7 at first, veering southeast 6 to gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -224,7 +229,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNortheast 4 to 6, becoming variable 4, then southeast 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "Northeast 4 to 6, becoming variable 4, then southeast 6 to gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -232,6 +237,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "Cyclonic 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
