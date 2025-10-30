@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-30T15:55:46Z",
+  "fetched_at": "2025-10-30T16:30:31Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 30 Oct 2025",
   "valid": "For the period 12:00 (UTC) on Thu 30 Oct 2025 to 12:00 (UTC) on Fri 31 Oct 2025",
   "general_synopsis": "Atlantic low 963 moving quickly northeast expected just west of Rockall 958 by 0600 tomorrow",
@@ -122,7 +122,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSoutherly or southwesterly, 6 to gale 8.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nSoutherly gale force 8 continuing",
       "wind": "Southerly or southwesterly, 6 to gale 8.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Occasional rain.",
@@ -130,22 +130,22 @@
     },
     "Biscay": {
       "text": "Wind\nIn northwest, southerly or southwesterly, 6 to gale 8. In southeast, southerly 4 to 6, becoming variable 2 to 4 for a time.\nSea state\nIn northwest, moderate or rough, becoming rough or very rough. in southeast, moderate, becoming moderate or rough.\nWeather\nIn northwest, occasional rain. In southeast, showers.\nVisibility\nIn northwest, good, occasionally poor. In southeast, good.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nSoutherly gale force 8 continuing",
       "wind": "In northwest, southerly or southwesterly, 6 to gale 8. In southeast, southerly 4 to 6, becoming variable 2 to 4 for a time.",
       "sea_state": "In northwest, moderate or rough, becoming rough or very rough. in southeast, moderate, becoming moderate or rough.",
       "weather": "In northwest, occasional rain. In southeast, showers.",
       "visibility": "In northwest, good, occasionally poor. In southeast, good."
     },
     "Trafalgar": {
-      "text": "ming southwesterly 5 to 7, occasionally 4 in southeast and gale 8 in northwest.\nSea state\nModerate or rough, becoming rough or very rough in northwest, occasionally slight in southeast.\nWeather\nThundery showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSouthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Thu 30 Oct 2025",
+      "text": "Wind\nCyclonic mainly northwesterly 3 to 5, becoming southwesterly 5 to 7, occasionally 4 in southeast and gale 8 in northwest.\nSea state\nModerate or rough, becoming rough or very rough in northwest, occasionally slight in southeast.\nWeather\nThundery showers.\nVisibility\nModerate or good.",
+      "wind": "Cyclonic mainly northwesterly 3 to 5, becoming southwesterly 5 to 7, occasionally 4 in southeast and gale 8 in northwest.",
       "sea_state": "Moderate or rough, becoming rough or very rough in northwest, occasionally slight in southeast.",
       "weather": "Thundery showers.",
       "visibility": "Moderate or good."
     },
     "FitzRoy": {
       "text": "Wind\nSouth or southwest 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high in northwest.\nWeather\nSqually rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nSoutherly severe gale force 9 continuing",
       "wind": "South or southwest 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high in northwest.",
       "weather": "Squally rain or showers.",
@@ -153,7 +153,7 @@
     },
     "Sole": {
       "text": "Wind\nSouth or southwest 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high in west.\nWeather\nSqually rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nSoutherly severe gale force 9 continuing",
       "wind": "South or southwest 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high in west.",
       "weather": "Squally rain or showers.",
@@ -193,7 +193,7 @@
     },
     "Rockall": {
       "text": "Wind\nEast veering south or southeast, 7 to severe gale 9, increasing storm 10 at times.\nSea state\nRough or very rough, becoming high or very high.\nWeather\nRain or squally showers.\nVisibility\nModerate, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected soon, backing easterly and increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nEasterly storm force 10 decreasing severe gale force 9 imminent, veering southerly and increasing storm force 10 soon",
       "wind": "East veering south or southeast, 7 to severe gale 9, increasing storm 10 at times.",
       "sea_state": "Rough or very rough, becoming high or very high.",
       "weather": "Rain or squally showers.",
@@ -201,7 +201,7 @@
     },
     "Malin": {
       "text": "Wind\nSoutheast, veering south later, 7 to severe gale 9.\nSea state\nModerate or rough, becoming very rough or high, occasionally very high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nSevere gale force 9 veering southerly soon",
       "wind": "Southeast, veering south later, 7 to severe gale 9.",
       "sea_state": "Moderate or rough, becoming very rough or high, occasionally very high later.",
       "weather": "Rain or showers.",
@@ -217,7 +217,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast, veering south later, 7 to severe gale 9, increasing storm 10 for a time.\nSea state\nModerate or rough, becoming very rough or high, occasionally very high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 29 Oct 2025\nEasterly storm force 10 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Thu 30 Oct 2025\nEasterly severe gale force 9 increasing storm force 10 imminent",
       "wind": "Southeast, veering south later, 7 to severe gale 9, increasing storm 10 for a time.",
       "sea_state": "Moderate or rough, becoming very rough or high, occasionally very high later.",
       "weather": "Rain or showers.",
