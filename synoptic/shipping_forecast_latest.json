@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-10-30T09:43:12Z",
+  "fetched_at": "2025-10-30T09:54:31Z",
   "issued": "Issued at: 05:05 (UTC) on Thu 30 Oct 2025",
   "valid": "For the period 06:00 (UTC) on Thu 30 Oct 2025 to 06:00 (UTC) on Fri 31 Oct 2025",
   "general_synopsis": "Atlantic low 968 moving quickly northeast expected 100 miles west of Shannon 957 by midnight tonight",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nNorth or northwest 4 to 6, becoming variable 2 to 4, then southeasterly 5 to 7.\nSea state\nModerate.\nWeather\nRain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Thu 30 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "North or northwest 4 to 6, becoming variable 2 to 4, then southeasterly 5 to 7.",
       "sea_state": "Moderate.",
       "weather": "Rain later.",
@@ -23,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorth or northwest 4 to 6, becoming variable 2 to 4, then southeasterly 5 to 7.\nSea state\nModerate.\nWeather\nRain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Thu 30 Oct 2025\nSoutheasterly gale force 8 expected later",
       "wind": "North or northwest 4 to 6, becoming variable 2 to 4, then southeasterly 5 to 7.",
       "sea_state": "Moderate.",
       "weather": "Rain later.",
@@ -183,7 +185,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 7 to severe gale 9.\nSea state\nRough becoming rough or very rough, then very rough or high later.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Thu 30 Oct 2025\nSevere gale force 9 veering southwesterly imminent, then increasing storm force 10 later",
       "wind": "Cyclonic 7 to severe gale 9.",
       "sea_state": "Rough becoming rough or very rough, then very rough or high later.",
       "weather": "Rain or squally showers.",
@@ -231,7 +233,7 @@
     },
     "Faeroes": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic southeasterly 7 to severe gale 9, perhaps storm 10 at times later.\nSea state\nModerate or rough, becoming very rough or high later.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Thu 30 Oct 2025\nSoutheasterly gale force 8 imminent, increasing storm force 10 soon",
       "wind": "Variable 2 to 4, becoming cyclonic southeasterly 7 to severe gale 9, perhaps storm 10 at times later.",
       "sea_state": "Moderate or rough, becoming very rough or high later.",
       "weather": "Showers, rain later.",
@@ -239,7 +241,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic southeasterly 7 to severe gale 9, perhaps storm 10 at times later.\nSea state\nModerate or rough, becoming very rough or high later.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 29 Oct 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Thu 30 Oct 2025\nEasterly gale force 8 expected soon, backing northeasterly and increasing storm force 10 later",
       "wind": "Variable 2 to 4, becoming cyclonic southeasterly 7 to severe gale 9, perhaps storm 10 at times later.",
       "sea_state": "Moderate or rough, becoming very rough or high later.",
       "weather": "Showers, rain later.",
