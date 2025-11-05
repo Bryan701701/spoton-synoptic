@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-05T21:38:36Z",
+  "fetched_at": "2025-11-05T21:51:50Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 5 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Wed 5 Nov 2025 to 18:00 (UTC) on Thu 6 Nov 2025",
   "general_synopsis": "Complex low FitzRoy 989 loses it identity and new low expected Bailey 996 by midday Thursday",
@@ -127,8 +127,9 @@
       "visibility": "Good, occasionally poor."
     },
     "Trafalgar": {
-      "text": "a state\nRough or very rough, occasionally high later in north.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 4 Nov 2025\nSoutherly severe gale force 9 decreasing gale force 8 imminent, then veering westerly later\nForecast issued:\n00:15 (UTC) on Wed 5 Nov 2025",
+      "text": "Wind\nSouth veering west later, 6 to gale 8.\nSea state\nRough or very rough, occasionally high later in north.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "wind": "South veering west later, 6 to gale 8.",
+      "sea_state": "Rough or very rough, occasionally high later in north.",
       "weather": "Showers, perhaps thundery.",
       "visibility": "Good, occasionally poor."
     },
@@ -142,7 +143,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 3 to 5, becoming northerly or northwesterly 6 to gale 8 for a time in west, then southeasterly 5 to 7 later in west.\nSea state\nRough, occasionally very rough in west.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n04:00 (UTC) on Wed 5 Nov 2025\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:35 (UTC) on Wed 5 Nov 2025\nGale force 8 backing northwesterly imminent",
       "wind": "Cyclonic 3 to 5, becoming northerly or northwesterly 6 to gale 8 for a time in west, then southeasterly 5 to 7 later in west.",
       "sea_state": "Rough, occasionally very rough in west.",
       "weather": "Thundery showers.",
