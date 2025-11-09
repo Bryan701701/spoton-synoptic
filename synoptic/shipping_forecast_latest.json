@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-09T21:51:51Z",
+  "fetched_at": "2025-11-09T22:19:08Z",
   "issued": "Issued at: 17:25 (UTC) on Sun 9 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Sun 9 Nov 2025 to 18:00 (UTC) on Mon 10 Nov 2025",
   "general_synopsis": "Low Bailey 994 moving steadily west and losing its identity by midday tomorrow. New low expected Hebrides 994 by same time",
@@ -134,6 +134,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nSouthwest 4 to 6, occasionally 7 later.\nSea state\nVery rough, occasionally rough in southeast.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 9 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Very rough, occasionally rough in southeast.",
       "weather": "Thundery showers, rain later.",
@@ -141,6 +142,7 @@
     },
     "Sole": {
       "text": "Wind\nSouthwest 4 to 6.\nSea state\nVery rough, occasionally rough in northeast.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 9 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Southwest 4 to 6.",
       "sea_state": "Very rough, occasionally rough in northeast.",
       "weather": "Thundery showers, rain later.",
@@ -197,6 +199,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 5 to 7, becoming variable 2 to 4, then northeasterly 5 to 7 in far northwest.\nSea state\nVery rough, becoming rough later in southeast.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 9 Nov 2025\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, becoming variable 2 to 4, then northeasterly 5 to 7 in far northwest.",
       "sea_state": "Very rough, becoming rough later in southeast.",
       "weather": "Thundery showers.",
@@ -211,6 +214,7 @@
     },
     "Faeroes": {
       "text": "Wind\nEast or southeast 4 to 6, occasionally 7, becoming cyclonic 2 to 4, increasing 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 9 Nov 2025\nNortheasterly gale force 8 expected later",
       "wind": "East or southeast 4 to 6, occasionally 7, becoming cyclonic 2 to 4, increasing 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain, fog patches.",
@@ -218,7 +222,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 7 to severe gale 9, decreasing 4 to 6 in southeast.\nSea state\nVery rough, occasionally high in southwest.\nWeather\nRain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Sat 8 Nov 2025\nNortheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 9 Nov 2025\nNortheasterly severe gale force 9 continue",
       "wind": "Northeasterly 7 to severe gale 9, decreasing 4 to 6 in southeast.",
       "sea_state": "Very rough, occasionally high in southwest.",
       "weather": "Rain.",
