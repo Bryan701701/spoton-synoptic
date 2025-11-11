@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-11T03:15:19Z",
+  "fetched_at": "2025-11-11T03:57:01Z",
   "issued": "Issued at: 23:30 (UTC) on Mon 10 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Tue 11 Nov 2025 to 00:00 (UTC) on Wed 12 Nov 2025",
   "general_synopsis": "Low Fair Isle 992 losing its identity by 1800 Tuesday. Atlantic low expected 200 miles west of Shannon 977",
@@ -32,6 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nCyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -46,6 +47,7 @@
     },
     "Forth": {
       "text": "Wind\nCyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate until later, otherwise moderate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate until later, otherwise moderate or rough.",
       "weather": "Occasional rain.",
@@ -53,6 +55,7 @@
     },
     "Tyne": {
       "text": "Wind\nCyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate until later, otherwise moderate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate until later, otherwise moderate or rough.",
       "weather": "Occasional rain.",
@@ -60,6 +63,7 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -181,7 +185,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming southwest 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Mon 10 Nov 2025\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nEasterly gale force 8 continue",
       "wind": "Cyclonic 6 to gale 8, becoming southwest 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -189,7 +193,7 @@
     },
     "Rockall": {
       "text": "Wind\nEasterly or southeasterly 4 to 6, backing northeasterly 6 to gale 8, becoming cyclonic 5 or 6 later in south.\nSea state\nRough, becoming rough or very rough , occasionally high later in northwest.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Mon 10 Nov 2025\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nEasterly gale force 8 continue",
       "wind": "Easterly or southeasterly 4 to 6, backing northeasterly 6 to gale 8, becoming cyclonic 5 or 6 later in south.",
       "sea_state": "Rough, becoming rough or very rough , occasionally high later in northwest.",
       "weather": "Rain or showers.",
@@ -220,6 +224,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwest 5 or 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough in north.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 11 Nov 2025\nNortheasterly severe gale force 9 expected later",
       "wind": "Southwest 5 or 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough in north.",
       "weather": "Rain or showers.",
