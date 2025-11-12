@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-12T21:52:03Z",
+  "fetched_at": "2025-11-12T22:21:27Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 12 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Wed 12 Nov 2025 to 18:00 (UTC) on Thu 13 Nov 2025",
   "general_synopsis": "Low 200 miles west of FitzRoy 980 slow-moving, filling 984 by midday tomorrow. Low North Utsire 988 losing its identity",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic becoming north 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, occasionally high at first in north.\nWeather\nRain at first, then showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Wed 12 Nov 2025\nNortherly gale force 8 increasing severe gale force 9 imminent, decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming north 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, occasionally high at first in north.",
       "weather": "Rain at first, then showers.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nCyclonic becoming northerly 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, occasionally high at first in north.\nWeather\nRain at first, then showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Wed 12 Nov 2025\nNortherly severe gale force 9 imminent, decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming northerly 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, occasionally high at first in north.",
       "weather": "Rain at first, then showers.",
@@ -195,7 +195,7 @@
     },
     "Hebrides": {
       "text": "Wind\nNortheast 6 to gale 8, backing north 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nNortheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8, backing north 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -203,7 +203,7 @@
     },
     "Bailey": {
       "text": "Wind\nNortheast 6 to gale 8, backing north 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nNortheasterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8, backing north 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -211,7 +211,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNortheast 6 to gale 8, backing north 5 or 6 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nNortheasterly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8, backing north 5 or 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -219,7 +219,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNortheast 6 to gale 8, backing north 5 or 6 later.\nSea state\nRough or very rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nNortheasterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8, backing north 5 or 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers.",
@@ -227,7 +227,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.\nSea state\nRough or very rough, becoming moderate later in far northwest.\nWeather\nWintry showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nNortheasterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.",
       "sea_state": "Rough or very rough, becoming moderate later in far northwest.",
       "weather": "Wintry showers.",
