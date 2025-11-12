@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-12T15:46:15Z",
+  "fetched_at": "2025-11-12T16:30:15Z",
   "issued": "Issued at: 11:30 (UTC) on Wed 12 Nov 2025",
   "valid": "For the period 12:00 (UTC) on Wed 12 Nov 2025 to 12:00 (UTC) on Thu 13 Nov 2025",
   "general_synopsis": "New low expected Dogger 999 by 0600 tomorrow. Low Viking 987 losing its identity",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic 5 to 7 becoming north 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high in north.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n04:10 (UTC) on Wed 12 Nov 2025\nNortherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Wed 12 Nov 2025\nNortherly gale force 8 increasing severe gale force 9 imminent, decreasing gale force 8 soon",
       "wind": "Cyclonic 5 to 7 becoming north 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high in north.",
       "weather": "Rain then showers.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nCyclonic 5 to 7 becoming northerly 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high in north.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n04:10 (UTC) on Wed 12 Nov 2025\nGale now ceased but northerly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Wed 12 Nov 2025\nNortherly severe gale force 9 imminent, decreasing gale force 8 soon",
       "wind": "Cyclonic 5 to 7 becoming northerly 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high in north.",
       "weather": "Rain then showers.",
@@ -31,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nSouthwest 6 to gale 8, veering north 5 to 7.\nSea state\nRough, occasionally very rough in north.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Tue 11 Nov 2025\nGale force 8 veering southwesterly soon",
       "wind": "Southwest 6 to gale 8, veering north 5 to 7.",
       "sea_state": "Rough, occasionally very rough in north.",
       "weather": "Rain or showers.",
