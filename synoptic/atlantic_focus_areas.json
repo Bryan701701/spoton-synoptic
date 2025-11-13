@@ -116,7 +116,7 @@
       "x": 3088.104751794571,
       "y": 906.5732721462239,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n08:28 (UTC) on Thu 13 Nov 2025\nSouthwesterly gale force 8 imminent"
+      "gale_text": "Gale warning\nIssued:\n17:09 (UTC) on Thu 13 Nov 2025\nGale now ceased but northeasterly gale force 8 expected later"
     },
     {
       "name": "Hebrides",
@@ -124,8 +124,8 @@
       "lat": 58.790475933500105,
       "x": 2155.574216362487,
       "y": 613.6891946131293,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Humber",
@@ -232,8 +232,8 @@
       "lat": 51.988296187000046,
       "x": 2849.5258142282423,
       "y": 1066.9617177208152,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n17:09 (UTC) on Thu 13 Nov 2025\nNortheasterly gale force 8 expected later"
     },
     {
       "name": "Tyne",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2025-11-13T17:17:15Z"
+  "generated_utc": "2025-11-13T17:44:04Z"
 }
