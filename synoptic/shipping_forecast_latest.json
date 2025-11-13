@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-13T03:58:43Z",
+  "fetched_at": "2025-11-13T04:33:12Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 12 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Thu 13 Nov 2025 to 00:00 (UTC) on Fri 14 Nov 2025",
   "general_synopsis": "Low 180 miles west of FitzRoy 981 slow-moving, filling 984 by 1800 Thursday",
@@ -122,6 +122,7 @@
     },
     "Biscay": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n04:00 (UTC) on Thu 13 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -228,7 +229,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 12 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Wintry showers.",
