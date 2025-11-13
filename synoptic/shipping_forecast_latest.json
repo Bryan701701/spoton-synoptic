@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-13T07:40:50Z",
+  "fetched_at": "2025-11-13T07:52:31Z",
   "issued": "Issued at: 05:05 (UTC) on Thu 13 Nov 2025",
   "valid": "For the period 06:00 (UTC) on Thu 13 Nov 2025 to 06:00 (UTC) on Fri 14 Nov 2025",
   "general_synopsis": "Low 200 miles west of FitzRoy 983 slow-moving, filling 986 by midnight tonight",
@@ -172,6 +172,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic becoming northeasterly 4 to 6, but 6 to gale 8 in northwest.\nSea state\nRough or very rough, occasionally high in west.\nWeather\nThundery rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n07:42 (UTC) on Thu 13 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Cyclonic becoming northeasterly 4 to 6, but 6 to gale 8 in northwest.",
       "sea_state": "Rough or very rough, occasionally high in west.",
       "weather": "Thundery rain.",
@@ -187,6 +188,7 @@
     },
     "Malin": {
       "text": "Wind\nNortheast 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n07:42 (UTC) on Thu 13 Nov 2025\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain or showers.",
