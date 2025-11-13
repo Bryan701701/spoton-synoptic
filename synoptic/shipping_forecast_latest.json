@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-13T08:29:51Z",
+  "fetched_at": "2025-11-13T08:52:38Z",
   "issued": "Issued at: 05:05 (UTC) on Thu 13 Nov 2025",
   "valid": "For the period 06:00 (UTC) on Thu 13 Nov 2025 to 06:00 (UTC) on Fri 14 Nov 2025",
   "general_synopsis": "Low 200 miles west of FitzRoy 983 slow-moving, filling 986 by midnight tonight",
@@ -59,6 +59,7 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic 5 to 7, becoming northeast 4 to 6.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n08:28 (UTC) on Thu 13 Nov 2025\nNortheasterly gale force 8 imminent",
       "wind": "Cyclonic 5 to 7, becoming northeast 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -73,6 +74,7 @@
     },
     "German Bight": {
       "text": "Wind\nCyclonic becoming north or northwest later, 4 to 6, increasing 7 for a time.\nSea state\nModerate or rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n08:28 (UTC) on Thu 13 Nov 2025\nSouthwesterly gale force 8 imminent",
       "wind": "Cyclonic becoming north or northwest later, 4 to 6, increasing 7 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain then showers.",
@@ -137,6 +139,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nSouth or southeast 4 to 6, becoming cyclonic 5 to 7 later.\nSea state\nModerate or rough, occasionally very rough in west.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n08:40 (UTC) on Thu 13 Nov 2025\nSoutherly gale force 8 imminent",
       "wind": "South or southeast 4 to 6, becoming cyclonic 5 to 7 later.",
       "sea_state": "Moderate or rough, occasionally very rough in west.",
       "weather": "Thundery showers.",
