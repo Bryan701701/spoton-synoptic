@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-16T21:52:04Z",
+  "fetched_at": "2025-11-16T22:19:47Z",
   "issued": "Issued at: 17:25 (UTC) on Sun 16 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Sun 16 Nov 2025 to 18:00 (UTC) on Mon 17 Nov 2025",
   "general_synopsis": "Low FitzRoy 1003 expected southern Spain 1013 by midday tomorrow. New low expected western Southeast Iceland 1022 by same time",
@@ -104,6 +104,7 @@
     },
     "Dover": {
       "text": "Wind\nNortherly or northeasterly 4 to 6, occasionally 7, then perhaps gale 8 for a time later.\nSea state\nSlight or moderate, becoming rough for a time in north.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Sun 16 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "Northerly or northeasterly 4 to 6, occasionally 7, then perhaps gale 8 for a time later.",
       "sea_state": "Slight or moderate, becoming rough for a time in north.",
       "weather": "Showers.",
@@ -216,7 +217,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNortherly or northwesterly 6 to gale 8 decreasing 4 to 6.\nSea state\nRough or very rough.\nWeather\nWintry showers, squally at first.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Sun 16 Nov 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Sun 16 Nov 2025\nGale force 8 now veered northerly",
       "wind": "Northerly or northwesterly 6 to gale 8 decreasing 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers, squally at first.",
@@ -224,7 +225,6 @@
     },
     "Faeroes": {
       "text": "Wind\nIn east, northerly or northwesterly 6 to gale 8 decreasing 4 to 6. In west, northerly 5 or 6 becoming variable 2 to 4.\nSea state\nIn east, rough or very rough. in west, rough.\nWeather\nWintry showers, squally at first in east.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sun 16 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "In east, northerly or northwesterly 6 to gale 8 decreasing 4 to 6. In west, northerly 5 or 6 becoming variable 2 to 4.",
       "sea_state": "In east, rough or very rough. in west, rough.",
       "weather": "Wintry showers, squally at first in east.",
