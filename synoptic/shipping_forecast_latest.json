@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-17T15:56:34Z",
+  "fetched_at": "2025-11-17T16:35:14Z",
   "issued": "Issued at: 11:30 (UTC) on Mon 17 Nov 2025",
   "valid": "For the period 12:00 (UTC) on Mon 17 Nov 2025 to 12:00 (UTC) on Tue 18 Nov 2025",
   "general_synopsis": "New low expected Bailey 1012 by 0600 tomorrow",
@@ -64,7 +64,6 @@
     },
     "Fisher": {
       "text": "Wind\nNorth or northwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough, becoming moderate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 17 Nov 2025\nNortherly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "North or northwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate or rough.",
       "weather": "Showers.",
@@ -72,7 +71,6 @@
     },
     "German Bight": {
       "text": "Wind\nNorth or northwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough, becoming moderate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 17 Nov 2025\nNortherly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "North or northwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate or rough.",
       "weather": "Showers.",
@@ -80,7 +78,6 @@
     },
     "Humber": {
       "text": "Wind\nNorth or northwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough, becoming moderate or rough, becoming moderate later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 17 Nov 2025\nNortherly gale force 8 continue",
       "wind": "North or northwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate or rough, becoming moderate later.",
       "weather": "Showers.",
@@ -187,6 +184,7 @@
     },
     "Malin": {
       "text": "Wind\nVariable 2 to 4, becoming northwest 5 or 6 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Mon 17 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming northwest 5 or 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
