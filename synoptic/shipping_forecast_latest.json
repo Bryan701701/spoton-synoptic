@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-18T21:51:51Z",
+  "fetched_at": "2025-11-18T22:21:58Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 18 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Tue 18 Nov 2025 to 18:00 (UTC) on Wed 19 Nov 2025",
   "general_synopsis": "Low west Scotland 1009 expected the netherlands 1000 by midday tomorrow",
@@ -37,6 +37,7 @@
     },
     "Cromarty": {
       "text": "Wind\nNortheasterly backing northerly or northwesterly, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nSqually wintry showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "Northeasterly backing northerly or northwesterly, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Squally wintry showers, perhaps thundery.",
@@ -44,6 +45,7 @@
     },
     "Forth": {
       "text": "Wind\nNortheasterly backing northerly or northwesterly, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nSqually wintry showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "Northeasterly backing northerly or northwesterly, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Squally wintry showers, perhaps thundery.",
@@ -51,6 +53,7 @@
     },
     "Tyne": {
       "text": "Wind\nCyclonic 3 to 5, becoming north 5 to 7, perhaps gale 8 later.\nSea state\nModerate becoming mainly rough, occasionally very rough.\nWeather\nRain then squally wintry showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "Cyclonic 3 to 5, becoming north 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate becoming mainly rough, occasionally very rough.",
       "weather": "Rain then squally wintry showers, perhaps thundery.",
@@ -79,6 +82,7 @@
     },
     "Humber": {
       "text": "Wind\nSouthwest 4 to 6, becoming cyclonic, then north later, 5 to 7, perhaps gale 8 later.\nSea state\nModerate becoming mainly rough, occasionally very rough later.\nWeather\nRain or showers, becoming squally and perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected soon",
       "wind": "Southwest 4 to 6, becoming cyclonic, then north later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate becoming mainly rough, occasionally very rough later.",
       "weather": "Rain or showers, becoming squally and perhaps thundery.",
