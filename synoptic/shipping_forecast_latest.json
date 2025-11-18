@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-18T15:46:04Z",
+  "fetched_at": "2025-11-18T16:31:10Z",
   "issued": "Issued at: 11:30 (UTC) on Tue 18 Nov 2025",
   "valid": "For the period 12:00 (UTC) on Tue 18 Nov 2025 to 12:00 (UTC) on Wed 19 Nov 2025",
   "general_synopsis": "Low Malin 1010 expected German Bight 999 by 0600 tomorrow",
@@ -86,6 +86,7 @@
     },
     "Thames": {
       "text": "Wind\nWest becoming cyclonic, 4 to 6, becoming north 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later.\nWeather\nRain or showers, perhaps thundery, becoming squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "West becoming cyclonic, 4 to 6, becoming north 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later.",
       "weather": "Rain or showers, perhaps thundery, becoming squally later.",
@@ -93,6 +94,7 @@
     },
     "Dover": {
       "text": "Wind\nWest or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nShowers, becoming squally later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "West or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Showers, becoming squally later.",
@@ -100,6 +102,7 @@
     },
     "Wight": {
       "text": "Wind\nWest or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate.\nWeather\nShowers, becoming squally later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "West or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, becoming squally later.",
@@ -107,6 +110,7 @@
     },
     "Portland": {
       "text": "Wind\nWest or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate.\nWeather\nShowers, becoming squally later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "West or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, becoming squally later.",
@@ -114,6 +118,7 @@
     },
     "Plymouth": {
       "text": "Wind\nWest or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nShowers, becoming squally later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 expected later",
       "wind": "West or northwest 4 to 6, veering north 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Showers, becoming squally later.",
@@ -189,7 +194,7 @@
     },
     "Malin": {
       "text": "Wind\nNorth or northwest 6 to gale 8.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nSqually wintry showers.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Mon 17 Nov 2025\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 18 Nov 2025\nNortherly gale force 8 continuing",
       "wind": "North or northwest 6 to gale 8.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Squally wintry showers.",
