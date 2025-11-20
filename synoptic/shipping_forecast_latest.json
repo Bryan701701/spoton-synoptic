@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-20T03:50:22Z",
+  "fetched_at": "2025-11-20T04:25:31Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 19 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Thu 20 Nov 2025 to 00:00 (UTC) on Fri 21 Nov 2025",
   "general_synopsis": "Low netherlands 1000 expected south Baltic sea 1010 by 1800 Thursday. New low expected Humber 1010",
@@ -81,7 +81,6 @@
     },
     "Humber": {
       "text": "Wind\nNorth, becoming cyclonic, 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:42 (UTC) on Wed 19 Nov 2025\nNortherly gale force 8 continue",
       "wind": "North, becoming cyclonic, 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate.",
       "weather": "Wintry showers.",
@@ -89,7 +88,6 @@
     },
     "Thames": {
       "text": "Wind\nNorth, becoming cyclonic, 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:41 (UTC) on Wed 19 Nov 2025\nNortherly gale force 8 continuing",
       "wind": "North, becoming cyclonic, 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate.",
       "weather": "Wintry showers.",
@@ -97,7 +95,6 @@
     },
     "Dover": {
       "text": "Wind\nNorth or northwest 4 to 6, but 7 or gale 8 at first.\nSea state\nSlight or moderate.\nWeather\nShowers, wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:41 (UTC) on Wed 19 Nov 2025\nNortherly gale force 8 continuing",
       "wind": "North or northwest 4 to 6, but 7 or gale 8 at first.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, wintry.",
@@ -182,6 +179,7 @@
     },
     "Rockall": {
       "text": "Wind\nNortherly 4 to 6, becoming variable 3 or 4, then southwesterly 5 to 7 later in west.\nSea state\nRough, occasionally moderate, becoming moderate or rough later.\nWeather\nSqually showers, wintry, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:42 (UTC) on Thu 20 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Northerly 4 to 6, becoming variable 3 or 4, then southwesterly 5 to 7 later in west.",
       "sea_state": "Rough, occasionally moderate, becoming moderate or rough later.",
       "weather": "Squally showers, wintry, rain later.",
@@ -203,6 +201,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorth 4 to 6, becoming variable 3 or 4 then southwest 5 to 7 later, perhaps gale 8 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nWintry showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:42 (UTC) on Thu 20 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "North 4 to 6, becoming variable 3 or 4 then southwest 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Wintry showers, rain later.",
@@ -218,7 +217,7 @@
     },
     "Faeroes": {
       "text": "Wind\nIn east, northerly 7 or gale 8, decreasing 4 to 6, becoming variable 2 to 4 later. In west, northerly 4 to 6, becoming variable 3 or 4, then southwesterly 4 or 5.\nSea state\nIn east, rough or very rough, becoming moderate or rough. in west, rough or very rough at first, otherwise moderate or rough.\nWeather\nIn east, squally snow showers. In west, wintry showers.\nVisibility\nIn east, moderate or good, occasionally very poor. In west, moderate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 19 Nov 2025\nNortherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:42 (UTC) on Thu 20 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "In east, northerly 7 or gale 8, decreasing 4 to 6, becoming variable 2 to 4 later. In west, northerly 4 to 6, becoming variable 3 or 4, then southwesterly 4 or 5.",
       "sea_state": "In east, rough or very rough, becoming moderate or rough. in west, rough or very rough at first, otherwise moderate or rough.",
       "weather": "In east, squally snow showers. In west, wintry showers.",
@@ -226,6 +225,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly 4 to 6, becoming variable 3 or 4, then southwesterly 4 or 5, increasing 6 or 7 later.\nSea state\nModerate or rough.\nWeather\nWintry showers, rain later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:42 (UTC) on Thu 20 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Northerly 4 to 6, becoming variable 3 or 4, then southwesterly 4 or 5, increasing 6 or 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers, rain later.",
