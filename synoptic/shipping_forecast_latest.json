@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-21T17:19:35Z",
+  "fetched_at": "2025-11-21T17:41:19Z",
   "issued": "Issued at: 17:25 (UTC) on Fri 21 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Fri 21 Nov 2025 to 18:00 (UTC) on Sat 22 Nov 2025",
   "general_synopsis": "Low Southeast Iceland 1000 expected northeast of Faeroes by midday tomorrow",
   "areas": {
     "Viking": {
-      "text": "Wind\nWesterly or southwesterly 4 to 6, occasionally 7 at.\nSea state\nSlight or moderate at first in the utsires, otherwise moderate or rough.\nWeather\nRain.\nVisibility\nGood.",
-      "wind": "Westerly or southwesterly 4 to 6, occasionally 7 at.",
+      "text": "Wind\nWesterly or southwesterly 4 to 6, occasionally 7 at first.\nSea state\nSlight or moderate at first in the utsires, otherwise moderate or rough.\nWeather\nRain.\nVisibility\nGood.",
+      "wind": "Westerly or southwesterly 4 to 6, occasionally 7 at first.",
       "sea_state": "Slight or moderate at first in the utsires, otherwise moderate or rough.",
       "weather": "Rain.",
       "visibility": "Good."
@@ -190,8 +190,8 @@
       "visibility": "Good, occasionally poor."
     },
     "Malin": {
-      "text": "Wind\nWest or southwest 4 to 6, occasionally at first.\nSea state\nSmooth or slight in southeast, elsewhere moderate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "wind": "West or southwest 4 to 6, occasionally at first.",
+      "text": "Wind\nWest or southwest 4 to 6, occasionally at.\nSea state\nSmooth or slight in southeast, elsewhere moderate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "wind": "West or southwest 4 to 6, occasionally at.",
       "sea_state": "Smooth or slight in southeast, elsewhere moderate or rough.",
       "weather": "Rain.",
       "visibility": "Good, occasionally poor."
