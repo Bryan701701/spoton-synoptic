@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-21T21:51:49Z",
+  "fetched_at": "2025-11-21T22:21:25Z",
   "issued": "Issued at: 17:25 (UTC) on Fri 21 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Fri 21 Nov 2025 to 18:00 (UTC) on Sat 22 Nov 2025",
   "general_synopsis": "Low Southeast Iceland 1000 expected northeast of Faeroes by midday tomorrow",
@@ -88,6 +88,7 @@
     },
     "Thames": {
       "text": "Wind\nVariable 2 to 4, becoming southwest 4 to 6, occasionally 7 later.\nSea state\nSmooth or slight, becoming slight or moderate, occasionally rough later.\nWeather\nShowers, thundery at first.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Smooth or slight, becoming slight or moderate, occasionally rough later.",
       "weather": "Showers, thundery at first.",
@@ -95,6 +96,7 @@
     },
     "Dover": {
       "text": "Wind\nVariable 2 to 4, becoming southwest 4 to 6, occasionally 7 later.\nSea state\nSmooth or slight, becoming slight or moderate, occasionally rough later.\nWeather\nShowers, thundery at first.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Smooth or slight, becoming slight or moderate, occasionally rough later.",
       "weather": "Showers, thundery at first.",
@@ -126,6 +128,7 @@
     },
     "Biscay": {
       "text": "Wind\nNorth 3 to 5, backing west or southwest 5 to 7.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nThundery showers, then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected soon, veering westerly later",
       "wind": "North 3 to 5, backing west or southwest 5 to 7.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Thundery showers, then rain.",
@@ -177,6 +180,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nWesterly gale force 8 expected later",
       "wind": "West or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -184,6 +188,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nWesterly gale force 8 expected later",
       "wind": "West or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -198,7 +203,6 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or southwest 5 to 7, occasionally gale 8 at first, decreasing 3 or 4.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "West or southwest 5 to 7, occasionally gale 8 at first, decreasing 3 or 4.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -213,7 +217,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nWest or southwest 5 to 7, occasionally gale 8 at first, decreasing 3 or 4.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "West or southwest 5 to 7, occasionally gale 8 at first, decreasing 3 or 4.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
