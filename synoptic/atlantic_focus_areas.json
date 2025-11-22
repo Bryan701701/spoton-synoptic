@@ -70,8 +70,8 @@
       "lat": 51.289964965500104,
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:55 (UTC) on Sat 22 Nov 2025\nWesterly gale force 8 expected later"
     },
     {
       "name": "Fisher",
@@ -143,7 +143,7 @@
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected soon"
+      "gale_text": "Gale warning\nIssued:\n09:55 (UTC) on Sat 22 Nov 2025\nGale now ceased, but westerly gale force 8 expected later"
     },
     {
       "name": "Lundy",
@@ -152,7 +152,7 @@
       "x": 2357.7165366331938,
       "y": 1116.2022741047663,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected soon"
+      "gale_text": "Gale warning\nIssued:\n09:55 (UTC) on Sat 22 Nov 2025\nGale now ceased, but westerly gale force 8 expected later"
     },
     {
       "name": "Malin",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2025-11-22T10:16:17Z"
+  "generated_utc": "2025-11-22T10:40:26Z"
 }
