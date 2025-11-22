@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-22T15:51:56Z",
+  "fetched_at": "2025-11-22T16:25:31Z",
   "issued": "Issued at: 11:30 (UTC) on Sat 22 Nov 2025",
   "valid": "For the period 12:00 (UTC) on Sat 22 Nov 2025 to 12:00 (UTC) on Sun 23 Nov 2025",
   "general_synopsis": "New low expected Rockall 986 by 0600 Sunday",
@@ -57,7 +57,7 @@
     },
     "Dogger": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 for a time.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -65,7 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 for a time.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Sat 22 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSouthwesterly gale force 8 continuing, backing southeasterly later",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -73,7 +73,7 @@
     },
     "German Bight": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 for a time.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSouthwesterly gale force 8 continuing, backing southeasterly later",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -81,7 +81,7 @@
     },
     "Humber": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 for a time.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -105,7 +105,7 @@
     },
     "Wight": {
       "text": "Wind\nSouth 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSoutherly gale force 8 continuing",
       "wind": "South 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -113,7 +113,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nSoutherly gale force 8 continuing",
       "wind": "South 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -121,7 +121,6 @@
     },
     "Plymouth": {
       "text": "Wind\nSouth 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Fri 21 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "South 6 to gale 8, veering west or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -144,6 +143,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWesterly or southwesterly 4 to 6, occasionally 7 in east.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nWesterly gale force 8 expected later",
       "wind": "Westerly or southwesterly 4 to 6, occasionally 7 in east.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -190,7 +190,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest or southwest 4 to 6, becoming cyclonic 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 21 Nov 2025\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 22 Nov 2025\nWesterly gale force 8 veering and increasing northwesterly severe gale force 9 later",
       "wind": "West or southwest 4 to 6, becoming cyclonic 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain or showers.",
