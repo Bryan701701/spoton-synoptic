@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-25T21:51:57Z",
+  "fetched_at": "2025-11-25T22:22:30Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 25 Nov 2025",
   "valid": "For the period 18:00 (UTC) on Tue 25 Nov 2025 to 18:00 (UTC) on Wed 26 Nov 2025",
   "general_synopsis": "High 350 miles west of Iberia 1029 slow-moving with little change",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, then rain later.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, then rain later.",
@@ -22,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nVariable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, then rain later.",
@@ -29,6 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nVariable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming southerly or southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, then rain later.",
@@ -190,6 +194,7 @@
     },
     "Hebrides": {
       "text": "Wind\nIn east, southwesterly 4 to 6, increasing 7 for a time, perhaps gale 8 for a time later. In west, southwesterly 5 or 6 veering northwesterly 3 to 5, becoming variable 2 to 4 later.\nSea state\nSlight or moderate at first in east, otherwise moderate or rough.\nWeather\nIn east, occasional rain. In west, rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "In east, southwesterly 4 to 6, increasing 7 for a time, perhaps gale 8 for a time later. In west, southwesterly 5 or 6 veering northwesterly 3 to 5, becoming variable 2 to 4 later.",
       "sea_state": "Slight or moderate at first in east, otherwise moderate or rough.",
       "weather": "In east, occasional rain. In west, rain or showers.",
@@ -204,6 +209,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwesterly, veering northwesterly later in west, 4 to 6, increasing 7 for a time, perhaps gale 8 for a time later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 25 Nov 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly, veering northwesterly later in west, 4 to 6, increasing 7 for a time, perhaps gale 8 for a time later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Showers then rain.",
