@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-26T03:16:36Z",
+  "fetched_at": "2025-11-26T03:58:42Z",
   "issued": "Issued at: 23:30 (UTC) on Tue 25 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Wed 26 Nov 2025 to 00:00 (UTC) on Thu 27 Nov 2025",
   "general_synopsis": "High FitzRoy 1029 expected Spain 1027, new low expected 500 mile west of Rockall 976",
@@ -40,6 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSouth or southwest 4 to 6, occasionally 7, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected soon",
       "wind": "South or southwest 4 to 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Occasional rain later.",
@@ -61,6 +62,7 @@
     },
     "Dogger": {
       "text": "Wind\nVariable 2 to 4, becoming south or southwest 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming south or southwest 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Occasional rain later.",
@@ -68,6 +70,7 @@
     },
     "Fisher": {
       "text": "Wind\nVariable 2 to 4, becoming south or southwest 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming smooth or slight in east, becoming moderate or rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming south or southwest 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming smooth or slight in east, becoming moderate or rough later.",
       "weather": "Occasional rain later.",
@@ -75,6 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nNortherly or northeasterly 4 to 6 becoming variable 2 to 4, then southwesterly 5 to 7.\nSea state\nSlight or moderate, becoming smooth or slight for a time.\nWeather\nShowers, occasional rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Northerly or northeasterly 4 to 6 becoming variable 2 to 4, then southwesterly 5 to 7.",
       "sea_state": "Slight or moderate, becoming smooth or slight for a time.",
       "weather": "Showers, occasional rain later.",
@@ -173,6 +177,7 @@
     },
     "Shannon": {
       "text": "Wind\nSoutherly or southwesterly 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southerly or southwesterly 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -180,6 +185,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly or southwesterly 4 to 6, becoming cyclonic 3 to 5 for a time in north.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southerly or southwesterly 4 to 6, becoming cyclonic 3 to 5 for a time in north.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -202,6 +208,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic, but mainly southwesterly, 4 to 6.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic, but mainly southwesterly, 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -217,6 +224,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouthwesterly, becoming cyclonic later, 5 to 7, decreasing 3 to 5 later.\nSea state\nModerate or rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 26 Nov 2025\nSouthwesterly gale force 8 expected imminent",
       "wind": "Southwesterly, becoming cyclonic later, 5 to 7, decreasing 3 to 5 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain then showers.",
