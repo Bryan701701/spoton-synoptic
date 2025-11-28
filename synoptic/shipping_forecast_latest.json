@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-28T03:13:05Z",
+  "fetched_at": "2025-11-28T03:51:51Z",
   "issued": "Issued at: 23:30 (UTC) on Thu 27 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Fri 28 Nov 2025 to 00:00 (UTC) on Sat 29 Nov 2025",
   "general_synopsis": "Low west Bailey 957 expected 400 miles east of Iceland 967 by 1800 Friday",
   "areas": {
     "Viking": {
       "text": "Wind\nSouthwesterly 6 to gale 8, occasionally severe gale 9, veering westerly or northwesterly 5 to 7 later.\nSea state\nRough, becoming very rough or high.\nWeather\nSqually showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Thu 27 Nov 2025\nGale now ceased but southwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly severe gale force 9 continuing",
       "wind": "Southwesterly 6 to gale 8, occasionally severe gale 9, veering westerly or northwesterly 5 to 7 later.",
       "sea_state": "Rough, becoming very rough or high.",
       "weather": "Squally showers.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSouthwesterly 6 to gale 8, veering westerly or northwesterly 5 to 7 later.\nSea state\nRough, becoming very rough or high.\nWeather\nSqually showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Thu 27 Nov 2025\nGale now ceased but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly gale force 8 imminent",
       "wind": "Southwesterly 6 to gale 8, veering westerly or northwesterly 5 to 7 later.",
       "sea_state": "Rough, becoming very rough or high.",
       "weather": "Squally showers.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSouthwesterly 6 to gale 8, occasionally severe gale 9, veering westerly or northwesterly 5 to 7 later.\nSea state\nRough, becoming very rough or high.\nWeather\nSqually showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Thu 27 Nov 2025\nGale now ceased but southwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly severe gale force 9 continuing",
       "wind": "Southwesterly 6 to gale 8, occasionally severe gale 9, veering westerly or northwesterly 5 to 7 later.",
       "sea_state": "Rough, becoming very rough or high.",
       "weather": "Squally showers.",
@@ -56,7 +56,7 @@
     },
     "Tyne": {
       "text": "Wind\nSouthwest 5 to 7, increasing gale 8 at times.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Thu 27 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwest 5 to 7, increasing gale 8 at times.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -64,7 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouthwest 5 to 7, increasing gale 8 at times.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Thu 27 Nov 2025\nGale now ceased but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwest 5 to 7, increasing gale 8 at times.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -199,7 +199,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwest gale 8 to storm 10, veering north or northwest 4 to 6 later.\nSea state\nHigh or very high, becoming very rough or high later.\nWeather\nSqually showers.\nVisibility\nPoor, occasionally moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 27 Nov 2025\nSouthwesterly storm force 10 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly storm force 10 decreasing severe gale force 9 imminent",
       "wind": "Southwest gale 8 to storm 10, veering north or northwest 4 to 6 later.",
       "sea_state": "High or very high, becoming very rough or high later.",
       "weather": "Squally showers.",
@@ -207,7 +207,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwest gale 8 to storm 10, veering north or northwest 4 to 6 later.\nSea state\nHigh or very high, becoming very rough or high later.\nWeather\nSqually showers.\nVisibility\nPoor, occasionally moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 27 Nov 2025\nSouthwesterly storm force 10 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSouthwesterly storm force 10 decreasing severe gale force 9 soon",
       "wind": "Southwest gale 8 to storm 10, veering north or northwest 4 to 6 later.",
       "sea_state": "High or very high, becoming very rough or high later.",
       "weather": "Squally showers.",
@@ -215,7 +215,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 7 to severe gale 9 becoming north 6 to gale 8, decreasing 3 to 5 later.\nSea state\nHigh or very high, becoming very rough later.\nWeather\nSqually showers.\nVisibility\nPoor, becoming moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Thu 27 Nov 2025\nStorm force 10 veering northeasterly and decreasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nSevere gale force 9 backing northerly and decreasing gale force 8 imminent",
       "wind": "Cyclonic 7 to severe gale 9 becoming north 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "High or very high, becoming very rough later.",
       "weather": "Squally showers.",
@@ -231,7 +231,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic becoming northwesterly 7 to severe gale 9, occasionally storm 10 at first in north, decreasing 6 later.\nSea state\nVery rough or high, becoming high or very high for a time.\nWeather\nSqually showers, becoming wintry later.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Thu 27 Nov 2025\nSevere gale force 9 veering northerly imminent, increasing storm force 10 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 28 Nov 2025\nNortherly severe gale force 9 continuing",
       "wind": "Cyclonic becoming northwesterly 7 to severe gale 9, occasionally storm 10 at first in north, decreasing 6 later.",
       "sea_state": "Very rough or high, becoming high or very high for a time.",
       "weather": "Squally showers, becoming wintry later.",
