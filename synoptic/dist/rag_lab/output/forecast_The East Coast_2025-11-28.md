@@ -1,0 +1,1 @@
+Today on the East Coast, it's a no-go with 5 ft @6s SSW swell, but fresh 29 mph SW winds are making it blown out. Tomorrow drops to 1 ft @5s S, still not producing any surfable waves. The day after sees a slight improvement with 2 ft @6s NNE, but with 21 mph NW winds, it's likely to remain choppy. Best: day after.

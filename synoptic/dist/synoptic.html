@@ -1,0 +1,1129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Synoptic</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Preload the first image -->
+  <link rel="preload" as="image" href="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/latest.jpg">
+
+
+
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://cdn.star.nesdis.noaa.gov" crossorigin>
+  <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
+  <style>
+
+    /* Make width calculations include padding/border */
+
+
+    :root{
+      --ring:#e5e7eb; --ink:#111827; --muted:#6b7280; --radius:12px;
+      --rightW: 560px;                   
+      --stageH: min(80vh, 80dvh);     
+    }
+    html,body{height:100%;margin:0;background:#fff;color:var(--ink);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif}
+    .btn{ border:1px solid var(--ring); background:#fafafa; color:#111; padding:6px 10px; border-radius:10px; font-weight:700; cursor:pointer }
+    .btn[aria-pressed="true"]{ background:#eef2ff; border-color:#c7d2fe }
+
+    /* Synoptic split: image left, summary panel right */
+    /* Synoptic split: image left, panel right — same width & height as Spot-On */
+    .syn-split{
+      display: grid;
+      grid-template-columns: 1fr var(--rightW);   /* ← fixed right panel width */
+      grid-template-areas: "image panel";
+      gap: 12px;
+      width: 100%;
+      height: var(--stageH);                      /* ← same stage height */
+      margin: 8px 0;
+    }
+
+    /* Image cell fills the stage height */
+    .syn-image{
+      grid-area: image;
+      border: 1px solid var(--ring);
+      border-radius: var(--radius);
+      background: #000;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative; /* keeps overlay positioned */
+      height: 100%;       /* fill stage */
+    }
+
+    /* Right panel scrolls if it needs to (like Spot-On) */
+    .syn-panel{
+      grid-area: panel;
+      border: 1px solid var(--ring);
+      border-radius: var(--radius);
+      padding: 12px;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      max-height: 100%;
+      overflow: auto;
+      margin-top: 12px;                               /* scroll when long */
+    }
+
+    /* Optional: collapse on narrower screens */
+    @media (max-width: 1100px){
+      .syn-split{ display:block; height:auto; }
+      .syn-image{ height:auto; }
+      .syn-panel{ margin-top:12px; }
+    }
+
+    .syn-img {
+      display: block;
+      max-width: 100%;
+      max-height: 100%;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;      /* default for NOAA */
+      object-position: center;
+      z-index: 1;
+    }
+    .syn-img.meteo-active { object-fit: cover; } /* Meteosat immersive */
+
+    .syn-img:not(.is-active){ display:none; }
+
+    .syn-title-band{ display:flex; align-items:center; gap:8px; margin:8px; padding:8px 12px; border:1px solid var(--ring); border-radius:var(--radius); background:#fff; }
+    [hidden]{ display:none !important; }
+
+    .syn-topbar{
+    display:flex; align-items:center; gap:10px;
+    margin:8px; padding:8px; border:1px solid var(--ring);
+    border-radius:var(--radius); background:#fff;
+    }
+    .src-group{ display:flex; align-items:center; gap:8px; }
+    .syn-summary{
+    display:flex; align-items:center; gap:8px;
+    margin-left:auto; min-width:0;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+    }
+    .syn-synopsis{ font-weight:700; color:#111; }
+    .syn-valid   { color:var(--muted); font-weight:600; }
+    .syn-summary .dot{ color:#c4c7cf; }
+
+    .syn-gales { margin-top: 12px; }
+    .syn-gales-head {
+      display:flex; align-items:center; justify-content:space-between;
+      color:#111; font-weight:700; margin-bottom:8px;
+    }
+    .syn-gales-count { color: var(--muted); font-weight:600; margin-left:6px; }
+    .gale-item { border:1px solid var(--ring); border-radius:10px; background:#fafafa; padding:8px 10px; margin-top:8px; }
+    .gale-area { font-weight:700; margin-bottom:4px; }
+    .gale-text { margin:0; white-space:pre-wrap; font: 13px/1.35 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; color:#111; }
+
+    /* === OVERLAY CSS === */
+    /* Tooltip — tighter, white, crisp */
+    /* compact tooltip */
+  #tooltip {
+    position: fixed;
+    padding: 2px 8px;
+    background: #fff;
+    color: #111;
+    border: 1px solid #dfe3ea;
+    border-radius: 6px;
+    font-size: 13px;
+    pointer-events: none;
+    z-index: 9999;
+    display: none;
+    max-width: 260px;
+    white-space: pre-wrap;
+    text-align: center;
+    box-shadow: 0 6px 22px rgba(0,0,0,0.15);
+  }
+
+  #tooltip strong {
+    display: block;
+    margin: 0 0 2px;       /* tighter */
+    font-weight: 700;
+    font-size: 14px;
+    color: #111;
+    letter-spacing: 0.2px;
+  }
+
+  .wx-flag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px 0;         /* much tighter vertical spacing */
+  }
+
+  #tooltip .issued {
+    margin-top: 2px;       /* closer to the flag */
+    font-size: 11px;
+    color: #6b7280;
+    line-height: 1.2;
+  }
+
+    /* Gale chip — allow multi-line wrapping if content is long */
+    .gales-chip {
+      display: block;               /* block so it can become multi-line */
+      padding: 8px 12px;
+      border: 1px solid #f2c8cc;
+      border-radius: 12px;          /* pill-ish when short, rounded card when long */
+      background: #fff6f6;
+      color: #8b1a1d;
+      font-weight: 700;
+      line-height: 1.35;
+      max-width: 100%;
+      white-space: normal;          /* <-- allow wrapping */
+      word-break: break-word;       /* allow long runs to break */
+    }
+    .gales-chip .prefix {
+      color: #8b1a1d;
+      font-weight: 800;
+      margin-right: 6px;
+    }
+    .gales-chip .areas {
+      color: #8b1a1d;
+      font-weight: 700;
+    }
+
+    /* === Force Synoptic side panel to match Spot-On forecast width exactly === */
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;           /* Include padding & border in width */
+    }
+
+    /* Use the same right panel width as Spot-On (560px by default) */
+    :root {
+      --syn-rightW: var(--rightW, 560px);
+    }
+
+    /* Right column is exactly the same width */
+    .syn-split {
+      grid-template-columns: 1fr var(--syn-rightW);
+    }
+
+    /* Ensure the panel itself fits within that track (no overflow from border/padding) */
+    .syn-panel {
+      width: var(--syn-rightW);
+      max-width: var(--syn-rightW);
+      min-width: 0;                     /* Allow content to wrap within */
+      box-sizing: border-box;           /* Consistent box model */
+      overflow: auto;                   /* Scroll if long */
+    }
+
+    #overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 9;              /* ensure above the image */
+      pointer-events: auto;
+      display: none;
+    }
+
+    /* Center the dial in the detail card and match spacing */
+    .gd-dial-wrap {
+      display: block;
+      padding: 6px 0;
+      text-align: center;
+    }
+    .gd-dial-wrap .gd-dial,
+    .gd-dial-wrap svg {
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* --- Dial layering & chip position (replace your block with this) --- */
+    .gd-dial{ position:relative; }
+    .gd-dial svg{ position:relative; z-index:1; }          /* SVG under */
+    .gd-chip--in{
+      position:absolute; left:50%; top:75%;
+      transform:translate(-50%,-50%);
+      z-index:2;                                           /* chip over */
+    }
+
+    /* base chip style */
+    .gd-chip{
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      padding:4px 10px;
+      border-radius:999px;
+      background:#eef2f7;
+      color:#111;
+      font-weight:700;
+      line-height:1;
+      white-space:nowrap;
+    }
+    /* below-chip spacing */
+    .gd-chip--below{
+      font-size:14px;
+      margin-top:6px;
+    }
+    /* severity colours like the harness */
+    .gd-chip.sev8{  background:#fdecc7; }
+    .gd-chip.sev9{  background:#fbd2c7; }
+    .gd-chip.sev10{ background:#f8caca; }
+
+    #syn-gales-chip-wrap { margin-top: 0; }
+
+    /* Tooltip compact override — place LAST in the stylesheet */
+    #tooltip{
+      padding: 2px 8px !important;          /* tighter top/bottom */
+      max-width: 260px !important;
+      text-align: center;
+    }
+
+    #tooltip strong{
+      margin: 0 0 2px !important;
+      font-size: 14px;
+      line-height: 1.1 !important;
+    }
+
+    .wx-flag{
+      margin: 2px 0 !important;             /* small gap around the flag */
+      line-height: 0 !important;            /* remove inline-SVG extra space */
+    }
+
+    #tooltip .issued{
+      margin-top: 2px !important;
+      font-size: 11px;
+      line-height: 1.2 !important;
+      color: #6b7280;
+    }
+
+
+
+
+
+
+
+
+
+
+
+  </style>
+</head>
+<body>
+
+<div class="syn-topbar">
+  <div class="src-group">
+    <button id="src-meteosat" class="btn" aria-pressed="true">Meteosat</button>
+    <button id="src-noaa" class="btn" aria-pressed="false">NOAA GOES-16</button>
+  </div>
+</div>
+
+<div class="syn-split">
+  <!-- left image -->
+  <div class="syn-image">
+    <img id="synoptic-meteosat" class="syn-img is-active" alt="Meteosat" referrerpolicy="no-referrer">
+    <img id="synoptic-noaa" class="syn-img" alt="NOAA GOES-16">
+    <!-- Overlay for gale tooltips -->
+    <div id="overlay"></div>
+  </div>
+
+  <!-- right panel -->
+  <!-- right panel -->
+  <div class="syn-panel">
+    <!-- 1) Synoptic summary -->
+    <div id="syn-summary" hidden>
+      <div id="syn-synopsis" class="syn-synopsis">—</div>
+      <div id="syn-valid" class="syn-valid">—</div>
+    </div>
+
+    <!-- 2) Meteosat timestamp band (moved up) -->
+    <div id="syn-bot" class="syn-title-band" hidden>
+      <div id="synoptic-title">—</div>
+    </div>
+
+    <!-- 3) Single-line chip of areas with gales -->
+    <div id="syn-gales-chip-wrap">
+      <span id="syn-gales-chip" class="gales-chip" hidden>
+        <span class="prefix">Warning of gales in</span>
+        <span class="areas"></span>
+      </span>
+    </div>
+
+    <!-- 4) Gale detail card (dial), last so the layout doesn't jump -->
+    <div id="syn-gale-detail" class="gale-item" hidden>
+      <div id="gd-area" class="gale-area">—</div>
+      <div id="gd-issued" class="gale-issued" style="color:var(--muted);"></div>
+
+      <!-- Dial -->
+      <div id="gd-dial" class="gd-dial-wrap"></div>
+
+      <!-- Full raw text -->
+      <details id="gd-extra" style="margin-top:8px;">
+        <summary style="cursor:pointer; font-weight:600;">Show full text</summary>
+        <pre id="gd-text" class="gale-text"></pre>
+      </details>
+    </div>
+  </div>
+
+
+</div>
+
+<div id="tooltip"></div>
+
+<!-- helpers -->
+
+
+<script>
+(() => {
+  const NO_GALES_RE = /^\s*(no|nil)\s+gales?\b|no\s+gale\s+warnings?/i;
+  const normName = s => String(s||'').toLowerCase().replace(/\s+/g,' ').trim();
+
+  function buildSfMapFromJson(j){
+    const src = j && j.areas && typeof j.areas === 'object' ? j.areas : {};
+    const m = new Map();
+    for (const [name, val] of Object.entries(src)) {
+      const raw = String(val?.gale_warning || val?.gale || '').trim();
+      if (!raw || NO_GALES_RE.test(raw)) continue;
+      m.set(normName(name), raw);
+    }
+    return m;
+  }
+
+  // expose
+  window.__SFG = { normName, buildSfMapFromJson };
+})();
+</script>
+
+<script>
+(function(){
+  function renderGalesChipFromAreas(areas){
+    const chip = document.getElementById('syn-gales-chip');
+    if (!chip) return;
+    const names = (areas||[]).filter(a => a.gale).map(a => a.name);
+    const areasSpan = chip.querySelector('.areas');
+    if (!names.length){
+      chip.setAttribute('hidden','');
+      if (areasSpan) areasSpan.textContent = '';
+      return;
+    }
+    if (areasSpan) areasSpan.textContent = names.join(', ');
+    chip.removeAttribute('hidden');
+  }
+  window.renderGalesChipFromAreas = renderGalesChipFromAreas;
+})();
+</script>
+
+<script>
+const ENV = (() => {
+  const isFile = location.protocol === 'file:';
+  const isLocalhost = /^(localhost|127\.0\.0\.1)$/i.test(location.hostname);
+  return (isFile || isLocalhost) ? 'dev' : 'prod';
+})();
+</script>
+
+<script>
+// 10-min cache-bust
+const stamp10 = (url) => {
+  const slot = Math.floor(Date.now() / (10*60*1000));
+  const sep = url.includes('?') ? '&' : '?';
+  return `${url}${sep}v=${slot}`;
+};
+
+// Sources
+const METEO_LOCAL = 'synoptic/atlantic_focus.png';
+const METEO_RAW   = 'https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/synoptic/atlantic_focus.png';
+const METEO_CDN   = 'https://cdn.jsdelivr.net/gh/Bryan701701/spoton-synoptic@main/synoptic/atlantic_focus.png';
+
+// More forgiving loader with explicit success/failure logging
+function loadImage(el, url, timeoutMs){
+  return new Promise((resolve, reject) => {
+    let done = false;
+    const finish = (ok, why) => {
+      if (done) return;
+      done = true;
+      el.onload = el.onerror = null;
+      clearTimeout(timer);
+      if (ok) {
+        console.debug('[synoptic] image loaded:', url);
+        resolve();
+      } else {
+        console.warn('[synoptic] image failed:', url, why || '');
+        reject(new Error('img load fail'));
+      }
+    };
+    const timer = setTimeout(() => finish(false, 'timeout '+timeoutMs+'ms'), timeoutMs);
+    el.onload  = () => finish(true);
+    el.onerror = () => finish(false, 'onerror');
+    el.src = url;
+  });
+}
+
+// Try: LOCAL → RAW(blob) → CDN
+// Always set a last-resort CDN src if everything fails.
+async function setMeteoImageSrc(el){
+  const isDev = (ENV === 'dev');
+
+  // 1) Dev: try local file (fast iterate)
+  if (isDev) {
+    try {
+      await loadImage(el, stamp10(METEO_LOCAL), 600);
+      return;
+    } catch(e) {
+      console.warn('[synoptic] dev local image failed, trying RAW…');
+    }
+  }
+
+  // 2) RAW GitHub → blob (freshest)
+  try {
+    const resp = await fetch(stamp10(METEO_RAW), { cache: "no-store" });
+    if (resp.ok) {
+      const blob = await resp.blob();
+      const url  = URL.createObjectURL(blob);
+      el.src = url;
+      console.debug('[synoptic] using RAW blob image');
+      return;
+    } else {
+      console.warn('[synoptic] RAW fetch failed with status', resp.status);
+    }
+  } catch(e) {
+    console.warn('[synoptic] RAW fetch threw', e);
+  }
+
+  // 3) CDN fallback (may be a bit stale)
+  try {
+    await loadImage(el, stamp10(METEO_CDN), 5000);
+    console.debug('[synoptic] using CDN fallback image');
+    return;
+  } catch(e) {
+    console.error('[synoptic] CDN image failed too!', e);
+  }
+
+  // Last resort: force CDN url so something paints
+  el.src = stamp10(METEO_CDN);
+}
+
+
+
+
+</script>
+
+
+
+<!-- ===== main app code (unchanged except overlay calls) ===== -->
+<script>
+(function(){
+
+
+
+
+  const NOAA_URL   = 'https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/latest.jpg';
+  
+  const elM = document.getElementById('synoptic-meteosat');
+  const elN = document.getElementById('synoptic-noaa');
+
+
+
+  function setPressed(which){
+    document.getElementById('src-meteosat')?.setAttribute('aria-pressed', which==='meteo' ? 'true' : 'false');
+    document.getElementById('src-noaa')?.setAttribute('aria-pressed', which==='noaa' ? 'true' : 'false');
+  }
+
+  function formatValid(raw){
+    if (!raw) return '';
+    let t = raw.replace(/^For the period\s*/i,'').replace(/\(UTC\)/gi,'UTC').replace(/\s+to\s+/i,' → ')
+      .replace(/\bMonday\b/,'Mon').replace(/\bTuesday\b/,'Tue').replace(/\bWednesday\b/,'Wed')
+      .replace(/\bThursday\b/,'Thu').replace(/\bFriday\b/,'Fri').replace(/\bSaturday\b/,'Sat').replace(/\bSunday\b/,'Sun')
+      .replace(/\bJanuary\b/,'Jan').replace(/\bFebruary\b/,'Feb').replace(/\bMarch\b/,'Mar').replace(/\bApril\b/,'Apr')
+      .replace(/\bAugust\b/,'Aug').replace(/\bSeptember\b/,'Sep').replace(/\bOctober\b/,'Oct').replace(/\bNovember\b/,'Nov').replace(/\bDecember\b/,'Dec');
+    return 'Valid ' + t;
+  }
+
+
+
+  async function loadShippingForecast(){
+    try{
+      const j = await window.fetchShippingForecastAtomicFirst();
+      const syn   = (j.general_synopsis || '').trim();
+      const valid = (j.valid || '').trim();
+      document.getElementById('syn-synopsis')?.replaceChildren(document.createTextNode(syn || '—'));
+      document.getElementById('syn-valid')?.replaceChildren(document.createTextNode(formatValid(valid) || '—'));
+    }catch(e){
+      console.warn('[synoptic] shipping forecast load failed', e);
+      document.getElementById('syn-summary')?.setAttribute('hidden','');
+    }
+  }
+
+  async function setSynopticTitle(source, url){
+    const el = document.getElementById('synoptic-title'); if (!el) return;
+    const fmt = (d)=> d.toLocaleString('en-GB',{ timeZone:'UTC', hour12:false, year:'numeric', month:'short', day:'2-digit', hour:'2-digit', minute:'2-digit' }) + ' UTC';
+    el.textContent = `${source} — ${fmt(new Date())}`;
+    document.getElementById('syn-bot')?.removeAttribute('hidden');
+  }
+  
+  async function showMeteosat(){
+    setPressed('meteo');
+    document.getElementById('syn-summary')?.removeAttribute('hidden');
+    elN?.classList.remove('is-active');
+    elM?.classList.add('is-active');
+    elM?.classList.add('meteo-active');
+    elN?.classList.remove('meteo-active');
+
+    // Prefer local image if present (with 10-min stamp)
+
+    await setMeteoImageSrc(elM);
+
+
+
+
+    loadShippingForecast();
+
+    setSynopticTitleSmart('Meteosat (EUMETSAT)');
+
+    // enable overlay
+    window.overlayActivate && window.overlayActivate();
+  }
+
+  function showNOAA(){
+    setPressed('noaa');
+    document.getElementById('syn-summary')?.setAttribute('hidden','');
+    document.getElementById('syn-gales')?.setAttribute('hidden','');
+    elM?.classList.remove('is-active', 'meteo-active');
+    elN?.classList.add('is-active');
+    elN.referrerPolicy = 'no-referrer';
+    const stampNow = () => setSynopticTitle('NOAA GOES-16 GeoColor', location.href);
+    elN.onload = stampNow;
+    elN.onerror = stampNow;
+    elN.src = NOAA_URL;
+
+    // disable overlay
+    window.overlayDeactivate && window.overlayDeactivate();
+  }
+
+  window.addEventListener('message', (evt) => {
+    const d = evt.data || {};
+    if (d.type === 'parentPrimaryView' && d.view === 'synoptic') showMeteosat();
+    if (d.type === 'refreshSynoptic') showMeteosat();
+  });
+  document.getElementById('src-meteosat')?.addEventListener('click', showMeteosat);
+  document.getElementById('src-noaa')?.addEventListener('click', showNOAA);
+
+  // Defer until all later inline scripts (helpers) have executed
+  window.addEventListener('load', () => showMeteosat());
+
+  window.showNOAA = showNOAA;
+  window.showMeteosat = showMeteosat;
+
+
+
+
+  })();
+</script>
+
+
+<script>
+  // === Replace the old setSynopticTitle with this smarter version ===
+  (function(){
+    
+    const META_LOCAL = 'synoptic/atlantic_focus.png.json';
+    const META_CDN   = 'https://cdn.jsdelivr.net/gh/Bryan701701/spoton-synoptic@main/synoptic/atlantic_focus.png.json';
+
+
+
+
+    function fmtUTC(d){
+      // DOW, DD Mon YYYY HH:MM UTC (short and readable)
+      return d.toLocaleString('en-GB', {
+        timeZone: 'UTC',
+        year: 'numeric', month: 'short', day: '2-digit',
+        hour: '2-digit', minute: '2-digit',
+        hour12: false
+      }) + ' UTC';
+    }
+
+    async function fetchMetaSidecar() {
+      const RAW = 'https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/synoptic/atlantic_focus.png.json';
+      if (ENV === 'dev') {
+        const r = await fetch(META_LOCAL, { cache:'no-store' });
+        if (!r.ok) throw new Error('local meta missing');
+        return r.json();
+      }
+      // prod: RAW first (fresh), then CDN
+      try {
+        const rRaw = await fetch(RAW, { cache:'no-store' });
+        if (rRaw.ok) return rRaw.json();
+      } catch {}
+      const rCdn = await fetch(META_CDN, { cache:'no-store' });
+      if (!rCdn.ok) throw new Error('cdn meta missing');
+      return rCdn.json();
+    }
+
+    async function setSynopticTitleSmart(sourceName){
+      const el = document.getElementById('synoptic-title');
+      const band = document.getElementById('syn-bot');
+      if (!el) return;
+
+      try{
+        const meta = await fetchMetaSidecar();
+        const prod = meta && meta.product_time ? new Date(meta.product_time) : null;
+        const gen  = meta && meta.generated_utc ? new Date(meta.generated_utc) : null;
+
+        if (prod && !isNaN(prod)){
+          el.textContent = `${sourceName} — Meteosat obs: ${fmtUTC(prod)}`;
+        } else if (gen && !isNaN(gen)){
+          el.textContent = `${sourceName} — Rendered: ${fmtUTC(gen)}`;
+        } else {
+          el.textContent = `${sourceName} — ${fmtUTC(new Date())}`;
+        }
+      }catch(e){
+        // Fallback if we don't find/parse the sidecar
+        el.textContent = `${sourceName} — ${fmtUTC(new Date())}`;
+      }
+      band?.removeAttribute('hidden');
+    }
+
+    // expose for main code
+    window.setSynopticTitleSmart = setSynopticTitleSmart;
+  })();
+</script>
+
+<script>
+(function(){
+  // Dev uses local file; prod hits the repo directly (no SHA).
+  const SF_DEV  = 'synoptic/shipping_forecast_latest.json';
+  const SF_RAW  = 'https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/synoptic/shipping_forecast_latest.json';
+  const SF_CDN  = 'https://cdn.jsdelivr.net/gh/Bryan701701/spoton-synoptic@main/synoptic/shipping_forecast_latest.json';
+
+  async function fetchShippingForecastAtomicFirst() {
+    const isDev = (location.protocol === 'file:' || /^(localhost|127\.0\.0\.1)$/i.test(location.hostname));
+    // 1) dev: local file
+    if (isDev) {
+      const r = await fetch(SF_DEV, { cache:'no-store' });
+      if (r.ok) return r.json();
+      throw new Error('local SF missing');
+    }
+    // 2) prod: RAW main (fresh) then CDN main
+    try {
+      const rr = await fetch(SF_RAW, { cache:'no-store' });
+      if (rr.ok) return rr.json();
+    } catch {}
+    const rc = await fetch(SF_CDN, { cache:'no-store' });
+    if (rc.ok) return rc.json();
+    throw new Error('SF fetch failed (RAW & CDN)');
+  }
+
+  // expose for existing callers
+  window.fetchShippingForecastAtomicFirst = fetchShippingForecastAtomicFirst;
+})();
+</script>
+
+<script src="synoptic/gd.js?v=14"></script>
+
+<script>
+// get force + short "when" text without touching the dial
+function forceAndWhenFromArea(area){
+  const txt = String(area?.gale_text || "").trim();
+
+  // 1) baked numbers from the sidecar (if present)
+  for (const k of ["force","max_force","gale_force","dial_force"]) {
+    const v = Number(area?.[k]);
+    if (Number.isFinite(v)) return { force: v, when: "" };
+  }
+
+  // 2) same parser the dial uses
+  try {
+    if (window.GD && GD.parseGale) {
+      const m = GD.parseGale(txt);
+      const f = Number(m?.dial?.force ?? m?.force);
+      const when = (m?.labels?.when || m?.when || "").trim();
+      if (Number.isFinite(f)) return { force: f, when };
+    }
+  } catch(_) {}
+
+  // 3) regex fallback
+  const rx = /force\s*(\d{1,2})/i.exec(txt);
+  if (rx) {
+    const f = +rx[1];
+    if (f >= 6 && f <= 12) return { force: f, when: "" };
+  }
+
+  return { force: NaN, when: "" };
+}
+
+// minimal SVGs for flags (unchanged from your last message)
+function galeFlagSVG(force, size=36){                // ← bigger default
+  if (force >= 11) return gf_doubleSquare(size, 0.58);
+  if (force >= 10) return gf_singleSquare(size, 0.58);
+  if (force >=  9) return gf_doublePennant(size);
+  if (force >=  8) return gf_singlePennant(size);
+  return "";
+}
+function gf_singlePennant(s){
+  const w=s*1.6,h=s;
+  return `<svg width="${w}" height="${h}" viewBox="0 0 160 100" aria-label="gale pennant">
+    <polygon points="0,0 140,50 0,100" fill="#e10600"/><rect x="0" y="0" width="12" height="100" fill="#e10600"/></svg>`;
+}
+function gf_doublePennant(s){
+  const w=s*1.6,h=s*1.7;
+  return `<svg width="${w}" height="${h}" viewBox="0 0 160 170" aria-label="gale double pennant">
+    <polygon points="0,10 140,60 0,110" fill="#e10600"/>
+    <polygon points="0,90 140,140 0,190" transform="translate(0,-30)" fill="#e10600"/>
+    <rect x="0" y="0" width="12" height="170" fill="#e10600"/></svg>`;
+}
+
+function gf_singleSquare(s, innerRatio=0.58){
+  const inner = Math.round(s * innerRatio);
+  const off   = Math.round((s - inner) / 2);
+  const rx    = Math.round(s * 0.08);                // soft corners
+  return `<svg width="${s}" height="${s}" viewBox="0 0 ${s} ${s}" aria-label="storm warning">
+    <rect x="0" y="0" width="${s}" height="${s}" rx="${rx}" fill="#e10600"/>
+    <rect x="${off}" y="${off}" width="${inner}" height="${inner}" rx="${Math.round(inner*0.1)}" fill="#111"/>
+  </svg>`;
+}
+
+function gf_doubleSquare(s, innerRatio=0.58, gapRatio=0.18){
+  const gap = Math.round(s * gapRatio);
+  const w   = s*2 + gap;
+  const a   = gf_singleSquare(s, innerRatio).replace(/^<svg[^>]*>|<\/svg>$/g,"");
+  return `<svg width="${w}" height="${s}" viewBox="0 0 ${w} ${s}" aria-label="hurricane/violent storm warning">
+    ${a}<g transform="translate(${s+gap},0)">${a}</g>
+  </svg>`;
+}
+</script>
+<script>
+function galeFlagSVG(force, size=28){
+  if (force >= 11) return gf_doubleSquare(size);
+  if (force >= 10) return gf_singleSquare(size);
+  if (force >= 9)  return gf_doublePennant(size);
+  if (force >= 8)  return gf_singlePennant(size);
+  return "";
+}
+function gf_singlePennant(s){
+  const w=s*1.6,h=s;
+  return `<svg width="${w}" height="${h}" viewBox="0 0 160 100" aria-label="gale pennant">
+    <polygon points="0,0 140,50 0,100" fill="#e10600"/><rect x="0" y="0" width="12" height="100" fill="#e10600"/></svg>`;
+}
+function gf_doublePennant(s){
+  const w=s*1.6,h=s*1.7;
+  return `<svg width="${w}" height="${h}" viewBox="0 0 160 170" aria-label="gale double pennant">
+    <polygon points="0,10 140,60 0,110" fill="#e10600"/>
+    <polygon points="0,90 140,140 0,190" transform="translate(0,-30)" fill="#e10600"/>
+    <rect x="0" y="0" width="12" height="170" fill="#e10600"/></svg>`;
+}
+// Red square with centered black square — no rope, sharp corners
+function gf_singleSquare(s){
+  const inner = Math.round(s * 0.50);             // bigger black square (~50%)
+  const off   = Math.round((s - inner) / 2);       // center it
+  return `<svg width="${s}" height="${s}" viewBox="0 0 ${s} ${s}" aria-label="storm warning">
+    <rect x="0" y="0" width="${s}" height="${s}" fill="#e10600"/>
+    <rect x="${off}" y="${off}" width="${inner}" height="${inner}" fill="#111"/>
+  </svg>`;
+}
+
+// Two stacked squares with even gap, no clipping
+function gf_doubleSquare(s){
+  const gap = Math.round(s * 0.14);                // small spacing between flags
+  const h   = s * 2 + gap;
+  return `<svg width="${s}" height="${h}" viewBox="0 0 ${s} ${h}" aria-label="hurricane/violent storm warning">
+    ${gf_singleSquare(s).replace(/^<svg[^>]*>|<\/svg>$/g,"")}
+    <g transform="translate(0,${s + gap})">
+      ${gf_singleSquare(s).replace(/^<svg[^>]*>|<\/svg>$/g,"")}
+    </g>
+  </svg>`;
+}
+</script>
+
+<!-- === Gale overlay === -->
+<script>
+(() => {
+  const IMG  = document.getElementById('synoptic-meteosat');
+  const OVL  = document.getElementById('overlay');
+  const TIP  = document.getElementById('tooltip');
+
+  // --- right-panel elements ---
+  const PANEL_DETAIL = document.getElementById('syn-gale-detail');
+  const PANEL_LIST   = document.getElementById('syn-gales');
+  const EL_AREA      = document.getElementById('gd-area');
+  const EL_ISSUED    = document.getElementById('gd-issued');
+  const EL_TEXT      = document.getElementById('gd-text');
+
+  // radius for picking
+  const HOVER_RADIUS_PX = 34;
+
+  // Sidecar with pixel coords
+  const AREAS_LOCAL = 'synoptic/atlantic_focus_areas.json';
+  const AREAS_CDN   = 'https://cdn.jsdelivr.net/gh/Bryan701701/spoton-synoptic@main/synoptic/atlantic_focus_areas.json';
+
+  async function fetchAreasSidecar() {
+    const AREAS_RAW = 'https://raw.githubusercontent.com/Bryan701701/spoton-synoptic/main/synoptic/atlantic_focus_areas.json';
+    const urlDev = AREAS_LOCAL;
+    const urlCdnStamped = `${AREAS_CDN}?v=${Math.floor(Date.now() / (10 * 60 * 1000))}`;
+
+    if (ENV === 'dev') {
+      const r = await fetch(urlDev, { cache:'no-store' });
+      if (!r.ok) throw new Error('areas fetch failed (dev)');
+      return r.json();
+    }
+    // prod: RAW first, then CDN (both no-store to avoid sticky edges)
+    try {
+      const rRaw = await fetch(AREAS_RAW, { cache:'no-store' });
+      if (rRaw.ok) return rRaw.json();
+    } catch {}
+    const rCdn = await fetch(urlCdnStamped, { cache:'no-store' });
+    if (!rCdn.ok) throw new Error('areas fetch failed (cdn)');
+    return rCdn.json();
+  }
+
+
+  let areas = [];
+  let imgW = 0, imgH = 0;
+  let pinned = null;
+
+  // ---------- helpers ----------
+  function esc(s){ return String(s || '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+
+  function positionTooltip(clientX, clientY) {
+    TIP.style.display = 'block';
+    TIP.style.left = clientX + 12 + 'px';
+    TIP.style.top  = clientY + 12 + 'px';
+    const r = TIP.getBoundingClientRect();
+    let left = parseFloat(TIP.style.left);
+    let top  = parseFloat(TIP.style.top);
+    if (left + r.width > window.innerWidth) left = clientX - r.width - 12;
+    if (top + r.height > window.innerHeight) top = clientY - r.height - 12;
+    TIP.style.left = left + 'px';
+    TIP.style.top  = top + 'px';
+  }
+  function hideTooltip(){ if (!pinned) TIP.style.display = 'none'; }
+
+  // Split gale text into issued + body
+  function splitGaleText(raw){
+    const lines = String(raw || '').split('\n').map(s => s.trim()).filter(Boolean);
+    let issued = '', body = '';
+    const idxIssued = lines.findIndex(l => l.toLowerCase().startsWith('issued'));
+    if (idxIssued >= 0) {
+      if (idxIssued + 1 < lines.length) issued = lines[idxIssued + 1];
+      body = lines.slice(idxIssued + 2).join(' ');
+    } else {
+      const idxGW = lines.findIndex(l => /gale\s+warning/i.test(l));
+      if (idxGW >= 0) { issued = lines[idxGW + 1] || ''; body = lines.slice(idxGW + 2).join(' '); }
+      else body = lines.join(' ');
+    }
+    return { issued, body };
+  }
+
+  // Fill the side-panel detail card — now renders the dial
+  function setPanelFromArea(area){
+    if (!PANEL_DETAIL) return;
+
+    const EL_DIAL   = document.getElementById('gd-dial');
+    const EL_EXTRA  = document.getElementById('gd-extra');   // <details> wrapper
+    const issuedClr = 'var(--muted)';
+
+    if (!area || !area.gale){
+      PANEL_DETAIL.setAttribute('hidden','');
+      if (EL_DIAL)  EL_DIAL.innerHTML = '';
+      if (EL_TEXT) { EL_TEXT.textContent = ''; }
+      return;
+    }
+
+    // Extract "Issued:" and body from the raw gale text
+    const { issued, body } = splitGaleText(area.gale_text);
+
+    // Title
+    if (EL_AREA) EL_AREA.textContent = `${area.name} — Gale warning`;
+
+    // Issued line
+    if (EL_ISSUED) {
+      EL_ISSUED.textContent = issued ? `Issued: ${issued}` : '';
+      EL_ISSUED.style.display = issued ? '' : 'none';
+      EL_ISSUED.style.color = issuedClr;
+    }
+
+    // Render dial using the parsed body (fallback to full gale text if no body)
+    if (EL_DIAL && window.GD && GD.parseGale && GD.renderGaleDial) {
+      const model = GD.parseGale(body || area.gale_text || '');
+      EL_DIAL.innerHTML = '';
+      if (model && model.dial && Number.isFinite(model.dial.force)) {
+        GD.renderGaleDial(EL_DIAL, model);
+      } else {
+        // Fallback: no parse → just show the body text
+        const fallback = document.createElement('div');
+        fallback.textContent = '(unable to parse gale text)';
+        fallback.style.color = '#6b7280';
+        fallback.style.fontStyle = 'italic';
+        EL_DIAL.appendChild(fallback);
+      }
+    }
+
+    // Raw full text into <pre> inside details
+    if (EL_TEXT) EL_TEXT.textContent = body || area.gale_text || '';
+
+    PANEL_DETAIL.removeAttribute('hidden');
+  }
+
+  function buildTooltipHTML(area){
+    const { issued, body } = splitGaleText(area.gale_text);
+    const { force } = forceAndWhenFromArea(area);  // ← same number dial uses
+    const title = `${esc(area.name)} — Gale warning`;
+
+    // Make flags slightly bigger (34px instead of 28px)
+    const flag = Number.isFinite(force) ? galeFlagSVG(force, 38) : "";
+
+    // Minimal hover: title + flags + issued (at bottom)
+    return `
+      <strong>${title}</strong>
+      <div class="wx-flag">${flag}</div>
+      ${issued ? `<div class="issued">Issued: ${esc(issued)}</div>` : ""}
+    `;
+  }
+
+  function showTooltipFor(area, clientX, clientY){
+    if (!area || !area.gale) { hideTooltip(); return; }
+    TIP.innerHTML = buildTooltipHTML(area);
+    positionTooltip(clientX, clientY);
+    setPanelFromArea(area);
+  }
+
+  // CSS-object-fit aware transform
+  function getFitTransform() {
+    const w  = OVL.clientWidth  || 1;
+    const h  = OVL.clientHeight || 1;
+    const iw = imgW || IMG.naturalWidth  || 1;
+    const ih = imgH || IMG.naturalHeight || 1;
+
+    const fit = (getComputedStyle(IMG).objectFit || '').toLowerCase();
+    const isCover   = (fit === 'cover');
+    const isContain = (fit === 'contain');
+    const fallbackCover = IMG.classList.contains('meteo-active');
+    const useCover = isCover || (!isContain && fallbackCover);
+    const r = useCover ? Math.max(w/iw, h/ih) : Math.min(w/iw, h/ih);
+
+    const sw = iw * r, sh = ih * r;
+    const ox = (w - sw) * 0.5, oy = (h - sh) * 0.5;
+    return { r, ox, oy };
+  }
+
+  function pickGaleAt(mx, my) {
+    if (!areas.length) return null;
+    const { r, ox, oy } = getFitTransform();
+
+    const r2 = HOVER_RADIUS_PX * HOVER_RADIUS_PX;
+    const r2Fallback = (HOVER_RADIUS_PX * 1.6) * (HOVER_RADIUS_PX * 1.6);
+
+    let best = null, bestD2 = r2;
+    for (const a of areas) {
+      if (!a.gale) continue;
+      const ax = ox + a.x * r;
+      const ay = oy + a.y * r;
+      const dx = mx - ax, dy = my - ay;
+      const d2 = dx*dx + dy*dy;
+      if (d2 <= bestD2) { bestD2 = d2; best = a; }
+    }
+    if (best) return best;
+
+    bestD2 = r2Fallback;
+    for (const a of areas) {
+      if (!a.gale) continue;
+      const ax = ox + a.x * r;
+      const ay = oy + a.y * r;
+      const dx = mx - ax, dy = my - ay;
+      const d2 = dx*dx + dy*dy;
+      if (d2 <= bestD2) { bestD2 = d2; best = a; }
+    }
+    return best;
+  }
+
+  // -------- SF fetch + reconcile ----------
+
+
+
+async function initOverlay(){
+  try {
+    // Load: (1) areas sidecar (coords/sizes) + (2) latest SF (if available)
+    const data = await fetchAreasSidecar();
+
+    areas = (data && data.areas) ? data.areas.slice() : [];
+    imgW  = data?.image_size?.width  || IMG.naturalWidth  || 1;
+    imgH  = data?.image_size?.height || IMG.naturalHeight || 1;
+
+    // Use the baked gale flags/text exactly as produced with the image.
+    // No reconciliation here — avoids drift.
+
+    // Single source of truth for the chip (even if no SF → chip hides)
+    window.renderGalesChipFromAreas && window.renderGalesChipFromAreas(areas);
+
+  } catch (e) {
+    console.warn('[overlay] failed to init:', e);
+  }
+}
+
+  // -------- events --------
+  OVL.addEventListener('pointermove', (e) => {
+    if (pinned) return;
+    const rect = OVL.getBoundingClientRect();
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    const hit = pickGaleAt(mx, my);
+    if (hit) showTooltipFor(hit, e.clientX, e.clientY);
+    else { hideTooltip(); setPanelFromArea(null); }
+  });
+
+  OVL.addEventListener('pointerleave', () => {
+    if (!pinned) { hideTooltip(); setPanelFromArea(null); }
+  });
+
+  OVL.addEventListener('click', (e) => {
+    const rect = OVL.getBoundingClientRect();
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    const hit = pickGaleAt(mx, my);
+    if (pinned && (!hit || hit.name === pinned.name)) {
+      pinned = null; hideTooltip(); setPanelFromArea(null); return;
+    }
+    if (hit) { pinned = hit; showTooltipFor(hit, e.clientX, e.clientY); }
+  });
+
+  // public API
+  window.overlayActivate = async function(){
+    if (!areas.length) await initOverlay();
+    OVL.style.display = 'block';
+    setPanelFromArea(null);
+  };
+  window.overlayDeactivate = function(){
+    OVL.style.display = 'none';
+    TIP.style.display = 'none';
+    pinned = null;
+    setPanelFromArea(null);
+  };
+
+  // Preload in background
+  initOverlay();
+})();
+</script>
+
+<script>
+(function(){
+  // Same bucketing as Spot-On uses (so the right size is picked for this viewport width)
+  function bucket() {
+    return Math.round(window.innerWidth / 200) * 200;
+  }
+
+  function applySynopticPanelWidth() {
+    const key = `forecast.size.${bucket()}`;
+    try {
+      const saved = JSON.parse(localStorage.getItem(key) || 'null');
+      // saved is typically { w: <number>, h: <number> }
+      if (saved && Number.isFinite(saved.w) && saved.w > 0) {
+        document.documentElement.style.setProperty('--syn-rightW', `${saved.w}px`);
+      } else {
+        // fallback to 560 if nothing saved
+        document.documentElement.style.setProperty('--syn-rightW', `560px`);
+      }
+    } catch (e) {
+      document.documentElement.style.setProperty('--syn-rightW', `560px`);
+    }
+  }
+
+  window.addEventListener('DOMContentLoaded', applySynopticPanelWidth);
+  // Also re-apply on resize in case the viewport bucket changes and a different saved width exists
+  window.addEventListener('resize', applySynopticPanelWidth);
+})();
+
+</script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+Today in the Hebrides, it's a bit of a challenge with poor conditions: 9 ft @10s NNW swell and fresh 19 mph N wind. Tomorrow brings a nice improvement with 5 ft @10s NNW and light 8 mph NNE winds, making it a clean day at spots like Tolsta and Port of Ness. The day after, we see a rise to 7 ft @9s WSW but with fresh 17 mph WSW winds, leading to mixed conditions. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today, the North East is on the quieter side with 2 ft @4s SSW swell and fresh 27 mph SW winds, making it blown out. Tomorrow drops further to 1 ft @7s NNW with light 4 mph SW winds, so it’s not producing. Day after brings a bit more life with 3 ft @7s N swell, but the fresh 26 mph WNW wind will keep it choppy. Best: day after.

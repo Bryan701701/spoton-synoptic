@@ -1,0 +1,1 @@
+Today at Saltburn Beach, expect clean 1 ft @ 11s N with light 10 mph SSW winds, making for a fun day on the water. Tomorrow, conditions shift with 4 ft @ 8s N swell but fresh 28 mph WNW winds will likely blow it out across the coast. Day after brings 3 ft @ 8s NNE with moderate 13 mph SSW winds, offering a more workable session. Best: today.

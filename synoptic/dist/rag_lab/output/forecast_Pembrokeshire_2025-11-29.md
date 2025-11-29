@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's a solid 6 ft @10s WSW with light NW winds at 10 mph. Great conditions at spots like Abereiddy and Whitesands Bay, especially around their best tide windows. Tomorrow, the swell drops slightly to 4 ft @9s, but still clean and fun with similar wind conditions. Day after, expect 7 ft @8s SW, but fresh SSW winds will make it blown out. Best: today.

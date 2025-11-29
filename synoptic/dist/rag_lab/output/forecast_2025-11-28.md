@@ -1,0 +1,1 @@
+Today on the West Coast, it's a no-go with 12 ft @13s W swell and fresh 30 mph SW winds making it blown out. Tomorrow sees a drop to 5 ft @10s WNW, but the fresh 18 mph N wind keeps it messy. Day after, conditions improve with 2 ft @8s NW and light 4 mph NNW winds, making for fun, clean surf at spots like Ardnave Bay. Best: day after.

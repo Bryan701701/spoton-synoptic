@@ -1,0 +1,1 @@
+Today on the West Coast, it's a bit of a struggle with 6 ft @10s WNW swell but fresh 19 mph N winds making it blown out. Tomorrow sees a nice improvement with 2 ft @8s NW swell and lighter 11 mph NNW winds, so Ardnave Bay and Saligo Bay should be fun. Day after brings 3 ft @8s W with 15 mph SSW winds; still workable at sheltered spots. Best: tomorrow.
