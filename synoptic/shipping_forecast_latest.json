@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-11-30T16:00:01Z",
+  "fetched_at": "2025-11-30T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 30 Nov 2025",
   "valid": "For the period 12:00 (UTC) on Sun 30 Nov 2025 to 12:00 (UTC) on Mon 1 Dec 2025",
   "general_synopsis": "Atlantic low 953 expected 300 miles west of Rockall 962 by 0600 tomorrow. Low German Bight 985 moving steadily northeast and losing its identity",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nCyclonic 4 to 6, becoming southerly 6 or 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming southerly 6 or 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -23,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nCyclonic 4 to 6, becoming southerly 6 or 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming southerly 6 or 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Rain.",
@@ -30,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 4 to 6, then south 6 to gale 8 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent, backing southeasterly later",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
       "wind": "Northwest 6 to gale 8, backing southwest 4 to 6, then south 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain.",
@@ -62,7 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent, backing southerly later",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
       "wind": "Cyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain.",
@@ -70,7 +72,7 @@
     },
     "Fisher": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nGale force 8 backing southerly later",
       "wind": "Cyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain.",
@@ -78,7 +80,7 @@
     },
     "German Bight": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nGale force 8 backing southerly later",
       "wind": "Cyclonic 6 to gale 8, becoming southwest 5 to 7, backing south 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain.",
@@ -134,6 +136,7 @@
     },
     "Biscay": {
       "text": "Wind\nVariable 2 to 4, becoming southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough later in northwest.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough later in northwest.",
       "weather": "Rain.",
@@ -204,7 +207,7 @@
     },
     "Malin": {
       "text": "Wind\nSouth or southeast 6 to gale 8, veering southwest 4 to 6.\nSea state\nModerate or rough, occasionally very rough later in west.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 29 Nov 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nSoutheasterly gale force 8 continuing",
       "wind": "South or southeast 6 to gale 8, veering southwest 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough later in west.",
       "weather": "Rain.",
@@ -220,7 +223,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth or southeast 6 to gale 8, occasionally severe gale 9, veering southwest 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 29 Nov 2025\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:59 (UTC) on Sun 30 Nov 2025\nSoutheasterly severe gale force 9 continuing",
       "wind": "South or southeast 6 to gale 8, occasionally severe gale 9, veering southwest 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
