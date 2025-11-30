@@ -1,1 +1,3 @@
-County Sligo is looking solid! Today, enjoy 4 ft @10s NNW swell with a moderate 11 mph WNW wind. Good spots like Dunmoran Strand and Easkey Right are working well, especially during their respective tide windows. Tomorrow, the swell drops to 3 ft @9s NW with fresh 14 mph S winds, making it less inviting—Strandhill is your best bet. Day after, swell picks up to 8 ft @14s WNW, but with similar winds, it may be a bit messy; Easkey spots will be the go-to. Best: today.
+County Sligo is looking solid over the next few days! 
+
+Today, enjoy 4 ft @10s NNW at spots like Dunmoran Strand and Easkey Right, with a light 11 mph WNW wind keeping it clean. Tomorrow, the swell drops to 3 ft @9s NW with a fresh 14 mph S wind, making Strandhill the best pick. By the day after, we're back up to 8 ft @14s WNW, with Easkey Right and Left lighting up under a moderate 13 mph SSW wind. Best: today.
