@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-01T10:00:01Z",
+  "fetched_at": "2025-12-01T10:30:01Z",
   "issued": "Issued at: 05:05 (UTC) on Mon 1 Dec 2025",
   "valid": "For the period 06:00 (UTC) on Mon 1 Dec 2025 to 06:00 (UTC) on Tue 2 Dec 2025",
   "general_synopsis": "Atlantic low 959 moving steadily east expected just west of Rockall 968 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nIn west, southeasterly 6 to gale 8, becoming cyclonic 4 to 6. In east, southwesterly 4 to 6, backing southerly or southeasterly 6 to gale 8.\nSea state\nIn west, rough occasionally very rough. in east, moderate or rough becoming rough or very rough.\nWeather\nRain.\nVisibility\nIn west, good, occasionally poor. In east, moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSoutheasterly gale force 8 continuing",
       "wind": "In west, southeasterly 6 to gale 8, becoming cyclonic 4 to 6. In east, southwesterly 4 to 6, backing southerly or southeasterly 6 to gale 8.",
       "sea_state": "In west, rough occasionally very rough. in east, moderate or rough becoming rough or very rough.",
       "weather": "Rain.",
@@ -40,7 +40,6 @@
     },
     "Cromarty": {
       "text": "Wind\nSouth or southwest 6 to gale 8, becoming cyclonic 4 to 6 for a time.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
       "wind": "South or southwest 6 to gale 8, becoming cyclonic 4 to 6 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -48,7 +47,6 @@
     },
     "Forth": {
       "text": "Wind\nSouth or southwest 6 to gale 8, becoming cyclonic 4 to 6 for a time.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
       "wind": "South or southwest 6 to gale 8, becoming cyclonic 4 to 6 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -56,7 +54,7 @@
     },
     "Tyne": {
       "text": "Wind\nSouth or southwest 6 to gale 8.\nSea state\nModerate or rough.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSoutherly gale force 8 continuing",
       "wind": "South or southwest 6 to gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain at times.",
@@ -88,7 +86,7 @@
     },
     "Humber": {
       "text": "Wind\nSouth or southwest 6 to gale 8.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nGale now ceased, but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSoutherly gale force 8 continuing, increasing severe gale force 9 soon",
       "wind": "South or southwest 6 to gale 8.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain at times.",
@@ -96,7 +94,7 @@
     },
     "Thames": {
       "text": "Wind\nSouth or southwest 6 to gale 8.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSoutherly gale force 8 continuing",
       "wind": "South or southwest 6 to gale 8.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain at times.",
@@ -104,7 +102,7 @@
     },
     "Dover": {
       "text": "Wind\nSouth or southwest 6 to gale 8, decreasing 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 30 Nov 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSoutherly gale force 8 continuing",
       "wind": "South or southwest 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain, showers later.",
@@ -112,7 +110,7 @@
     },
     "Wight": {
       "text": "Wind\nSouth or southwest 6 to gale 8, perhaps severe gale 9 later, decreasing 4 to 6 later.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 increasing severe gale force 9 soon",
       "wind": "South or southwest 6 to gale 8, perhaps severe gale 9 later, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain, showers later.",
@@ -120,7 +118,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth or southwest 6 to gale 8, perhaps severe gale 9 later, decreasing 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 increasing severe gale force 9 soon",
       "wind": "South or southwest 6 to gale 8, perhaps severe gale 9 later, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain, showers later.",
@@ -175,7 +173,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWest or southwest 5 to 7, occasionally gale 8 until later.\nSea state\nRough or very rough.\nWeather\nRain then squally showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 30 Nov 2025\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 1 Dec 2025\nGale force 8 veering westerly imminent",
       "wind": "West or southwest 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then squally showers, perhaps thundery.",
