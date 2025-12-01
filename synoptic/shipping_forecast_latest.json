@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-01T03:45:02Z",
+  "fetched_at": "2025-12-01T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 30 Nov 2025",
   "valid": "For the period 00:00 (UTC) on Mon 1 Dec 2025 to 00:00 (UTC) on Tue 2 Dec 2025",
   "general_synopsis": "Atlantic low 958 moving steadily east expected 150 miles west of Rockall 965 by 1800 Monday. New low expected Forties 983 by same time. Low Fisher 990 moving steadily away northeast",
@@ -112,7 +112,7 @@
     },
     "Wight": {
       "text": "Wind\nIn east, westerly or southwesterly 5 to 7, backing southerly 6 to gale 8. In west, southwesterly 6 to gale 8, perhaps severe gale 9 later, decreasing 5 or 6 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nIn east, rain. In west, rain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sun 30 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "In east, westerly or southwesterly 5 to 7, backing southerly 6 to gale 8. In west, southwesterly 6 to gale 8, perhaps severe gale 9 later, decreasing 5 or 6 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "In east, rain. In west, rain, showers later.",
@@ -120,7 +120,7 @@
     },
     "Portland": {
       "text": "Wind\nSouthwesterly 6 to gale 8, perhaps severe gale 9 later, decreasing 5 or 6 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sun 30 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 6 to gale 8, perhaps severe gale 9 later, decreasing 5 or 6 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain, showers later.",
@@ -128,7 +128,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSouthwesterly 6 to gale 8, decreasing 5 or 6 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sun 30 Nov 2025\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 6 to gale 8, decreasing 5 or 6 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain, showers later.",
@@ -191,7 +191,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or southwest 5 to 7, occasionally gale 8.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 30 Nov 2025\nGale force 8 now veered southwesterly",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nGale force 8 veering westerly imminent",
       "wind": "West or southwest 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain then showers.",
@@ -199,6 +199,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest or southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 expected later",
       "wind": "West or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain then showers.",
@@ -213,7 +214,6 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic mainly southwest, 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 30 Nov 2025\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic mainly southwest, 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then showers.",
@@ -221,7 +221,6 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic mainly southwest, 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 30 Nov 2025\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic mainly southwest, 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain then showers.",
@@ -229,7 +228,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic mainly southeast, 6 to gale 8, decreasing 5 at times, becoming variable 2 to 4 later.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sun 30 Nov 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nSoutheasterly gale force 8 continuing",
       "wind": "Cyclonic mainly southeast, 6 to gale 8, decreasing 5 at times, becoming variable 2 to 4 later.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain, showers later.",
@@ -245,7 +244,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nIn southeast, cyclonic 7 to severe gale 9, decreasing 4 to 6 later. In northwest, easterly backing northeasterly, gale 8 to storm 10.\nSea state\nVery rough or high.\nWeather\nIn southeast, rain then showers. In northwest, rain.\nVisibility\nIn southeast, good, occasionally poor. In northwest, poor.",
-      "gale_warning": "Gale warning\nIssued:\n08:57 (UTC) on Sun 30 Nov 2025\nSoutheasterly gale force 8, increasing severe gale force 9 soon, backing easterly and increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Mon 1 Dec 2025\nStorm force 10 now decreased severe gale force 9, backing northeasterly soon, increasing storm force 10 later",
       "wind": "In southeast, cyclonic 7 to severe gale 9, decreasing 4 to 6 later. In northwest, easterly backing northeasterly, gale 8 to storm 10.",
       "sea_state": "Very rough or high.",
       "weather": "In southeast, rain then showers. In northwest, rain.",
