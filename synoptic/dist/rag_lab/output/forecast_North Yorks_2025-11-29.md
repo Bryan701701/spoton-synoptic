@@ -1,1 +1,0 @@
-North Yorks is clean and fun today with 1 ft @10s N swell and light 10 mph SW winds. Withernsea and Filey are your best bets, especially during their mid-morning and afternoon windows. Tomorrow, conditions drop to 4 ft @7s N with fresh 28 mph WNW winds, making it blown out across the board. Day after, still poor with 3 ft @8s NNE and 20 mph SSW winds. Best: today.

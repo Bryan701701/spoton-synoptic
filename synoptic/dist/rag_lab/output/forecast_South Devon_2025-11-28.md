@@ -1,1 +1,0 @@
-Today in South Devon, it's a bit rough with 3 ft @6s SW swell and fresh 24 mph WSW winds making it blown out. Tomorrow, the swell picks up to 5 ft @8s SW but the wind ramps up to 33 mph SSW, keeping it messy. On the day after, Bantham offers a cleaner 2 ft @8s SW with light 8 mph WNW winds, making it more workable. Best: day after.

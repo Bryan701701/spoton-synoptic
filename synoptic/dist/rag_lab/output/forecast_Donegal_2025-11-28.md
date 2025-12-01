@@ -1,1 +1,0 @@
-Today in Donegal, conditions are flat with no surf energy—just a calm day. Tomorrow, we see a solid improvement with swell building to 9 ft @11s NW and light NNE winds, making it a great day for surf at spots like Magheroaty Beach and Bloody Foreland. The day after also looks promising with similar conditions, holding at 5 ft @9s NW and light winds. Best: tomorrow.

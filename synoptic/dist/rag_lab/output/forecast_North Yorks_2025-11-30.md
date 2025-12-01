@@ -1,1 +1,0 @@
-Today in North Yorks, it’s a bit rough with 5 ft @8s N swell and fresh 27 mph WNW wind—definitely blown out. Tomorrow sees a drop to 3 ft @7s NNE, still messy with 26 mph S wind. Day after remains similar at 3 ft @9s NE, with 19 mph SSW wind, not improving much. Best: day after.

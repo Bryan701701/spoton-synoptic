@@ -1,1 +1,0 @@
-Today, North Yorks is flat with no surf energy—just 2 ft @4s SW and fresh 23 mph SW winds. Tomorrow sees a further drop to 1 ft @8s N with light 10 mph SW winds, still not producing. Day after, conditions improve slightly with 4 ft @7s N, but fresh 24 mph WNW winds will make it challenging. Best: day after.

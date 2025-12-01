@@ -1,1 +1,0 @@
-Today on the West Coast, conditions are poor with 6 ft @10s WNW swell and fresh 19 mph N wind, making it blown out. Tomorrow improves slightly with 2 ft @8s NW swell and moderate 11 mph NNW wind, but still not ideal. The day after brings 3 ft @8s W swell with 15 mph SSW wind, offering a bit more potential, though still not great. Best: day after.
