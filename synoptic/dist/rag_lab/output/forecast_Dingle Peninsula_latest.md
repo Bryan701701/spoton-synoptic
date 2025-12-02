@@ -1,1 +1,0 @@
-Today on the Dingle Peninsula, it's a quiet scene with no surf action—wrong swell angle and fresh 26 mph WSW wind. Tomorrow sees a slight increase in swell to 13 ft @12s WNW, but the wind remains fresh at 19 mph, keeping conditions poor. Day after, the swell drops to 9 ft @11s W with 24 mph WNW wind, still not producing anything worthwhile. Best: none.
