@@ -1,0 +1,1 @@
+Today, North Yorks is quiet with 4 ft @8s NE swell, but fresh 29 mph SSW winds are making it blown out. Tomorrow, conditions improve with 2 ft @8s NE and light 10 mph SSW winds, making for some fun peaks at spots like Withernsea and Whitby Beach during the mid-tide window. The day after, surf drops to 1 ft @8s NE with 13 mph S winds, keeping it on the poor side. Best: tomorrow.
