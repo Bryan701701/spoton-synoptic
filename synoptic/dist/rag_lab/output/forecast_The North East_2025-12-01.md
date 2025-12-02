@@ -1,1 +1,0 @@
-Today in the North East, it's a bit blown out with fresh 26 mph S winds, bringing 3 ft @ 7s ENE swell. Tomorrow sees a slight drop to 2 ft @ 8s with moderate 17 mph SSW winds; Saltburn Beach may be your best bet. The day after, conditions improve slightly with 2 ft @ 8s NE swell and lighter 12 mph SSW winds, making Saltburn Beach a good choice again. Best: day after.
