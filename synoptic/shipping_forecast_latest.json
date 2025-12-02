@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-02T16:00:02Z",
+  "fetched_at": "2025-12-02T16:30:01Z",
   "issued": "Issued at: 11:30 (UTC) on Tue 2 Dec 2025",
   "valid": "For the period 12:00 (UTC) on Tue 2 Dec 2025 to 12:00 (UTC) on Wed 3 Dec 2025",
   "general_synopsis": "Low just west of Rockall 973 expected Hebrides 988 by 0600 tomorrow. Low Fair Isle 979 expected Norwegian Sea 983 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nSouthwesterly 7 to severe gale 9, decreasing 5 or 6, backing southerly 5 to 7 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nRain then showers, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Tue 2 Dec 2025\nSoutherly gale force 8 imminent, veering southwesterly and increasing severe gale force 9 soon",
       "wind": "Southwesterly 7 to severe gale 9, decreasing 5 or 6, backing southerly 5 to 7 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Rain then showers, perhaps thundery later.",
@@ -16,7 +15,6 @@
     },
     "North Utsire": {
       "text": "Wind\nSouthwesterly 7 to severe gale 9, decreasing 5 or 6, backing southerly 5 to 7 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nRain then showers, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Tue 2 Dec 2025\nSoutherly gale force 8 imminent, increasing severe gale force 9 soon",
       "wind": "Southwesterly 7 to severe gale 9, decreasing 5 or 6, backing southerly 5 to 7 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Rain then showers, perhaps thundery later.",
@@ -159,6 +157,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSouthwest 4 to 6.\nSea state\nRough or very rough.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Tue 2 Dec 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers.",
@@ -212,7 +211,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic becoming southerly 5 to 7, occasionally gale 8 at first in far northeast.\nSea state\nRough or very rough, but moderate or rough in southeast.\nWeather\nRain then showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 1 Dec 2025\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming southerly 5 to 7, occasionally gale 8 at first in far northeast.",
       "sea_state": "Rough or very rough, but moderate or rough in southeast.",
       "weather": "Rain then showers, perhaps thundery.",
