@@ -1,0 +1,1 @@
+Today in Cornwall, it's a tough call with fresh onshore winds at 33 mph making for blown-out conditions across all coasts. Tomorrow, the swell remains at 6 ft @10s, but the wind will ease to 21 mph, still not ideal. Day after, expect 8 ft @13s, with winds calming to 15 mph, offering some potential at sheltered spots. Best: day after.
