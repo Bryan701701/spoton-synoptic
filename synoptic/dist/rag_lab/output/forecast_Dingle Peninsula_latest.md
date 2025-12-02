@@ -1,1 +1,1 @@
-Today on the Dingle Peninsula, conditions are poor with 0 ft swell and calm N winds. Tomorrow sees a slight increase to 13 ft @12s WNW, but with fresh 19 mph W winds making it blown out. The day after drops to 9 ft @11s W, still messy with 24 mph WNW winds. Best: tomorrow.
+Today on the Dingle Peninsula, conditions are poor with 0 ft swell and calm N winds. Tomorrow, expect a bit more action with 13 ft @12s WNW swell, but fresh 19 mph W winds will keep it messy. Day after, the swell drops to 9 ft @11s W with 24 mph WNW winds, still not ideal. Best: tomorrow.
