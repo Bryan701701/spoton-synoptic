@@ -1,1 +1,0 @@
-The East Coast is lighting up today with 4 ft @ 7s SE swell and a moderate 11 mph WSW wind. Best spots include Aberdeen Beach and Cruden Bay, both offering fun conditions during the tide windows. Tomorrow sees a drop to 3 ft @ 6s with fresh 25 mph S winds, making it a poor day for surf. Day after, conditions improve slightly to 3 ft @ 5s, but still not ideal. Best: today.
