@@ -1,0 +1,1 @@
+Sutherland is looking solid today with 3ft @11s NNW swell and light SSE winds. Melvich and Strathy are both working well, especially around their best tide windows. Tomorrow, the swell picks up to 5ft @12s W, but watch for fresh SE winds making it a bit choppy. Day after, conditions ease with 4ft @10s NW swell and lighter SE winds, making it a great day to surf. Best: day after.
