@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s a bit rough with 8 ft @10s SW swell and fresh 35 mph SSE winds. All spots are blown out, so it’s best to give it a miss. Tomorrow, conditions improve slightly with 5 ft @9s SW and 23 mph ESE winds, but still not ideal—expect some chop. The day after sees a return to 8 ft @13s W swell with 25 mph SSE winds, keeping it messy again. Best: tomorrow.
