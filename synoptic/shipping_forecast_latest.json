@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-03T09:45:02Z",
+  "fetched_at": "2025-12-03T10:00:02Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 3 Dec 2025",
   "valid": "For the period 06:00 (UTC) on Wed 3 Dec 2025 to 06:00 (UTC) on Thu 4 Dec 2025",
   "general_synopsis": "Low Rockall 987 losing its identity. New low expected 80 miles west of Rockall 979 by midnight tonight",
@@ -92,6 +92,7 @@
     },
     "Dover": {
       "text": "Wind\nSouth or southwest 4 to 6.\nSea state\nModerate or rough, occasionally slight at first.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 3 Dec 2025\nSouthwesterly gale force 8 expected later",
       "wind": "South or southwest 4 to 6.",
       "sea_state": "Moderate or rough, occasionally slight at first.",
       "weather": "Thundery showers, rain later.",
@@ -99,6 +100,7 @@
     },
     "Wight": {
       "text": "Wind\nSouth or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, occasionally slight at first.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 3 Dec 2025\nSoutheasterly gale force 8 expected later",
       "wind": "South or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, occasionally slight at first.",
       "weather": "Thundery showers, rain later.",
@@ -106,6 +108,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 3 Dec 2025\nSoutheasterly gale force 8 expected later",
       "wind": "South or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Thundery showers, rain later.",
@@ -113,7 +116,7 @@
     },
     "Plymouth": {
       "text": "Wind\nWest or southwest 4 to 6, increasing 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Tue 2 Dec 2025\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 3 Dec 2025\nNorthwesterly severe gale force 9 expected soon",
       "wind": "West or southwest 4 to 6, increasing 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers, rain later.",
@@ -121,7 +124,7 @@
     },
     "Biscay": {
       "text": "Wind\nWest or southwest 4 to 6, increasing 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Tue 2 Dec 2025\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 3 Dec 2025\nNorthwesterly severe gale force 9 expected soon",
       "wind": "West or southwest 4 to 6, increasing 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers, rain later.",
@@ -221,7 +224,6 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 in west, becoming southeasterly 4 or 5 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Tue 2 Dec 2025\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 in west, becoming southeasterly 4 or 5 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Rain or thundery showers.",
