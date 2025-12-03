@@ -1,1 +1,0 @@
-Today in Donegal, surf is looking good with 4 ft @9s W at spots like Rossnowlagh and Tullan Strand, complemented by a light 11 mph S wind. Tomorrow, conditions drop to 12 ft @13s W with fresh 20 mph SSW winds, making it poor across the board. The day after continues the trend with 10 ft @12s W and stronger 25 mph W winds, keeping it blown out. Best: today.
