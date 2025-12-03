@@ -1,1 +1,0 @@
-Today on the West Coast, it's looking poor with 3 ft @9s W and fresh 18 mph SW winds creating a blown-out mess. Tomorrow, conditions worsen with 8 ft @12s W and stronger 26 mph SSW winds, making it a tough day for surfing. The day after, expect 7 ft @12s W and even fresher 29 mph SSW winds, keeping it challenging. Best: today.
