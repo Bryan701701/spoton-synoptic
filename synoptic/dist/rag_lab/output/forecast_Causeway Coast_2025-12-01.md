@@ -1,0 +1,1 @@
+Today on the Causeway Coast, it's looking fun with 3 ft @9s WNW swell and light 9 mph SW winds. White Park Bay and Portballintrae are the top picks, especially during the tide windows. Tomorrow, conditions drop with fresh 22 mph S winds making it blown out across the board. The day after, similar conditions persist with strong 29 mph S winds, keeping the surf poor. Best: today.
