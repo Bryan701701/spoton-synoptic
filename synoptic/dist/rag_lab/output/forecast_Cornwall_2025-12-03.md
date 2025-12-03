@@ -1,0 +1,3 @@
+Today, Cornwall is lighting up with solid surf! North spots like Crantock and Fistral are offering 7ft @ 13s W with a light 12 mph SW wind, best early and mid-day. South coast gems Porthcurno and Praa Sands are also in the mix with 7ft @ 12s W, featuring light 4 mph SSE winds—perfect for some fun rides. Over on the West, Sennen Cove and Gwenvor are holding 8ft @ 13s W, with a fresh 13 mph W wind—great for those looking for a bit more power. 
+
+Tomorrow, expect a drop in conditions across all coasts with strong NW winds making it blown out. Day after, North picks back up with 7ft @ 12s W and lighter SSE winds, offering a cleaner window. Best: today!
