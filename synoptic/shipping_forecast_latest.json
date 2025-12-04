@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-04T15:30:01Z",
+  "fetched_at": "2025-12-04T16:00:01Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 4 Dec 2025",
   "valid": "For the period 12:00 (UTC) on Thu 4 Dec 2025 to 12:00 (UTC) on Fri 5 Dec 2025",
   "general_synopsis": "Low just west of Rockall 975 expected Forth 997 by 0600 Friday",
@@ -101,6 +101,7 @@
     },
     "Wight": {
       "text": "Wind\nWest backing south later, 4 to 6.\nSea state\nSlight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSoutherly gale force 8 expected later",
       "wind": "West backing south later, 4 to 6.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers.",
@@ -108,6 +109,7 @@
     },
     "Portland": {
       "text": "Wind\nWest or northwest 4 to 6, backing south 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSoutherly gale force 8 expected later",
       "wind": "West or northwest 4 to 6, backing south 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -170,7 +172,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nWest 4 to 6, backing south or southwest 6 to gale 8 later.\nSea state\nModerate or rough, occasionally slight at first.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 4 Dec 2025\nGale now ceased but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSoutherly severe gale force 9 expected later",
       "wind": "West 4 to 6, backing south or southwest 6 to gale 8 later.",
       "sea_state": "Moderate or rough, occasionally slight at first.",
       "weather": "Rain or squally showers.",
@@ -186,7 +188,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 6 to gale 8, perhaps severe gale 9 later.\nSea state\nVery rough or high.\nWeather\nOccasional rain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 4 Dec 2025\nSouthwesterly gale force 8 backing southeasterly later",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSouthwesterly gale force 8 backing and increasing southeasterly severe gale force 9 later",
       "wind": "Cyclonic 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Very rough or high.",
       "weather": "Occasional rain.",
@@ -194,7 +196,7 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic 4 to 6, becoming southeast 6 to gale 8 later.\nSea state\nRough or very rough, occasionally high in west.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 4 Dec 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSoutheasterly severe gale force 9 expected later",
       "wind": "Cyclonic 4 to 6, becoming southeast 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally high in west.",
       "weather": "Rain or showers.",
@@ -202,6 +204,7 @@
     },
     "Hebrides": {
       "text": "Wind\nEast or southeast 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nSoutheasterly gale force 8 expected later",
       "wind": "East or southeast 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -209,6 +212,7 @@
     },
     "Bailey": {
       "text": "Wind\nEast or southeast 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Thu 4 Dec 2025\nEasterly gale force 8 expected later",
       "wind": "East or southeast 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
