@@ -1,0 +1,1 @@
+Today on the Causeway Coast, Portballintrae is your go-to spot with 1ft @9s WNW and light 5 mph WNW winds, perfect for a fun session. Tomorrow, conditions drop to 3ft @14s WNW with fresh 19 mph S winds, making it blown out across the coast. Day after, Portballintrae sees a return to 1ft @10s WNW with 11 mph SE winds, offering some clean options. Best: today.

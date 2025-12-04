@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s a bit rough with 5 ft @9s WSW swell and fresh 20 mph SE winds making it blown out. Tomorrow, conditions improve to 8 ft @14s with the same SE winds, offering some fun options at spots like Dalmore and Scarasta. By the day after, the swell drops to 4 ft @9s but remains poor, with 21 mph ESE winds adding chop. Best: tomorrow.

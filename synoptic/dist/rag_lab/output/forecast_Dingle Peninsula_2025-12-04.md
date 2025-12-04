@@ -1,0 +1,1 @@
+Today, Dingle Peninsula is flat with no surf; the swell isn’t hitting this coast. Tomorrow, conditions worsen with a fresh SSE wind at 36 mph and a hefty 10 ft @ 12s swell, making it blown out. The day after, expect even bigger waves at 15 ft @ 13s, but with strong W winds at 37 mph, it’ll be messy. Best: today.

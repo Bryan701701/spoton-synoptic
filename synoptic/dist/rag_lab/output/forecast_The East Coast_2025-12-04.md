@@ -1,0 +1,1 @@
+Today on the East Coast, it's a bit of a struggle with 3 ft @5s SSE swell and fresh 19 mph SSE winds creating a blown-out situation. Tomorrow sees a slight improvement with 5 ft @7s SE swell, but the wind picks up to 22 mph SSE, keeping it messy. The day after, the swell builds further to 7 ft @8s SE, but the 30 mph SE winds will make it challenging. Best: tomorrow.

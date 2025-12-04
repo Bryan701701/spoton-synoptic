@@ -1,0 +1,1 @@
+Today, South is looking OK with Porthcurno and Praa Sands offering 8 ft @ 8s W, though wind is a moderate 16 mph WNW. Best windows are early and late, so catch those tides! Tomorrow, conditions drop to 4 ft @ 9s, with similar wind, making it less inviting. The day after sees a swell increase to 12 ft @ 12s, but strong winds will make it challenging. Best: today.

@@ -1,0 +1,1 @@
+Today in South Devon, conditions are poor with 6 ft @ 7s WSW swell and fresh 28 mph WNW winds making it blown out. Tomorrow brings a nice improvement with 3 ft @ 8s SW swell and light 3 mph NE winds at Bantham, making it a good day for a surf. On the day after, the swell picks up to 10 ft @ 9s SW but is still poor due to 20 mph W winds. Best: tomorrow.

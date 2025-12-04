@@ -1,0 +1,1 @@
+Today, the South is experiencing poor conditions with 4 ft @8s SW swell and fresh 20 mph W wind, making it blown out. Tomorrow, the situation remains similar with 4 ft @7s SSW swell and stronger 27 mph S winds, keeping it messy. By the day after, conditions improve to 6 ft @10s SW with moderate 17 mph WSW winds, offering a better chance for fun waves. Best: day after.
