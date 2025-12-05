@@ -605,11 +605,11 @@
     "max_wind_mph": NaN,
     "wind_sector_deg": [
       25.0,
-      245.0
+      200.0
     ],
     "flags": {
       "swell_ok": true,
-      "offshore_ok": true,
+      "offshore_ok": false,
       "onshore_ok": false,
       "wind_ok_for_dial": false,
       "base_ok": false
