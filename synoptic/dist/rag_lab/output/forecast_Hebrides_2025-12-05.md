@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s a bit of a struggle with 7 ft @13s WSW swell and fresh 20 mph SE winds creating blown-out conditions. Tomorrow sees a drop to 3 ft @10s, still messy with 23 mph ESE winds. However, the day after brings a nice improvement with 6 ft @12s WSW swell and lighter 13 mph ESE winds, making it more workable at spots like Europie and Barvas. Best: day after.

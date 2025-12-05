@@ -1,0 +1,1 @@
+Today on the East Coast, it's quiet with no surf action—wrong swell angle and fresh onshore winds. Tomorrow, conditions worsen with a strong 7 ft @8s SE swell but 30 mph onshore making it blown out. Day after brings a welcome change with 3 ft @7s ESE, light winds, and workable conditions at spots like Coldinham Bay and Pease Bay. Best: day after.

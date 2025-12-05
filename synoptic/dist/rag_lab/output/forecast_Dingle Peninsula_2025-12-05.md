@@ -1,0 +1,1 @@
+Today on the Dingle Peninsula, conditions are poor with 0 ft @ 0 s and calm winds. Tomorrow, the swell picks up to 16 ft @ 14 s WSW, but fresh 35 mph winds will make it blown out. On the day after, the swell drops to 7 ft @ 10 s WSW with lighter winds at 18 mph, making it more workable at spots like Ballybunion. Best: day after.

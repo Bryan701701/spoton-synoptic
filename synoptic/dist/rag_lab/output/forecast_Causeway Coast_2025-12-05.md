@@ -1,0 +1,1 @@
+Today, the Causeway Coast is seeing poor conditions with 3 ft @14s WNW swell, but fresh 20 mph SSE winds are making it blown out. Tomorrow drops to 1 ft @9s W, still with onshore 18 mph winds, so not much happening. The day after, Portballintrae shows some potential with 1 ft @8s W, but overall conditions remain poor. Best: day after.

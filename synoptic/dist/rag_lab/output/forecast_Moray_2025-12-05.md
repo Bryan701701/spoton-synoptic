@@ -1,0 +1,1 @@
+Today in Moray, conditions are poor with 2 ft @6s E swell and fresh 22 mph SE winds. Tomorrow sees a slight increase to 5 ft @6s ESE, but with stronger 32 mph SE winds, making it blown out. By the day after, things clean up nicely with 3 ft @8s ENE and light 8 mph SSE winds, offering a fun surf window. Best: day after.
