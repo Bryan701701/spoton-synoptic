@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-07T19:00:01Z",
+  "fetched_at": "2025-12-07T19:30:01Z",
   "issued": "Issued at: 17:25 (UTC) on Sun 7 Dec 2025",
   "valid": "For the period 18:00 (UTC) on Sun 7 Dec 2025 to 18:00 (UTC) on Mon 8 Dec 2025",
   "general_synopsis": "New low moving rather quickly northeast, expected Skagerrak 988 by midday tomorrow. Low Rockall 983 losing its identity",
@@ -213,38 +213,4 @@
       "text": "Wind\nCyclonic mainly southwesterly, 4 to 6, occasionally 3.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
       "wind": "Cyclonic mainly southwesterly, 4 to 6, occasionally 3.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
-      "weather": "Rain or squally showers.",
-      "visibility": "Good, occasionally poor."
-    },
-    "Bailey": {
-      "text": "Wind\nEasterly 6 to gale 8 in far north, otherwise cyclonic 3 to 5, occasionally 6 at first.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sun 7 Dec 2025\nEasterly gale force 8 continuing",
-      "wind": "Easterly 6 to gale 8 in far north, otherwise cyclonic 3 to 5, occasionally 6 at first.",
-      "sea_state": "Rough or very rough.",
-      "weather": "Rain or showers.",
-      "visibility": "Good, occasionally poor."
-    },
-    "Fair Isle": {
-      "text": "Wind\nEasterly or southeasterly 5 to 7, becoming cyclonic 4 to 6 in south and later elsewhere.\nSea state\nRough, occasionally moderate.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "wind": "Easterly or southeasterly 5 to 7, becoming cyclonic 4 to 6 in south and later elsewhere.",
-      "sea_state": "Rough, occasionally moderate.",
-      "weather": "Rain at times.",
-      "visibility": "Good, occasionally poor."
-    },
-    "Faeroes": {
-      "text": "Wind\nEasterly or southeasterly 5 to 7, becoming cyclonic 4 to 6 later.\nSea state\nRough, occasionally very rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "wind": "Easterly or southeasterly 5 to 7, becoming cyclonic 4 to 6 later.",
-      "sea_state": "Rough, occasionally very rough later.",
-      "weather": "Rain at times.",
-      "visibility": "Good, occasionally poor."
-    },
-    "Southeast Iceland": {
-      "text": "Wind\nNortheasterly 6 to gale 8, occasionally severe gale 9 in west.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Sun 7 Dec 2025\nNortheasterly severe gale force 9 continuing",
-      "wind": "Northeasterly 6 to gale 8, occasionally severe gale 9 in west.",
-      "sea_state": "Rough or very rough.",
-      "weather": "Occasional rain.",
-      "visibility": "Good, occasionally poor."
-    }
-  }
-}
+      "weather"
