@@ -1,0 +1,1 @@
+The West Coast is looking solid today with 4 ft @ 12s W swell and a fresh 15 mph S wind. Ardnave Bay and Saligo Bay are your best bets, with clean conditions throughout the day. Tomorrow, conditions drop to 3 ft @ 8s, and the wind picks up to 25 mph SSW, making it less appealing. Day after, expect 6 ft @ 10s SW but with strong 41 mph SE winds, likely blown out. Best: today.

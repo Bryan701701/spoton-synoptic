@@ -1,0 +1,1 @@
+Today in Caithness, it's a quiet scene with 0 ft @ 0 s and no surf energy. Tomorrow, conditions improve slightly with 3 ft @ 6 s ESE and a light 13 mph SW wind; sheltered spots like Sinclair's Bay and Keiss may offer some fun. The day after drops to 1 ft @ 5 s, with a fresh 18 mph SE wind making it less appealing. Best: tomorrow.

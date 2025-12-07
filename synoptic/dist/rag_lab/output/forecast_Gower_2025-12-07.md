@@ -1,0 +1,1 @@
+Today in Gower, it's a bit of a struggle with 6 ft @11s WSW swell, but fresh 18 mph ESE winds are making it messy across the board. Tomorrow, the swell picks up to 7 ft @8s WSW, yet the same fresh 18 mph SSW winds will keep things choppy. By the day after, we're looking at 9 ft @10s SW swell, but with strong 35 mph S winds, it’s going to be blown out. Best: today.
