@@ -143,7 +143,7 @@
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:49 (UTC) on Mon 8 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale_text": "Gale warning\nIssued:\n04:57 (UTC) on Mon 8 Dec 2025\nGale now ceased but southerly severe gale force 9 expected later"
     },
     {
       "name": "Lundy",
@@ -152,7 +152,7 @@
       "x": 2357.7165366331938,
       "y": 1116.2022741047663,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Sun 7 Dec 2025\nGale now ceased but southwesterly gale force 8 expected soon"
+      "gale_text": "Gale warning\nIssued:\n04:57 (UTC) on Mon 8 Dec 2025\nGale now ceased but southerly severe gale force 9 expected later"
     },
     {
       "name": "Malin",
@@ -250,8 +250,8 @@
       "lat": 59.750010633500054,
       "x": 2799.435120669437,
       "y": 549.7492914222237,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:49 (UTC) on Mon 8 Dec 2025\nGale force 8 backing northeasterly imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Wight",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2025-12-08T05:01:04Z"
+  "generated_utc": "2025-12-08T05:30:34Z"
 }
