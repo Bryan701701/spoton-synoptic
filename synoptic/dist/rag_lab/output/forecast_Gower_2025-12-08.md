@@ -1,0 +1,1 @@
+Today in Gower, conditions are poor with 6 ft @8s WSW swell and fresh 21 mph SW winds. Tomorrow sees a bump to 8 ft @9s WSW, but the 35 mph S winds will make it blown out. Day after remains at 8 ft @10s WSW with 23 mph SW winds, still not ideal. Best: day after.

@@ -1,0 +1,1 @@
+Today in Moray, Spey Bay and Lossiemouth are both offering fun 2 ft @ 6s E with a moderate 13 mph SSW wind. Best conditions are on the push from 08:42 to 15:26. Tomorrow drops to 1 ft @ 5s ENE across the region, making it a quiet day. Day after, expect 3 ft @ 4s SW, but fresh 30 mph SSW winds will make it blown out. Best: today.

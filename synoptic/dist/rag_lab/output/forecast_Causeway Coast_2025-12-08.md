@@ -1,0 +1,1 @@
+Today on the Causeway Coast, it's looking pretty flat with 1 ft @5s WSW and fresh 13 mph SW winds. Tomorrow, conditions improve slightly with 2 ft @6s ESE, but the 17 mph SE wind will still create some chop. By the day after, we see a solid jump to 6 ft @10s W, though the 22 mph SSW wind will likely make it messy. Best: day after.

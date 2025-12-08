@@ -1,0 +1,1 @@
+Today, North Yorks is flat with 1 ft @4s SW across the board and fresh 13 mph SSW winds. Tomorrow sees a slight drop to 1 ft @3s SSE, still not producing any workable waves. Day after brings a small bump to 2 ft @4s SSW, but with strong 28 mph SW winds, it’ll be blown out. Best: day after.

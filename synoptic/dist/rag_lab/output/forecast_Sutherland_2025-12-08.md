@@ -1,0 +1,1 @@
+Today in Sutherland, it's a quiet scene with 4 ft @ 7s WSW swell but fresh 14 mph SW winds making it blown out. Tomorrow sees a drop to 2 ft @ 8s WSW, still with 15 mph SE winds, keeping it poor. Day after, the swell picks up to 9 ft @ 8s SW, but strong 51 mph SW winds will make for very challenging conditions. Best: day after.

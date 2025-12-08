@@ -1,0 +1,1 @@
+Today is looking poor across the Dingle Peninsula with 10 ft @12s WSW swell and fresh 29 mph SSW winds making it blown out. Tomorrow, conditions worsen with 11 ft @11s SW swell and 36 mph S onshore winds, keeping it messy. Day after, similar 11 ft @10s WSW swell persists with 30 mph W winds, still not producing. Best: none.

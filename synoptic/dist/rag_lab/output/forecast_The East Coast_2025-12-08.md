@@ -1,0 +1,1 @@
+The East Coast is looking solid today with 3 ft @ 6s ESE swell and light 5 mph SSW winds. Great options include Coldinham Bay and Pease Bay, both best around the morning and mid-day tides. Tomorrow, conditions drop to 2 ft @ 5s SSE with fresh 7 mph S winds, making it less appealing. Day after brings 5 ft @ 6s S swell but with fresh 21 mph SSW winds, likely blown out. Best: today.

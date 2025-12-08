@@ -1,0 +1,1 @@
+Today in North Devon, it's a bit rough with 4 ft @8s WSW swell and fresh 19 mph SW winds making it blown out. Tomorrow sees an increase to 6 ft @10s with stronger 25 mph S winds, still not ideal. By the day after, conditions improve slightly to 5 ft @10s with 17 mph SSW winds, offering some workable options at spots like Woolacombe and Croyde. Best: day after.
