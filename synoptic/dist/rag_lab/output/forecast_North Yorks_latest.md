@@ -1,1 +1,1 @@
-Today in North Yorks, surf is flat with 1 ft @ 4s, and fresh 22 mph SSE winds creating a blown-out situation. Tomorrow sees a slight bump to 2 ft @ 4s, but with stronger 25 mph SW winds, conditions remain poor. Day after drops back to 1 ft @ 3s with 20 mph SW winds, keeping it messy. Best: none.
+Today is looking flat across North Yorks with 1 ft @ 4s swell and fresh 22 mph SSE winds. Tomorrow sees a slight bump to 2 ft @ 4s, but the fresh SW wind at 25 mph will keep it messy. Day after drops back to 1 ft @ 3s with 20 mph SW winds, continuing the trend. Best: tomorrow.
