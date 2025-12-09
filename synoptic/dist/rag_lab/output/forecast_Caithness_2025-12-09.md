@@ -1,0 +1,1 @@
+Today in Caithness, Dunnet Bay is the standout with 3ft @12s W and a fresh 18 mph SE wind, making for some clean conditions. Tomorrow, the swell ramps up to 8ft @8s WSW, but with a strong 33 mph SSW wind, it’ll be blown out across most spots. Day after, conditions remain poor with 2ft @5s WSW and 17 mph SW winds. Best: today.

@@ -1,0 +1,1 @@
+Today on the West Coast, it's a no-go with fresh 39 mph ESE winds and 4 ft @ 7s SE swell, creating a blown-out mess. Tomorrow, conditions remain poor with 8 ft @ 10s W swell and 29 mph SW winds, still not workable. The day after, expect 6 ft @ 11s W swell with the same wind, keeping it messy. Best: none.

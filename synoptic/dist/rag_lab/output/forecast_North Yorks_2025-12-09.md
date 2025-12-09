@@ -1,0 +1,1 @@
+Today is looking quite flat across North Yorks with 1 ft @ 4s SSE swell and fresh 22 mph SSE winds. Tomorrow sees a slight bump to 2 ft @ 4s SSW, but the fresh 25 mph SW wind will keep it blown out. Day after drops back to 1 ft @ 3s SW, still not producing anything worthwhile. Best: tomorrow.

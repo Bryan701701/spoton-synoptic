@@ -1,0 +1,1 @@
+Today, Gower is experiencing poor conditions with 10 ft @10s SW swell and fresh 35 mph S winds, making it blown out across the board. Tomorrow, the swell drops to 8 ft @10s WSW with 21 mph SW winds, still not producing any workable surf. On the day after, conditions remain similar with 6 ft @10s WSW and 21 mph S winds, keeping the surf quality low. Best: none.

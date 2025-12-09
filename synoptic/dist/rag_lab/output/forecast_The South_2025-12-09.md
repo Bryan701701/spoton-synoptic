@@ -1,0 +1,1 @@
+Today, the South is not producing with a flat 0 ft @0s and calm N winds. Tomorrow, conditions improve to 5 ft @10s SSW with light 13 mph SW winds, making it a workable day at spots like Ballinskelligs Bay. The day after, swell drops to 8 ft @8s SSW but fresh 27 mph SSW winds will have it blown out. Best: tomorrow.

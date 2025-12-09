@@ -1,0 +1,1 @@
+Today in Donegal, conditions are poor with 5 ft @12s WSW swell but fresh 26 mph ESE winds making it blown out. Tomorrow sees a significant increase to 11 ft @10s W, but with strong 28 mph SW winds, it will still be challenging. The day after brings 8 ft @11s WSW swell with even stronger 40 mph S winds, keeping it messy. Best: tomorrow.

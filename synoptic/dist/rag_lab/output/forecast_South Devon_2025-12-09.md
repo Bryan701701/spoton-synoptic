@@ -1,0 +1,1 @@
+Today in South Devon, it's a bit rough with 10 ft @9s SSW swell and fresh 21 mph SSW winds. Tomorrow, conditions remain challenging with 6 ft @10s SW swell and stronger 24 mph WSW winds. By the day after, the swell drops to 4 ft @8s SW, but winds ease slightly to 19 mph SSW, still not ideal. Best: day after.

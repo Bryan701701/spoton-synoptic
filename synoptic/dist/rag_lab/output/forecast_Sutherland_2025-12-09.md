@@ -1,0 +1,1 @@
+Today in Sutherland, it's looking quiet with no surf to speak of—wrong swell angle and light winds. Tomorrow, conditions worsen with a fresh 43 mph SW wind and 9 ft @ 8s SW swell, making it blown out and unworkable. The day after, the swell drops slightly to 8 ft @ 9s W, but the fresh SSW wind keeps it messy. Best: today.

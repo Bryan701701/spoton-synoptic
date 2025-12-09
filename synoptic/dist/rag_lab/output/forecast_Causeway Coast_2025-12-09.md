@@ -1,0 +1,1 @@
+Today on the Causeway Coast, it's looking poor with 2 ft @5s ESE swell and fresh 36 mph ESE winds—definitely blown out. Tomorrow sees a slight improvement with 4 ft @8s W swell, but winds remain fresh at 34 mph SW, keeping it messy. Day after, the swell drops to 3 ft @8s W with 28 mph SSE winds, still not ideal. Best: tomorrow.

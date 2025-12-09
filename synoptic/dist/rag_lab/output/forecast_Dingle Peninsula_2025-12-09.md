@@ -1,0 +1,1 @@
+Today on the Dingle Peninsula, conditions are poor with 0 ft @0s and no surf to speak of. Tomorrow, the swell picks up to 11 ft @10s WSW, but fresh 32 mph W winds will keep it blown out. Day after, expect similar conditions with 12 ft @10s SW swell and strong 46 mph S winds, making it messy. Best: tomorrow.

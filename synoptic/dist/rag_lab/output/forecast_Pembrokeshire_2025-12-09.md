@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's looking poor with 8 ft @10s SSW swell but fresh 30 mph SSW winds making it blown out. Tomorrow, the swell drops to 6 ft @10s SW, but the wind remains fresh at 26 mph SW, keeping conditions messy. On the day after, the swell picks back up to 8 ft @9s SW with slightly lighter winds at 25 mph SSW, but still not ideal. Best: day after.
