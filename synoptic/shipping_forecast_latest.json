@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-09T03:45:01Z",
+  "fetched_at": "2025-12-09T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Mon 8 Dec 2025",
   "valid": "For the period 00:00 (UTC) on Tue 9 Dec 2025 to 00:00 (UTC) on Wed 10 Dec 2025",
   "general_synopsis": "Low 200 miles west of FitzRoy 976 expected Rockall 958 by 1800 Tuesday. Low Southeast Iceland 987 losing its identity",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic 3 to 5, becoming southeasterly 6 to gale 8.\nSea state\nModerate becoming rough, then very rough later in southwest.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Mon 8 Dec 2025\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nSoutheasterly gale force 8 expected soon, veering southwesterly later",
       "wind": "Cyclonic 3 to 5, becoming southeasterly 6 to gale 8.",
       "sea_state": "Moderate becoming rough, then very rough later in southwest.",
       "weather": "Rain.",
@@ -24,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSouthwesterly 4 to 6, backing southerly 2 to 4, then southeasterly 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nSoutheasterly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6, backing southerly 2 to 4, then southeasterly 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -117,7 +118,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth 5 to 7, increasing gale 8, veering southwest 4 to 6 later.\nSea state\nModerate or rough occasionally very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Mon 8 Dec 2025\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nSoutherly gale force 8 continuing",
       "wind": "South 5 to 7, increasing gale 8, veering southwest 4 to 6 later.",
       "sea_state": "Moderate or rough occasionally very rough.",
       "weather": "Rain.",
@@ -221,7 +222,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 4 to 6, increasing 7 to severe gale 9, perhaps storm 10 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 8 Dec 2025\nNortheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nNortheasterly severe gale force 9 expected soon, veering southwesterly and increasing storm force 10 later",
       "wind": "Cyclonic 4 to 6, increasing 7 to severe gale 9, perhaps storm 10 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain.",
@@ -229,7 +230,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic 4 to 6, increasing 7 to severe gale 9.\nSea state\nModerate at first in east, otherwise rough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 8 Dec 2025\nEasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nEasterly severe gale force 9 expected soon, veering southwesterly and increasing violent storm force 11 later",
       "wind": "Cyclonic 4 to 6, increasing 7 to severe gale 9.",
       "sea_state": "Moderate at first in east, otherwise rough or very rough.",
       "weather": "Rain.",
@@ -237,7 +238,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 4 to 6, increasing 7 to severe gale 9, perhaps storm 10 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 8 Dec 2025\nEasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nEasterly severe gale force 9 expected soon, backing northeasterly and increasing storm force 10 later",
       "wind": "Cyclonic 4 to 6, increasing 7 to severe gale 9, perhaps storm 10 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain.",
@@ -245,7 +246,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic becoming northeasterly, 7 to severe gale 9, perhaps storm 10 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n10:53 (UTC) on Mon 8 Dec 2025\nNortheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 9 Dec 2025\nNortheasterly severe gale force 9 increasing storm force 10 later",
       "wind": "Cyclonic becoming northeasterly, 7 to severe gale 9, perhaps storm 10 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain.",
