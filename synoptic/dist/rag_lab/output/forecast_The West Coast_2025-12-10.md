@@ -1,0 +1,1 @@
+Today on the West Coast, it's a bit rough with 9 ft @10s W swell and fresh 34 mph SW winds making it blown out. Tomorrow, the swell drops to 6 ft @11s W, but the wind picks up to 35 mph SSW, keeping conditions poor. By the day after, the swell further decreases to 5 ft @14s WNW with 24 mph S winds, still not ideal. Best: none.

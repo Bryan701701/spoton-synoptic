@@ -1,0 +1,1 @@
+Today in Sutherland, it’s a no-go with 0 ft @ 0 s and calm N winds—data not available. Tomorrow, conditions remain poor with 8 ft @ 9 s WSW and fresh 31 mph SSW winds—definitely not producing. Day after, we see a slight improvement with 8 ft @ 13 s W, but still fresh 20 mph SSW winds—only a few sheltered spots like Sango Bay might offer some fun. Best: day after.

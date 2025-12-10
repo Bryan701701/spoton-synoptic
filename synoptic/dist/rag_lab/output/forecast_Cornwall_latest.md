@@ -1,1 +1,1 @@
-Today, the surf is flat across Cornwall with no swell hitting the coast. Tomorrow, conditions improve slightly with 8 ft @ 11s WSW swell, but fresh 18 mph SW winds will keep it messy. The day after, we see 6 ft @ 11s WSW, still blown out by 20 mph S winds. Best: tomorrow.
+Today in Cornwall, it’s a quiet day with no surf action—wrong swell angle and wind on it. Tomorrow, conditions improve slightly with 6 ft @11s W and moderate S winds, but still not ideal. The day after, expect better surf at 7 ft @14s W with light W winds, making it the standout day. Best: day after.

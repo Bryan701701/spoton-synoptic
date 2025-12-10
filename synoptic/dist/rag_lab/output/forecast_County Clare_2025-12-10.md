@@ -1,0 +1,1 @@
+Today in County Clare, it’s a bit of a struggle with 5 ft @8s W swell but fresh 21 mph WSW winds making it messy. Tomorrow sees a slight drop to 4 ft @9s WSW, still with fresh 24 mph S winds keeping things choppy. Day after, the swell picks up to 9 ft @15s W, but with 19 mph SSE winds, it remains blown out. Best: day after.

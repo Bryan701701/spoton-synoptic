@@ -1,0 +1,1 @@
+Today on the Causeway Coast, conditions are poor with 6 ft @10s W swell and fresh 19 mph SSW wind, making it blown out. Tomorrow sees a slight drop to 4 ft @10s W, but wind picks up to 23 mph S, keeping it messy. The day after brings better news with 5 ft @14s WNW swell and lighter 12 mph SSE wind, offering good options at White Park Bay and Portballintrae. Best: day after.

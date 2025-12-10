@@ -1,0 +1,1 @@
+Today in County Sligo, it's looking poor with 6 ft @9s WNW swell and fresh 20 mph SW winds making it blown out. Tomorrow, conditions remain similar with 5 ft @9s WSW swell and 26 mph S winds, keeping it messy. Day after, the swell picks up to 6 ft @14s WNW but with 23 mph S winds, still not ideal. Best: day after.

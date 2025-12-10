@@ -1,0 +1,1 @@
+Today in North Yorks, conditions are poor with 2 ft @4s SSW swell and fresh 28 mph SW winds making it blown out. Tomorrow drops to 1 ft @3s SW, still not producing much with light 9 mph S winds. Day after, things improve slightly to 2 ft @7s ESE with moderate 15 mph S winds; check mid-tide windows for some workable waves. Best: day after.
