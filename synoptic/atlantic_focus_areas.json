@@ -25,8 +25,8 @@
       "lat": 57.750491731,
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Dogger",
@@ -53,7 +53,7 @@
       "x": 2182.8615621556096,
       "y": 438.6553311406299,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nGale force 8 backing southerly imminent"
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nGale now ceased but southerly gale force 8 expected later"
     },
     {
       "name": "Fair Isle",
@@ -79,8 +79,8 @@
       "lat": 56.875017420000106,
       "x": 3075.6496808742554,
       "y": 741.3283846490839,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "FitzRoy",
@@ -106,8 +106,8 @@
       "lat": 57.25,
       "x": 2766.163636363636,
       "y": 716.340909090909,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "German Bight",
@@ -125,7 +125,7 @@
       "x": 2155.574216362487,
       "y": 613.6891946131293,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nGale force 8 backing southerly imminent, increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nSoutherly severe gale force 9 now decreased gale force 8"
     },
     {
       "name": "Humber",
@@ -161,7 +161,7 @@
       "x": 2142.388659287721,
       "y": 828.3555896063114,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n05:11 (UTC) on Thu 11 Dec 2025\nSoutherly severe gale force 9 continuing"
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nSoutherly severe gale force 9 now decreased gale force 8"
     },
     {
       "name": "Plymouth",
@@ -197,7 +197,7 @@
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly storm force 10 now decreased severe gale force 9, decreasing gale force 8 imminent"
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nGale force 8 now veered southwesterly"
     },
     {
       "name": "Sole",
@@ -215,7 +215,7 @@
       "x": 1844.0814715389176,
       "y": 327.70526229076603,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:58 (UTC) on Wed 10 Dec 2025\nNortheasterly now decreased gale force 8 but increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nSevere gale force 9 veering easterly and decreasing gale force 8 imminent, veering southeasterly soon, increasing severe gale force 9 later"
     },
     {
       "name": "South Utsire",
@@ -223,8 +223,8 @@
       "lat": 58.37721943550005,
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Thames",
@@ -250,8 +250,8 @@
       "lat": 59.750010633500054,
       "x": 2799.435120669437,
       "y": 549.7492914222237,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Wight",
@@ -277,8 +277,8 @@
       "lat": 38.0140501120001,
       "x": 1871.5331767975526,
       "y": 1998.154660718539,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:56 (UTC) on Thu 11 Dec 2025\nNorthwesterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Thu 11 Dec 2025"
     },
     {
       "name": "North Utsire",
@@ -286,9 +286,9 @@
       "lat": 59.9999493715,
       "x": 2991.53299758165,
       "y": 533.0942827900454,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     }
   ],
-  "generated_utc": "2025-12-11T10:00:40Z"
+  "generated_utc": "2025-12-11T10:30:39Z"
 }
