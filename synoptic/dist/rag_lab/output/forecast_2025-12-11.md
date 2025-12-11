@@ -1,0 +1,1 @@
+Today, the West Coast is facing a challenging surf day with 5 ft @9s W swell, but fresh 38 mph S winds have it blown out. Tomorrow, conditions improve slightly with 6 ft @15s WNW swell, though the same onshore winds at 21 mph will keep it messy. By the day after, the swell builds to 9 ft @14s W, but the 27 mph SSW winds will still create tough conditions. Best: tomorrow.

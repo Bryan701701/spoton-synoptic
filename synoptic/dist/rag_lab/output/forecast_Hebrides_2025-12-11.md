@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s not producing with a hefty 10 ft @10s SW swell and fresh 37 mph S winds making it blown out. Tomorrow sees a similar situation with a 12 ft @15s WSW swell and 32 mph S winds—still not workable. The day after, conditions remain poor with 12 ft @13s WSW swell and 36 mph SSW winds. Best: none.

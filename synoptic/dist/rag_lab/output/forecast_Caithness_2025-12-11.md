@@ -1,0 +1,1 @@
+Today in Caithness, it's a solid day with 6 ft @9s W swell and light 10 mph SSW winds. Points like Point of Ness and Murkle Point are firing, offering clean conditions throughout the day. Tomorrow sees a slight drop to 5 ft @14s NW, still workable with 13 mph S winds. The day after holds steady at 6 ft @12s WNW, with similar winds, keeping the surf fun. Best: today.

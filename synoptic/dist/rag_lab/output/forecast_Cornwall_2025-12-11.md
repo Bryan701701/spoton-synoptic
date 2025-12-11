@@ -1,0 +1,1 @@
+Today, conditions are poor across Cornwall with fresh onshore winds at 27 mph creating a blown-out scene. Tomorrow, the swell picks up to 8 ft @ 15s with light WNW winds, making for clean and fun surf at spots like Crantock and Fistral. The day after continues the good vibes with 7 ft @ 14s, still clean and workable at sheltered locations. Best: tomorrow.

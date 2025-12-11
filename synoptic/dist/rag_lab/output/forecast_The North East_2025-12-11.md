@@ -1,0 +1,1 @@
+Today in the North East, it's a quiet one with 1 ft @4s SW across the board and fresh 14 mph SW winds. Tomorrow, conditions improve slightly with 2 ft @6s ESE at Saltburn Beach, making it the best bet for some fun waves. The day after, Saltburn Beach remains the standout with 1 ft @8s NNE, still workable but not as lively. Best: tomorrow.

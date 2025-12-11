@@ -1,0 +1,1 @@
+Today in Donegal, conditions are poor with 8 ft @10s WSW swell but fresh 34 mph S winds making it blown out. Tomorrow brings a solid improvement with 8 ft @16s W swell and light 12 mph SSE winds, making spots like Rossnowlagh and Tullan Strand prime for some fun sessions. The day after, conditions drop back to poor with 12 ft @13s W swell and fresh 25 mph S winds. Best: tomorrow.
