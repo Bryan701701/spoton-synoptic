@@ -61,8 +61,8 @@
       "lat": 60.1392036430001,
       "x": 2464.804822966019,
       "y": 523.8148845164478,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n21:43 (UTC) on Thu 11 Dec 2025\nSoutherly gale force 8 expected soon, veering southwesterly later"
     },
     {
       "name": "Fastnet",
@@ -70,8 +70,8 @@
       "lat": 51.289964965500104,
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Fisher",
@@ -88,8 +88,8 @@
       "lat": 46.04365322100005,
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly severe gale force 9 now decreased gale force 8"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Forth",
@@ -142,8 +142,8 @@
       "lat": 53.5004243685001,
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:52 (UTC) on Wed 10 Dec 2025\nGale force 8 backing southerly imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Lundy",
@@ -151,8 +151,8 @@
       "lat": 51.249351957500096,
       "x": 2357.7165366331938,
       "y": 1116.2022741047663,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Malin",
@@ -188,7 +188,7 @@
       "x": 1833.0252271642187,
       "y": 815.5703560222279,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly storm force 10 decreasing severe gale force 9 imminent"
+      "gale_text": "Gale warning\nIssued:\n21:43 (UTC) on Thu 11 Dec 2025\nSevere gale force 9 decreasing gale force 8 imminent, veering southwesterly soon"
     },
     {
       "name": "Shannon",
@@ -205,8 +205,8 @@
       "lat": 49.236251666499996,
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Thu 11 Dec 2025\nSoutherly storm force 10 now decreased severe gale force 9, decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Southeast Iceland",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2025-12-11T21:31:03Z"
+  "generated_utc": "2025-12-11T22:01:00Z"
 }
