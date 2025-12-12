@@ -1,0 +1,1 @@
+Today, the South is quiet with a 4 ft @9s SSW swell, but fresh 18 mph SW winds are making it messy. Tomorrow, conditions worsen with a similar swell size but stronger 27 mph SSW winds, keeping it blown out. The day after brings a 5 ft @7s SSW swell, yet with even fresher 38 mph SSW winds, making it poor all around. Best: today.

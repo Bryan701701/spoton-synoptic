@@ -1,0 +1,1 @@
+Today on the East Coast, it's looking good with 4 ft @ 6s SSE at Aberdeen Beach and Cruden Bay, both holding up well despite a fresh 15 mph SSW wind. Tomorrow, conditions drop to 2 ft @ 5s, and the wind picks up to 20 mph SSW, making it a poor day for surf. Day after, we see a slight improvement with 3 ft @ 5s, but still on the lower side. Best: today.

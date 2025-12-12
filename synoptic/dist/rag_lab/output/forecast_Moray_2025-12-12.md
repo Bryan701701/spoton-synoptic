@@ -1,0 +1,1 @@
+Today in Moray, Spey Bay and Lossiemouth are offering clean 1 ft @ 10s NNE with fresh 15 mph WSW winds. Best times to surf are during the mid-tide push, from 08:47 to 15:25. Tomorrow, conditions drop to 2 ft @ 5s WSW; it's still surfable but not ideal. The day after sees further decline to 1 ft @ 4s, making it a quiet day. Best: today.

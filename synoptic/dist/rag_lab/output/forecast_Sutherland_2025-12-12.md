@@ -1,0 +1,1 @@
+Today in Sutherland, it's looking great with 8 ft @ 13s W swell and 22 mph S winds. Melvich and Strathy are both firing, with prime tides for action. Tomorrow, the swell rises to 11 ft but the fresh 35 mph SW winds will make it blown out across the region. By the day after, the swell drops to 9 ft, but the same winds keep it messy. Best: today.
