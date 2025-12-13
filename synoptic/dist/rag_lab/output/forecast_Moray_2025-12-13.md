@@ -1,1 +1,1 @@
-Today in Moray, it's looking pretty quiet with 2 ft @5s WSW swell and fresh 17 mph SSW winds. Tomorrow drops to 1 ft @4s, still with 15 mph S winds, so not much happening. The day after stays flat at 1 ft @5s with light 6 mph S winds. Best: today.
+Today in Moray, conditions are quite poor with 2 ft @5s WSW swell and fresh 17 mph SSW winds. Tomorrow drops to 1 ft @4s, still blown out by 15 mph S winds. The day after remains flat at 1 ft @5s with light 6 mph S winds. Best: today.
