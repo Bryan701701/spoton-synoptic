@@ -1,0 +1,1 @@
+Today in Caithness, it's a bit of a struggle with weak 2 ft @6s SSW lines and fresh 26 mph SSW winds. Tomorrow sees an improvement with 5 ft @10s WNW swell, manageable with 14 mph SW winds; best on the mid-tide push. Day after, conditions remain decent at 4 ft @10s WNW, still fun at spots like Point of Ness and Murkle Point. Best: tomorrow.

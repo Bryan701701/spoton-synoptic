@@ -1,0 +1,1 @@
+Today in the Hebrides, conditions are poor with 12 ft @12s WSW swell and fresh 35 mph SSW winds, making it blown out. Tomorrow sees a slight drop to 9 ft @12s WSW with 25 mph SSW winds, still not producing well. The day after holds similar conditions with 9 ft @12s WSW and 26 mph SSW winds, keeping it messy. Best: none.

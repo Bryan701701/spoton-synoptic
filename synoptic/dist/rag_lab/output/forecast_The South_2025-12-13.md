@@ -1,0 +1,1 @@
+Today in The South, conditions are poor with 3 ft @7s SSW swell and fresh 25 mph SSW winds, making it blown out. Tomorrow sees an increase to 6 ft @7s SSW, but the same fresh winds will keep it messy. By the day after, the surf improves to 5 ft @8s SSW with light 10 mph NW winds, offering cleaner conditions. Best: day after.

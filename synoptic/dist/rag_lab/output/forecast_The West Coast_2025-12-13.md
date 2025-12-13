@@ -1,0 +1,1 @@
+Today on the West Coast, it's a bit rough with 8 ft @13s W and fresh 26 mph SSW wind making it blown out. Tomorrow sees a drop to 5 ft @10s W with 25 mph S wind, still not producing much. Day after brings a cleaner 6 ft @12s W with lighter 12 mph SW wind, offering some fun options at spots like Ardnave Bay and Saligo Bay. Best: day after.

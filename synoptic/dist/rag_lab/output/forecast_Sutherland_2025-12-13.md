@@ -1,0 +1,1 @@
+Today in Sutherland, it's a bit rough with 0 ft @ 0 s and no surfable conditions. Tomorrow sees a slight improvement with 8 ft @ 10 s W, but fresh 31 mph SW winds will keep it messy. The day after, conditions drop to 7 ft @ 11 s W with 26 mph SSW winds, still not ideal. Best: day after.
