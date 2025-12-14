@@ -1,0 +1,1 @@
+Today on the East Coast, it's a quiet one with no surf action—wrong swell angle and fresh 23 mph SSW winds. Tomorrow, conditions improve with 3 ft @ 7s SSE swell and light 1 mph NE winds, making spots like Aberdeen Beach and Cruden Bay fun options during the tide windows. Day after, the swell drops to 2 ft @ 7s SE, but still clean at the same spots. Best: tomorrow.

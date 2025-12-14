@@ -1,0 +1,1 @@
+Today on the Dingle Peninsula, it's a quiet day with no surf action—wrong swell angle and fresh onshore winds. Tomorrow, things pick up with 8 ft @11s WSW and light winds, making for some fun conditions at spots like Ballybunion Left and Mossies. The day after, swell holds at 9 ft @12s W but with a fresh W wind, so look for sheltered corners to catch some waves. Best: tomorrow.

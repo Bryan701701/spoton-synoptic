@@ -1,0 +1,1 @@
+Today in Sutherland, it's a flat day with no surf action—just calm waters. Tomorrow, the swell picks up to 7 ft @10s, but with fresh 31 mph SW winds, it’ll be blown out and not producing. Day after, conditions improve with 6 ft @11s and lighter 17 mph SSW winds, making for a clean surf at spots like Sango Bay. Best: day after.

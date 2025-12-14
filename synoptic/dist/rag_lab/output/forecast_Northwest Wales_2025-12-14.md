@@ -1,0 +1,1 @@
+Northwest Wales is looking solid today with 5 ft @ 7s SW swell and fresh 18 mph SSW winds. Porth Oer and Hells Mouth (beach) are your go-to spots, especially during their best tide windows. Tomorrow, the swell drops slightly to 4 ft @ 8s, but still offers fun conditions with 15 mph S winds. Day after, it gets quiet with only 2 ft @ 10s, so best to hit it today! Best: today.

@@ -1,0 +1,1 @@
+Today in the Hebrides, it's a bit rough with 9 ft @10s WSW swell and fresh 26 mph SSW winds making it blown out. Tomorrow stays similar with the same swell size and wind strength, so it's not producing much. Day after, the swell period increases slightly to 11s, but the fresh SSW wind continues to chop it up. Best: none.
