@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-15T22:00:02Z",
+  "fetched_at": "2025-12-15T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Mon 15 Dec 2025",
   "valid": "For the period 18:00 (UTC) on Mon 15 Dec 2025 to 18:00 (UTC) on Tue 16 Dec 2025",
   "general_synopsis": "Low 50 miles west of Bailey 971, moving steadily northeast, losing its identity by midday tomorrow",
@@ -106,7 +106,6 @@
     },
     "Portland": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Mon 15 Dec 2025\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -128,13 +127,14 @@
     },
     "Trafalgar": {
       "text": "ale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n23:26 (UTC) on Sun 14 Dec 2025\nNorthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Mon 15 Dec 2025",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nNorthwesterly gale force 8 continuing\nForecast issued:\n00:15 (UTC) on Mon 15 Dec 2025",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
     },
     "FitzRoy": {
       "text": "Wind\nIn south, northerly or northwesterly 5 to 7. In north, northerly or northwesterly 3 to 5, backing southwest 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nIn south, rain or thundery showers. In north, thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nSoutherly gale force 8 expected later",
       "wind": "In south, northerly or northwesterly 5 to 7. In north, northerly or northwesterly 3 to 5, backing southwest 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "In south, rain or thundery showers. In north, thundery showers.",
@@ -142,6 +142,7 @@
     },
     "Sole": {
       "text": "Wind\nNortherly or northwesterly 3 to 5, backing southwest 5 to 7 later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nSoutherly gale force 8 expected later",
       "wind": "Northerly or northwesterly 3 to 5, backing southwest 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers.",
@@ -170,6 +171,7 @@
     },
     "Shannon": {
       "text": "Wind\nWesterly or southwesterly 4 to 6, backing southerly 5 to 7 later, perhaps gale 8 later in west.\nSea state\nVery rough.\nWeather\nThundery showers, rain later in west.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nSoutherly severe gale force 9 expected later",
       "wind": "Westerly or southwesterly 4 to 6, backing southerly 5 to 7 later, perhaps gale 8 later in west.",
       "sea_state": "Very rough.",
       "weather": "Thundery showers, rain later in west.",
@@ -177,6 +179,7 @@
     },
     "Rockall": {
       "text": "Wind\nIn south, westerly or southwesterly 4 to 6, backing southerly 5 to 7 later, perhaps gale 8 later in west. In north, southwesterly 5 to 7.\nSea state\nIn south, very rough. in north, very rough or high becoming very rough.\nWeather\nIn south, thundery showers, rain later in west. In north, thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nSoutherly severe gale force 9 expected later",
       "wind": "In south, westerly or southwesterly 4 to 6, backing southerly 5 to 7 later, perhaps gale 8 later in west. In north, southwesterly 5 to 7.",
       "sea_state": "In south, very rough. in north, very rough or high becoming very rough.",
       "weather": "In south, thundery showers, rain later in west. In north, thundery showers.",
@@ -198,7 +201,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouthwest 6 to gale 8, decreasing 4 to 6.\nSea state\nHigh becoming very rough.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Mon 15 Dec 2025\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Mon 15 Dec 2025\nGale now ceased, but southeasterly gale force 8 expected later",
       "wind": "Southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "High becoming very rough.",
       "weather": "Thundery showers.",
