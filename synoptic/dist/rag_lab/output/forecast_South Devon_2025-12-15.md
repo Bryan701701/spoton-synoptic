@@ -1,0 +1,1 @@
+Today in South Devon, conditions are poor with 5 ft @7s SSW swell, but fresh 24 mph S winds are making it blown out. Tomorrow looks much better at Bantham with 3 ft @8s WSW and light 6 mph NW winds, perfect for a fun day out. The day after, conditions drop further to 2 ft @6s SW with fresh 19 mph SSW winds, keeping it on the poor side. Best: tomorrow.

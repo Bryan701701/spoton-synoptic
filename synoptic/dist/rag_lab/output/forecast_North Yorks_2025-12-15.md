@@ -1,0 +1,1 @@
+Today in North Yorks, it's looking pretty flat with 1 ft @4s SSE across the board and fresh 21 mph SSW winds. Tomorrow, the swell remains at 1 ft @5s E, with winds easing slightly to 17 mph WNW, but still not producing anything worthwhile. Day after, the trend continues with 1 ft @3s S and 10 mph SSW winds, keeping it quiet. Best: today.

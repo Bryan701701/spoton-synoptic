@@ -1,0 +1,1 @@
+Today in Sutherland, conditions are poor with 7 ft @9s W swell but fresh 20 mph SW winds making it blown out. Tomorrow sees a swell increase to 8 ft @12s W, but with strong 32 mph SW winds, it will remain messy. The day after brings a drop to 6 ft @9s WSW, still with 23 mph S winds, keeping the surf choppy. Best: none.

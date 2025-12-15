@@ -1,0 +1,1 @@
+Today at Saltburn Beach, it's a fun 2 ft @ 6s SE with a moderate 12 mph SSW wind, making for clean conditions. Tomorrow drops to 1 ft @ 6s SE, still workable but less punchy, with light W winds. The day after sees a further decline to 1 ft @ 3s SSE, with fresh 20 mph S winds making it blown out. Best: today.

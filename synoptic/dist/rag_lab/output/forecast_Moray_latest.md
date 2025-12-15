@@ -1,1 +1,1 @@
-Today in Moray, surf is flat with 1 ft @4s WSW across all spots, and light SSE winds. Tomorrow looks similar, with 1 ft @4s WSW and light SSW winds. The day after, conditions remain poor with 1 ft @3s WSW and fresh SW winds. Best: today.
+Today in Moray, it’s a quiet scene with flat conditions at 1 ft @ 4s W and fresh 12 mph SSW winds. Tomorrow remains similar, with 1 ft @ 3s WSW and winds picking up slightly to 13 mph SSW. The day after, the swell stays at 1 ft @ 3s SSE, but winds ramp up to a fresh 29 mph SSE, making it blown out. Best: tomorrow.
