@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-14T23:30:01Z",
+  "fetched_at": "2025-12-15T00:00:01Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 14 Dec 2025",
   "valid": "For the period 00:00 (UTC) on Mon 15 Dec 2025 to 00:00 (UTC) on Tue 16 Dec 2025",
   "general_synopsis": "Atlantic low 966 moving rather quickly east, expected Southeast Iceland 974 by 1800 Monday. New low expected Plymouth 977 by same time",
@@ -137,6 +137,7 @@
     },
     "Trafalgar": {
       "text": "Wind\nCyclonic 4 to 6, becoming northwest 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n23:26 (UTC) on Sun 14 Dec 2025\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming northwest 6 to gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -152,7 +153,6 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 4 to 6, but southwesterly 5 or 6 at first in east, becoming northwesterly later.\nSea state\nRough or very rough.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n16:01 (UTC) on Sun 14 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Cyclonic 4 to 6, but southwesterly 5 or 6 at first in east, becoming northwesterly later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain, then showers.",
@@ -160,7 +160,6 @@
     },
     "Lundy": {
       "text": "Wind\nCyclonic 4 to 6, but southwesterly 5 or 6 at first, becoming northwesterly later.\nSea state\nRough or very rough, becoming moderate or rough.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Sun 14 Dec 2025\nSouthwesterly gale force 8 continue",
       "wind": "Cyclonic 4 to 6, but southwesterly 5 or 6 at first, becoming northwesterly later.",
       "sea_state": "Rough or very rough, becoming moderate or rough.",
       "weather": "Rain, then showers.",
@@ -168,7 +167,6 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 4 to 6, becoming northwesterly later.\nSea state\nRough or very rough, becoming moderate or rough in northeast.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Sun 14 Dec 2025\nSouthwesterly gale force 8 continue",
       "wind": "Cyclonic 4 to 6, becoming northwesterly later.",
       "sea_state": "Rough or very rough, becoming moderate or rough in northeast.",
       "weather": "Rain, then showers.",
@@ -176,7 +174,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nCyclonic 3 to 5, but southwesterly 5 or 6 at first in east, becoming northwesterly later.\nSea state\nModerate or rough becoming slight or moderate, occasionally smooth in northeast.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 14 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Cyclonic 3 to 5, but southwesterly 5 or 6 at first in east, becoming northwesterly later.",
       "sea_state": "Moderate or rough becoming slight or moderate, occasionally smooth in northeast.",
       "weather": "Rain then showers.",
