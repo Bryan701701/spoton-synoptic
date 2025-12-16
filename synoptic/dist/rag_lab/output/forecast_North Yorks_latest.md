@@ -1,1 +1,1 @@
-Today in North Yorks, it’s a quiet one with 1 ft @5s SE swell and fresh 7 mph WNW winds. Tomorrow, conditions drop further with no surf expected, as the swell isn’t hitting this coast. Day after sees a slight bump to 1 ft @4s S, but with 13 mph SW winds, it remains poor. Best: today.
+Today in North Yorks, it's looking pretty quiet with 1 ft @5s SE swell and fresh 7 mph WNW wind. Tomorrow, the swell drops to 0 ft @4s E, so no surf action expected. Day after, we're still on the low end with 1 ft @4s S and 13 mph SW wind, keeping things pretty poor. Best: today.
