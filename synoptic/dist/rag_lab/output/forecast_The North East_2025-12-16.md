@@ -1,0 +1,1 @@
+Today at Saltburn Beach, you can catch clean 1 ft @ 6s SE waves with a moderate 12 mph WNW wind. It's a great time to hit the water, especially between 08:21 and 15:37. Tomorrow, conditions drop with 1 ft @ 3s SSE and fresh 23 mph S winds, making it a no-go. The day after continues the trend with similar poor conditions at 1 ft @ 5s SSE and 19 mph SSW winds. Best: today.

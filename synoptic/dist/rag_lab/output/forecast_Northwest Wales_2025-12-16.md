@@ -1,0 +1,1 @@
+Today in Northwest Wales, surf is small and quiet at 2 ft @10s WSW with light 4 mph E winds. Tomorrow sees a slight improvement with 3 ft @7s SW, but fresh 16 mph SSE winds will create some chop. By the day after, conditions get even better with 3 ft @8s WSW and lighter 8 mph SSE winds, making it the best day for a session. Best: day after.

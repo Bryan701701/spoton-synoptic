@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s a tough call with 9 ft @12s WSW swell and fresh 27 mph SW winds creating a blown-out scene. Tomorrow sees the swell increase to 11 ft @9s, but the 45 mph S winds will keep it messy. Day after, the swell peaks at 15 ft @15s with 34 mph SW winds, still not ideal. Best: none.
