@@ -1,0 +1,1 @@
+Today in Donegal, conditions are poor with swell at 7 ft @10s WSW and fresh 28 mph S winds creating a blown-out situation. Tomorrow, the swell ramps up to 16 ft @17s W, but the fresh SSW winds will keep it messy and challenging. The day after brings even bigger surf at 18 ft @14s W, with strong 29 mph WSW winds, making it another tough day for surfing. Best: today.

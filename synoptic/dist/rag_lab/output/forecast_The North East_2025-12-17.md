@@ -1,0 +1,1 @@
+Today is quiet across the North East with 1 ft @3s SSE swell and fresh 10 mph S wind. Tomorrow sees a slight improvement with 1 ft @5s SSE at Saltburn Beach, but still blown out by 16 mph SSW winds. Day after brings 2 ft @4s SSW, but fresh 19 mph SSW winds will keep it messy. Best: tomorrow.

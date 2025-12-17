@@ -1,0 +1,1 @@
+Today in Moray, it's a quiet scene with 1 ft @ 3s SSE swell and fresh 20 mph SSE winds, making for blown-out conditions. Tomorrow, the swell remains at 1 ft but shifts to 4s SW with lighter 11 mph S winds, still not producing much. The day after, the swell stays at 1 ft @ 4s SSW, with fresh 19 mph SSW winds, keeping it poor. Best: tomorrow.

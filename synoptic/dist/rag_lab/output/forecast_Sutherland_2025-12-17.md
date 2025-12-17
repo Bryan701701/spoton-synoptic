@@ -1,0 +1,1 @@
+Today in Sutherland, conditions are poor with 5 ft @8s WSW swell, but fresh 23 mph SSE winds are making it blown out. Tomorrow, expect a significant increase to 11 ft @14s W, but with strong 35 mph SW winds, it’ll be messy and challenging. The day after brings 10 ft @12s WSW with 22 mph SSW winds, still not ideal. Best: day after.

@@ -1,0 +1,1 @@
+Today, the South is seeing 5 ft @7s SSW, but fresh 35 mph SSW winds are making it blown out. Tomorrow, conditions remain similar with 5 ft @9s SSW and 26 mph onshore winds, keeping it messy. The day after, the swell drops slightly to 5 ft @8s SSW with 28 mph W winds, still not ideal. Best: none.

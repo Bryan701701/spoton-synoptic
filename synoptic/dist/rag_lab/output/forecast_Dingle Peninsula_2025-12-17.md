@@ -1,0 +1,1 @@
+Today on the Dingle Peninsula, it's flat with no surf energy—just a calm day. Tomorrow, the swell picks up to 15 ft @15s, but fresh 26 mph S winds will make it messy. The day after, the swell remains at 15 ft @14s with stronger 29 mph W winds, keeping conditions poor. Best: none.

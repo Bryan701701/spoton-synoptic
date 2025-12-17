@@ -1,0 +1,1 @@
+Today in North Yorks, it’s a quiet day with 1 ft @3s SE swell and fresh 14 mph S wind. Tomorrow stays similar with 1 ft @5s SSE, still not producing much and wind picking up to 16 mph SW. Day after, the swell bumps to 2 ft @4s SSW, but strong 27 mph SW winds will make it blown out. Best: day after.
