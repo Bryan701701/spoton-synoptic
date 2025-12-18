@@ -1,0 +1,1 @@
+Today in Caithness, it's a bit of a struggle with 2 ft @ 6s SSE and fresh 21 mph SSW winds making it blown out. Tomorrow sees a slight bump to 3 ft @ 5s SSE, but the 34 mph SSW winds will keep it messy. The day after brings a solid improvement with 4 ft @ 10s WNW and light 9 mph S winds, making for a clean surf day at spots like Point of Ness and Murkle Point. Best: day after.

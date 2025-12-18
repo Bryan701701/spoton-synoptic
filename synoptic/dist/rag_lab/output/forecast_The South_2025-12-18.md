@@ -1,0 +1,1 @@
+Today, the South is quiet with a 4 ft @8s swell, but fresh 20 mph S winds are making it blown out. Tomorrow, conditions improve with a solid 7 ft @9s SW swell and lighter 16 mph W winds, offering some workable options at spots like Ballinskelligs Bay. The day after, the swell drops to 5 ft @8s, but strong 39 mph S winds will keep it messy. Best: tomorrow.

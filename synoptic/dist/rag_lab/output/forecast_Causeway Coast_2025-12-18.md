@@ -1,0 +1,1 @@
+Today, the Causeway Coast is seeing poor conditions with 7 ft @15s WNW swell and fresh 21 mph S winds, making it blown out across the board. Tomorrow, similar conditions persist with 7 ft @12s WNW swell and stronger 25 mph SW winds, keeping it messy. By the day after, the swell drops to 5 ft @10s WNW with 28 mph SSE winds, still not producing anything worthwhile. Best: today.

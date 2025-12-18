@@ -1,0 +1,1 @@
+Today in Moray, it's a bit of a letdown with 2 ft @4s SW and fresh 21 mph SW winds making it blown out. Tomorrow holds similar conditions, still 2 ft @4s S but with lighter 13 mph SSE winds, so it might be a touch more manageable. Day after drops to 1 ft @4s SSW, leaving it pretty flat. Best: tomorrow.
