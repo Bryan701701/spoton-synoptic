@@ -1,0 +1,1 @@
+Today in the Hebrides, it's a tough call with 9 ft @12s WSW swell and fresh 30 mph SW winds making it blown out. Tomorrow sees a slight drop to 7 ft @10s, but the 24 mph SSE winds will still keep it messy. Day after brings 8 ft @13s with 21 mph ESE winds, offering a bit more potential for cleaner conditions. Best: day after.

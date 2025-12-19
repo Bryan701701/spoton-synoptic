@@ -1,0 +1,1 @@
+Today in Moray, it’s a flat day with 1 ft @4s swell and fresh 24 mph S winds, making it blown out across the board. Tomorrow holds similar conditions with 1 ft @4s and light 9 mph SSE winds, but still not producing. The day after, we see the same 1 ft @4s with 9 mph SE winds, keeping the surf quiet. Best: none.

@@ -1,0 +1,1 @@
+Today, all coasts are facing fresh onshore winds, making for blown-out conditions. Tomorrow sees a slight drop in swell to 5 ft @7s, but the wind ramps up to 29 mph from the south, keeping it messy. The day after, conditions improve significantly with 6 ft @13s and light ESE winds, offering clean surf at spots like Crantock and Porthcurno. Best: day after.

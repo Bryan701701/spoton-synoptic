@@ -1,0 +1,1 @@
+Today, the North East is feeling the effects of fresh SSW winds at 25 mph, creating blown-out conditions with 2 ft @ 4s swell. Tomorrow, conditions worsen with a drop to 1 ft @ 3s, still under similar onshore winds. However, day after brings a nice change with 2 ft @ 4s ESE swell and light ESE winds, making Saltburn Beach a standout spot. Best: day after.

@@ -1,0 +1,1 @@
+Today in Caithness, surf is poor with 3 ft @6s SSE and fresh 29 mph SSW winds making it blown out. Tomorrow looks much better, with 4 ft @11s WNW and light 9 mph S winds, offering clean conditions at spots like Point of Ness and Sandside Bay. Day after, conditions drop again to 4 ft @13s W but with fresh 24 mph SE winds, creating a challenging surf. Best: tomorrow.

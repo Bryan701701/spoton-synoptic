@@ -1,0 +1,1 @@
+Today in Sutherland, it's a no-go with poor conditions: 6 ft @11s WSW and fresh 32 mph SW winds making it blown out. Tomorrow remains similar with 6 ft @11s W, but winds ease to 11 mph SSE; still not producing. The day after, conditions improve with 4 ft @14s W and 20 mph SE winds, offering a better chance at Sango Bay or Melvich. Best: day after.
