@@ -1,0 +1,1 @@
+Today in Sutherland, it’s a solid 6 ft @10s W with a light 10 mph S wind. Melvich and Strathy are both working well, especially during their best tide windows. Tomorrow, expect a drop to 4 ft @15s WNW, but with a nice E wind keeping it clean. The day after, surf builds back up to 5 ft @12s W, still with light E winds, making for fun conditions. Best: today.

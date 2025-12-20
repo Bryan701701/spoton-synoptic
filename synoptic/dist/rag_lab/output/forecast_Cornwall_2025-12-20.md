@@ -1,0 +1,1 @@
+Today in Cornwall, North is lighting up with 5 ft @ 11s W swell and a light SSE breeze. Crantock and Fistral are both solid picks, especially during the early tides. Tomorrow, swell builds to 7 ft @ 14s W with light ESE winds, making for a fun day at the North spots. The day after, conditions ease slightly with 5 ft @ 13s W, but still plenty of options. Best: tomorrow.

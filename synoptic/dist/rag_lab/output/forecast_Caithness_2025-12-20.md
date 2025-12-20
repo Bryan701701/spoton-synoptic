@@ -1,0 +1,1 @@
+Today in Caithness, it's looking solid with 5 ft @11s W swell and a light 13 mph S wind. Point of Ness and Murkle Point are your best bets, with optimal tides from 09:02 to 14:12. Tomorrow, conditions drop to 4 ft @13s W with fresh 25 mph ESE winds, making it less favorable. The day after remains similar at 4 ft @11s W but with slightly easing winds. Best: today.

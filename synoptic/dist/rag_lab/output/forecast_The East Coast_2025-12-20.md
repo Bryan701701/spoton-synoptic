@@ -1,0 +1,1 @@
+Today on the East Coast, it's a bit quiet with 2 ft @5s S swell and 8 mph SSW winds, making for some poor conditions. Tomorrow sees a slight improvement with 3 ft @5s SE swell and 16 mph SE winds, but still not ideal. By the day after, conditions get better with 4 ft @6s ESE swell and 15 mph ESE winds, offering more potential for fun waves. Best: day after.
