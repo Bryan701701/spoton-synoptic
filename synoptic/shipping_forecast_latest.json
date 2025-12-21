@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-21T16:00:02Z",
+  "fetched_at": "2025-12-21T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 21 Dec 2025",
   "valid": "For the period 12:00 (UTC) on Sun 21 Dec 2025 to 12:00 (UTC) on Mon 22 Dec 2025",
   "general_synopsis": "Lows Rockall 995 and Sole 999 losing their identities by 0600 Monday, low Biscay 999 expected Plymouth 993",
@@ -106,6 +106,7 @@
     },
     "Portland": {
       "text": "Wind\nEast or southeast 4 or 5, occasionally 6.\nSea state\nSlight or moderate.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 21 Dec 2025\nSoutheasterly gale force 8 expected soon",
       "wind": "East or southeast 4 or 5, occasionally 6.",
       "sea_state": "Slight or moderate.",
       "weather": "Occasional rain or showers.",
@@ -113,6 +114,7 @@
     },
     "Plymouth": {
       "text": "Wind\nCyclonic 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nOccasional rain or showers, thundery at times.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 21 Dec 2025\nSoutheasterly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Occasional rain or showers, thundery at times.",
@@ -120,6 +122,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain or showers, thundery at times.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 21 Dec 2025\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or showers, thundery at times.",
@@ -134,7 +137,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 3 to 5 at first in far northeast, otherwise northwesterly 5 to 7, occasionally gale 8 in north.\nSea state\nVery rough, occasionally high at first and rough in northwest.\nWeather\nShowers, squally and perhaps thundery at times.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sat 20 Dec 2025\nGale force 8 now veered northwesterly",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 21 Dec 2025\nGale now ceased buy northwesterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5 at first in far northeast, otherwise northwesterly 5 to 7, occasionally gale 8 in north.",
       "sea_state": "Very rough, occasionally high at first and rough in northwest.",
       "weather": "Showers, squally and perhaps thundery at times.",
@@ -142,7 +145,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 3 to 5, becoming northerly or northwesterly 4 to 6.Occasionally 7 later in southeast.\nSea state\nHigh at first in west, otherwise very rough, becoming rough or very rough later.\nWeather\nShowers, perhaps thundery.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Sat 20 Dec 2025\nGale now ceased but northwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 21 Dec 2025\nGale now ceased buy northwesterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming northerly or northwesterly 4 to 6.Occasionally 7 later in southeast.",
       "sea_state": "High at first in west, otherwise very rough, becoming rough or very rough later.",
       "weather": "Showers, perhaps thundery.",
