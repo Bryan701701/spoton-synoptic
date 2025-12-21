@@ -1,0 +1,1 @@
+Today in the Hebrides, it’s a tough call with 9 ft @16s W swell but fresh 27 mph ESE winds making it blown out. Tomorrow, conditions improve slightly to 5 ft @12s W with 17 mph ESE wind; sheltered spots like Dalbeg and Europie may offer some fun. The day after continues the trend with 4 ft @10s WSW and similar winds, still workable at the right corners. Best: tomorrow.
