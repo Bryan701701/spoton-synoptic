@@ -1,0 +1,1 @@
+Today in Northwest Wales, conditions are quite poor with 2 ft @9s SW swell and fresh 12 mph ESE winds creating some chop. Tomorrow, the swell drops to 1 ft @8s WSW, with light 5 mph ENE winds, making it even less promising. The day after, expect similar conditions with 1 ft @5s NNE swell and 7 mph NE winds, keeping it flat and uninviting. Best: today.

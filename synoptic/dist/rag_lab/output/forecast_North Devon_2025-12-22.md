@@ -1,0 +1,1 @@
+North Devon is looking solid today with 3 ft @ 11s W swell and light ESE winds at 10 mph. Woolacombe and Putsborough are the top picks, both best from 08:19 to 16:11. Tomorrow, conditions drop to 2 ft @ 7s NE with fresh 17 mph E winds, making it a poor day for surf. The day after continues the trend with similar 2 ft @ 7s NNE and 19 mph ENE winds. Best: today.

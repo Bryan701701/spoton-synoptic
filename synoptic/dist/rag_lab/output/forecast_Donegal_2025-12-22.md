@@ -1,0 +1,1 @@
+Today in Donegal, it's a solid 6 ft @12s W with light 8 mph ENE winds, making for clean conditions at spots like Magheroaty Beach and Mageroaty. Tomorrow, the swell drops to 3 ft @11s, still workable with light 2 mph E winds. By the day after, we're back up to 6 ft @12s WNW, with similar light winds, ensuring fun sessions at various beaches. Best: today.

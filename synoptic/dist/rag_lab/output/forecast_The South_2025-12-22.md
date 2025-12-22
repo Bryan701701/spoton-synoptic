@@ -1,0 +1,1 @@
+Today, the South is quiet with 2 ft @6s SE swell and a fresh 9 mph N wind. Tomorrow sees a slight increase to 3 ft @6s SE, but the fresh NE wind will keep conditions poor. On the day after, the swell drops back to 2 ft @5s E with a moderate 11 mph NNE wind, still not producing much. Best: today.

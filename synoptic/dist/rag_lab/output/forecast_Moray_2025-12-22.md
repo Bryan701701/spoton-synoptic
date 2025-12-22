@@ -1,0 +1,1 @@
+Today in Moray, it's a fun day with clean 2 ft @5s E swell and moderate 11 mph ESE winds. Fraserburgh and Pennan are your best bets, both working well throughout the day. Tomorrow, expect a bit of a bump to 3 ft @7s E, but fresh 16 mph SSE winds may chop it up. The day after, things drop back to 1 ft @7s E with light winds, making it a quiet one. Best: today.

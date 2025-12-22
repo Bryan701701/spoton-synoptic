@@ -1,0 +1,1 @@
+Today, North and West are lighting up with 5ft @12s W swell and ESE winds at 13 mph. Crantock and Fistral are prime picks, especially on the push from 08:19 to 16:19. Tomorrow sees a drop to 2ft @10s W, still workable at the same North spots, but with a fresh ESE wind. Day after, North holds at 3ft @9s NW, with Kennack Sands in the South showing some potential. Best: today.
