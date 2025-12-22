@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-22T09:30:02Z",
+  "fetched_at": "2025-12-22T10:00:01Z",
   "issued": "Issued at: 05:05 (UTC) on Mon 22 Dec 2025",
   "valid": "For the period 06:00 (UTC) on Mon 22 Dec 2025 to 06:00 (UTC) on Tue 23 Dec 2025",
   "general_synopsis": "Low Biscay 993 expected east Sole 1001 by midnight tonight",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 22 Dec 2025\nSoutheasterly gale force 8 expected soon",
       "wind": "Southeasterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -121,7 +122,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first in north.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sun 21 Dec 2025\nSouthwesterly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 22 Dec 2025\nGale force 8 now veered southeasterly",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first in north.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
