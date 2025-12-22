@@ -223,8 +223,8 @@
       "lat": 58.37721943550005,
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:54 (UTC) on Mon 22 Dec 2025\nSoutheasterly gale force 8 expected soon"
     },
     {
       "name": "Thames",
@@ -269,7 +269,7 @@
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:53 (UTC) on Sun 21 Dec 2025\nSouthwesterly gale force 8 imminent"
+      "gale_text": "Gale warning\nIssued:\n09:54 (UTC) on Mon 22 Dec 2025\nGale force 8 now veered southeasterly"
     },
     {
       "name": "Trafalgar",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2025-12-22T09:30:37Z"
+  "generated_utc": "2025-12-22T10:00:42Z"
 }
