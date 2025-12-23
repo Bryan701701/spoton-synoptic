@@ -1,0 +1,1 @@
+Today, the South is quiet with 4 ft @6s SE swell, but fresh 18 mph NNE winds are making it blown out. Tomorrow, the swell drops to 2 ft @5s E, still with light 8 mph NNE winds, so it remains uninviting. On the day after, conditions improve slightly to 3 ft @5s E, but fresh 18 mph NE winds will keep it choppy. Best: day after.

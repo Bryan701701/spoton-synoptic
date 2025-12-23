@@ -1,0 +1,1 @@
+Today in County Sligo, Strandhill is offering clean 2 ft @10s WNW with light 2 mph SE winds, perfect for a fun session. Tomorrow, the swell picks up to 4 ft @12s WNW with a light 4 mph N wind, making it a great day for Easkey and Strandhill. On the day after, expect 3 ft @11s NW at Strandhill with light 4 mph E winds, still providing some fun waves. Best: tomorrow.

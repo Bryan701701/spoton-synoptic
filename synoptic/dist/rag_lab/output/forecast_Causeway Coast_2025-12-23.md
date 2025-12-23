@@ -1,0 +1,1 @@
+Today on the Causeway Coast, Portballintrae is clean and fun at 2 ft @10s WNW with light 7 mph ESE winds. Tomorrow, it builds to 4 ft @12s, still with light E winds, making for great conditions at both White Park Bay and Portballintrae. The day after, expect 3 ft @10s NW, with similar light winds, keeping things lively. Best: tomorrow.

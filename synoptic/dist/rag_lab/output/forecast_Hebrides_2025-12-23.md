@@ -1,0 +1,1 @@
+Today in the Hebrides, surf is on at 3 ft @10s WSW with fresh 16 mph SSE winds. Europie and Barvas are your best bets, with workable conditions from mid-morning to afternoon. Tomorrow, conditions improve with 5 ft @12s W and light 6 mph SSW winds, making for a fun day across all spots. Day after, it holds at 4 ft @11s W with a moderate 15 mph SSW breeze. Best: tomorrow.

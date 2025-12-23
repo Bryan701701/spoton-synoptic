@@ -1,0 +1,1 @@
+Today in Pembrokeshire, St Brides Bay and Tenby are both clean and fun at 2 ft @7s S with a light 10 mph ENE breeze. Tomorrow sees a drop in quality with the swell angle shifting, making it less workable across the region. On Christmas Day, conditions worsen further with 1 ft @4s NE and fresh 18 mph ENE winds, making it quite poor. Best: today.

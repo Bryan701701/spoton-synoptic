@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's a quiet one with 1 ft @ 6s SW swell and light 5 mph E winds. Tomorrow, conditions remain similar with 1 ft @ 4s ENE swell and fresh 11 mph ENE winds, keeping it on the poor side. Day after, the swell stays at 1 ft @ 4s ENE with stronger 18 mph E winds, making it even less inviting. Best: today.

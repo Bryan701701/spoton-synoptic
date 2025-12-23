@@ -1,0 +1,1 @@
+Today in North Devon, surf is small and not producing, with 2 ft @8s NNW and a fresh 9 mph E wind. Tomorrow, conditions worsen with 2 ft @6s ENE and a strong 35 mph ENE wind, making it blown out. Day after, swell increases to 3 ft @5s NE, but the fresh 28 mph NE wind keeps it messy. Best: today.

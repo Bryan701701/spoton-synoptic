@@ -1,0 +1,1 @@
+Today in South Devon, it's looking poor with 3 ft @6s SE swell and fresh 18 mph ESE winds making it blown out. Tomorrow, similar conditions persist with 3 ft @6s E swell and 14 mph ENE winds, still not producing much. By the day after, the swell picks up slightly to 4 ft @6s E, but fresh 32 mph ENE winds will keep it messy. Best: today.

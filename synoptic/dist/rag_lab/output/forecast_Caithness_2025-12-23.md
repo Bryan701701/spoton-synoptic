@@ -1,0 +1,1 @@
+Today in Caithness, conditions are flat with no surf energy—just a calm day. Tomorrow, expect a nice improvement with 3 ft @7s ESE and light SSW winds, making for some fun waves at spots like Sandside Bay. Day after, surf builds further to 4 ft @11s WNW, with light SSE winds keeping it clean at places like Point of Ness. Best: day after.

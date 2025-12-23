@@ -1,0 +1,1 @@
+Today in Moray, it's a quiet one with 2 ft @7s E swell, but fresh 19 mph SE winds are making it blown out. Tomorrow, conditions improve as Fraserburgh lights up with 2 ft @7s E and a lighter 10 mph S wind, offering a fun window from 08:51 to 15:23. By the day after, the swell drops to 1 ft @5s, leaving us with flat conditions. Best: tomorrow.
