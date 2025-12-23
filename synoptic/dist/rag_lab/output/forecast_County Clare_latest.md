@@ -1,1 +1,1 @@
-Today in County Clare, it's a quiet scene with 2 ft @10s WNW swell and fresh 12 mph NE winds. Tomorrow, conditions improve with 5 ft @12s WNW swell, but the fresh ENE wind may create some chop. On the day after, the swell drops back to 2 ft @11s WNW, still with fresh ENE winds. Best: tomorrow.
+Today in County Clare, it's a quiet one with 2 ft @10s WNW swell and fresh 12 mph NE wind. Tomorrow sees a nice bump to 5 ft @12s WNW, but the fresh ENE wind will keep it a bit choppy. Day after drops back to 2 ft @11s WNW, still with fresh ENE winds. Best: tomorrow.
