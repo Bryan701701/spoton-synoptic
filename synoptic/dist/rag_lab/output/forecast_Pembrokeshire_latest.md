@@ -1,1 +1,1 @@
-Today in Pembrokeshire, it's a quiet scene with 2 ft @7s SE swell and fresh 11 mph NNE winds. Tomorrow sees a similar setup with 2 ft @5s E swell and moderate 15 mph NE winds, keeping it on the poor side. Day after drops to 1 ft @5s ESE, still not producing much. Best: today.
+Today in Pembrokeshire, it's looking pretty quiet with 2 ft @7s SE lines and a fresh 11 mph NNE wind. Tomorrow, conditions remain similar with 2 ft @5s E swell and a moderate 15 mph NE wind, still not producing much. Day after drops further to 1 ft @5s ESE, keeping it flat and uninviting. Best: today.
