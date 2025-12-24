@@ -1,0 +1,1 @@
+Today in the South, conditions are poor with a weak 2 ft @5s E swell and fresh 21 mph NE wind, making it a bit choppy. Tomorrow sees a slight improvement with 4 ft @6s E swell, but the wind picks up to 25 mph ENE, keeping it messy. On the day after, the swell drops to 3 ft @6s E with 23 mph NE wind, still not ideal. Best: tomorrow.

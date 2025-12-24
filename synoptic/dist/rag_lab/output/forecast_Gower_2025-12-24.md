@@ -1,0 +1,1 @@
+Today in Gower, it's looking quiet with a weak 2 ft @6s SE swell and light NE wind. Tomorrow, conditions worsen with the same swell size but a fresh 26 mph NE wind, making it blown out. By the day after, the swell drops to 1 ft @5s ESE, still under light NNE wind, leaving it flat. Best: today.

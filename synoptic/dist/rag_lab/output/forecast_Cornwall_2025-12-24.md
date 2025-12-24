@@ -1,0 +1,1 @@
+Today, conditions are poor across Cornwall with 4 ft @8s NNW swell on the North coast, but fresh 10 mph ENE winds are making it messy. Tomorrow sees a slight increase in swell to 6 ft @7s ENE in the South, but with strong 38 mph NE winds, it's likely to be blown out. By the day after, the swell drops to 2 ft @6s NNE, keeping things quiet across all coasts. Best: tomorrow.

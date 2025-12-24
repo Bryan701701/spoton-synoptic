@@ -1,0 +1,1 @@
+Today in South Devon, the surf is on the smaller side at 3 ft @5s with fresh 15 mph ENE winds creating a bit of chop. Tomorrow, conditions worsen with 5 ft @7s but strong 35 mph NE winds making it blown out. The day after sees a drop back to 3 ft @5s with lighter 10 mph E winds, but still not producing much. Best: today.

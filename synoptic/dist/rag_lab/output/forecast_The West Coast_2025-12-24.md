@@ -1,0 +1,1 @@
+Today on the West Coast, it's looking fun with 5 ft @12s WNW swell and fresh 14 mph E winds. Ardnave Bay and Saligo Bay are your best bets, with clean conditions early. Tomorrow, the swell drops to 3 ft @10s, still workable at the same spots but a bit less punch. Day after, it eases further to 2 ft @10s, perfect for a laid-back session. Best: today.

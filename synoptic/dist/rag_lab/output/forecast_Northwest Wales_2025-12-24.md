@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's looking pretty flat with 1 ft @ 4s NE swell and light ENE winds at 8 mph. Tomorrow, conditions remain similar with 1 ft @ 3s ENE and freshening winds at 15 mph, keeping it on the poor side. Day after, expect 1 ft @ 3s ENE with winds picking up to 16 mph, so still not much happening. Best: today.

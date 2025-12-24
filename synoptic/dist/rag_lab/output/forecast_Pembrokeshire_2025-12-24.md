@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's a bit of a bummer with 2 ft @7s SE swell and fresh 11 mph NNE winds creating a blown-out situation. Tomorrow, conditions remain similar with 2 ft @5s E swell and 15 mph NE winds, keeping it messy. Day after drops to 1 ft @5s ESE, making it quite flat and unworkable. Best: today.
