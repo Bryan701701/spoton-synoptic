@@ -1,1 +1,1 @@
-Today, surf is flat across Cornwall with no swell hitting the coast. Tomorrow sees a slight uptick to 2 ft @7s, but still not producing much, especially with fresh onshore winds. The day after brings a bit more energy at 5 ft @6s, but conditions remain poor with ENE winds. Best: day after.
+Today, Cornwall is quiet with no surf action—wrong swell angle and fresh NE winds have it blown out. Tomorrow, conditions remain similar with small 2 ft @7s lines, still not producing much. The day after shows a slight uptick to 5 ft @6s, but wind remains on it. Best: day after.
