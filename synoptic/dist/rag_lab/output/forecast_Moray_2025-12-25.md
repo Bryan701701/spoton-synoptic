@@ -1,1 +1,1 @@
-Today in Moray, it's a quiet one with 1 ft @6s E swell and light 6 mph S winds. Tomorrow, conditions drop further to flat with no surf energy. The day after, we see a slight improvement with 1 ft @4s NNE swell and 10 mph NNW winds, making Spey Bay and Lossiemouth the best bets during the mid-tide windows. Best: day after.
+Today in Moray, it's a quiet one with 1 ft @6s E swell and light 6 mph S winds. Tomorrow, conditions drop further to flat with no surf energy. Day after, a slight uptick to 1 ft @4s NNE with 10 mph NNW winds, but still not much happening. Best: day after.
