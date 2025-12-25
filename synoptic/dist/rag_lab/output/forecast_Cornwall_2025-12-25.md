@@ -1,0 +1,1 @@
+Today is looking quiet across Cornwall with no surf action—wrong swell angle and fresh NE wind has it blown out. Tomorrow remains flat with minimal swell energy. Day after, a slight uptick to 5 ft @6s E is expected, but still not ideal. Best: day after.

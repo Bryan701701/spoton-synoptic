@@ -1,0 +1,1 @@
+North Yorks is looking fun today with 3 ft @ 5s ENE swell and fresh 18 mph ENE winds. Withernsea and Filey are your best bets, especially on the push. Tomorrow, the swell drops to 2 ft @ 5s, still workable at the same spots but with lighter winds at 13 mph. By the day after, expect similar conditions at 2 ft @ 4s, but with a bit more wind from the NNE. Best: today.

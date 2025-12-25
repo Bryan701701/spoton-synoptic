@@ -1,0 +1,1 @@
+Today in North Devon, conditions are poor with 3 ft @5s ENE swell and fresh 36 mph ENE winds, making it blown out across the board. Tomorrow sees a slight drop to 2 ft @4s, but the fresh 30 mph ENE winds continue to keep it messy. By the day after, the swell remains at 2 ft @5s with light 9 mph E winds, offering a more manageable option, but still not ideal. Best: day after.

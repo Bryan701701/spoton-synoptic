@@ -1,0 +1,1 @@
+Today in County Sligo, Strandhill is working with a swell of 3ft @11s NW and a fresh 13 mph E wind. It's best on the push from 08:55 to 16:14. Tomorrow, the swell drops to 2ft @9s, making it a bit poor across the board. The day after continues the trend with similar 2ft @6s conditions, so not much happening. Best: today.

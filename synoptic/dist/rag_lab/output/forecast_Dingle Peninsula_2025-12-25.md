@@ -1,0 +1,1 @@
+Dingle Peninsula is looking fun today with 3 ft @10s WNW swell and a light E wind. Ballybunion Right and Beach are your best bets, especially on the push. Tomorrow, the swell drops to 2 ft @8s, but still some surfable waves at Ballybunion spots. The day after holds similar conditions, with 2 ft @9s NW swell. Best: today.

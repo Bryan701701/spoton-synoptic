@@ -1,0 +1,1 @@
+Today, the South is quiet with a fresh ENE wind at 25 mph, creating a blown-out scene across all spots. Tomorrow, conditions remain similar with a slight drop in swell to 3 ft @ 6s, still messy due to the ongoing ENE wind at 24 mph. The day after continues the trend with 3 ft @ 5s, and the wind picks up to 30 mph, keeping it choppy. Best: tomorrow.
