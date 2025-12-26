@@ -1,0 +1,1 @@
+Today in County Clare, surf is small and not producing with 2 ft @9s WNW and fresh 11 mph NE winds. Tomorrow sees similar conditions, with 2 ft @9s W and light 5 mph NNE winds, but still not much happening. The day after, expect 2 ft @10s WNW with light 8 mph E winds, maintaining that quiet vibe. Best: tomorrow.

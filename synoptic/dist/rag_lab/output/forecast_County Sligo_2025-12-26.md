@@ -1,0 +1,1 @@
+Today in County Sligo, it’s a bit of a struggle with 2 ft @8s NNW swell and fresh 18 mph E winds making for blown-out conditions. Tomorrow sees similar 2 ft @6s NNE waves with wind picking up to 21 mph ENE, keeping it poor across the board. Day after, the swell remains at 2 ft @8s NNW but with lighter 6 mph ENE winds; still not much to get excited about. Best: day after.

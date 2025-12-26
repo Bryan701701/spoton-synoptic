@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's looking quiet with 2 ft @5s ESE lines and a fresh 7 mph NE wind. Tomorrow drops to 1 ft @6s SE, still with fresh NE winds—definitely a day to give a miss. The day after sees a slight bump back to 2 ft @6s SE, but winds pick up to 12 mph ENE, making it less than ideal. Best: today.

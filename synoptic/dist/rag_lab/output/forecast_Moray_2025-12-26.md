@@ -1,0 +1,1 @@
+Today in Moray, it’s a flat day with no surf on the horizon—swell isn’t hitting this coast. Tomorrow looks similar, with no waves expected. Day after, we see a nice change as conditions improve with 2 ft @7s NE swell and light WSW winds, making it a fun day at spots like Fraserburgh and Banff. Best: day after.

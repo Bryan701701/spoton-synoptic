@@ -1,0 +1,1 @@
+Today in Sutherland, it's looking great with 3 ft @12s W swell and light 9 mph SSE winds. Melvich and Strathy are your top picks, both offering clean conditions. Tomorrow, the swell drops to 2 ft @9s WNW with fresh 18 mph NNE winds, making it less appealing. By the day after, we bounce back to 3 ft @9s NNW with light 3 mph SSE winds, perfect for a fun session. Best: today.

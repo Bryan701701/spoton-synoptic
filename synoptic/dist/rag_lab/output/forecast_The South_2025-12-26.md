@@ -1,0 +1,1 @@
+Today, the South is quiet with a weak 3 ft @6s ESE swell and fresh 23 mph ENE winds, making it blown out. Tomorrow, conditions remain similar with 3 ft @5s E swell and 22 mph ENE winds, still not producing. On the day after, the swell picks up slightly to 4 ft @6s ESE, but the fresh 22 mph E winds continue to chop it up. Best: day after.

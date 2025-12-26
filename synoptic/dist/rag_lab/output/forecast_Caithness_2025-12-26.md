@@ -1,0 +1,1 @@
+Today in Caithness, Dunnet Bay is lighting up with 3 ft @ 11s WNW and a light 8 mph S wind, making for clean conditions. Tomorrow, it drops to 2 ft @ 7s NW with a fresh 15 mph NNE wind, so expect some chop. The day after, things improve again with 4 ft @ 10s NNW and light 7 mph WSW winds at spots like Point of Ness and Thurso East. Best: today.

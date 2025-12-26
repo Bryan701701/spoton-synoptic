@@ -1,0 +1,1 @@
+Today is flat across Northwest Wales with no surf to be found. Tomorrow, a slight bump brings 1 ft @5s NE swell, but fresh 16 mph E winds will keep it choppy. The day after, conditions remain similar with 1 ft @6s NNW swell and 13 mph E winds, still not ideal. Best: tomorrow.

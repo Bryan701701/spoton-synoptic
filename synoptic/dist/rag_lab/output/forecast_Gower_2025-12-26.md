@@ -1,0 +1,1 @@
+Today, Gower is seeing 3 ft @5s E swell, but fresh 24 mph E winds are making it blown out across the board. Tomorrow, the swell drops to 1 ft @6s SE with even stronger 31 mph E winds, so it's not producing. Day after, we bounce back to 3 ft @5s E with lighter 13 mph ENE winds, offering a better chance for some fun. Best: day after.
