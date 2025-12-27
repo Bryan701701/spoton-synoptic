@@ -80,7 +80,7 @@
       "x": 3075.6496808742554,
       "y": 741.3283846490839,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:57 (UTC) on Sat 27 Dec 2025\nNorthwesterly gale force 8 increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n15:54 (UTC) on Sat 27 Dec 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
     },
     {
       "name": "FitzRoy",
@@ -116,7 +116,7 @@
       "x": 3088.104751794571,
       "y": 906.5732721462239,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:53 (UTC) on Fri 26 Dec 2025\nNortherly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:54 (UTC) on Sat 27 Dec 2025\nNortherly gale force 8 continuing"
     },
     {
       "name": "Hebrides",
@@ -250,8 +250,8 @@
       "lat": 59.750010633500054,
       "x": 2799.435120669437,
       "y": 549.7492914222237,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:58 (UTC) on Sat 27 Dec 2025\nNortherly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Wight",
@@ -290,5 +290,5 @@
       "gale_text": "Gale warning\nIssued:\n09:58 (UTC) on Sat 27 Dec 2025\nNortherly gale force 8 continuing"
     }
   ],
-  "generated_utc": "2025-12-27T16:01:13Z"
+  "generated_utc": "2025-12-27T16:30:43Z"
 }
