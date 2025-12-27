@@ -1,0 +1,1 @@
+Today in Northwest Wales, surf is flat with 1 ft @5s E and fresh 11 mph ENE winds. Tomorrow, conditions remain similar with 1 ft @9s SW and light 8 mph ENE winds, still not producing much. The day after continues the trend with 1 ft @10s S and very light 4 mph ENE winds. Best: today.

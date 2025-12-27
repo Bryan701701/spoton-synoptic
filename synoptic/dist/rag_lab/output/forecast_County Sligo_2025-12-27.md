@@ -1,0 +1,1 @@
+Today in County Sligo, it's a quiet day with 2 ft @7s N swell and fresh 7 mph NE winds. Tomorrow sees a slight improvement with the same swell height but a longer period of 9s, still with light ENE winds. The day after brings 2 ft @11s NNW, but the winds ease to a gentle 4 mph ESE, making it a bit more enjoyable. Best: day after.

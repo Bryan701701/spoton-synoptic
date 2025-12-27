@@ -1,0 +1,1 @@
+Today on the West Coast, surf is small and not producing, with 2 ft @9s W and fresh 8 mph ENE winds. Tomorrow, conditions improve slightly with 2 ft @9s NW but still on the poor side, as winds pick up to 17 mph E. The day after remains similar, with 2 ft @12s WNW and light 7 mph NNE winds, but still not ideal. Best: tomorrow.

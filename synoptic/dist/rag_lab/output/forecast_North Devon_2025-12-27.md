@@ -1,0 +1,1 @@
+Today in North Devon, it's looking pretty quiet with 1 ft @ 6s NE swell and fresh 9 mph ESE winds. Tomorrow, the swell bumps slightly to 2 ft @ 6s ENE, but the wind stays fresh at 11 mph, keeping things on the choppy side. Day after drops back to 1 ft @ 8s NE, with the same wind conditions. Best: tomorrow.

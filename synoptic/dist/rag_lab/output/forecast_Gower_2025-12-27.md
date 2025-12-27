@@ -1,0 +1,1 @@
+Today in Gower, it's looking poor with 3 ft @5s E swell and fresh 9 mph NE wind. Tomorrow, conditions drop further to 2 ft @6s ESE, with stronger 25 mph E winds making it blown out. Day after, Llangennith Beach and Oxwich Bay show some promise with 1 ft @11s WSW and light 10 mph NE winds, offering a bit of fun on the right tide. Best: day after.

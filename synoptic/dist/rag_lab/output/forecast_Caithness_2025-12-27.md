@@ -1,0 +1,1 @@
+Today in Caithness, surf is quite small and poor, with 1ft @7s SW across the board and fresh 13 mph NNW winds. Tomorrow brings a solid improvement, with 4ft @10s NNW at spots like Point of Ness and Thurso East, all under light 7 mph W winds—perfect for a fun session! The day after holds similar conditions, with 4ft @9s NNW, still clean and fun at the same spots. Best: tomorrow.

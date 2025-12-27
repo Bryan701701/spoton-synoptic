@@ -1,0 +1,1 @@
+Today in Moray, it’s a quiet start with 1 ft @4s NE swell and fresh 13 mph W wind—definitely not producing. Tomorrow brings a nice improvement with 2 ft @7s NE swell and light 6 mph WSW wind, making for clean conditions at spots like Banff and Fraserburgh. Day after, the swell holds at 2 ft @7s N, but fresh 20 mph W wind will likely chop it up. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it’s a quiet day with 2 ft @6s SE swell and fresh 7 mph NE wind across the board. Tomorrow, conditions remain similar with 2 ft @7s SE swell and 9 mph NE wind, keeping it on the poor side. Day after, St Brides Bay and Tenby light up with 2 ft @10s WSW swell and 8 mph ENE wind, offering some fun options. Best: day after.
