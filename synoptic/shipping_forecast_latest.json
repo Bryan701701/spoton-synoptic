@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-27T22:00:01Z",
+  "fetched_at": "2025-12-27T22:30:02Z",
   "issued": "Issued at: 17:25 (UTC) on Sat 27 Dec 2025",
   "valid": "For the period 18:00 (UTC) on Sat 27 Dec 2025 to 18:00 (UTC) on Sun 28 Dec 2025",
   "general_synopsis": "Low Trafalgar 1003 slow-moving, filling 1007 by midday tomorrow. High Faeroes 1048 dissipating",
@@ -15,7 +15,6 @@
     },
     "North Utsire": {
       "text": "Wind\nNortherly or northwesterly 7 or gale 8, decreasing 4 to 6.\nSea state\nVery rough, becoming moderate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:58 (UTC) on Sat 27 Dec 2025\nNortherly gale force 8 continuing",
       "wind": "Northerly or northwesterly 7 or gale 8, decreasing 4 to 6.",
       "sea_state": "Very rough, becoming moderate or rough.",
       "weather": "Fair.",
@@ -23,7 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNortherly or northwesterly 7 or gale 8, decreasing 4 to 6, occasionally 7 later.\nSea state\nVery rough, becoming moderate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:58 (UTC) on Sat 27 Dec 2025\nSevere gale force 9 backing northwesterly and decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nGale now ceased but northwesterly gale force 8 expected later",
       "wind": "Northerly or northwesterly 7 or gale 8, decreasing 4 to 6, occasionally 7 later.",
       "sea_state": "Very rough, becoming moderate or rough.",
       "weather": "Fair.",
@@ -66,7 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorth 6 to gale 8, backing northwest 4 to 6, occasionally 7 later.\nSea state\nRough or very rough, becoming moderate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Sat 27 Dec 2025\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nGale now ceased but northwesterly gale force 8 expected later",
       "wind": "North 6 to gale 8, backing northwest 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough.",
       "weather": "Fair.",
@@ -74,7 +73,6 @@
     },
     "German Bight": {
       "text": "Wind\nNorth or northwest 6 to gale 8, decreasing 3 to 5.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Sat 27 Dec 2025\nNortherly gale force 8 continuing",
       "wind": "North or northwest 6 to gale 8, decreasing 3 to 5.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -110,7 +108,6 @@
     },
     "Portland": {
       "text": "Wind\nEast or northeast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sat 27 Dec 2025\nNortheasterly gale force 8 expected soon",
       "wind": "East or northeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -118,7 +115,6 @@
     },
     "Plymouth": {
       "text": "Wind\nEast or northeast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sat 27 Dec 2025\nEasterly gale force 8 expected soon",
       "wind": "East or northeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -132,8 +128,8 @@
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "Wind\nCyclonic 5 to 7, occasionally 4 at first, perhaps gale 8 later.\nSea state\nSlight or moderate at first in east, otherwise rough or very rough.\nWeather\nThundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "wind": "Cyclonic 5 to 7, occasionally 4 at first, perhaps gale 8 later.",
+      "text": "perhaps gale 8 later.\nSea state\nSlight or moderate at first in east, otherwise rough or very rough.\nWeather\nThundery showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nNorthwesterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Sat 27 Dec 2025",
       "sea_state": "Slight or moderate at first in east, otherwise rough or very rough.",
       "weather": "Thundery showers.",
       "visibility": "Moderate or good, occasionally poor."
@@ -154,7 +150,6 @@
     },
     "Lundy": {
       "text": "Wind\nEast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough in west, slight or moderate in east.\nWeather\nShowers at first.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:57 (UTC) on Sat 27 Dec 2025\nEasterly gale force 8 expected soon",
       "wind": "East 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough in west, slight or moderate in east.",
       "weather": "Showers at first.",
@@ -225,7 +220,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 5 to 7, occasionally gale 8 at first in north, becoming cyclonic 3 to 5 later.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Fri 26 Dec 2025\nGale now ceased but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 5 to 7, occasionally gale 8 at first in north, becoming cyclonic 3 to 5 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
