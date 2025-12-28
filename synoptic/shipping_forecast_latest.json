@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-28T09:45:01Z",
+  "fetched_at": "2025-12-28T10:00:02Z",
   "issued": "Issued at: 05:05 (UTC) on Sun 28 Dec 2025",
   "valid": "For the period 06:00 (UTC) on Sun 28 Dec 2025 to 06:00 (UTC) on Mon 29 Dec 2025",
   "general_synopsis": "Low Trafalgar 1002 slow-moving, filling 1012 by midnight tonight. High Hebrides 1043 expected 250 miles southwest of Iceland 1039 by same time",
@@ -128,8 +128,8 @@
       "visibility": "Good, occasionally moderate."
     },
     "Trafalgar": {
-      "text": "uth, becoming northerly or northeasterly 3 to 5 in north and also later in south.\nSea state\nModerate or rough, occasionally very rough in south.\nWeather\nShowers, thundery in south.\nVisibility\nModerate or good, occasionally poor in south.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nNorthwesterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Sun 28 Dec 2025",
+      "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 in south, becoming northerly or northeasterly 3 to 5 in north and also later in south.\nSea state\nModerate or rough, occasionally very rough in south.\nWeather\nShowers, thundery in south.\nVisibility\nModerate or good, occasionally poor in south.",
+      "wind": "Cyclonic 5 to 7, occasionally gale 8 in south, becoming northerly or northeasterly 3 to 5 in north and also later in south.",
       "sea_state": "Moderate or rough, occasionally very rough in south.",
       "weather": "Showers, thundery in south.",
       "visibility": "Moderate or good, occasionally poor in south."
@@ -220,7 +220,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly or southwesterly 6 to gale 8, becoming cyclonic 3 to 5.\nSea state\nModerate or rough.\nWeather\nShowers later.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 27 Dec 2025\nSouthwesterly gale force 8 continuing",
       "wind": "Westerly or southwesterly 6 to gale 8, becoming cyclonic 3 to 5.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers later.",
