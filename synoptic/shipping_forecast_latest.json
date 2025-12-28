@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-28T16:00:02Z",
+  "fetched_at": "2025-12-28T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 28 Dec 2025",
   "valid": "For the period 12:00 (UTC) on Sun 28 Dec 2025 to 12:00 (UTC) on Mon 29 Dec 2025",
   "general_synopsis": "Low Trafalgar 1002 expected east of Gibraltar 1015 by 0600 tomorrow. High Fair Isle 1040 dissipating",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwest 4 or 5, veering north 5 to 7.\nSea state\nRough, occasionally very rough later.\nWeather\nShowers, wintry later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n16:00 (UTC) on Sun 28 Dec 2025\nNortherly gale force 8 expected later",
       "wind": "Northwest 4 or 5, veering north 5 to 7.",
       "sea_state": "Rough, occasionally very rough later.",
       "weather": "Showers, wintry later.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nNorthwesterly 4 or 5, veering northerly 5 to 7, perhaps gale 8 later.\nSea state\nRough, occasionally very rough later.\nWeather\nShowers, wintry later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n16:00 (UTC) on Sun 28 Dec 2025\nNortherly gale force 8 expected later",
       "wind": "Northwesterly 4 or 5, veering northerly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough, occasionally very rough later.",
       "weather": "Showers, wintry later.",
@@ -73,6 +75,7 @@
     },
     "German Bight": {
       "text": "Wind\nVariable 2 to 4, becoming northwesterly 4 to 6, occasionally 7 later in northeast.\nSea state\nModerate, occasionally rough in north.\nWeather\nShowers later.\nVisibility\nGood, occasionally poor at first near shore in south.",
+      "gale_warning": "Gale warning\nIssued:\n16:00 (UTC) on Sun 28 Dec 2025\nNortherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming northwesterly 4 to 6, occasionally 7 later in northeast.",
       "sea_state": "Moderate, occasionally rough in north.",
       "weather": "Showers later.",
