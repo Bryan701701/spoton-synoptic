@@ -1,1 +1,1 @@
-Today in North Devon, it's looking pretty quiet with 2 ft @5s ENE swell and fresh 13 mph E winds. Tomorrow drops to 1 ft @7s, still with light E winds, so not much happening. The day after remains similar with 1 ft @7s NNE swell and moderate 16 mph ENE winds. Best: today.
+Today in North Devon, surf is small and not producing, with 2 ft @5s ENE lines and fresh 13 mph E wind. Tomorrow drops further to 1 ft @7s, still with light E winds, making it a quiet day. Day after remains flat at 1 ft @7s with fresh ENE winds, keeping conditions poor. Best: today.

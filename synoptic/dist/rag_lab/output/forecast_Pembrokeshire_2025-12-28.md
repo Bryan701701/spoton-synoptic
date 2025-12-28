@@ -1,1 +1,1 @@
-Today in Pembrokeshire, surf is small and weak at 2 ft @6s with fresh 9 mph NE winds. Tomorrow drops further to 1 ft @8s, still with NE winds, making it quite flat. Day after continues the trend with 1 ft @8s, and winds pick up to 12 mph ENE. Best: today.
+Today in Pembrokeshire, it's a quiet scene with 2 ft @6s SE swell and fresh 9 mph NE winds. Tomorrow drops to 1 ft @8s W, still with 10 mph NE winds, keeping conditions poor. The day after remains similar, with 1 ft @8s SSE and 12 mph ENE winds. Best: today.
