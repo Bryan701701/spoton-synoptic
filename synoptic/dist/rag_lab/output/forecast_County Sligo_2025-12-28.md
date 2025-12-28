@@ -1,0 +1,1 @@
+Today in County Sligo, surf is small and not producing, with 2 ft @9s NNW and fresh 7 mph ENE wind. Tomorrow sees a slight improvement with 2 ft @11s NNW; Dunmoran Strand and Lackan Bay may offer some fun, especially around the mid-day push. Day after, conditions drop back to 2 ft @8s N, still not ideal. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today in Pembrokeshire, conditions are poor with 2 ft @6s SE swell and fresh 9 mph NE winds. Tomorrow drops further to 1 ft @8s W, still with fresh NE winds, making for a quiet day. The day after continues the trend with 1 ft @8s SSE and 12 mph ENE winds, keeping things flat. Best: today.

@@ -1,0 +1,1 @@
+Today, Cornwall is experiencing poor conditions with 2 ft @8s N swell across the North, but fresh 15 mph ENE winds are making it blown out. Tomorrow sees a slight improvement with 2 ft @10s WNW swell, mainly at Town and Watergate Bay, but still onshore. The day after, Bude offers some fun with 2 ft @10s NW, though other spots remain poor. Best: tomorrow.

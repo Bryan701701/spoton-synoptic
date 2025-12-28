@@ -1,0 +1,1 @@
+Today in Donegal, surf's looking decent with 3 ft @11s WNW at spots like Magheroaty Beach and Mageroaty. Winds are moderate at 13 mph E, making for some fun conditions. Tomorrow, expect a slight improvement with 3 ft @12s WNW and lighter 6 mph NE winds, offering cleaner waves. Day after, surf drops to 2 ft @11s WNW, still workable but a bit smaller. Best: tomorrow.

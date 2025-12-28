@@ -1,0 +1,1 @@
+Today in North Devon, it’s a bit lackluster with 2 ft @5s ENE and fresh 13 mph E winds. Tomorrow drops to 1 ft @7s, still with light 7 mph E winds, so not much happening. Day after remains similar at 1 ft @7s, but with a fresh 16 mph ENE wind, making it choppy. Best: today.

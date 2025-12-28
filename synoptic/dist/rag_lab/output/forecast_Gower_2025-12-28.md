@@ -1,0 +1,1 @@
+Today in Gower, it's looking pretty poor with 2 ft @6s ESE swell and fresh 14 mph E winds. Tomorrow drops to 1 ft @10s WSW, still with 19 mph E winds, making it a quiet day. The day after brings back 2 ft @8s SSE, but with stronger 22 mph ENE winds, likely making it blown out. Best: today.

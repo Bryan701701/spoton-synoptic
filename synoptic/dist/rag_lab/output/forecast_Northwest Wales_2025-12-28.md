@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's flat with no surf action—wrong swell angle and light E winds. Tomorrow sees a slight bump to 1 ft @11s, but still not producing much; light NE winds will keep it mellow. The day after holds similar conditions with 1 ft @9s, still on the quiet side. Best: tomorrow.

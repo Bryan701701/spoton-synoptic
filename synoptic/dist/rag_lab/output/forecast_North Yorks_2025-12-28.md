@@ -1,0 +1,1 @@
+North Yorks is looking solid today with 4ft @8s NNE swell and 12 mph NE winds. Withernsea and Filey are prime spots, especially early and on the push. Tomorrow, the swell drops slightly to 3ft @8s, but still fun at the same locations. By the day after, we're back up to 5ft @8s, making it a great time to hit the waves at places like Bunkers and North Bay. Best: today.
