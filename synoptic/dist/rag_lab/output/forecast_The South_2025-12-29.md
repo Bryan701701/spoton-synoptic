@@ -1,0 +1,1 @@
+Today, the South is quiet with 1 ft @5s ESE swell and fresh 17 mph NNE winds. Tomorrow sees a slight bump to 2 ft @5s ESE, but the fresh 23 mph E winds will keep it blown out. Day after also holds at 2 ft @5s SE, with lighter 7 mph ENE winds offering a better chance for some fun. Best: day after.

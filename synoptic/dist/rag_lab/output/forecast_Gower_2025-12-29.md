@@ -1,0 +1,1 @@
+Today, Gower is quiet with 2 ft @7s E swell and fresh 8 mph ENE wind. Tomorrow, conditions worsen with 2 ft @8s SSE swell and strong 26 mph E wind, making it blown out. Day after, we see a slight improvement with 1 ft @12s WSW swell, but still not producing much, though Llangennith Beach and Oxwich Bay might offer some fun. Best: day after.

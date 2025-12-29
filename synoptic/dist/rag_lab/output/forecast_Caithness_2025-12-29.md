@@ -1,0 +1,1 @@
+Today in Caithness, it's looking solid with 4ft @10s NW swell and light NNE winds at 9 mph. Point of Ness and Dunnet Bay are both firing, with the best tides in the afternoon. Tomorrow drops to 2ft @8s NE, but still some fun at spots like Ackergill and Sinclair's Bay. Day after, winds pick up to 25 mph, making it blown out across the region. Best: today.

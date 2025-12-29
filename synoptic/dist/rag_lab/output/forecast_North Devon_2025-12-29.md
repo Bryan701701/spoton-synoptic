@@ -1,0 +1,1 @@
+Today in North Devon, it's a bit of a bummer with 1 ft @7s NE swell and fresh 24 mph ENE winds making it blown out. Tomorrow sees a slight improvement with 2 ft @7s ENE, but still fresh winds at 12 mph, so expect it to remain choppy. Day after drops back to 1 ft @12s W with light 3 mph S winds, offering a quieter vibe but not much surf. Best: tomorrow.

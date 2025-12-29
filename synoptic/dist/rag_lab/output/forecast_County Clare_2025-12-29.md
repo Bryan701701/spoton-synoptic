@@ -1,0 +1,1 @@
+Today in County Clare, it's a quiet day with 1 ft @ 12s WNW swell and light 4 mph NE winds. Tomorrow, conditions remain similar with 1 ft @ 11s WNW swell and a slight increase in wind to 7 mph ENE, keeping it on the poor side. The day after also sees 1 ft @ 11s W swell with 7 mph ESE winds, continuing the trend. Best: today.

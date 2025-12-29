@@ -1,0 +1,1 @@
+Today on the East Coast, it's a bit quiet with 1 ft @7s NNE swell and fresh 13 mph NW winds. Tomorrow sees a nice improvement with 3 ft @9s NE swell at Aberdeen Harbour, light winds making it a good pick. The day after drops back to 2 ft @10s NNE, still workable but not as exciting. Best: tomorrow.

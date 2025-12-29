@@ -1,0 +1,1 @@
+Today in County Sligo, Dunmoran Strand and Lackan Bay are both clean and fun at 2 ft @ 11s NNW with light E winds. Best times are from mid-morning to late afternoon. Tomorrow, conditions drop to 2 ft @ 8s with poor quality across the board. The day after remains similar, still not producing any workable surf. Best: today.

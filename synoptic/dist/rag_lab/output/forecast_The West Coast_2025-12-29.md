@@ -1,0 +1,1 @@
+Today on the West Coast, it's looking poor with 2 ft @12s WNW and light 4 mph NNE winds. Tomorrow, Dunaverty offers a slight improvement at 2 ft @7s ENE with a moderate 14 mph E wind, but still not ideal. The day after, conditions drop further to 1 ft @8s WNW with fresh 20 mph W winds, making it quite challenging. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today is quiet across Cornwall with poor conditions—2 ft @9s NW swell and fresh 20 mph E winds on the North coast. Tomorrow sees a slight improvement with Bude offering 2 ft @9s NW, but winds remain moderate at 11 mph NE. The day after brings 1 ft @12s W at several spots, including Town and Watergate Bay, with light winds. Best: tomorrow.
