@@ -1,0 +1,1 @@
+Today, Sutherland is lighting up with clean 5 ft @12s N swell and light 7 mph N winds. Great options at Melvich and Strathy, with prime tides for both. Tomorrow, Sango Bay offers 5 ft @8s NNW but watch for fresh 22 mph W winds making it choppy. On the day after, conditions drop with 13 ft @11s NNW swell and strong 39 mph NNW winds, making it poor across the board. Best: today.

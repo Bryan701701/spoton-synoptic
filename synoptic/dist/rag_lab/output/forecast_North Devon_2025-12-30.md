@@ -1,0 +1,1 @@
+Today in North Devon, surf is small at 1 ft @7s NNE with light E winds. It's not producing much, so best to give it a miss. Tomorrow stays similar with 1 ft @12s W and light SSE winds, still not hitting well. Day after brings a bit of life with 2 ft @5s WNW and moderate W winds, making for some fun at spots like Woolacombe and Croyde Beach. Best: day after.

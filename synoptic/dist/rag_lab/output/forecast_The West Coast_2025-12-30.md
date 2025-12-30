@@ -1,0 +1,1 @@
+Today on the West Coast, Ardnave Bay and Saligo Bay are offering fun 2 ft @9s W with fresh 17 mph E winds. Best times are mid-morning to early afternoon, so get out there! Tomorrow, the swell drops to 1 ft @9s WNW, making it a quiet day with little action. The day after, expect 6 ft @7s NW, but fresh 28 mph NNW winds will make it blown out. Best: today.

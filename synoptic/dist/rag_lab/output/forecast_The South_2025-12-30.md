@@ -1,0 +1,1 @@
+Today, the South is quiet with a weak 2 ft @5s ESE swell and fresh 21 mph E wind, making it blown out. Tomorrow, conditions remain poor with similar 2 ft @6s SE swell and light 7 mph NE wind, but still not producing much. On the day after, Strand shows some life with a clean 1 ft @6s SSE swell and light 6 mph WNW wind, making it the best option of the three days. Best: day after.

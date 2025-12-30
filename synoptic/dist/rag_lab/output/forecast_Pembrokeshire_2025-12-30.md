@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's flat with 1 ft @ 7s NE across all spots—give it a miss. Tomorrow, a slight improvement with 1 ft @ 11s WSW; St Brides Bay and Tenby may have some fun banks, especially on the mid-tide push. The day after, conditions drop to 2 ft @ 5s WNW, but with fresh WNW winds, it’ll be choppy and not worth the effort. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's looking pretty quiet with 1 ft @9s WNW swell and light 5 mph E winds. Tomorrow, the swell remains at 1 ft but shifts to a longer period of 14s, still not producing much. On New Year's Day, we see a bump to 3 ft @5s WNW, but fresh 23 mph WNW winds will have it blown out. Best: day after.

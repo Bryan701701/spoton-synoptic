@@ -1,0 +1,1 @@
+Today on the Causeway Coast, it's a bit of a struggle with 2 ft @7s NNE and fresh 15 mph ESE winds creating some chop. Tomorrow sees a slight drop to 1 ft @8s WNW, still with fresh 18 mph WSW winds, making it a tough call. Day after, the swell picks up to 7 ft @8s NNW but remains blown out with 19 mph NNW winds. Best: today.
