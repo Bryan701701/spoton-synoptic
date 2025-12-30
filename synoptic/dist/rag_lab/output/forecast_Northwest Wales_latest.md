@@ -1,1 +1,1 @@
-Today in Northwest Wales, surf is small and quiet at 1 ft @9s with light 5 mph E winds. Tomorrow stays similar with 1 ft @14s, still not producing much. Day after, conditions pick up to 3 ft @5s, but fresh 23 mph WNW winds will make it blown out. Best: day after.
+Today in Northwest Wales, it's a quiet one with 1 ft @9s WNW swell and light 5 mph E winds. Tomorrow sees a similar situation with 1 ft @14s WSW, still not producing much. By the day after, conditions pick up slightly to 3 ft @5s WNW, but fresh 23 mph WNW winds will make it blown out. Best: day after.
