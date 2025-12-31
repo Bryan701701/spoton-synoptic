@@ -1,0 +1,1 @@
+Today in Caithness, conditions are poor with 2 ft @ 6s NW swell and fresh 22 mph WNW winds. Tomorrow sees a bump to 6 ft @ 7s NW, but the fresh 35 mph NNW winds will make it messy. The day after, expect 5 ft @ 7s NNE with even stronger 39 mph NNE winds, keeping things challenging. Best: today.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's a quiet start with 1 ft @14s WSW swell and light SE winds. Tomorrow, conditions pick up slightly to 3 ft @5s WNW, but fresh 18 mph WNW winds will make it messy. By the day after, the swell increases to 4 ft @6s NW with lighter 7 mph N winds, offering some fun waves at Porth Oer. Best: day after.

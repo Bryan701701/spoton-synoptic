@@ -1,0 +1,1 @@
+Today in North Devon, surf is small and not producing, with 1 ft @12s W across the spots. Tomorrow, conditions improve slightly to 2 ft @5s WNW, but with fresh 16 mph WNW wind, it will be choppy. The day after sees a further increase to 3 ft @5s WNW, but strong 24 mph NW winds will keep it blown out. Best: tomorrow.

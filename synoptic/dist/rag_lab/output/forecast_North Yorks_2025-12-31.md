@@ -1,0 +1,1 @@
+Today in North Yorks, it's looking great with 4 ft @9s NNE swell and light 8 mph W winds. Withernsea and Filey are prime spots, especially during the mid-morning tides. Tomorrow, conditions drop with fresh 21 mph WNW winds making it blown out and poor across the board. Day after, expect 9 ft @10s N swell with strong 35 mph NW winds, keeping it messy. Best: today.

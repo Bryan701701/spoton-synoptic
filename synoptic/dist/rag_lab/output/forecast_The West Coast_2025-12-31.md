@@ -1,0 +1,1 @@
+Today on the West Coast, it's looking pretty poor with 1 ft @8s WNW and fresh 11 mph NW winds. Tomorrow brings a bump to 6 ft @7s, but the fresh 28 mph NW wind will make it blown out. The day after stays similar with 6 ft @7s and 28 mph NNW winds, keeping conditions messy. Best: today.

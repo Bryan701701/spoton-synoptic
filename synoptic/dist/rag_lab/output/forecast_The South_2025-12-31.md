@@ -1,0 +1,1 @@
+Today is looking quiet across The South with 2 ft @5s SE lines and fresh 11 mph E wind. Tomorrow, the swell drops to 1 ft @7s S, but Strand is the standout spot with some fun potential, especially during the mid-day push. Day after, the surf remains small at 1 ft @6s S, with similar conditions across the board. Best: tomorrow.

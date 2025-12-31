@@ -1,0 +1,1 @@
+Today in Pembrokeshire, St Brides Bay and Tenby are offering clean 1ft @12s WSW lines with light 5 mph ENE winds—perfect for a chill session. Tomorrow, conditions drop slightly to 2ft @6s WNW with fresh 17 mph NW winds, making it less inviting. The day after follows suit with similar 2ft @5s WNW conditions and a bit more wind. Best: today.
