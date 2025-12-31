@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2025-12-31T10:00:01Z",
+  "fetched_at": "2025-12-31T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 31 Dec 2025",
   "valid": "For the period 06:00 (UTC) on Wed 31 Dec 2025 to 06:00 (UTC) on Thu 1 Jan 2026",
   "general_synopsis": "Developing low expected Norwegian Sea 981 by midnight tonight. High Malin 1038 dissipating",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwest 6 to gale 8, occasionally severe gale 9 later.\nSea state\nRough becoming very rough, occasionally high later in west.\nWeather\nShowers, wintry later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 31 Dec 2025\nNorthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 imminent, increasing severe gale force 9 soon, veering northwesterly and increasing storm force 10 later",
       "wind": "Northwest 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Rough becoming very rough, occasionally high later in west.",
       "weather": "Showers, wintry later.",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nWesterly or northwesterly 5 to 7.\nSea state\nRough, occasionally very rough later.\nWeather\nShowers, wintry later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected soon",
       "wind": "Westerly or northwesterly 5 to 7.",
       "sea_state": "Rough, occasionally very rough later.",
       "weather": "Showers, wintry later.",
@@ -23,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8, occasionally severe gale 9 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Tue 30 Dec 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nGale now ceased but westerly gale force 8 expected soon",
       "wind": "Northwesterly 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers.",
@@ -47,7 +48,7 @@
     },
     "Forth": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 31 Dec 2025\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
       "wind": "West or northwest 5 to 7, occasionally gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -63,7 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally gale 8 later.\nSea state\nModerate or rough, becoming very rough later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 31 Dec 2025\nGale now ceased but westerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
       "wind": "West or northwest 5 to 7, occasionally gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough later.",
       "weather": "Showers.",
@@ -71,7 +72,7 @@
     },
     "Fisher": {
       "text": "Wind\nWest or northwest 6 to gale 8.\nSea state\nRough, occasionally very rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 31 Dec 2025\nNorthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nGale now ceased but westerly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
       "wind": "West or northwest 6 to gale 8.",
       "sea_state": "Rough, occasionally very rough.",
       "weather": "Showers.",
@@ -79,7 +80,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest or northwest 6 to gale 8.\nSea state\nRough, occasionally very rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 30 Dec 2025\nNorthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nGale now ceased but westerly severe gale force 9 expected later",
       "wind": "West or northwest 6 to gale 8.",
       "sea_state": "Rough, occasionally very rough.",
       "weather": "Showers.",
@@ -95,6 +96,7 @@
     },
     "Thames": {
       "text": "Wind\nNorthwest 4 or 5, backing west 5 to 7.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected later",
       "wind": "Northwest 4 or 5, backing west 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
