@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-01T09:45:02Z",
+  "fetched_at": "2026-01-01T10:00:02Z",
   "issued": "Issued at: 05:05 (UTC) on Thu 1 Jan 2026",
   "valid": "For the period 06:00 (UTC) on Thu 1 Jan 2026 to 06:00 (UTC) on Fri 2 Jan 2026",
   "general_synopsis": "Low Norwegian Sea 980 expected Baltic sea 973 by midnight tonight. New low expected 150 miles west of FitzRoy 986 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwest gale 8 to storm 10, veering north 7 to severe gale 9.\nSea state\nVery rough or high, occasionally very high.\nWeather\nSqually wintry showers.\nVisibility\nModerate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 imminent, increasing severe gale force 9 soon, veering northwesterly and increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly storm force 10 continuing, veering and decreasing northerly severe gale force 9 soon",
       "wind": "Northwest gale 8 to storm 10, veering north 7 to severe gale 9.",
       "sea_state": "Very rough or high, occasionally very high.",
       "weather": "Squally wintry showers.",
@@ -48,7 +48,7 @@
     },
     "Forth": {
       "text": "Wind\nNorthwest 7 to severe gale 9.\nSea state\nVery rough or high, occasionally rough at first.\nWeather\nSqually showers, becoming wintry.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly severe gale force 9 continuing",
       "wind": "Northwest 7 to severe gale 9.",
       "sea_state": "Very rough or high, occasionally rough at first.",
       "weather": "Squally showers, becoming wintry.",
@@ -64,7 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nNorthwest 7 to severe gale 9.\nSea state\nVery rough or high, occasionally rough at first.\nWeather\nSqually showers, becoming wintry.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly severe gale force 9 continuing",
       "wind": "Northwest 7 to severe gale 9.",
       "sea_state": "Very rough or high, occasionally rough at first.",
       "weather": "Squally showers, becoming wintry.",
@@ -72,7 +72,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 7 to severe gale 9.\nSea state\nVery rough or high, occasionally rough at first.\nWeather\nSqually showers, becoming wintry.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nGale now ceased but westerly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly severe gale force 9 continuing, decreasing gale force 8 later",
       "wind": "Northwest 7 to severe gale 9.",
       "sea_state": "Very rough or high, occasionally rough at first.",
       "weather": "Squally showers, becoming wintry.",
@@ -96,7 +96,7 @@
     },
     "Thames": {
       "text": "Wind\nWest, veering northwest, 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 31 Dec 2025\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nWesterly gale force 8 continuing, veering northwesterly soon",
       "wind": "West, veering northwest, 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Showers.",
@@ -212,7 +212,6 @@
     },
     "Bailey": {
       "text": "Wind\nNorth or northwest 6 to gale 8.\nSea state\nVery rough occasionally high.\nWeather\nSqually wintry showers.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Thu 1 Jan 2026\nGale force 8 now veered northerly",
       "wind": "North or northwest 6 to gale 8.",
       "sea_state": "Very rough occasionally high.",
       "weather": "Squally wintry showers.",
