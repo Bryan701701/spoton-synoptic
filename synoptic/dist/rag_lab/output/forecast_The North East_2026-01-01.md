@@ -1,0 +1,1 @@
+Today is looking poor across the North East with 2 ft @7s NNW and fresh 28 mph WNW winds making it blown out. Tomorrow brings a solid improvement with 7 ft @10s N swell and lighter 16 mph WNW winds, making for some fun surf at spots like Saltburn Beach. Day after, conditions drop slightly to 6 ft @8s but with fresh 32 mph NW winds, keeping it messy. Best: tomorrow.

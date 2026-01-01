@@ -1,0 +1,1 @@
+Today in Pembrokeshire, surf is small and choppy at 2 ft @5s with fresh 16 mph WNW winds. Tomorrow sees a slight bump to 3 ft @5s, but the fresh NW wind continues to create messy conditions. Day after remains similar with 3 ft @5s, still blown out by 18 mph NNW winds. Best: tomorrow.

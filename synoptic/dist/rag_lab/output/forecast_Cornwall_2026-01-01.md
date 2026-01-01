@@ -1,0 +1,1 @@
+Today in Cornwall, surf is on the smaller side with Penhale offering 1ft @8s SW, clean during the mid-afternoon tide window from 13:50 to 15:40. Tomorrow, conditions drop slightly with 3ft @5s NW but fresh 24 mph NW winds will make it messy across the region. The day after sees a similar pattern with 4ft @6s NNW and continued fresh winds, keeping it blown out. Best: today.

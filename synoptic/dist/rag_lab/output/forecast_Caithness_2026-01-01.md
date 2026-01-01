@@ -1,0 +1,1 @@
+Today in Caithness, it's looking poor with 6 ft @6s NW swell and fresh 30 mph NNW winds. Tomorrow, conditions improve slightly with 4 ft @6s NNE swell and 18 mph NNE winds, making for some workable options at spots like Sinclair's Bay and Thurso East. The day after, expect 5 ft @6s N swell with strong 35 mph NNW winds, resulting in blown-out conditions. Best: tomorrow.

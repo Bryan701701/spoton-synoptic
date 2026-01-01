@@ -1,0 +1,1 @@
+Today in North Yorks, it's a bit of a struggle with 3 ft @7s NNW swell and fresh 20 mph WNW winds making it blown out. Tomorrow, conditions worsen with 7 ft @10s N swell and strong 33 mph WNW winds, keeping it messy and challenging. Day after, the swell increases to 9 ft @9s N, still with 25 mph NW winds, leading to more rough conditions. Best: none.

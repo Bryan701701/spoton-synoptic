@@ -1,0 +1,1 @@
+Today in the Hebrides, it's a tough call with 10 ft @10s NNW swell and fresh 30 mph NNW winds making it blown out. Tomorrow looks similar with 10 ft @10s N swell and even stronger 39 mph NNW winds, keeping conditions poor. Day after, the swell drops slightly to 8 ft @9s N with 32 mph N winds, still not ideal. Best: none.

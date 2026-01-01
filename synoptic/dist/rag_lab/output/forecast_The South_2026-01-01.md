@@ -1,0 +1,1 @@
+Today, Strand is the standout with a fun 2 ft @7s S swell and fresh 17 mph WNW wind; best on the push from 08:37 to 16:26. Tomorrow, the swell drops to 1 ft @5s SSW across the region, making it a quiet day. Day after, still small at 1 ft @7s SW, but with light 8 mph NW winds; workable at sheltered spots like Derrynane and Barley Cove. Best: today.

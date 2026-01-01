@@ -1,0 +1,1 @@
+Today in Sutherland, it's a no-go with 0 ft @ 0 s and calm winds. Tomorrow, the swell holds at 11 ft @ 11 s from the N, but fresh 23 mph NNE winds will keep it blown out. The day after sees a drop to 9 ft @ 10 s, with strong 37 mph N winds continuing to make conditions poor. Best: none.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's a bit of a struggle with 3 ft @5s WNW swell and fresh 20 mph WNW winds making it blown out. Tomorrow sees a slight improvement with 4 ft @6s NW swell but still fresh 19 mph NNW winds, keeping it messy. Day after brings a fun 4 ft @5s NW swell with lighter 11 mph N winds, making Porth Oer the standout spot for some clean waves. Best: day after.

@@ -1,0 +1,1 @@
+Today on the East Coast, conditions are poor with 3 ft @5s NW swell and fresh 24 mph NW wind, making it blown out. Tomorrow sees a slight improvement with the same swell height but a longer period of 9s, still affected by 22 mph NNW winds. The day after, the swell remains at 3 ft but drops back to 6s with 23 mph NW winds, keeping it messy. Best: tomorrow.
