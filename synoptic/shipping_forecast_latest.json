@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-02T03:45:02Z",
+  "fetched_at": "2026-01-02T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Thu 1 Jan 2026",
   "valid": "For the period 00:00 (UTC) on Fri 2 Jan 2026 to 00:00 (UTC) on Sat 3 Jan 2026",
   "general_synopsis": "Low southern Sweden 972 expected gotland 975 by 1800 Friday",
   "areas": {
     "Viking": {
       "text": "Wind\nNorth 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nHigh becoming very rough, occasionally rough later.\nWeather\nSqually snow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly storm force 10 continuing, veering and decreasing northerly severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nNortherly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "North 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "High becoming very rough, occasionally rough later.",
       "weather": "Squally snow showers.",
@@ -72,7 +72,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorth or northwest 7 to severe gale 9, decreasing 4 to 6.\nSea state\nRough or very rough, occasionally high at first.\nWeather\nSqually snow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly severe gale force 9 continuing, decreasing gale force 8 later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nSevere gale force 9 now veered northerly, decreasing gale force 8 soon",
       "wind": "North or northwest 7 to severe gale 9, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, occasionally high at first.",
       "weather": "Squally snow showers.",
@@ -96,7 +96,7 @@
     },
     "Thames": {
       "text": "Wind\nNorthwest 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough in northeast.\nWeather\nSqually wintry showers.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Thu 1 Jan 2026\nWesterly gale force 8 continuing, veering northwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough in northeast.",
       "weather": "Squally wintry showers.",
@@ -147,7 +147,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nEasterly 5 to 7, occasionally gale 8 in west.\nSea state\nModerate or rough, occasionally very rough in southwest.\nWeather\nRain in south.\nVisibility\nModerate or poor in south, otherwise good.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Thu 1 Jan 2026\nGale force 8 backing easterly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nEasterly gale force 8 continuing",
       "wind": "Easterly 5 to 7, occasionally gale 8 in west.",
       "sea_state": "Moderate or rough, occasionally very rough in southwest.",
       "weather": "Rain in south.",
@@ -197,7 +197,7 @@
     },
     "Malin": {
       "text": "Wind\nNorth 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nSqually snow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Thu 1 Jan 2026\nNorthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nGale force 8 now veered northerly",
       "wind": "North 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally snow showers.",
@@ -205,7 +205,7 @@
     },
     "Hebrides": {
       "text": "Wind\nNorth 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, occasionally high in north.\nWeather\nSqually snow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Thu 1 Jan 2026\nGale force 8 veering northerly and increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nNortherly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "North 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, occasionally high in north.",
       "weather": "Squally snow showers.",
@@ -213,7 +213,6 @@
     },
     "Bailey": {
       "text": "Wind\nNorth 5 to 7, occasionally gale 8 in east.\nSea state\nVery rough, occasionally rough in far west.\nWeather\nSqually snow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Thu 1 Jan 2026\nNortherly gale force 8 expected soon",
       "wind": "North 5 to 7, occasionally gale 8 in east.",
       "sea_state": "Very rough, occasionally rough in far west.",
       "weather": "Squally snow showers.",
@@ -221,7 +220,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorth 7 to severe gale 9.\nSea state\nVery rough occasionally high.\nWeather\nSqually snow showers.\nVisibility\nModerate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Thu 1 Jan 2026\nSevere gale force 9 now veered northerly",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Fri 2 Jan 2026\nNortherly severe gale force 9, decreasing gale force 8 imminent",
       "wind": "North 7 to severe gale 9.",
       "sea_state": "Very rough occasionally high.",
       "weather": "Squally snow showers.",
