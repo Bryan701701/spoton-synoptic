@@ -1,0 +1,1 @@
+Today on the East Coast, it's a bit of a struggle with 4 ft @ 7s N swell but fresh 24 mph WNW winds making it blown out. Tomorrow, conditions improve slightly with 3 ft @ 7s NNE swell and 17 mph NW winds; Aberdeen Harbour shows some potential. The day after remains similar with 3 ft @ 7s NNE and 16 mph WNW winds, still offering a chance at Aberdeen Harbour. Best: tomorrow.

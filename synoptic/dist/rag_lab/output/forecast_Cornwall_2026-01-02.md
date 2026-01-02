@@ -1,0 +1,1 @@
+Today, conditions are poor across all coasts with fresh NW winds at 24 mph, creating blown-out surf. Tomorrow sees a slight increase in swell to 4 ft @ 6s, but the wind remains strong at 24 mph NNW, keeping it messy. The day after, swell drops to 2 ft @ 6s with lighter winds at 18 mph NNW, but still not producing much. Best: tomorrow.

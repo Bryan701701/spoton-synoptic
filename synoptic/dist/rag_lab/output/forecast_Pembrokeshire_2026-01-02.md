@@ -1,0 +1,1 @@
+Today in Pembrokeshire, conditions are poor with 3 ft @5s NW swell and fresh 15 mph NW wind. Tomorrow, similar 3 ft @5s NW swell continues but with stronger 21 mph NNW winds, making it blown out. The day after, the swell drops to 2 ft @6s WNW, still with fresh NNW winds, keeping it messy. Best: today.

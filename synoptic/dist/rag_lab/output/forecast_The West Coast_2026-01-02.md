@@ -1,0 +1,1 @@
+Today on the West Coast, it’s a bit rough with 6 ft @7s NNW swell and fresh 28 mph N winds creating blown-out conditions. Tomorrow, expect similar conditions with the same swell and wind. By the day after, the swell drops to 3 ft @6s NW, but the fresh NNW wind continues to keep it choppy. Best: today.

@@ -1,0 +1,1 @@
+Today in Gower, it's a bit of a struggle with 3 ft @5s WNW swell but fresh 24 mph NW winds making it messy across the board. Tomorrow sees a slight drop to 2 ft @5s with continued fresh NW winds, keeping conditions poor. By the day after, the swell further drops to 1 ft @8s, with light N winds, but still not producing anything worthwhile. Best: none.

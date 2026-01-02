@@ -1,0 +1,1 @@
+Today in North Devon, conditions are poor with 3 ft @5s NW swell and fresh 23 mph NW wind. It’s blown out across the board, so best to give it a miss. Tomorrow sees a slight improvement with 3 ft @5s NNW swell and lighter 8 mph NNE winds, but it’s still not producing well. The day after drops to 2 ft @5s NW with 10 mph N winds, remaining weak. Best: tomorrow.

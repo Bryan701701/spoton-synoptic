@@ -5,7 +5,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 25,
+      "wind_mph": 27,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -19,7 +19,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 26,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -30,10 +30,10 @@
   "South": {
     "has_options": false,
     "reason": {
-      "swell_ok": false,
+      "swell_ok": true,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 20,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -47,7 +47,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 7,
+      "wind_mph": 20,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -60,8 +60,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 6,
-      "wind_mph": 32,
+      "size_ft": 5,
+      "wind_mph": 30,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -74,8 +74,8 @@
     "reason": {
       "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 9,
-      "wind_mph": 25,
+      "size_ft": 6,
+      "wind_mph": 18,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -89,7 +89,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 23,
+      "wind_mph": 8,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -103,7 +103,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 18,
+      "wind_mph": 21,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -117,7 +117,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 23,
+      "wind_mph": 17,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -130,8 +130,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 7,
-      "wind_mph": 24,
+      "size_ft": 6,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -145,7 +145,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 35,
+      "wind_mph": 30,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -159,7 +159,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 9,
-      "wind_mph": 37,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -173,7 +173,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 8,
-      "wind_mph": 32,
+      "wind_mph": 37,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -186,8 +186,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 11,
+      "size_ft": 3,
+      "wind_mph": 10,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -201,7 +201,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 5,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -215,7 +215,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 6,
-      "wind_mph": 15,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -228,8 +228,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 7,
-      "wind_mph": 25,
+      "size_ft": 6,
+      "wind_mph": 33,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -242,8 +242,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 8,
-      "wind_mph": 29,
+      "size_ft": 6,
+      "wind_mph": 19,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -257,7 +257,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 7,
-      "wind_mph": 24,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -271,7 +271,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 17,
+      "wind_mph": 10,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -285,7 +285,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 22,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -299,7 +299,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 1,
-      "wind_mph": 8,
+      "wind_mph": 12,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2

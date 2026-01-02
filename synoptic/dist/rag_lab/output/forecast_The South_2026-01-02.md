@@ -1,0 +1,1 @@
+Today, the South is quiet with 1 ft @5s SW swell and fresh 15 mph WNW wind—definitely not producing. Tomorrow, conditions improve slightly with 1 ft @7s SSW swell and moderate 12 mph N winds at spots like Derrynane and Barley Cove. Day after, the swell holds at 1 ft @9s SSW with light 5 mph WNW winds, still best at the same locations. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, Porth Oer is the standout with 4 ft @ 6s NW and light 6 mph N winds, offering clean conditions. Tomorrow, the swell drops to 3 ft @ 6s NW with a bit more wind at 10 mph N, still workable at Porth Oer. By the day after, expect smaller 2 ft @ 5s NW with light SSE winds, best during the morning tide window. Best: today.

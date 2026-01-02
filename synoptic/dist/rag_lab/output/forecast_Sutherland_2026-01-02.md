@@ -1,0 +1,1 @@
+Today in Sutherland, conditions are poor with a hefty 13 ft @ 11s N swell, but fresh 40 mph N winds are blowing it out. Tomorrow, the swell drops to 9 ft @ 10s N with still strong 28 mph N winds, keeping it messy. The day after, similar 9 ft @ 9s N swell continues with slightly easing winds at 24 mph NNW, but conditions remain poor. Best: none.

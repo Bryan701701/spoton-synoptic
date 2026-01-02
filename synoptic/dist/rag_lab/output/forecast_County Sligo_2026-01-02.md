@@ -1,0 +1,1 @@
+Today in County Sligo, it's looking poor with 7 ft @9s N swell and fresh 24 mph N wind across all spots. Tomorrow, conditions worsen slightly with the same swell size but wind picking up to 28 mph, keeping it blown out. On the day after, the swell drops to 4 ft @9s N with lighter 13 mph NNW winds, making it more workable at some sheltered spots like Easkey Right. Best: day after.

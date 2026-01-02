@@ -1,0 +1,310 @@
+{
+  "West": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": false,
+      "wind_ok": false,
+      "size_ft": 3,
+      "wind_mph": 17,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Penhale"
+  },
+  "North": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 2,
+      "wind_mph": 18,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Bude"
+  },
+  "South": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 1,
+      "wind_mph": 13,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Porthcurno"
+  },
+  "Gower": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 1,
+      "wind_mph": 14,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Llangennith Beach"
+  },
+  "The North East": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 4,
+      "wind_mph": 12,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Saltburn Beach"
+  },
+  "North Yorks": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": false,
+      "wind_ok": false,
+      "size_ft": 7,
+      "wind_mph": 16,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Withernsea"
+  },
+  "North Devon": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": false,
+      "wind_ok": false,
+      "size_ft": 2,
+      "wind_mph": 10,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Woolacombe"
+  },
+  "Pembrokeshire": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": false,
+      "wind_ok": false,
+      "size_ft": 2,
+      "wind_mph": 17,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Manorbier"
+  },
+  "The East Coast": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": false,
+      "wind_ok": true,
+      "size_ft": 3,
+      "wind_mph": 16,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Aberdeen Beach"
+  },
+  "Moray": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 6,
+      "wind_mph": 30,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Fraserburgh"
+  },
+  "Caithness": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 3,
+      "wind_mph": 32,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Ackergill"
+  },
+  "Sutherland": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 9,
+      "wind_mph": 24,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Melvich"
+  },
+  "Hebrides": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 7,
+      "wind_mph": 25,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Europie"
+  },
+  "Northwest Wales": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 2,
+      "wind_mph": 4,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Porth Oer"
+  },
+  "South Devon": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 1,
+      "wind_mph": 5,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Bantham"
+  },
+  "The West Coast": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 3,
+      "wind_mph": 23,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Caravans"
+  },
+  "Causeway Coast": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 4,
+      "wind_mph": 22,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "White Park Bay"
+  },
+  "Donegal": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 4,
+      "wind_mph": 12,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Magheroaty Beach"
+  },
+  "County Sligo": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 4,
+      "wind_mph": 13,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Easkey Right"
+  },
+  "County Clare": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 1,
+      "wind_mph": 2,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Crab Island"
+  },
+  "Dingle Peninsula": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 4,
+      "wind_mph": 4,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Ballybunion Right"
+  },
+  "The South": {
+    "has_options": false,
+    "reason": {
+      "swell_ok": true,
+      "wind_ok": false,
+      "size_ft": 1,
+      "wind_mph": 5,
+      "thresholds": {
+        "wind_mph_min": 15,
+        "swell_ft_min": 2
+      }
+    },
+    "representative_spot": "Inchydoney"
+  }
+}

@@ -1,0 +1,1 @@
+Today, the Hebrides are facing a challenging surf day with 12 ft @10s N swell, but fresh 38 mph N winds are making it blown out. Tomorrow sees a slight drop to 8 ft @9s N, with similar fresh winds continuing, keeping conditions poor. On the day after, the swell decreases further to 7 ft @9s N, with winds easing to 25 mph N, but still not ideal. Best: day after.
