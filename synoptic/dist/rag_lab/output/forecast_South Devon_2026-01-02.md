@@ -1,1 +1,1 @@
-Today in South Devon, the surf is pretty small and not producing much, with 1 ft @5s WNW across the spots. Tomorrow sees a slight increase to 2 ft @6s, but still not much to write home about. The day after drops back to 1 ft @9s SW, keeping things quiet. Best: tomorrow.
+Today in South Devon, it's looking pretty quiet with 1 ft @5s WNW swell and fresh 7 mph NW winds. Tomorrow sees a slight bump to 2 ft @6s W, but still not much to write home about, with similar winds. The day after drops back to 1 ft @9s SW, keeping things mellow. Best: tomorrow.
