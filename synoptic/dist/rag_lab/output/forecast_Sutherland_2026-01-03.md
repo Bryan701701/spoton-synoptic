@@ -1,0 +1,1 @@
+Today in Sutherland, it's a quiet scene with no surf action—wrong swell angle and fresh 29 mph N winds. Tomorrow, conditions remain poor with 8 ft @9s N swell and 28 mph NNW winds, still not producing. By the day after, we see a slight improvement with 7 ft @9s N swell and lighter 13 mph NNE winds at spots like Melvich and Sango Bay, offering a workable window. Best: day after.

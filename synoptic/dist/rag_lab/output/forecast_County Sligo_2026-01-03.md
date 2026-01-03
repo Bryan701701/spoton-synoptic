@@ -1,0 +1,1 @@
+Today in County Sligo, it's a bit rough with 7 ft @9s N swell and fresh 19 mph N winds—definitely blown out. Tomorrow, conditions improve with 5 ft @9s N and light 3 mph NNW winds, making for some clean surf at spots like Dunmoran Strand and Easkey. The day after, expect 6 ft @8s N with moderate 17 mph NNE winds, still workable at sheltered corners. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today, the South is lighting up with clean 2 ft @8s SSW swell and light 9 mph NNW winds. Derrynane and Barley Cove are your best bets, offering fun conditions throughout the day. Tomorrow, expect a drop to 1 ft @9s, still workable but less exciting, with moderate 13 mph NW winds. Day after, it fades further to 1 ft @5s, so best to give it a miss. Best: today.

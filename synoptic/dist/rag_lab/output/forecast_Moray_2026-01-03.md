@@ -1,0 +1,1 @@
+Today in Moray, it's a bit rough with 6 ft @7s N swell and fresh 30 mph NNW winds creating a blown-out mess. Tomorrow, similar conditions persist with 6 ft @8s N swell and 31 mph NW winds, keeping it poor. On the day after, the swell drops to 3 ft @6s N with 19 mph NNW winds, still not ideal. Best: none.

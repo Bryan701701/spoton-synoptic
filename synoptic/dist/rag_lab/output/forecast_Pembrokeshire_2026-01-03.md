@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it’s a quiet scene with 2 ft @6s NW swell and fresh 16 mph NNW winds creating some chop. Tomorrow, the conditions remain similar with 2 ft @5s NW and the same wind, keeping it on the poor side. Day after, still 2 ft @5s NW but with slightly lighter winds at 12 mph NNW, not much improvement. Best: day after.

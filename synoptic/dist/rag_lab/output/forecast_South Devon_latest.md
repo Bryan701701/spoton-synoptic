@@ -1,1 +1,1 @@
-Today, South Devon is quiet with 1 ft @5s WNW swell and fresh 7 mph NW wind. Tomorrow sees a slight bump to 2 ft @6s W, but still not producing much. By the day after, the swell drops back to 1 ft @9s SW, remaining flat. Best: tomorrow.
+Today in South Devon, it's looking pretty quiet with 1 ft @9s SW swell and fresh 16 mph NNW winds. Tomorrow sees a slight drop to 1 ft @8s, but the winds ease to 8 mph NNW, still not producing much. By the day after, the swell drops further to 1 ft @6s with light 6 mph NW winds, keeping it flat. Best: tomorrow.

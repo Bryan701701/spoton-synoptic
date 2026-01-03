@@ -1,0 +1,1 @@
+Today in North Yorks, it's a bit rough with 6 ft @9s N swell and fresh 22 mph WNW wind. No good spots are working, so it’s best to give it a miss. Tomorrow sees an increase to 8 ft @9s N, but with stronger 31 mph NW winds, it’ll be blown out across the board. Day after drops to 4 ft @8s N with 14 mph NW winds; still not ideal. Best: none.

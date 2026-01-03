@@ -1,0 +1,1 @@
+Today in Caithness, it’s a bit rough with 4 ft @6s NNE swell and fresh 42 mph NNW winds, making it blown out. Tomorrow sees a slight drop to 3 ft @6s N with similar fresh winds, keeping it messy. Day after, conditions improve a bit with 6 ft @9s NNW swell and lighter 17 mph N winds, offering some workable waves at spots like Point of Ness and Thurso East. Best: day after.

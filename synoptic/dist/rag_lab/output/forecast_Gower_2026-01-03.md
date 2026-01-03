@@ -1,0 +1,1 @@
+Today in Gower, it's looking pretty flat with 1ft @6s W swell and fresh 14 mph NNW wind. Tomorrow stays similar, with 1ft @5s WNW and lighter winds at 8 mph NNW. Day after, we see the same 1ft @5s WNW swell with a slight uptick in wind to 13 mph NW. Overall, it's a quiet stretch ahead. Best: tomorrow.

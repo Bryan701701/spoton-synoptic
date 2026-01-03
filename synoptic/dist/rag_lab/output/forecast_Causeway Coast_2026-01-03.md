@@ -1,0 +1,1 @@
+Today on the Causeway Coast, it's looking poor with 7 ft @8s NNW swell and fresh 19 mph NNW winds. Tomorrow, the swell drops to 4 ft @7s, still messy with 21 mph NNW winds. Day after, conditions remain poor with 5 ft @6s NNW swell and 18 mph NNE winds. Best: day after.

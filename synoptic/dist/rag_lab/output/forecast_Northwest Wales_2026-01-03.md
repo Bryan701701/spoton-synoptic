@@ -1,0 +1,1 @@
+Today in Northwest Wales, Porth Oer is holding 4 ft @ 6s NNW with a fresh 12 mph N wind. It's a bit choppy but still workable for those keen to get out. Tomorrow, conditions improve with 2 ft @ 5s NW and light 2 mph NE winds, making for a clean morning session. The day after stays similar with 2 ft @ 5s NW and light 3 mph ENE winds, perfect for a relaxed surf. Best: tomorrow.

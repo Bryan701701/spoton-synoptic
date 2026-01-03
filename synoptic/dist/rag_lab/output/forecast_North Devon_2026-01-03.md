@@ -1,0 +1,1 @@
+Today in North Devon, it's looking pretty quiet with 3 ft @5s NW swell but fresh 26 mph NNW winds making it blown out. Tomorrow, the swell drops to 2 ft @4s, and with 13 mph NW winds, it’s still not producing anything worthwhile. The day after stays similar with 2 ft @4s and light 12 mph N winds, keeping conditions poor. Best: none.

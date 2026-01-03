@@ -1,0 +1,1 @@
+Today, the Hebrides are experiencing strong winds at 36 mph from the N with 10 ft @10s swell, making it blown out and not producing. Tomorrow, conditions remain poor with 9 ft @9s swell and fresh NNW winds at 24 mph, still not workable. The day after sees a drop to 7 ft @9s with 29 mph N winds, keeping the surf challenging. Best: none.

@@ -1,0 +1,1 @@
+Today, surf is flat across Cornwall with no swell hitting any coast. Tomorrow sees a slight uptick with 3 ft @5s NNW, but the wind will be fresh from the NE, making conditions less than ideal. The day after, the swell drops again to 2 ft @5s, with similar wind conditions persisting. Best: tomorrow.
