@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-04T16:00:02Z",
+  "fetched_at": "2026-01-04T16:15:01Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 4 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Sun 4 Jan 2026 to 12:00 (UTC) on Mon 5 Jan 2026",
   "general_synopsis": "Low southwest Rockall 1019 expected northwest Biscay 1011 by 0600 tomorrow. Low Viking 999 expected Dogger 1004 by same time",
@@ -29,7 +29,6 @@
     },
     "Forties": {
       "text": "Wind\nIn east, cyclonic 3 to 5, occasionally 6 later. In west, northwesterly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nIn east, mainly moderate. in west, rough or very rough becoming moderate or rough.\nWeather\nIn east, snow showers. In west, squally snow showers.\nVisibility\nIn east, good, occasionally very poor. In west, good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sat 3 Jan 2026\nGale force 8 now backed northwesterly",
       "wind": "In east, cyclonic 3 to 5, occasionally 6 later. In west, northwesterly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "In east, mainly moderate. in west, rough or very rough becoming moderate or rough.",
       "weather": "In east, snow showers. In west, squally snow showers.",
@@ -37,7 +36,6 @@
     },
     "Cromarty": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually snow showers.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sat 3 Jan 2026\nGale force 8 now backed northwesterly",
       "wind": "Northwesterly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally snow showers.",
@@ -45,7 +43,6 @@
     },
     "Forth": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually snow showers.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sat 3 Jan 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally snow showers.",
@@ -53,7 +50,6 @@
     },
     "Tyne": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually snow showers.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sat 3 Jan 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally snow showers.",
@@ -61,7 +57,6 @@
     },
     "Dogger": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually snow showers.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sat 3 Jan 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally snow showers.",
@@ -131,15 +126,15 @@
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "ly 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.\nSea state\nIn southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.\nWeather\nIn southeast, thundery rain, then showers. In northwest, showers.\nVisibility\nModerate or good, occasionally poor at first in southeast.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 3 Jan 2026\nNortheasterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Sun 4 Jan 2026",
+      "text": "Wind\nIn southeast, cyclonic 4 to 6, occasionally 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.\nSea state\nIn southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.\nWeather\nIn southeast, thundery rain, then showers. In northwest, showers.\nVisibility\nModerate or good, occasionally poor at first in southeast.",
+      "wind": "In southeast, cyclonic 4 to 6, occasionally 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.",
       "sea_state": "In southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.",
       "weather": "In southeast, thundery rain, then showers. In northwest, showers.",
       "visibility": "Moderate or good, occasionally poor at first in southeast."
     },
     "FitzRoy": {
       "text": "Wind\nIn south, northeasterly backing northerly, 6 to gale 8. In north, northeasterly backing northwesterly 3 to 5, becoming cyclonic 6 to gale 8 later.\nSea state\nIn south, rough or very rough, becoming moderate or rough later. in north, moderate or rough, becoming slight or moderate for a time in east.\nWeather\nIn south, showers. In north, showers then rain.\nVisibility\nIn south, moderate or good. In north, good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 4 Jan 2026\nNortheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Sun 4 Jan 2026\nNortheasterly gale force 8 continuing",
       "wind": "In south, northeasterly backing northerly, 6 to gale 8. In north, northeasterly backing northwesterly 3 to 5, becoming cyclonic 6 to gale 8 later.",
       "sea_state": "In south, rough or very rough, becoming moderate or rough later. in north, moderate or rough, becoming slight or moderate for a time in east.",
       "weather": "In south, showers. In north, showers then rain.",
