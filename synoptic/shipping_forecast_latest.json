@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-04T17:15:01Z",
+  "fetched_at": "2026-01-04T17:45:01Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 4 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Sun 4 Jan 2026 to 12:00 (UTC) on Mon 5 Jan 2026",
   "general_synopsis": "Low southwest Rockall 1019 expected northwest Biscay 1011 by 0600 tomorrow. Low Viking 999 expected Dogger 1004 by same time",
@@ -120,14 +120,15 @@
     },
     "Biscay": {
       "text": "Wind\nNortheasterly 3 to 5, occasionally 6 in southwest, becoming variable 2 to 4 later.\nSea state\nSlight or moderate, but smooth or slight in northeast, occasionally rough later in far northwest.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n17:24 (UTC) on Sun 4 Jan 2026\nNortherly gale force 8 expected later",
       "wind": "Northeasterly 3 to 5, occasionally 6 in southwest, becoming variable 2 to 4 later.",
       "sea_state": "Slight or moderate, but smooth or slight in northeast, occasionally rough later in far northwest.",
       "weather": "Showers.",
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "Wind\nIn southeast, cyclonic 4 to 6, occasionally 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.\nSea state\nIn southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.\nWeather\nIn southeast, thundery rain, then showers. In northwest, showers.\nVisibility\nModerate or good, occasionally poor at first in southeast.",
-      "wind": "In southeast, cyclonic 4 to 6, occasionally 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.",
+      "text": "ly 7 at first, then becoming northwesterly later. In northwest, northeasterly 6 to gale 8, occasionally 5 at first.\nSea state\nIn southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.\nWeather\nIn southeast, thundery rain, then showers. In northwest, showers.\nVisibility\nModerate or good, occasionally poor at first in southeast.",
+      "gale_warning": "Gale warning\nIssued:\n17:28 (UTC) on Sun 4 Jan 2026\nNortheasterly gale force 8 continuing\nForecast issued:\n00:15 (UTC) on Sun 4 Jan 2026",
       "sea_state": "In southeast, rough or very rough becoming moderate or rough. in northwest, rough or very rough, occasionally moderate in east.",
       "weather": "In southeast, thundery rain, then showers. In northwest, showers.",
       "visibility": "Moderate or good, occasionally poor at first in southeast."
