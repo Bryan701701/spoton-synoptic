@@ -1,0 +1,1 @@
+Today, North Yorks is blown out with fresh 31 mph NW winds and 6 ft @9s N swell; it's not producing. Tomorrow sees a slight drop to 4 ft @8s N with 18 mph WNW winds, still messy. Day after brings cleaner conditions with 3 ft @8s N and lighter 11 mph WSW winds, making it the best day to hit the water. Best: day after.

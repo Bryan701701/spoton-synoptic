@@ -1,0 +1,1 @@
+Today in Northwest Wales, conditions are poor with 2 ft @5s NW swell and 6 mph SE winds. Tomorrow, Porth Oer lights up with 2 ft @5s NW and light 3 mph SSE winds, offering a fun window from 08:30 to 09:47. The day after, expect similar poor conditions with 2 ft @4s WNW and fresh 16 mph WNW winds. Best: tomorrow.

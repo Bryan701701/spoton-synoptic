@@ -1,0 +1,1 @@
+Today, the South is lighting up with 2 ft @9s SSW swell and fresh 15 mph NW winds. Derrynane and Barley Cove are the top picks, offering clean conditions throughout the day. Tomorrow, conditions drop to 1 ft @6s with fresh NNW winds, making it a poor day for surf. The day after stays similar with 1 ft @6s, still not producing much. Best: today.

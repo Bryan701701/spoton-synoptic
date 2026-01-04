@@ -1,0 +1,1 @@
+Today in South Devon, it's a quiet scene with 1 ft @10s SW swell and light 5 mph WNW winds. Tomorrow sees a similar setup with 1 ft @5s WNW swell and moderate 10 mph N winds, keeping it on the poor side. By the day after, the surf drops to flat conditions with no swell energy. Best: today.

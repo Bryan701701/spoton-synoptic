@@ -1,0 +1,1 @@
+Today in North Devon, it's a quiet one with 2 ft @5s NW swell and fresh 9 mph NNE winds. Tomorrow, conditions remain similar with 2 ft @5s NW swell but winds pick up to 14 mph N, making it a bit choppy. Day after, things improve with 2 ft @5s NW swell and light 6 mph NNW winds, creating clean conditions at spots like Woolacombe and Putsborough. Best: day after.

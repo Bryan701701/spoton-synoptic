@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's a quiet day with 2 ft @6s WNW swell, but the wind is fresh at 9 mph NNW, making it a bit messy. Tomorrow, conditions remain similar with 2 ft @5s NW swell and light 7 mph NE winds, still not producing much. On the day after, the swell stays at 2 ft @5s WNW, but with stronger 18 mph NW winds, it’s likely to be blown out. Best: today.
