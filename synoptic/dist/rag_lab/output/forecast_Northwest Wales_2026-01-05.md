@@ -1,0 +1,1 @@
+Today in Northwest Wales, conditions are on the quiet side with 2 ft @5s NW swell and light 1 mph SW winds. Tomorrow, the swell remains at 2 ft but drops to 4s with fresh 12 mph WNW winds, making it a bit choppy. The day after sees a slight increase to 4 ft @6s NW, but fresh 18 mph NNW winds will likely keep it messy. Best: today.

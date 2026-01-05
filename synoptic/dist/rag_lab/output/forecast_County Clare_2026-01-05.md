@@ -1,0 +1,1 @@
+Today in County Clare, it's a quiet day with 2 ft @6s NW swell and light 5 mph NNE winds. Tomorrow, conditions improve with 3 ft @5s WNW swell and moderate 11 mph WSW winds, making spots like Lahinch Beach and Cregg Beach more workable. The day after, swell holds at 3 ft @7s NW but with fresh 17 mph NW winds, leading to some chop. Best: tomorrow.

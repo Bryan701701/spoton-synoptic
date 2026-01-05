@@ -1,0 +1,1 @@
+Today, the North East is facing poor conditions with 5 ft @8s N swell but fresh 25 mph WNW wind making it blown out. Tomorrow sees a slight improvement with 3 ft @8s NNE swell and 17 mph WSW wind; sheltered spots like Saltburn Beach may offer some fun. Day after, conditions worsen again with 5 ft @6s N swell and strong 36 mph NNW wind, making it challenging. Best: tomorrow.

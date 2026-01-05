@@ -1,0 +1,1 @@
+Today, Sennen Cove is the standout with 2ft @5s NW, fresh N winds at 18 mph. It's workable, especially on the early tide from 08:21 to 16:35. Tomorrow, conditions drop further with poor surf across all coasts. The day after, the swell picks up to 5ft but remains blown out. Best: today.

@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's a quiet one with 1 ft @ 6s NW swell and light 2 mph SSW winds—perfect for a stroll, but not much surf action. Tomorrow stays similar, with 1 ft @ 4s WNW and fresh 12 mph WNW winds, keeping things flat and blown out. On the day after, the swell picks up to 4 ft @ 6s WNW, but fresh 21 mph NW winds will make it messy. Best: day after.

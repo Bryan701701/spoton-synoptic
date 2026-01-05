@@ -1,0 +1,1 @@
+Today in Gower, it's a quiet one with 2 ft @5s WNW swell and light 5 mph N winds. Tomorrow drops to 1 ft @5s W with fresh 26 mph WNW winds, making it a blown-out day. Day after brings a solid 4 ft @6s W swell with 15 mph NW winds, so it should be more workable. Best: day after.

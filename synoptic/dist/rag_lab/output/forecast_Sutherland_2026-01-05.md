@@ -1,0 +1,1 @@
+Today in Sutherland, it’s a no-go with poor conditions across the board—6 ft @9s N swell met by fresh 25 mph NNW winds. Tomorrow, Sango Bay steps up with 4 ft @8s N, but the wind will be fresh at 28 mph WNW, so expect some chop. The day after, conditions improve slightly with 4 ft @7s NNW and lighter 13 mph N winds, making for a workable session at several spots. Best: day after.

@@ -1,0 +1,1 @@
+Today in South Devon, it's quiet with 1 ft @8s SW swell and light N winds. Tomorrow, the swell remains at 1 ft but drops to a short 5s period with fresh WNW winds, keeping it poor. On the day after, Bantham shows some promise with 2 ft @5s WSW and light NNW winds, offering a better chance for a fun session. Best: day after.

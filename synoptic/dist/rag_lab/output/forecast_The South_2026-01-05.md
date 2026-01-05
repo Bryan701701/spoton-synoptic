@@ -1,0 +1,1 @@
+Today, the South is quiet with 1 ft @6s W swell and fresh 17 mph NNW winds creating a blown-out scene. Tomorrow, it drops to flat conditions with no surf showing up. The day after, we see a slight bump back to 1 ft @6s SW, but the fresh 18 mph WNW winds will keep it messy. Best: today.
