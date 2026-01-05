@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-05T10:00:01Z",
+  "fetched_at": "2026-01-05T10:15:01Z",
   "issued": "Issued at: 05:05 (UTC) on Mon 5 Jan 2026",
   "valid": "For the period 06:00 (UTC) on Mon 5 Jan 2026 to 06:00 (UTC) on Tue 6 Jan 2026",
   "general_synopsis": "Low Fastnet 1012 expected Biscay 1013 by midnight tonight. Low Forties 1002 expected German Bight 1008 by same time",
@@ -113,7 +113,6 @@
     },
     "Plymouth": {
       "text": "Wind\nCyclonic becoming northerly 3 to 5, increasing 6 to gale 8 for a time.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Sun 4 Jan 2026\nNortherly gale force 8 expected soon",
       "wind": "Cyclonic becoming northerly 3 to 5, increasing 6 to gale 8 for a time.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain then showers.",
@@ -144,7 +143,6 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic mainly northerly 5 to 7, occasionally gale 8 at first in east, becoming variable 3 or 4 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:39 (UTC) on Mon 5 Jan 2026\nGale force 8 now backed northerly",
       "wind": "Cyclonic mainly northerly 5 to 7, occasionally gale 8 at first in east, becoming variable 3 or 4 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -201,6 +199,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorth 5 to 7 becoming cyclonic 4 to 6, then occasionally 7 again later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nSqually snow showers, then rain or sleet later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 5 Jan 2026\nNortherly gale force 8 expected later",
       "wind": "North 5 to 7 becoming cyclonic 4 to 6, then occasionally 7 again later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally snow showers, then rain or sleet later.",
@@ -215,6 +214,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorth 5 to 7 becoming cyclonic 4 to 6, then occasionally 7 again later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nSqually snow showers, then rain or sleet later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 5 Jan 2026\nNortherly gale force 8 expected later",
       "wind": "North 5 to 7 becoming cyclonic 4 to 6, then occasionally 7 again later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally snow showers, then rain or sleet later.",
@@ -222,6 +222,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 2 to 4 becoming northeasterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional snow.\nVisibility\nGood, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Mon 5 Jan 2026\nNortherly gale force 8 expected later",
       "wind": "Cyclonic 2 to 4 becoming northeasterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional snow.",
