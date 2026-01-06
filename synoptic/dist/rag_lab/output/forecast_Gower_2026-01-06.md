@@ -1,0 +1,1 @@
+Today in Gower, it's looking pretty flat with 1 ft @5s W and fresh 14 mph WNW winds. Tomorrow, the swell picks up to 4 ft @6s WNW, but the strong 28 mph NW wind will make it blown out. By the day after, conditions improve slightly with 3 ft @7s W and lighter 13 mph WNW winds, making for some workable waves at spots like Llangennith Beach. Best: day after.

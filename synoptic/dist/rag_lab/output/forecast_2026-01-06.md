@@ -1,0 +1,1 @@
+Today on the West Coast, we've got 3 ft @ 5s WNW with fresh 14 mph WSW winds. Ardnave Bay and Saligo Bay are your best bets, with clean conditions early on. Tomorrow, the swell picks up to 6 ft @ 7s NW, still workable despite fresh 17 mph NW winds. Day after, it eases back to 4 ft @ 8s WNW, with similar winds. Best: tomorrow.

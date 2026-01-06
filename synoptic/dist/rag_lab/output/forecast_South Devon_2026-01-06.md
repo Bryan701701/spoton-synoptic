@@ -1,0 +1,1 @@
+Today in South Devon, it's flat with no surf action—0 ft @0s. Tomorrow, we see a slight uptick to 2 ft @5s, but fresh 26 mph NW winds will make it blown out. The day after, conditions improve slightly with 2 ft @6s and lighter 5 mph WSW winds, offering a more workable option. Best: day after.

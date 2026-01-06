@@ -1,0 +1,1 @@
+Today in Pembrokeshire, surf is small and weak at 1 ft @5s with fresh 9 mph WNW winds. Tomorrow sees a bump to 3 ft @6s, but the fresh NW wind will make it blown out. Day after brings cleaner conditions with 2 ft @6s and light 5 mph WNW winds, making it a fun day at spots like Whitesands Bay. Best: day after.

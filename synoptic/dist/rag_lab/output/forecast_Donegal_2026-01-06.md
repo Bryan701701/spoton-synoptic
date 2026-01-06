@@ -1,0 +1,1 @@
+Today in Donegal, conditions are poor with 4 ft @ 6s WNW swell and fresh 20 mph SW winds. Tomorrow, expect a nice improvement with 3 ft @ 8s WNW swell and light 8 mph NW winds at spots like Rossnowlagh and Tullan Strand. The day after looks even better, with 6 ft @ 9s WNW swell and light winds, perfect for a fun session at Magheroaty Beach. Best: day after.
