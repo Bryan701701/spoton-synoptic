@@ -1,0 +1,1 @@
+Today in Moray, it's a flat day with no surf action—just calm waters at 0 ft. Tomorrow sees a slight improvement with 2 ft @8s E swell, but fresh S winds at 15 mph will keep it a bit choppy. The day after brings a better setup with 3 ft @6s E swell and lighter NNE winds at 9 mph, making it the best day to hit the water. Best: day after.

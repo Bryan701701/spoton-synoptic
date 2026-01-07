@@ -1,0 +1,1 @@
+South Devon is looking good today with Bantham offering 2 ft @ 5s SW and a light 9 mph NW wind. It's best on the push from 08:14 to 16:29. Tomorrow, swell picks up to 3 ft @ 6s WSW with a moderate 11 mph W wind, still fun at Bantham. Day after, it ramps up to 5 ft @ 8s WSW but with fresh 17 mph WNW winds, making it a bit choppy. Best: today.

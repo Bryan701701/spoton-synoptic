@@ -1,0 +1,1 @@
+Today in the Hebrides, it's a bit rough with 7 ft @8s NNW swell and fresh 30 mph N winds, making it blown out across the board. Tomorrow sees a drop to 5 ft @9s W, but the wind remains fresh at 21 mph W, keeping conditions poor. The day after also holds 5 ft @10s W with similar wind, so expect more of the same. Best: none.

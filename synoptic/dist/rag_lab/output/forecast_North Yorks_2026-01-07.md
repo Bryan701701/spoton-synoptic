@@ -1,0 +1,1 @@
+Today in North Yorks, surf is flat with no swell energy, so it's a quiet day. Tomorrow, conditions improve with 3 ft @ 8s NNE and light winds at 5 mph WNW, making it a great day for a session at spots like Withernsea or Filey. The day after brings even better conditions with 5 ft @ 7s ENE and light winds at 8 mph N, perfect for catching some fun waves. Best: day after.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, surf is poor with 5 ft @6s NW and fresh 24 mph NW winds making it blown out. Tomorrow looks better with 3 ft @5s WNW and lighter 9 mph WNW winds, especially at Porth Oer during the mid-morning tide window. The day after, conditions drop slightly to 4 ft @6s NW with fresh 20 mph NW winds, keeping it messy across the board. Best: tomorrow.
