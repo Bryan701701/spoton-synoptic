@@ -25,8 +25,8 @@
       "lat": 57.750491731,
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Tue 6 Jan 2026\nEasterly gale force 8 expected soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Dogger",
@@ -43,8 +43,8 @@
       "lat": 50.70358979050005,
       "x": 2729.4594530451577,
       "y": 1152.5698803239516,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Faeroes",
@@ -62,7 +62,7 @@
       "x": 2464.804822966019,
       "y": 523.8148845164478,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nGale now ceased, but southeasterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSoutheasterly gale force 8 imminent"
     },
     {
       "name": "Fastnet",
@@ -80,7 +80,7 @@
       "x": 3075.6496808742554,
       "y": 741.3283846490839,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nEasterly gale force 8 increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSevere gale force 9 backing northeasterly imminent, decreasing gale force 8 soon"
     },
     {
       "name": "FitzRoy",
@@ -89,7 +89,7 @@
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSouthwesterly severe gale force 9 expected later"
     },
     {
       "name": "Forth",
@@ -97,8 +97,8 @@
       "lat": 56.325641984,
       "x": 2543.312774771251,
       "y": 777.9367659752727,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Tue 6 Jan 2026\nNortherly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Forties",
@@ -107,7 +107,7 @@
       "x": 2766.163636363636,
       "y": 716.340909090909,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nEasterly gale force 8 increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSevere gale force 9 backing northeasterly imminent, decreasing gale force 8 soon"
     },
     {
       "name": "German Bight",
@@ -124,8 +124,8 @@
       "lat": 58.790475933500105,
       "x": 2155.574216362487,
       "y": 613.6891946131293,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Humber",
@@ -133,8 +133,8 @@
       "lat": 53.49949032600005,
       "x": 2824.655930230702,
       "y": 966.2612355492694,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nSouthwesterly gale force 8 continuing, veering westerly later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Irish Sea",
@@ -142,8 +142,8 @@
       "lat": 53.5004243685001,
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nNorthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Lundy",
@@ -160,8 +160,8 @@
       "lat": 55.5690157085001,
       "x": 2142.388659287721,
       "y": 828.3555896063114,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Plymouth",
@@ -196,8 +196,8 @@
       "lat": 51.762720115,
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nNortherly gale force 8 expected later"
     },
     {
       "name": "Sole",
@@ -206,7 +206,7 @@
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSouthwesterly severe gale force 9 expected later"
     },
     {
       "name": "Southeast Iceland",
@@ -215,7 +215,7 @@
       "x": 1844.0814715389176,
       "y": 327.70526229076603,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nEasterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nEasterly gale force 8 imminent, backing northeasterly and increasing severe gale force 9 soon"
     },
     {
       "name": "South Utsire",
@@ -224,7 +224,7 @@
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nSoutheasterly gale force 8 continuing, backing and increasing easterly severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nEasterly severe gale force 9 decreasing gale force 8 imminent"
     },
     {
       "name": "Thames",
@@ -232,8 +232,8 @@
       "lat": 51.988296187000046,
       "x": 2849.5258142282423,
       "y": 1066.9617177208152,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Tyne",
@@ -241,8 +241,8 @@
       "lat": 55.119202289,
       "x": 2612.2737150516245,
       "y": 858.3295201966364,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Wed 7 Jan 2026\nGale now ceased, but northwesterly gale force 8 expected soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Viking",
@@ -259,8 +259,8 @@
       "lat": 50.093147651500104,
       "x": 2649.7913338640187,
       "y": 1193.2475246773113,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Tue 6 Jan 2026\nSouthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Biscay",
@@ -268,8 +268,8 @@
       "lat": 45.869279561,
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Wed 7 Jan 2026\nSouthwesterly gale force 8 expected later"
     },
     {
       "name": "Trafalgar",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-01-07T10:00:35Z"
+  "generated_utc": "2026-01-07T10:30:32Z"
 }
