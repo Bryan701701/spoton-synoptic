@@ -1,0 +1,1 @@
+Today in South Devon, Bantham is offering some fun with 2 ft @ 6s WSW and a moderate 12 mph W wind. It’s best during the tide window from 08:13 to 16:30. Tomorrow, conditions drop with 4 ft @ 9s WSW but fresh 32 mph NW winds will make it blown out. On the day after, Bantham improves to 3 ft @ 9s WSW with lighter 10 mph WNW winds, making it more workable. Best: today.

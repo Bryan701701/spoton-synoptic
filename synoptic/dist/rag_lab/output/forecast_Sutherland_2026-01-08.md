@@ -1,0 +1,1 @@
+Sutherland is looking fun today with 3 ft @ 8s NW swell and fresh 18 mph SSE winds. Melvich and Strathy are your best bets, with good windows around mid-morning. Tomorrow, expect a step up to 4 ft @ 10s WNW, with lighter 12 mph SSW winds keeping it clean. The day after brings 5 ft @ 9s NW, still tidy with 11 mph SSE winds. Best: tomorrow.
