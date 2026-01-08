@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-08T17:15:02Z",
+  "fetched_at": "2026-01-08T17:45:02Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 8 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Thu 8 Jan 2026 to 12:00 (UTC) on Fri 9 Jan 2026",
   "general_synopsis": "Low just west of Sole 994 expected belgium 971 by 0600 tomorrow",
@@ -156,7 +156,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic severe gale 9 to violent storm 11, occasionally hurricane force 12 at first, becoming northwest 6 to gale 8 later.\nSea state\nMainly very rough or high, but occasionally very high at first in east.\nWeather\nRain then showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 8 Jan 2026\nWesterly storm force 10 increasing hurricane force 12 imminent",
+      "gale_warning": "Gale warning\nIssued:\n17:20 (UTC) on Thu 8 Jan 2026\nNorthwesterly hurricane force 12 decreasing severe gale force 9 imminent",
       "wind": "Cyclonic severe gale 9 to violent storm 11, occasionally hurricane force 12 at first, becoming northwest 6 to gale 8 later.",
       "sea_state": "Mainly very rough or high, but occasionally very high at first in east.",
       "weather": "Rain then showers.",
@@ -172,7 +172,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic severe gale 9 to violent storm 11, occasionally hurricane force 12 at first, becoming northwest 6 to gale 8 later.\nSea state\nModerate or rough becoming very rough or high.\nWeather\nRain then showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 8 Jan 2026\nNorthwesterly hurricane force 12 imminent",
+      "gale_warning": "Gale warning\nIssued:\n17:20 (UTC) on Thu 8 Jan 2026\nNorthwesterly hurricane force 12 decreasing gale force 8 imminent",
       "wind": "Cyclonic severe gale 9 to violent storm 11, occasionally hurricane force 12 at first, becoming northwest 6 to gale 8 later.",
       "sea_state": "Moderate or rough becoming very rough or high.",
       "weather": "Rain then showers.",
@@ -218,7 +218,6 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 3 to 5, increasing 6 to gale 8 in northwest.\nSea state\nRough or very rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 8 Jan 2026\nEasterly gale force 8 continuing",
       "wind": "Cyclonic 3 to 5, increasing 6 to gale 8 in northwest.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers.",
