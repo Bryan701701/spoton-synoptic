@@ -1,0 +1,1 @@
+Today, Cornwall is seeing some hefty conditions with 8–9 ft swells at 10s from the WNW, but fresh winds at 25–34 mph are blowing it out across all coasts. Tomorrow, the swell drops to 3–5 ft with a similar fresh breeze, keeping it messy. By the day after, we’ll see a slight increase to 6–9 ft, but the wind remains fresh, making it challenging. Best: none.

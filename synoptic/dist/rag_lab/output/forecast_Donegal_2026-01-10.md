@@ -1,0 +1,1 @@
+Today in Donegal, it's looking great with 6 ft @ 11s W swell and 12 mph SW winds. Spots like Rossnowlagh and Tullan Strand are clean and fun, especially during their tide windows. Tomorrow, conditions drop with 5 ft @ 8s SW swell and fresh 24 mph S winds, making it poor across the board. The day after, it remains poor with 10 ft @ 10s WSW swell and 22 mph SSW winds. Best: today.

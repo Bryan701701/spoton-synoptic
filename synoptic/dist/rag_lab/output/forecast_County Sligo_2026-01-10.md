@@ -1,0 +1,1 @@
+Today in County Sligo, it's looking great with 6 ft @11s WNW swell and light 6 mph S winds. Strandhill and Easkey spots are clean and working well throughout the day. Tomorrow, conditions drop to 3 ft @7s SW with fresh 24 mph S winds, making it poor across the board. Day after, still poor with 5 ft @9s W but winds ramp up to 27 mph SSW. Best: today.

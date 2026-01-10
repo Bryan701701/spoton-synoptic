@@ -5,7 +5,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 30,
+      "wind_mph": 34,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -19,7 +19,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 30,
+      "wind_mph": 22,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -32,8 +32,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 3,
-      "wind_mph": 30,
+      "size_ft": 5,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -46,8 +46,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 3,
-      "wind_mph": 22,
+      "size_ft": 4,
+      "wind_mph": 26,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -61,7 +61,7 @@
       "swell_ok": true,
       "wind_ok": true,
       "size_ft": 3,
-      "wind_mph": 27,
+      "wind_mph": 31,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -75,7 +75,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 16,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -86,10 +86,10 @@
   "North Devon": {
     "has_options": false,
     "reason": {
-      "swell_ok": true,
+      "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 23,
+      "size_ft": 3,
+      "wind_mph": 26,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -102,7 +102,7 @@
     "reason": {
       "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 3,
+      "size_ft": 4,
       "wind_mph": 30,
       "thresholds": {
         "wind_mph_min": 15,
@@ -116,8 +116,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 19,
+      "size_ft": 5,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -130,8 +130,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 29,
+      "size_ft": 3,
+      "wind_mph": 34,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -142,10 +142,10 @@
   "Caithness": {
     "has_options": false,
     "reason": {
-      "swell_ok": true,
+      "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 3,
-      "wind_mph": 29,
+      "size_ft": 5,
+      "wind_mph": 45,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -157,9 +157,9 @@
     "has_options": false,
     "reason": {
       "swell_ok": false,
-      "wind_ok": false,
+      "wind_ok": true,
       "size_ft": 3,
-      "wind_mph": 16,
+      "wind_mph": 29,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -171,9 +171,9 @@
     "has_options": false,
     "reason": {
       "swell_ok": false,
-      "wind_ok": true,
-      "size_ft": 5,
-      "wind_mph": 28,
+      "wind_ok": false,
+      "size_ft": 8,
+      "wind_mph": 42,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -186,8 +186,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": true,
-      "size_ft": 2,
-      "wind_mph": 21,
+      "size_ft": 3,
+      "wind_mph": 17,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -200,8 +200,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 27,
+      "size_ft": 3,
+      "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -214,8 +214,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 32,
+      "size_ft": 5,
+      "wind_mph": 34,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -228,8 +228,8 @@
     "reason": {
       "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 34,
+      "size_ft": 3,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -243,7 +243,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 20,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -257,7 +257,7 @@
       "swell_ok": false,
       "wind_ok": true,
       "size_ft": 3,
-      "wind_mph": 18,
+      "wind_mph": 24,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -270,8 +270,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 12,
+      "size_ft": 4,
+      "wind_mph": 16,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -282,10 +282,10 @@
   "Dingle Peninsula": {
     "has_options": false,
     "reason": {
-      "swell_ok": false,
+      "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 6,
-      "wind_mph": 20,
+      "size_ft": 7,
+      "wind_mph": 22,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -299,7 +299,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 16,
+      "wind_mph": 29,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2

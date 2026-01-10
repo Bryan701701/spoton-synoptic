@@ -1,0 +1,1 @@
+North Yorks is looking solid today with 5 ft @8s ENE swell and fresh 14 mph ENE winds. Withernsea and Filey are prime spots, especially during their best tide windows. Tomorrow, conditions drop to 3 ft @6s with strong 28 mph SSE winds, making it poor across the board. Day after sees further decline to 2 ft @6s with 18 mph SSW winds, keeping it flat and uninviting. Best: today.

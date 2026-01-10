@@ -1,0 +1,1 @@
+Today in Caithness, it's looking fun with 3 ft @10s WNW swell and a light 15 mph SSE wind. Point of Ness and Dunnet Bay are both clean and working well. Tomorrow, conditions drop as the swell shifts to 3 ft @6s SSW with a fresh 30 mph SSE wind, making it poor across the board. The day after continues the trend with similar poor conditions. Best: today.

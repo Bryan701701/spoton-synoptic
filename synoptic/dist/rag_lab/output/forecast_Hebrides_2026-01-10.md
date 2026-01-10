@@ -1,0 +1,1 @@
+Today, the Hebrides are experiencing poor conditions with 6 ft @11s WSW swell, but fresh 30 mph SSE winds are making it blown out. Tomorrow, expect a bump in swell to 8 ft @7s SSW, though the 42 mph S winds will keep it messy. The day after, the swell increases further to 11 ft @10s SW, but with even stronger 57 mph SSW winds, it will be challenging. Best: today.
