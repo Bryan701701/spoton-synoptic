@@ -1,1 +1,1 @@
-Today, the South is quiet with 2 ft @8s SW swell and fresh 11 mph WNW wind. Tomorrow, it picks up slightly to 4 ft @7s S, but fresh 29 mph S wind will make it blown out. The day after, the swell rises to 8 ft @9s SSW, yet strong 31 mph SW wind will keep it messy. Best: today.
+Today, the South is quiet with 2 ft @8s SW swell and fresh 11 mph WNW winds. Tomorrow, the swell picks up to 4 ft @7s S, but strong 29 mph S winds will make it blown out. Day after, the swell further increases to 8 ft @9s SSW, with even stronger winds at 31 mph SW, keeping conditions messy. Best: today.
