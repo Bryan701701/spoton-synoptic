@@ -1,0 +1,1 @@
+Today in Gower, it's a bit of a struggle with 4 ft @6s SW swell, but fresh 27 mph SSE winds are making it blown out across the board. Tomorrow, the swell picks up to 8 ft @9s WSW, but the wind remains fresh at 19 mph SSW, keeping conditions poor. By the day after, expect a cleaner 5 ft @10s WSW with lighter 12 mph SE winds, making it the best day to hit the surf. Best: day after.

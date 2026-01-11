@@ -1,0 +1,1 @@
+Today in Pembrokeshire, it's looking poor with 5 ft @6s SSW swell and fresh 31 mph SSE winds, making it blown out across the board. Tomorrow remains similar with 5 ft @9s WSW swell but lighter 19 mph SSW winds, still not ideal. On the day after, conditions improve with 4 ft @10s WSW swell and light 10 mph SE winds, offering a much cleaner surf experience. Best: day after.

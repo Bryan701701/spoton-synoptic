@@ -1,0 +1,1 @@
+Today in Sutherland, it's a quiet day with no surf action—flat conditions at 0 ft and no swell hitting the coast. Tomorrow, the swell picks up to 9 ft @8s from the SW, but fresh 37 mph winds will make it blown out and messy. Day after, conditions improve slightly with 10 ft @10s NW swell, but only Strathy shows some potential for workable waves. Best: day after.

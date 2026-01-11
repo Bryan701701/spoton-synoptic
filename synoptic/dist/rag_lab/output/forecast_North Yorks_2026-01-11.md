@@ -1,0 +1,1 @@
+Today, North Yorks is not producing with 3 ft @6s ESE swell and fresh 27 mph SSE winds creating a blown-out scene. Tomorrow, similar conditions persist with 3 ft @6s SSE swell and 21 mph SSW winds, keeping it messy. By the day after, the swell drops to 1 ft @4s S, making it a quiet day. Best: tomorrow.

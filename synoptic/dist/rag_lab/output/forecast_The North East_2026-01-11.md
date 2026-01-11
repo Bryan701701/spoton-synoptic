@@ -1,0 +1,1 @@
+Today, the North East is quiet with 3 ft @6s ESE swell, but fresh 30 mph S winds have it blown out. Tomorrow, conditions drop to 2 ft @6s SE with moderate 19 mph S winds, still not producing much. The day after, it fades further to 1 ft @4s S with light 6 mph SW winds, leaving it flat and unworkable. Best: tomorrow.

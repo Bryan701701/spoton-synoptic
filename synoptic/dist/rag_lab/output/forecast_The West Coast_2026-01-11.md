@@ -1,0 +1,1 @@
+Today on the West Coast, conditions are poor with 5 ft @ 7s S and fresh 32 mph S winds. Tomorrow sees a slight increase in swell to 6 ft @ 9s W, but the fresh 24 mph SSW winds will keep it choppy. By the day after, expect a solid 7 ft @ 10s WNW with light 8 mph SW winds, offering much cleaner conditions at spots like Ardnave Bay and Saligo Bay. Best: day after.
