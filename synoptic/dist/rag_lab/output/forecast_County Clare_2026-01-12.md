@@ -1,0 +1,1 @@
+Today in County Clare, it's a bit of a struggle with 7 ft @9s WSW swell, but fresh 21 mph SSW winds are making it blown out. Tomorrow sees a slight improvement with 4 ft @9s W swell and 17 mph N winds, offering some workable conditions at spots like Doolin Point and Lahinch Beach. The day after, conditions drop again to 5 ft @8s W, still affected by fresh S winds. Best: tomorrow.

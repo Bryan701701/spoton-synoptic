@@ -1,0 +1,1 @@
+Today on the West Coast, it's a bit rough with 6 ft @9s W swell and fresh 22 mph SW winds creating a blown-out situation. Tomorrow, conditions improve significantly with 5 ft @10s NW swell and light 2 mph N winds, making it a great day to hit the water. The day after, expect similar 5 ft @8s WNW swell, but with fresh 13 mph WSW winds affecting the quality. Best: tomorrow.

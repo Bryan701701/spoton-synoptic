@@ -1,0 +1,1 @@
+Today at Saltburn Beach, expect fun 2 ft @6s SSE with fresh 17 mph SW wind. It’s a bit choppy, but sheltered corners should still work well. Tomorrow drops to 1 ft @4s, making it a quiet day with little action. The day after remains similar with 1 ft @5s, so best to take a break. Best: today.

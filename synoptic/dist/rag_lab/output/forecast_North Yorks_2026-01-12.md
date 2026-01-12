@@ -1,0 +1,1 @@
+Today in North Yorks, it’s a bit of a struggle with 3 ft @6s SSE and fresh 21 mph SSW winds making it blown out. Tomorrow drops to 1 ft @3s SSE with 16 mph SSW winds, so it’s looking pretty flat. The day after sees a slight improvement to 2 ft @5s NW with 15 mph W winds, but still not ideal. Best: day after.
