@@ -1,0 +1,1 @@
+Today in Moray, Spey Bay and Lossiemouth are both offering fun, clean conditions with 1 ft @ 8s E swell and light 9 mph SW winds. Best windows are from 08:46 to 15:56. Tomorrow, conditions drop with 2 ft @ 5s W swell and fresh 27 mph WSW winds, making it blown out and not workable. Day after, still poor with 1 ft @ 3s SSE swell and 15 mph SSW winds. Best: today.

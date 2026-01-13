@@ -5,7 +5,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 6,
-      "wind_mph": 5,
+      "wind_mph": 7,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -18,8 +18,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 5,
-      "wind_mph": 10,
+      "size_ft": 4,
+      "wind_mph": 8,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -33,7 +33,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 9,
+      "wind_mph": 6,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -47,7 +47,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 14,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -61,7 +61,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 1,
-      "wind_mph": 8,
+      "wind_mph": 14,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -73,7 +73,7 @@
     "has_options": false,
     "reason": {
       "swell_ok": false,
-      "wind_ok": true,
+      "wind_ok": false,
       "size_ft": 1,
       "wind_mph": 16,
       "thresholds": {
@@ -89,7 +89,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 7,
+      "wind_mph": 8,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -102,8 +102,8 @@
     "reason": {
       "swell_ok": false,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 15,
+      "size_ft": 6,
+      "wind_mph": 11,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -117,7 +117,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 3,
+      "wind_mph": 4,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -130,8 +130,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 11,
+      "size_ft": 1,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -140,12 +140,12 @@
     "representative_spot": "Fraserburgh"
   },
   "Caithness": {
-    "has_options": true,
+    "has_options": false,
     "reason": {
       "swell_ok": true,
-      "wind_ok": true,
-      "size_ft": 2,
-      "wind_mph": 16,
+      "wind_ok": false,
+      "size_ft": 3,
+      "wind_mph": 11,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -159,7 +159,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 7,
-      "wind_mph": 25,
+      "wind_mph": 16,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -172,8 +172,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 8,
-      "wind_mph": 9,
+      "size_ft": 7,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -201,7 +201,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 10,
+      "wind_mph": 13,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -212,10 +212,10 @@
   "The West Coast": {
     "has_options": false,
     "reason": {
-      "swell_ok": true,
+      "swell_ok": false,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 2,
+      "wind_mph": 18,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -229,7 +229,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 17,
+      "wind_mph": 19,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -243,7 +243,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 7,
-      "wind_mph": 10,
+      "wind_mph": 20,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -256,8 +256,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 6,
-      "wind_mph": 11,
+      "size_ft": 5,
+      "wind_mph": 5,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -270,8 +270,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 4,
-      "wind_mph": 17,
+      "size_ft": 3,
+      "wind_mph": 7,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -284,8 +284,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 8,
-      "wind_mph": 27,
+      "size_ft": 7,
+      "wind_mph": 22,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -294,12 +294,12 @@
     "representative_spot": "Ballybunion Right"
   },
   "The South": {
-    "has_options": false,
+    "has_options": true,
     "reason": {
       "swell_ok": true,
-      "wind_ok": false,
+      "wind_ok": true,
       "size_ft": 3,
-      "wind_mph": 15,
+      "wind_mph": 19,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2

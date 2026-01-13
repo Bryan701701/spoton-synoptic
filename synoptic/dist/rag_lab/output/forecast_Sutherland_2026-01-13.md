@@ -1,0 +1,1 @@
+Today in Sutherland, Sango Bay is lighting up with a solid 7 ft @ 10s NW swell and fresh 16 mph WSW winds, best enjoyed from 08:59 to 15:56. Tomorrow, Sango Bay remains the star with similar swell but shorter 8s period, though winds pick up to 21 mph W, creating some chop. The day after, conditions drop to 4 ft @ 9s WSW with fresh SSW winds, making it less inviting. Best: today.

@@ -1,0 +1,1 @@
+Today in the South, conditions are poor with a weak 3 ft @8s SSW swell and fresh 19 mph NNW winds creating a blown-out situation. Tomorrow, the swell drops to 2 ft @9s, still under fresh 19 mph SSW winds, keeping it messy. Day after, expect a solid improvement with 4 ft @7s SSW and light 5 mph N winds, making for clean surf at spots like Ballinskelligs Bay. Best: day after.
