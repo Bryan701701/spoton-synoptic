@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-13T09:30:01Z",
+  "fetched_at": "2026-01-13T10:00:01Z",
   "issued": "Issued at: 05:05 (UTC) on Tue 13 Jan 2026",
   "valid": "For the period 06:00 (UTC) on Tue 13 Jan 2026 to 06:00 (UTC) on Wed 14 Jan 2026",
   "general_synopsis": "Low northwest FitzRoy 995 expected northeast FitzRoy 1007 by midnight tonight",
@@ -32,7 +32,6 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 6 to gale 8 at first in far northeast, otherwise cyclonic 3 to 5 becoming westerly 5 to 7.\nSea state\nVery rough at first in far northeast, otherwise moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:59 (UTC) on Mon 12 Jan 2026\nSoutheasterly gale force 8 imminent",
       "wind": "Southeasterly 6 to gale 8 at first in far northeast, otherwise cyclonic 3 to 5 becoming westerly 5 to 7.",
       "sea_state": "Very rough at first in far northeast, otherwise moderate or rough.",
       "weather": "Rain or showers.",
@@ -130,8 +129,8 @@
       "visibility": "Moderate or good, occasionally poor."
     },
     "Trafalgar": {
-      "text": "nally gale 8 at first in east, then veering northwesterly 4 to 6.\nSea state\nMainly rough or very rough, but moderate or rough in far southeast.\nWeather\nRain then thundery showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:59 (UTC) on Mon 12 Jan 2026\nGale force 8 backing southerly imminent\nForecast issued:\n00:15 (UTC) on Tue 13 Jan 2026",
+      "text": "Wind\nSoutherly or southwesterly 5 to 7, occasionally gale 8 at first in east, then veering northwesterly 4 to 6.\nSea state\nMainly rough or very rough, but moderate or rough in far southeast.\nWeather\nRain then thundery showers.\nVisibility\nModerate or good, occasionally poor at first.",
+      "wind": "Southerly or southwesterly 5 to 7, occasionally gale 8 at first in east, then veering northwesterly 4 to 6.",
       "sea_state": "Mainly rough or very rough, but moderate or rough in far southeast.",
       "weather": "Rain then thundery showers.",
       "visibility": "Moderate or good, occasionally poor at first."
@@ -146,6 +145,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 5 to 7, decreasing 4 at times later.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers, becoming mainly fair later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, decreasing 4 at times later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers, becoming mainly fair later.",
@@ -190,6 +190,7 @@
     },
     "Malin": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally 4 at first, backing southwest 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "West or northwest 5 to 7, occasionally 4 at first, backing southwest 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -197,6 +198,7 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally 4 at first, backing southwest 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "West or northwest 5 to 7, occasionally 4 at first, backing southwest 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers.",
