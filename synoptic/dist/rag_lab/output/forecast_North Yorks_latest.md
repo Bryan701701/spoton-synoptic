@@ -1,1 +1,1 @@
-Today in North Yorks, it's flat with 1 ft @ 4s SSE and fresh 16 mph S winds across the board—no surf action. Tomorrow, the same story continues with 1 ft @ 5s NNW and 19 mph W winds, keeping it quiet. Day after, still no change with 1 ft @ 4s SSE and 14 mph SSW winds. Best: none.
+Today, North Yorks is quiet with 1 ft @ 4s SSE swell and fresh 16 mph S winds. Tomorrow, conditions remain similar, with 1 ft @ 5s NNW swell and 19 mph W winds—still not producing. Day after, expect the same 1 ft @ 4s SSE swell with 14 mph SSW winds. Best: today.
