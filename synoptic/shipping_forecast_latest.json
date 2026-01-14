@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-14T10:00:01Z",
+  "fetched_at": "2026-01-14T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 14 Jan 2026",
   "valid": "For the period 06:00 (UTC) on Wed 14 Jan 2026 to 06:00 (UTC) on Thu 15 Jan 2026",
   "general_synopsis": "New low expected Southeast Iceland 980 by midnight tonight",
@@ -24,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nWesterly backing southwesterly 4 to 6. Backing southerly 5 to 7.\nSea state\nModerate or rough.\nWeather\nShowers, then rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 14 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Westerly backing southwesterly 4 to 6. Backing southerly 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, then rain.",
@@ -125,6 +126,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 4 to 6, becoming southwest 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 14 Jan 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming southwest 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -139,7 +141,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, cyclonic 4 to 6, becoming southwesterly then cyclonic later, 6 to gale 8 later. In northwest, southwesterly 5 to 7, veering westerly or southwesterly 3 to 5 later.\nSea state\nIn southeast, rough, occasionally very rough at first and later. in northwest, rough or very rough.\nWeather\nIn southeast, showers, rain later. In northwest, rain.\nVisibility\nIn southeast, good, occasionally poor. In northwest, good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 14 Jan 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 14 Jan 2026\nSouthwesterly severe gale force 9 expected later",
       "wind": "In southeast, cyclonic 4 to 6, becoming southwesterly then cyclonic later, 6 to gale 8 later. In northwest, southwesterly 5 to 7, veering westerly or southwesterly 3 to 5 later.",
       "sea_state": "In southeast, rough, occasionally very rough at first and later. in northwest, rough or very rough.",
       "weather": "In southeast, showers, rain later. In northwest, rain.",
@@ -147,7 +149,7 @@
     },
     "Sole": {
       "text": "Wind\nSouthwesterly 5 to 7, occasionally gale 8, veering westerly or southwesterly 3 to 5 later.\nSea state\nRough or very rough, occasionally moderate at first in east.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 14 Jan 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 5 to 7, occasionally gale 8, veering westerly or southwesterly 3 to 5 later.",
       "sea_state": "Rough or very rough, occasionally moderate at first in east.",
       "weather": "Rain.",
@@ -195,7 +197,6 @@
     },
     "Malin": {
       "text": "Wind\nSouthwest 5 to 7, backing south 6 to gale 8, veering southwest 3 to 5.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nShowers or rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwest 5 to 7, backing south 6 to gale 8, veering southwest 3 to 5.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Showers or rain.",
@@ -203,7 +204,6 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwest 5 to 7, backing south 6 to gale 8, veering southwest 3 to 5.\nSea state\nRough or very rough, occasionally moderate in east.\nWeather\nShowers or rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Tue 13 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwest 5 to 7, backing south 6 to gale 8, veering southwest 3 to 5.",
       "sea_state": "Rough or very rough, occasionally moderate in east.",
       "weather": "Showers or rain.",
