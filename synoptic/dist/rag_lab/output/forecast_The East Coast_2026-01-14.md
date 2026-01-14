@@ -1,0 +1,1 @@
+Today on the East Coast, conditions are quiet with a weak 2 ft @5s SSE swell and light N wind. Tomorrow sees a slight improvement with 3 ft @6s SSE, but wind from the SSW at 12 mph may add some chop. Day after brings 2 ft @4s ESE with light W winds, offering a cleaner session at spots like St Andrews West and Arbroath. Best: tomorrow.

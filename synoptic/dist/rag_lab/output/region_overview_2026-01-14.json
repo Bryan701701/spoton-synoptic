@@ -32,8 +32,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 8,
+      "size_ft": 3,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -47,7 +47,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 3,
-      "wind_mph": 5,
+      "wind_mph": 4,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -61,7 +61,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 1,
-      "wind_mph": 20,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -73,9 +73,9 @@
     "has_options": false,
     "reason": {
       "swell_ok": false,
-      "wind_ok": false,
+      "wind_ok": true,
       "size_ft": 1,
-      "wind_mph": 19,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -103,7 +103,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 2,
+      "wind_mph": 8,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -117,7 +117,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 10,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -129,9 +129,9 @@
     "has_options": false,
     "reason": {
       "swell_ok": false,
-      "wind_ok": true,
+      "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 27,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -145,7 +145,7 @@
       "swell_ok": false,
       "wind_ok": true,
       "size_ft": 2,
-      "wind_mph": 22,
+      "wind_mph": 19,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -158,8 +158,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 7,
-      "wind_mph": 21,
+      "size_ft": 6,
+      "wind_mph": 23,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -172,7 +172,7 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 7,
+      "size_ft": 6,
       "wind_mph": 21,
       "thresholds": {
         "wind_mph_min": 15,
@@ -187,7 +187,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 2,
-      "wind_mph": 7,
+      "wind_mph": 5,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -200,8 +200,8 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
-      "wind_mph": 8,
+      "size_ft": 3,
+      "wind_mph": 9,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -215,7 +215,7 @@
       "swell_ok": false,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 18,
+      "wind_mph": 22,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -229,7 +229,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 16,
+      "wind_mph": 11,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -243,7 +243,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 6,
-      "wind_mph": 19,
+      "wind_mph": 17,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -252,12 +252,12 @@
     "representative_spot": "Magheroaty Beach"
   },
   "County Sligo": {
-    "has_options": true,
+    "has_options": false,
     "reason": {
       "swell_ok": true,
-      "wind_ok": true,
+      "wind_ok": false,
       "size_ft": 5,
-      "wind_mph": 24,
+      "wind_mph": 15,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -271,7 +271,7 @@
       "swell_ok": true,
       "wind_ok": false,
       "size_ft": 4,
-      "wind_mph": 20,
+      "wind_mph": 12,
       "thresholds": {
         "wind_mph_min": 15,
         "swell_ft_min": 2
@@ -284,7 +284,7 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 6,
+      "size_ft": 7,
       "wind_mph": 28,
       "thresholds": {
         "wind_mph_min": 15,
@@ -298,7 +298,7 @@
     "reason": {
       "swell_ok": true,
       "wind_ok": false,
-      "size_ft": 2,
+      "size_ft": 3,
       "wind_mph": 19,
       "thresholds": {
         "wind_mph_min": 15,

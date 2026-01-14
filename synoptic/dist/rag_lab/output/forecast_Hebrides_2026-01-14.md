@@ -1,0 +1,1 @@
+Today in the Hebrides, conditions are poor with 6 ft @9s WNW swell and fresh 21 mph SW winds. Tomorrow sees a slight improvement with 7 ft @12s WSW swell and moderate 17 mph W winds, making for some workable corners like Europie and Barvas. The day after, the swell increases to 8 ft @14s W but remains poor due to 18 mph SSE winds. Best: tomorrow.

@@ -1,0 +1,1 @@
+Today in Northwest Wales, it's a quiet day with 2 ft @9s WSW swell and light SE winds. Tomorrow, conditions improve with 3 ft @7s WSW swell and light SSW winds, making for some fun sessions at spots like Hells Mouth and Porth Oer. The day after, the swell drops back to 2 ft @8s W, and fresh S winds will make it blown out. Best: tomorrow.

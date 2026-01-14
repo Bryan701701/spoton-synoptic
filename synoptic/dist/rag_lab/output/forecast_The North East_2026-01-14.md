@@ -1,0 +1,1 @@
+Today in the North East, it's a quiet scene with 1 ft @ 6s NNE swell and fresh 15 mph WSW winds. Tomorrow sees a slight shift with 1 ft @ 4s SE swell, still not producing much, but Saltburn Beach may offer some fun for those keen. Day after brings a boost to 2 ft @ 5s E with lighter 5 mph SSW winds, making it the best day for some clean, workable waves. Best: day after.

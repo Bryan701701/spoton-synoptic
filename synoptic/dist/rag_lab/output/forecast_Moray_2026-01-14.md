@@ -1,0 +1,1 @@
+Today in Moray, it's a bit flat with 2 ft @5s W swell and fresh 9 mph SW winds. Tomorrow drops further to 1 ft @3s SSE, still not producing much. Day after, it goes flat with no surf energy at all. Best: today.

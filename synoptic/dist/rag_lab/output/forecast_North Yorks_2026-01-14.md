@@ -1,0 +1,1 @@
+Today in North Yorks, it's a quiet day with 1 ft @5s NNW swell and fresh 15 mph WSW wind. Tomorrow, conditions remain similar with 1 ft @4s S swell and 20 mph SW wind, so not much happening. However, day after brings a solid improvement with 3 ft @6s ESE swell and light 5 mph SW wind, making it a great day to hit the water. Best: day after.

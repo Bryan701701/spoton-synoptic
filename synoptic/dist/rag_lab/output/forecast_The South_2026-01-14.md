@@ -1,0 +1,1 @@
+Today, the South is quiet with no surf, as the swell isn’t hitting this coast. Tomorrow, conditions improve with a solid 4 ft @ 8s SW swell and light 9 mph WSW winds, making for fun waves at spots like Ballinskelligs Bay. The day after, the swell holds at 4 ft @ 8s SSW with moderate 15 mph SSW winds, still offering some workable options. Best: tomorrow.
