@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-15T16:00:02Z",
+  "fetched_at": "2026-01-15T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 15 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Thu 15 Jan 2026 to 12:00 (UTC) on Fri 16 Jan 2026",
   "general_synopsis": "Low 450 miles west of Rockall 980 expected Shannon 989 by 0600 tomorrow. New low expected Forties 993 by same time",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, occasionally gale 8 at first, becoming cyclonic 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nModerate or poor, becoming good for a time.",
-      "gale_warning": "Gale warning\nIssued:\n11:49 (UTC) on Thu 15 Jan 2026\nGale force 8 now backed southeasterly",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Thu 15 Jan 2026\nGale now ceased but westerly gale force 8 expected later",
       "wind": "Southerly or southeasterly 5 to 7, occasionally gale 8 at first, becoming cyclonic 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -85,7 +85,7 @@
     },
     "Humber": {
       "text": "Wind\nSouth or southwest, becoming cyclonic for a time, 4 to 6, increasing 7 or gale 8 for a time.\nSea state\nModerate or rough, occasionally slight.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 expected soon",
       "wind": "South or southwest, becoming cyclonic for a time, 4 to 6, increasing 7 or gale 8 for a time.",
       "sea_state": "Moderate or rough, occasionally slight.",
       "weather": "Occasional rain.",
@@ -93,7 +93,7 @@
     },
     "Thames": {
       "text": "Wind\nSouth 6 to gale 8, becoming cyclonic then southwest 4 to 6 later.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nRain then showers.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
       "wind": "South 6 to gale 8, becoming cyclonic then southwest 4 to 6 later.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Rain then showers.",
@@ -101,7 +101,7 @@
     },
     "Dover": {
       "text": "Wind\nSouth 6 to gale 8, becoming cyclonic then southwest 4 to 6 later.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nRain then showers.\nVisibility\nModerate or poor, occasionally good.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
       "wind": "South 6 to gale 8, becoming cyclonic then southwest 4 to 6 later.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Rain then showers.",
@@ -125,7 +125,6 @@
     },
     "Plymouth": {
       "text": "Wind\nCyclonic 6 to gale 8 becoming westerly or southwesterly 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain then showers.\nVisibility\nModerate or poor becoming moderate or good.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSoutherly gale force 8 imminent",
       "wind": "Cyclonic 6 to gale 8 becoming westerly or southwesterly 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then showers.",
@@ -133,7 +132,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 6 to gale 8, occasionally severe gale 9 at first, becoming westerly or southwesterly 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain then showers.\nVisibility\nModerate or poor becoming moderate or good.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSouthwesterly gale force 8 increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Thu 15 Jan 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic 6 to gale 8, occasionally severe gale 9 at first, becoming westerly or southwesterly 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then showers.",
@@ -148,7 +147,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, cyclonic 6 to gale 8 becoming westerly or southwesterly 4 to 6. In northwest, westerly or southwesterly 4 to 6, increasing 6 to gale 8 in west.\nSea state\nIn southeast, rough or very rough. in northwest, very rough becoming high.\nWeather\nIn southeast, rain then showers. In northwest, squally showers.\nVisibility\nModerate or poor, becoming moderate or good in southeast.",
-      "gale_warning": "Gale warning\nIssued:\n11:59 (UTC) on Thu 15 Jan 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "In southeast, cyclonic 6 to gale 8 becoming westerly or southwesterly 4 to 6. In northwest, westerly or southwesterly 4 to 6, increasing 6 to gale 8 in west.",
       "sea_state": "In southeast, rough or very rough. in northwest, very rough becoming high.",
       "weather": "In southeast, rain then showers. In northwest, squally showers.",
