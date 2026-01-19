@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-19T04:00:01Z",
+  "fetched_at": "2026-01-19T04:30:01Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 18 Jan 2026",
   "valid": "For the period 00:00 (UTC) on Mon 19 Jan 2026 to 00:00 (UTC) on Tue 20 Jan 2026",
   "general_synopsis": "New low expected southwest Shannon 999 by 1800 Monday",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, occasionally gale 8.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sun 18 Jan 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 5 to 7, occasionally gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, occasionally gale 8.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sun 18 Jan 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 5 to 7, occasionally gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, occasionally gale 8.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sun 18 Jan 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 5 to 7, occasionally gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -116,6 +116,7 @@
     },
     "Plymouth": {
       "text": "Wind\nVariable 2 to 4 becoming south 3 to 5, occasionally 6 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming south 3 to 5, occasionally 6 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Occasional rain.",
@@ -145,6 +146,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough or high later.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough or high later.",
       "weather": "Occasional rain.",
@@ -152,6 +154,7 @@
     },
     "Lundy": {
       "text": "Wind\nSouth or southeast 4 to 6.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "South or southeast 4 to 6.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Occasional rain.",
@@ -159,6 +162,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Occasional rain.",
@@ -173,6 +177,7 @@
     },
     "Shannon": {
       "text": "Wind\nNorthwest backing south 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nRough becoming very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Northwest backing south 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough becoming very rough.",
       "weather": "Occasional rain.",
@@ -201,7 +206,6 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast 5 to 7, occasionally gale 8 at first, becoming cyclonic 4 to 6.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 18 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 5 to 7, occasionally gale 8 at first, becoming cyclonic 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
