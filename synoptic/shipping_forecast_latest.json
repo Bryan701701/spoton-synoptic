@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-19T22:00:02Z",
+  "fetched_at": "2026-01-19T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Mon 19 Jan 2026",
   "valid": "For the period 18:00 (UTC) on Mon 19 Jan 2026 to 18:00 (UTC) on Tue 20 Jan 2026",
   "general_synopsis": "New low expected Shannon 986 by midday tomorrow",
@@ -102,6 +102,7 @@
     },
     "Wight": {
       "text": "Wind\nSouth or southeast 4 or 5, increasing 5 to 7.\nSea state\nSmooth or slight, becoming slight or moderate later, occasionally rough later in west.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southeast 4 or 5, increasing 5 to 7.",
       "sea_state": "Smooth or slight, becoming slight or moderate later, occasionally rough later in west.",
       "weather": "Occasional rain.",
@@ -109,7 +110,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming rough later.\nWeather\nOccasional rain.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 19 Jan 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "South 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming rough later.",
       "weather": "Occasional rain.",
@@ -164,7 +165,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 3 to 5, increasing 6 to gale 8, occasionally severe gale 9 later.\nSea state\nModerate or rough at first in east, otherwise rough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 increasing severe gale force 9 imminent",
       "wind": "Cyclonic 3 to 5, increasing 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Moderate or rough at first in east, otherwise rough or very rough.",
       "weather": "Rain or showers.",
@@ -172,7 +173,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nSoutheasterly severe gale force 9 expected soon",
       "wind": "Cyclonic 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -180,7 +181,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 6 to gale 8.\nSea state\nVery rough, occasionally rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Mon 19 Jan 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nSoutheasterly gale force 8 backing northwesterly and increasing severe gale force 9 imminent",
       "wind": "Cyclonic 6 to gale 8.",
       "sea_state": "Very rough, occasionally rough later.",
       "weather": "Rain or thundery showers.",
@@ -204,6 +205,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 19 Jan 2026\nEasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
