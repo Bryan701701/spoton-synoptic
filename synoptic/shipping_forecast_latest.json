@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-22T22:00:02Z",
+  "fetched_at": "2026-01-22T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Thu 22 Jan 2026",
   "valid": "For the period 18:00 (UTC) on Thu 22 Jan 2026 to 18:00 (UTC) on Fri 23 Jan 2026",
   "general_synopsis": "Low just west of FitzRoy 977 expected east Sole 959 by midday tomorrow",
@@ -23,7 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 7 to severe gale 9.\nSea state\nVery rough occasionally high.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Wed 21 Jan 2026\nSoutheasterly storm force 10 now decreased severe gale force 9",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Southeasterly 7 to severe gale 9.",
       "sea_state": "Very rough occasionally high.",
       "weather": "Wintry showers.",
@@ -39,7 +39,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheasterly 7 to severe gale 9.\nSea state\nVery rough occasionally high.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Thu 22 Jan 2026\nSoutheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nSoutheasterly severe gale force 9 now decreased gale force 8",
       "wind": "Southeasterly 7 to severe gale 9.",
       "sea_state": "Very rough occasionally high.",
       "weather": "Wintry showers.",
@@ -148,7 +148,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic mainly westerly, gale 8 to storm 10, occasionally violent storm 11 in north.\nSea state\nHigh or very high, occasionally very rough at first.\nWeather\nRain or squally showers.\nVisibility\nPoor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Thu 22 Jan 2026\nGale force 8 now backed southwesterly, increasing violent storm force 11 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nViolent storm force 11 veering westerly imminent",
       "wind": "Cyclonic mainly westerly, gale 8 to storm 10, occasionally violent storm 11 in north.",
       "sea_state": "High or very high, occasionally very rough at first.",
       "weather": "Rain or squally showers.",
@@ -180,6 +180,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nCyclonic 4 to 6, becoming east 5 to 7.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nEasterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming east 5 to 7.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Occasional rain.",
@@ -211,7 +212,6 @@
     },
     "Hebrides": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8.\nSea state\nRough or very rough in south, otherwise very rough or high, becoming rough or very rough later.\nWeather\nRain or squally showers, perhaps wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Wed 21 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough in south, otherwise very rough or high, becoming rough or very rough later.",
       "weather": "Rain or squally showers, perhaps wintry.",
@@ -219,7 +219,7 @@
     },
     "Bailey": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8, occasionally 5 at first in southwest.\nSea state\nVery rough or high.\nWeather\nRain or squally showers, perhaps wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8, occasionally 5 at first in southwest.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or squally showers, perhaps wintry.",
