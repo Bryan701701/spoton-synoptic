@@ -1,8 +1,7 @@
 {
-  "status": "ok",
-  "product_time": "2026-01-22T19:50:00Z",
-  "generated_utc": "2026-01-22T21:01:06Z",
+  "status": "placeholder",
+  "product_time": null,
+  "generated_utc": "2026-01-22T22:03:19Z",
   "collection": "EO:EUM:DAT:MSG:MSG15-RSS",
-  "reason": null,
-  "sf_url": "synoptic/shipping_forecast_latest.json"
+  "reason": "ProductError: Could not download Product MSG4-SEVI-MSG15-0100-NA-20260122202417.183000000Z-NA of Collection EO:EUM:DAT:MSG:MSG15-RSS (due to a server-side error (504)"
 }
