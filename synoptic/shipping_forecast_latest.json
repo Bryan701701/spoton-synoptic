@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-22T04:15:02Z",
+  "fetched_at": "2026-01-22T04:30:02Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 21 Jan 2026",
   "valid": "For the period 00:00 (UTC) on Thu 22 Jan 2026 to 00:00 (UTC) on Fri 23 Jan 2026",
   "general_synopsis": "Low Fastnet 974 expected Rockall 979 by 1800 Thursday. New low expected FitzRoy 966 by same time",
@@ -109,6 +109,7 @@
     },
     "Wight": {
       "text": "Wind\nSoutheast becoming cyclonic, 4 to 6.\nSea state\nModerate or rough later in west, elsewhere slight or moderate.\nWeather\nRain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeast becoming cyclonic, 4 to 6.",
       "sea_state": "Moderate or rough later in west, elsewhere slight or moderate.",
       "weather": "Rain.",
@@ -116,6 +117,7 @@
     },
     "Portland": {
       "text": "Wind\nSoutheast becoming cyclonic, 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeast becoming cyclonic, 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -163,6 +165,7 @@
     },
     "Lundy": {
       "text": "Wind\nCyclonic 5 to 7, decreasing 4 for a time.\nSea state\nRough or very rough, occasionally moderate later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nEasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, decreasing 4 for a time.",
       "sea_state": "Rough or very rough, occasionally moderate later.",
       "weather": "Rain.",
@@ -170,7 +173,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.\nSea state\nRough or very rough, occasionally high at first.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 21 Jan 2026\nGale force 8 veering northwesterly imminent",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nGale now ceased but easterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.",
       "sea_state": "Rough or very rough, occasionally high at first.",
       "weather": "Rain.",
@@ -193,7 +196,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 to gale 8 at times in southwest and northeast.\nSea state\nRough or very rough, occasionally high at first in far southwest.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Wed 21 Jan 2026\nGale now ceased but northwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nNorthwesterly gale force 8 backing southeasterly imminent",
       "wind": "Cyclonic 4 to 6, increasing 6 to gale 8 at times in southwest and northeast.",
       "sea_state": "Rough or very rough, occasionally high at first in far southwest.",
       "weather": "Rain.",
@@ -217,7 +220,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic mainly southeast, 6 to gale 8.\nSea state\nRough or very rough, occasionally high later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Wed 21 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Cyclonic mainly southeast, 6 to gale 8.",
       "sea_state": "Rough or very rough, occasionally high later.",
       "weather": "Rain.",
