@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-22T16:00:01Z",
+  "fetched_at": "2026-01-22T16:15:01Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 22 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Thu 22 Jan 2026 to 12:00 (UTC) on Fri 23 Jan 2026",
   "general_synopsis": "New lows expected FitzRoy 957 and Rockall 975 by 0600 tomorrow",
@@ -79,7 +79,7 @@
     },
     "German Bight": {
       "text": "Wind\nEast or southeast 6 to gale 8.\nSea state\nRough or very rough, but moderate or rough in south and east.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 22 Jan 2026\nGale force 8 now backed easterly",
       "wind": "East or southeast 6 to gale 8.",
       "sea_state": "Rough or very rough, but moderate or rough in south and east.",
       "weather": "Wintry showers.",
@@ -117,7 +117,7 @@
     },
     "Portland": {
       "text": "Wind\nCyclonic becoming southeast, 4 to 6, increasing 6 to gale 8 later.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "Cyclonic becoming southeast, 4 to 6, increasing 6 to gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain or showers.",
@@ -141,7 +141,7 @@
     },
     "Trafalgar": {
       "text": "y 6 to gale 8, then backing northwesterly later in northwest.\nSea state\nVery rough, occasionally high in northwest and rough in southeast.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Thu 22 Jan 2026\nGale force 8 veering westerly imminent\nForecast issued:\n00:15 (UTC) on Thu 22 Jan 2026",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 22 Jan 2026\nWesterly gale force 8 veering northwesterly and increasing severe gale force 9 later\nForecast issued:\n00:15 (UTC) on Thu 22 Jan 2026",
       "sea_state": "Very rough, occasionally high in northwest and rough in southeast.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
@@ -187,6 +187,7 @@
     },
     "Shannon": {
       "text": "Wind\nWesterly 3 to 5, becoming cyclonic 4 to 6, occasionally 7 later in south.\nSea state\nRough or very rough, occasionally moderate later in northeast.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Thu 22 Jan 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Westerly 3 to 5, becoming cyclonic 4 to 6, occasionally 7 later in south.",
       "sea_state": "Rough or very rough, occasionally moderate later in northeast.",
       "weather": "Showers.",
