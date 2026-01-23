@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-23T22:00:01Z",
+  "fetched_at": "2026-01-23T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Fri 23 Jan 2026",
   "valid": "For the period 18:00 (UTC) on Fri 23 Jan 2026 to 18:00 (UTC) on Sat 24 Jan 2026",
   "general_synopsis": "Low Sole 958 expected Fastnet 975 by midday tomorrow",
@@ -39,7 +39,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheast 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nSoutheasterly severe gale force 9 now decreased gale force 8",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -163,7 +163,7 @@
     },
     "Lundy": {
       "text": "Wind\nCyclonic 7 to severe gale 9.\nSea state\nRough or very rough in west, moderate or rough in east.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Fri 23 Jan 2026\nEasterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nSevere gale force 9 veering southeasterly imminent",
       "wind": "Cyclonic 7 to severe gale 9.",
       "sea_state": "Rough or very rough in west, moderate or rough in east.",
       "weather": "Rain or showers.",
@@ -171,7 +171,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high later in southwest.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Fri 23 Jan 2026\nEasterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nSevere gale force 9 backing northwesterly and decreasing gale force 8 imminent",
       "wind": "Cyclonic 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high later in southwest.",
       "weather": "Rain or showers.",
@@ -179,7 +179,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nEast 6 to gale 8.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nEasterly gale force 8 increasing severe gale force 9 later",
       "wind": "East 6 to gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -195,6 +195,7 @@
     },
     "Rockall": {
       "text": "Wind\nEast or southeast 5 to 7.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nEasterly gale force 8 expected later",
       "wind": "East or southeast 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -202,7 +203,7 @@
     },
     "Malin": {
       "text": "Wind\nEast or southeast 6 to gale 8.\nSea state\nRough or very rough in west, moderate or rough in east.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Fri 23 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nGale now ceased but easterly gale force 8 expected later",
       "wind": "East or southeast 6 to gale 8.",
       "sea_state": "Rough or very rough in west, moderate or rough in east.",
       "weather": "Showers.",
@@ -210,7 +211,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSoutheast 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Fri 23 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nGale force 8 now backed easterly",
       "wind": "Southeast 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -218,7 +219,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast 6 to gale 8.\nSea state\nVery rough, occasionally high at first.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Thu 22 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nGale force 8 now backed easterly",
       "wind": "Southeast 6 to gale 8.",
       "sea_state": "Very rough, occasionally high at first.",
       "weather": "Occasional rain.",
@@ -242,7 +243,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain or sleet.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Fri 23 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Fri 23 Jan 2026\nGale force 8 now backed easterly",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or sleet.",
