@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-25T22:00:01Z",
+  "fetched_at": "2026-01-25T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Sun 25 Jan 2026",
   "valid": "For the period 18:00 (UTC) on Sun 25 Jan 2026 to 18:00 (UTC) on Mon 26 Jan 2026",
   "general_synopsis": "Lows southeast Rockall 987 and Plymouth 986 losing their identities",
@@ -99,6 +99,7 @@
     },
     "Wight": {
       "text": "Wind\nCyclonic becoming southeast, 3 to 5.\nSea state\nSlight or moderate, occasionally rough in northwest.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic becoming southeast, 3 to 5.",
       "sea_state": "Slight or moderate, occasionally rough in northwest.",
       "weather": "Occasional rain.",
@@ -106,6 +107,7 @@
     },
     "Portland": {
       "text": "Wind\nCyclonic 3 to 5, becoming south 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nShowers, then rain later.\nVisibility\nModerate or good, becoming poor later.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming south 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, then rain later.",
@@ -113,6 +115,7 @@
     },
     "Plymouth": {
       "text": "Wind\nCyclonic 3 to 5, becoming south 5 to 7 later.\nSea state\nRough or very rough, occasionally moderate in northeast.\nWeather\nShowers, then rain later.\nVisibility\nModerate or good, becoming poor later.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming south 5 to 7 later.",
       "sea_state": "Rough or very rough, occasionally moderate in northeast.",
       "weather": "Showers, then rain later.",
@@ -128,13 +131,13 @@
     },
     "Trafalgar": {
       "text": "ough, occasionally high at first.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sun 25 Jan 2026\nSouthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Sun 25 Jan 2026",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nGale now ceased, but southwesterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Sun 25 Jan 2026",
       "weather": "Showers.",
       "visibility": "Good, occasionally poor."
     },
     "FitzRoy": {
       "text": "Wind\nNorthwest 4 to 6 backing south or southwest 6 to gale 8, perhaps severe gale 9 later.\nSea state\nVery rough or high becoming rough or very rough.\nWeather\nShowers then rain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Sun 25 Jan 2026\nSevere gale force 9 now veered northwesterly and decreased gale force 8, backing southerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nSoutherly gale force 8 veering and increasing southwesterly severe gale force 9 later",
       "wind": "Northwest 4 to 6 backing south or southwest 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Very rough or high becoming rough or very rough.",
       "weather": "Showers then rain.",
@@ -164,6 +167,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nEast 4 to 6 veering southeast 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming rough later in west.\nWeather\nShowers, then rain later.\nVisibility\nGood, becoming moderate or poor later.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Sun 25 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "East 4 to 6 veering southeast 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough later in west.",
       "weather": "Showers, then rain later.",
