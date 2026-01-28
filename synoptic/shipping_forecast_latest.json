@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-28T16:00:01Z",
+  "fetched_at": "2026-01-28T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Wed 28 Jan 2026",
   "valid": "For the period 12:00 (UTC) on Wed 28 Jan 2026 to 12:00 (UTC) on Thu 29 Jan 2026",
   "general_synopsis": "Low 250 miles west of Rockall 965 losing its identity",
@@ -39,7 +39,6 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 at first.\nSea state\nRough, occasionally very rough at first.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 27 Jan 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough, occasionally very rough at first.",
       "weather": "Rain.",
@@ -141,7 +140,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWesterly or southwesterly 6 to gale 8, perhaps severe gale 9 later in west.\nSea state\nVery rough or high.\nWeather\nRain or showers.\nVisibility\nPoor.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 27 Jan 2026\nGale force 8 veering westerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Wed 28 Jan 2026\nGale force 8 backing southwesterly imminent, increasing severe gale force 9 later",
       "wind": "Westerly or southwesterly 6 to gale 8, perhaps severe gale 9 later in west.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or showers.",
@@ -173,6 +172,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheast 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate occasionally rough.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Wed 28 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeast 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate occasionally rough.",
       "weather": "Showers.",
@@ -204,7 +204,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 27 Jan 2026\nEasterly storm force 10 decreasing severe gale force 9 imminent, veering southeasterly and decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Wed 28 Jan 2026\nGale now ceased but southeasterly gale force 8 expected later",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
