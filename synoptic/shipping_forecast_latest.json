@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-29T04:00:02Z",
+  "fetched_at": "2026-01-29T04:15:01Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 28 Jan 2026",
   "valid": "For the period 00:00 (UTC) on Thu 29 Jan 2026 to 00:00 (UTC) on Fri 30 Jan 2026",
   "general_synopsis": "New low moving east expected west Shannon 976 by 1800 Thursday",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally 8 at first and later.\nSea state\nModerate or rough, occasionally very rough at first and later.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 28 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nGale now ceased but southeasterly gale force 8 expected later",
       "wind": "Southeasterly 5 to 7, occasionally 8 at first and later.",
       "sea_state": "Moderate or rough, occasionally very rough at first and later.",
       "weather": "Wintry showers.",
@@ -23,7 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally 8 at first and later.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor. Light icing.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 28 Jan 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nGale now ceased but southeasterly gale force 8 expected soon",
       "wind": "Southeasterly 5 to 7, occasionally 8 at first and later.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
@@ -31,6 +31,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 5 or 6, occasionally 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough at first in north.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly 5 or 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough at first in north.",
       "weather": "Rain.",
@@ -38,6 +39,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheasterly 5 or 6, occasionally 7.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly 5 or 6, occasionally 7.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Rain.",
@@ -147,7 +149,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times, perhaps severe gale 9 later.\nSea state\nVery rough or high, occasionally very high later in west.\nWeather\nSqually showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 28 Jan 2026\nSoutheasterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nGale now ceased but southwesterly severe gale force 9 expected later",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times, perhaps severe gale 9 later.",
       "sea_state": "Very rough or high, occasionally very high later in west.",
       "weather": "Squally showers.",
@@ -233,7 +235,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nIn east, southeasterly 5 to 7. In west, easterly or southeasterly 6 to gale 8, occasionally severe gale 9 at first, decreasing 4 to 6.\nSea state\nIn east, rough or very rough. in west, very rough or high becoming rough or very rough.\nWeather\nIn east, rain. In west, rain.\nVisibility\nIn east, good, occasionally poor. In west, moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 28 Jan 2026\nEasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n04:01 (UTC) on Thu 29 Jan 2026\nEasterly severe gale force 9 now decreased gale force 8",
       "wind": "In east, southeasterly 5 to 7. In west, easterly or southeasterly 6 to gale 8, occasionally severe gale 9 at first, decreasing 4 to 6.",
       "sea_state": "In east, rough or very rough. in west, very rough or high becoming rough or very rough.",
       "weather": "In east, rain. In west, rain.",
