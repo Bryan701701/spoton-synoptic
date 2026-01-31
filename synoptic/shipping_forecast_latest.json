@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-01-31T04:00:02Z",
+  "fetched_at": "2026-01-31T04:15:01Z",
   "issued": "Issued at: 23:30 (UTC) on Fri 30 Jan 2026",
   "valid": "For the period 00:00 (UTC) on Sat 31 Jan 2026 to 00:00 (UTC) on Sun 1 Feb 2026",
   "general_synopsis": "Low Lundy 975 moving slowly north, losing its identity",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:59 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
