@@ -70,8 +70,8 @@
       "lat": 51.289964965500104,
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:57 (UTC) on Sat 31 Jan 2026\nWesterly gale force 8 expected soon"
     },
     {
       "name": "Fisher",
@@ -197,7 +197,7 @@
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:55 (UTC) on Fri 30 Jan 2026\nNorthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:49 (UTC) on Sat 31 Jan 2026\nNorthwesterly gale force 8 backing southeasterly later"
     },
     {
       "name": "Sole",
@@ -206,7 +206,7 @@
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:55 (UTC) on Fri 30 Jan 2026\nSevere gale force 9 veering northwesterly and decreasing gale force 8 imminent"
+      "gale_text": "Gale warning\nIssued:\n15:49 (UTC) on Sat 31 Jan 2026\nNorthwesterly gale force 8 backing southeasterly later"
     },
     {
       "name": "Southeast Iceland",
@@ -251,7 +251,7 @@
       "x": 2799.435120669437,
       "y": 549.7492914222237,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Fri 30 Jan 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 soon"
+      "gale_text": "Gale warning\nIssued:\n15:49 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 continuing"
     },
     {
       "name": "Wight",
@@ -268,8 +268,8 @@
       "lat": 45.869279561,
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:50 (UTC) on Sat 31 Jan 2026\nWesterly severe gale force 9 decreasing gale force 8 soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Trafalgar",
@@ -290,5 +290,5 @@
       "gale_text": "Gale warning\nIssued:\n03:59 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 expected later"
     }
   ],
-  "generated_utc": "2026-01-31T16:00:12Z"
+  "generated_utc": "2026-01-31T16:30:13Z"
 }
