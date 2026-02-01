@@ -115,8 +115,8 @@
       "lat": 54.39521692550005,
       "x": 3088.104751794571,
       "y": 906.5732721462239,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected later"
     },
     {
       "name": "Hebrides",
@@ -187,8 +187,8 @@
       "lat": 55.760881423950195,
       "x": 1833.0252271642187,
       "y": 815.5703560222279,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected later"
     },
     {
       "name": "Shannon",
@@ -197,7 +197,7 @@
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later"
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 imminent, increasing severe gale force 9 soom, increasing storm force 10 later"
     },
     {
       "name": "Sole",
@@ -214,8 +214,8 @@
       "lat": 63.0821856955001,
       "x": 1844.0814715389176,
       "y": 327.70526229076603,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:57 (UTC) on Sat 31 Jan 2026\nNortheasterly gale force 8 expected soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "South Utsire",
@@ -251,7 +251,7 @@
       "x": 2799.435120669437,
       "y": 549.7492914222237,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:49 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 continuing"
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 continuing"
     },
     {
       "name": "Wight",
@@ -290,5 +290,5 @@
       "gale_text": "Gale warning\nIssued:\n03:46 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 continuing"
     }
   ],
-  "generated_utc": "2026-02-01T16:00:14Z"
+  "generated_utc": "2026-02-01T16:30:15Z"
 }
