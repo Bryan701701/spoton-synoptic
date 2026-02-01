@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-01T15:45:02Z",
+  "fetched_at": "2026-02-01T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 1 Feb 2026",
   "valid": "For the period 12:00 (UTC) on Sun 1 Feb 2026 to 12:00 (UTC) on Mon 2 Feb 2026",
   "general_synopsis": "New lows expected southeastern England 995 and west Sole 972 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheast 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain or snow.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:49 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or snow.",
@@ -77,6 +77,7 @@
     },
     "German Bight": {
       "text": "Wind\nEast or southeast 5 to 7, perhaps gale 8 later.\nSea state\nMainly moderate or rough.\nWeather\nOccasional sleet or snow.\nVisibility\nGood, occasionally very poor. Light icing in east.",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected later",
       "wind": "East or southeast 5 to 7, perhaps gale 8 later.",
       "sea_state": "Mainly moderate or rough.",
       "weather": "Occasional sleet or snow.",
@@ -178,7 +179,7 @@
     },
     "Shannon": {
       "text": "Wind\nVariable 3 or 4 becoming southeast 6 to gale 8, occasionally severe gale 9 later.\nSea state\nVery rough, occasionally high in west and rough in east.\nWeather\nFair then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 imminent, increasing severe gale force 9 soom, increasing storm force 10 later",
       "wind": "Variable 3 or 4 becoming southeast 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Very rough, occasionally high in west and rough in east.",
       "weather": "Fair then rain.",
@@ -186,6 +187,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 3 to 5, becoming southeasterly 4 to 6 later, then increasing 7 later in southwest.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming southeasterly 4 to 6 later, then increasing 7 later in southwest.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -229,7 +231,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nEasterly or southeasterly 5 to 7, occasionally gale 8 at first in west.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Sat 31 Jan 2026\nNortheasterly gale force 8 expected soon",
       "wind": "Easterly or southeasterly 5 to 7, occasionally gale 8 at first in west.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
