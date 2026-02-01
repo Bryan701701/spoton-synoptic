@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-01T22:00:02Z",
+  "fetched_at": "2026-02-01T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Sun 1 Feb 2026",
   "valid": "For the period 18:00 (UTC) on Sun 1 Feb 2026 to 18:00 (UTC) on Mon 2 Feb 2026",
   "general_synopsis": "Low Portland 999 losing its identity",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough.\nWeather\nSleet or snow.\nVisibility\nGood, occasionally very poor. Light icing.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSoutheasterly severe gale force 9 continuing, decreasing gale force 8 imminent",
       "wind": "Southeasterly 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Sleet or snow.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or sleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or sleet.",
@@ -69,7 +69,7 @@
     },
     "Fisher": {
       "text": "Wind\nSoutheast 6 to gale 8.\nSea state\nMainly moderate or rough, but very rough in far northwest.\nWeather\nSleet or snow.\nVisibility\nGood, occasionally very poor. Light icing in east.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Sat 31 Jan 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8.",
       "sea_state": "Mainly moderate or rough, but very rough in far northwest.",
       "weather": "Sleet or snow.",
@@ -106,7 +106,6 @@
     },
     "Wight": {
       "text": "Wind\nCyclonic becoming southeast 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n18:27 (UTC) on Sun 1 Feb 2026\nNorthwesterly gale force 8 imminent",
       "wind": "Cyclonic becoming southeast 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Occasional rain.",
@@ -128,6 +127,7 @@
     },
     "Biscay": {
       "text": "Wind\nVariable 2 to 4 becoming southeast 5 to 7, then veering southwest later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming southeast 5 to 7, then veering southwest later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -135,14 +135,14 @@
     },
     "Trafalgar": {
       "text": "later.\nSea state\nRough or very rough, but moderate or rough in far southeast.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sun 1 Feb 2026\nSouthwesterly gale force 8 expected soon, veering westerly and increasing severe gale force 9 later\nForecast issued:\n00:15 (UTC) on Sun 1 Feb 2026",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSouthwesterly gale force 8 veering westerly imminent\nForecast issued:\n00:15 (UTC) on Sun 1 Feb 2026",
       "sea_state": "Rough or very rough, but moderate or rough in far southeast.",
       "weather": "Rain or showers.",
       "visibility": "Good, occasionally poor."
     },
     "FitzRoy": {
       "text": "Wind\nSoutheast becoming cyclonic 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, becoming high in southwest.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 1 Feb 2026\nSoutheasterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nSoutheasterly severe gale force 9 veering and decreasing westerly gale force 8 soon",
       "wind": "Southeast becoming cyclonic 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, becoming high in southwest.",
       "weather": "Rain then showers.",
@@ -158,6 +158,7 @@
     },
     "Lundy": {
       "text": "Wind\nVariable 2 to 4 becoming east or southeast 5 to 7.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 1 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "Variable 2 to 4 becoming east or southeast 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
