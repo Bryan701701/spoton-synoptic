@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-03T04:00:02Z",
+  "fetched_at": "2026-02-03T04:15:02Z",
   "issued": "Issued at: 23:30 (UTC) on Mon 2 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Tue 3 Feb 2026 to 00:00 (UTC) on Wed 4 Feb 2026",
   "general_synopsis": "Atlantic low 970, slow moving with little change, by 1800 Tuesday",
@@ -39,6 +39,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheast 5 to 7.\nSea state\nRough or very rough.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:00 (UTC) on Tue 3 Feb 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeast 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Sleet.",
@@ -127,7 +128,6 @@
     },
     "Biscay": {
       "text": "Wind\nSouth or southwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 2 Feb 2026\nSouthwesterly gale force 8 continuing",
       "wind": "South or southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers.",
