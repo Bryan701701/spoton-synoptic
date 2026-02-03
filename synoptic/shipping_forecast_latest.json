@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-03T22:00:01Z",
+  "fetched_at": "2026-02-03T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 3 Feb 2026",
   "valid": "For the period 18:00 (UTC) on Tue 3 Feb 2026 to 18:00 (UTC) on Wed 4 Feb 2026",
   "general_synopsis": "Low Sole 980 losing its identity. New low expected FitzRoy 976 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nIn southwest, southeasterly 7 to severe gale 9. In northeast, southeasterly 4 to 6, but 7 or gale 8 until later in south.\nSea state\nIn southwest, very rough, becoming high later in southwest. in northeast, moderate or rough.\nWeather\nIn southwest, snow. In northeast, mainly fair.\nVisibility\nIn southwest, moderate, occasionally very poor. In northeast, good.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 2 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 3 Feb 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "In southwest, southeasterly 7 to severe gale 9. In northeast, southeasterly 4 to 6, but 7 or gale 8 until later in south.",
       "sea_state": "In southwest, very rough, becoming high later in southwest. in northeast, moderate or rough.",
       "weather": "In southwest, snow. In northeast, mainly fair.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 7 to severe gale 9.\nSea state\nRough or very rough, occasionally high in north.\nWeather\nOccasional snow.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 2 Feb 2026\nSoutheasterly gale force 8 continuing, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 3 Feb 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Southeasterly 7 to severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high in north.",
       "weather": "Occasional snow.",
@@ -78,7 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nEast or southeast 6 to gale 8, occasionally severe gale 9 until later.\nSea state\nRough or very rough.\nWeather\nSnow.\nVisibility\nModerate or good, occasionally very poor. Light icing.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 3 Feb 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 soon",
       "wind": "East or southeast 6 to gale 8, occasionally severe gale 9 until later.",
       "sea_state": "Rough or very rough.",
       "weather": "Snow.",
@@ -114,6 +114,7 @@
     },
     "Portland": {
       "text": "Wind\nSouth 4 to 6, backing east 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 3 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "South 4 to 6, backing east 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
@@ -121,6 +122,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSouth 4 to 6, backing east 5 to 7 later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 3 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "South 4 to 6, backing east 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers, rain later.",
