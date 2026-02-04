@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-04T09:45:02Z",
+  "fetched_at": "2026-02-04T10:00:02Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 4 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Wed 4 Feb 2026 to 06:00 (UTC) on Thu 5 Feb 2026",
   "general_synopsis": "New low expected Plymouth 973 by midnight tonight",
@@ -23,7 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 7 to severe gale 9.\nSea state\nRough or very rough in north and east, very rough or high in south and west.\nWeather\nOccasional sleet or snow.\nVisibility\nModerate or good, occasionally very poor. Light icing.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Southeasterly 7 to severe gale 9.",
       "sea_state": "Rough or very rough in north and east, very rough or high in south and west.",
       "weather": "Occasional sleet or snow.",
@@ -61,7 +61,7 @@
     },
     "Dogger": {
       "text": "Wind\nSoutheasterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or sleet.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or sleet.",
@@ -69,7 +69,7 @@
     },
     "Fisher": {
       "text": "Wind\nEast or southeast 6 to gale 8, increasing severe gale 9 at times.\nSea state\nRough or very rough.\nWeather\nOccasional sleet or snow.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "East or southeast 6 to gale 8, increasing severe gale 9 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional sleet or snow.",
@@ -129,22 +129,22 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic becoming southwest 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nGale force 8 veering southwesterly imminent",
       "wind": "Cyclonic becoming southwest 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
       "visibility": "Moderate or good, occasionally poor."
     },
     "Trafalgar": {
-      "text": "casionally 5 in north.\nSea state\nVery rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nGale now ceased but southwesterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Wed 4 Feb 2026",
+      "text": "Wind\nWesterly or southwesterly 6 to gale 8, occasionally 5 in north.\nSea state\nVery rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
+      "wind": "Westerly or southwesterly 6 to gale 8, occasionally 5 in north.",
       "sea_state": "Very rough.",
       "weather": "Rain.",
       "visibility": "Moderate or good, occasionally poor."
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic becoming southwest 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough, becoming high later in southwest.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nGale now ceased but southerly gale force 8 expected soon, veering westerly later",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nGale force 8 veering southwesterly imminent",
       "wind": "Cyclonic becoming southwest 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough, becoming high later in southwest.",
       "weather": "Rain or thundery showers.",
@@ -152,6 +152,7 @@
     },
     "Sole": {
       "text": "Wind\nSoutheast 4 to 6, becoming cyclonic 3 to 5 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 expected soon",
       "wind": "Southeast 4 to 6, becoming cyclonic 3 to 5 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -159,6 +160,7 @@
     },
     "Lundy": {
       "text": "Wind\nSoutheast 4 to 6 backing east 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "Southeast 4 to 6 backing east 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -173,6 +175,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheast 4 to 6 backing east 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate in east, moderate or rough in west.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "Southeast 4 to 6 backing east 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate in east, moderate or rough in west.",
       "weather": "Rain or showers.",
@@ -180,6 +183,7 @@
     },
     "Shannon": {
       "text": "Wind\nSoutheast 4 to 6 backing east 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "Southeast 4 to 6 backing east 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Rain or showers.",
@@ -187,7 +191,6 @@
     },
     "Rockall": {
       "text": "Wind\nEast or southeast 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Tue 3 Feb 2026\nEasterly gale force 8 continuing",
       "wind": "East or southeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -202,7 +205,6 @@
     },
     "Hebrides": {
       "text": "Wind\nEast or southeast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough in southeast, rough or very rough in northwest.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nGale now ceased but easterly gale force 8 expected soon",
       "wind": "East or southeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough in southeast, rough or very rough in northwest.",
       "weather": "Rain or showers.",
@@ -210,7 +212,7 @@
     },
     "Bailey": {
       "text": "Wind\nEast or southeast 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nGale now ceased but easterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 continuing",
       "wind": "East or southeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -218,7 +220,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8.\nSea state\nVery rough or high in southeast, rough or very rough in northwest.\nWeather\nWintry showers, but sleet or snow in northeast.\nVisibility\nModerate or good, occasionally very poor in northeast and poor in southwest.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8.",
       "sea_state": "Very rough or high in southeast, rough or very rough in northwest.",
       "weather": "Wintry showers, but sleet or snow in northeast.",
@@ -234,7 +236,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nWintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Tue 3 Feb 2026\nEasterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Wed 4 Feb 2026\nEasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers.",
