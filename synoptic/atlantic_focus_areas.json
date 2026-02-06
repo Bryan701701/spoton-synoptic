@@ -25,8 +25,8 @@
       "lat": 57.750491731,
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Fri 6 Feb 2026\nSoutheasterly gale force 8 expected later"
     },
     {
       "name": "Dogger",
@@ -61,8 +61,8 @@
       "lat": 60.1392036430001,
       "x": 2464.804822966019,
       "y": 523.8148845164478,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Fri 6 Feb 2026\nSoutheasterly gale force 8 expected later"
     },
     {
       "name": "Fastnet",
@@ -89,7 +89,7 @@
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:54 (UTC) on Fri 6 Feb 2026\nSouthwesterly gale force 8 continuing, increasing severe gale force 9 soon"
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Fri 6 Feb 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 soon"
     },
     {
       "name": "Forth",
@@ -160,8 +160,8 @@
       "lat": 55.5690157085001,
       "x": 2142.388659287721,
       "y": 828.3555896063114,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Thu 5 Feb 2026\nEasterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Plymouth",
@@ -187,8 +187,8 @@
       "lat": 55.760881423950195,
       "x": 1833.0252271642187,
       "y": 815.5703560222279,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Thu 5 Feb 2026\nEasterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Shannon",
@@ -224,7 +224,7 @@
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:53 (UTC) on Thu 5 Feb 2026\nEasterly severe gale force 9 now decreased gale force 8"
+      "gale_text": "Gale warning\nIssued:\n15:48 (UTC) on Fri 6 Feb 2026\nEasterly gale force 8 increasing severe gale force 9 later"
     },
     {
       "name": "Thames",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-02-06T16:01:05Z"
+  "generated_utc": "2026-02-06T16:31:17Z"
 }
