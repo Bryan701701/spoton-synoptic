@@ -1,7 +1,8 @@
 {
-  "status": "placeholder",
-  "product_time": null,
-  "generated_utc": "2026-02-06T11:08:15Z",
+  "status": "ok",
+  "product_time": "2026-02-06T10:00:00Z",
+  "generated_utc": "2026-02-06T11:30:54Z",
   "collection": "EO:EUM:DAT:MSG:HRSEVIRI",
-  "reason": "RuntimeError: No datasets found in recent time window"
+  "reason": null,
+  "sf_url": "synoptic/shipping_forecast_latest.json"
 }
