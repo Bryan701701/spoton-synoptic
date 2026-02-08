@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-08T10:00:02Z",
+  "fetched_at": "2026-02-08T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Sun 8 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Sun 8 Feb 2026 to 06:00 (UTC) on Mon 9 Feb 2026",
   "general_synopsis": "Low Irish Sea 993 losing its identity by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sat 7 Feb 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7.\nSea state\nModerate or rough, occasionally slight at first in northeast.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 imminent",
       "wind": "Southeasterly 5 to 7.",
       "sea_state": "Moderate or rough, occasionally slight at first in northeast.",
       "weather": "Fair.",
@@ -23,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor. Light icing in east.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 7 Feb 2026\nEasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSevere gale force 9 veering southeasterly and decreasing gale force 8 soon",
       "wind": "Easterly or southeasterly 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -31,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sat 7 Feb 2026\nGale force 8 veering southeasterly imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -39,7 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheast 5 to 7,occasionally gale 8 at first.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sat 7 Feb 2026\nGale now ceased but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 5 to 7,occasionally gale 8 at first.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Occasional rain.",
@@ -209,7 +210,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nEasterly or southeasterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sat 7 Feb 2026\nGale now ceased but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain at times.",
@@ -224,6 +225,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nEasterly or northeasterly 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nNortheasterly gale force 8 expected later",
       "wind": "Easterly or northeasterly 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
