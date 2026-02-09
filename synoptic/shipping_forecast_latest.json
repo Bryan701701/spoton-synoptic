@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-09T16:00:02Z",
+  "fetched_at": "2026-02-09T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Mon 9 Feb 2026",
   "valid": "For the period 12:00 (UTC) on Mon 9 Feb 2026 to 12:00 (UTC) on Tue 10 Feb 2026",
   "general_synopsis": "Low Shannon 983 losing its identity by 0600 tomorrow",
@@ -120,6 +120,7 @@
     },
     "Biscay": {
       "text": "Wind\nWest or southwest 5 to 7.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 9 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or southwest 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -142,6 +143,7 @@
     },
     "Sole": {
       "text": "Wind\nWest or southwest 5 to 7.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 9 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or southwest 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -198,6 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nEasterly or northeasterly 4 to 6, but 7 later in far north.\nSea state\nModerate or rough, becoming rough later, then very rough later in north.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 9 Feb 2026\nNortheasterly gale force 8 expected later",
       "wind": "Easterly or northeasterly 4 to 6, but 7 later in far north.",
       "sea_state": "Moderate or rough, becoming rough later, then very rough later in north.",
       "weather": "Showers.",
