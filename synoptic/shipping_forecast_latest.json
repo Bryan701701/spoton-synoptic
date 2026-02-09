@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-09T04:30:02Z",
+  "fetched_at": "2026-02-09T04:45:02Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 8 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Mon 9 Feb 2026 to 00:00 (UTC) on Tue 10 Feb 2026",
   "general_synopsis": "New low expected Fastnet 987 by 1800 Monday",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nRain or sleet at times.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Rain or sleet at times.",
@@ -23,7 +22,6 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nRain or sleet at times.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSevere gale force 9 veering southeasterly and decreasing gale force 8 soon",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or sleet at times.",
@@ -31,7 +29,6 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 5 to 7.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nRain or sleet at times.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Rain or sleet at times.",
@@ -207,7 +204,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nEasterly or southeasterly 5 to 7, occasionally gale 8 at first in east.\nSea state\nSlight or moderate in southwest, but elsewhere rough or very rough becoming moderate or rough later.\nWeather\nRain at times.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Sun 8 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 5 to 7, occasionally gale 8 at first in east.",
       "sea_state": "Slight or moderate in southwest, but elsewhere rough or very rough becoming moderate or rough later.",
       "weather": "Rain at times.",
