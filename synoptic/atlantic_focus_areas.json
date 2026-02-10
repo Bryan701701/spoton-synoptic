@@ -70,8 +70,8 @@
       "lat": 51.289964965500104,
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Tue 10 Feb 2026\nSouthwesterly gale force 8 expected soon"
     },
     {
       "name": "Fisher",
@@ -89,7 +89,7 @@
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Mon 9 Feb 2026\nSouthwesterly gale force 8 expected soon, increasing severe gale force 9 later"
+      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Tue 10 Feb 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent, veering westerly and increasing storm force 10 later"
     },
     {
       "name": "Forth",
@@ -206,7 +206,7 @@
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:54 (UTC) on Mon 9 Feb 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Tue 10 Feb 2026\nGale force 8 veering westerly imminent"
     },
     {
       "name": "Southeast Iceland",
@@ -277,8 +277,8 @@
       "lat": 38.0140501120001,
       "x": 1871.5331767975526,
       "y": 1998.154660718539,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Tue 10 Feb 2026\nSouthwesterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Tue 10 Feb 2026"
     },
     {
       "name": "North Utsire",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-02-10T16:00:41Z"
+  "generated_utc": "2026-02-10T16:30:58Z"
 }
