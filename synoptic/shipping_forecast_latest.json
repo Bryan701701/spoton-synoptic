@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-10T09:45:01Z",
+  "fetched_at": "2026-02-10T10:00:02Z",
   "issued": "Issued at: 05:05 (UTC) on Tue 10 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Tue 10 Feb 2026 to 06:00 (UTC) on Wed 11 Feb 2026",
   "general_synopsis": "Atlantic low 968 expected Rockall 974 by midnight tonight. Low Lundy 987 losing its identity",
@@ -113,6 +113,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSouthwest 4 to 6, veering west 6 or 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough, then high later in southwest.\nWeather\nThundery rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Feb 2026\nWesterly gale force 8 expected later",
       "wind": "Southwest 4 to 6, veering west 6 or 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough, then high later in southwest.",
       "weather": "Thundery rain.",
@@ -180,6 +181,7 @@
     },
     "Rockall": {
       "text": "Wind\nEast or southeast, becoming cyclonic, 4 to 6, occasionally 7 later.\nSea state\nRough, occasionally very rough.\nWeather\nRain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "East or southeast, becoming cyclonic, 4 to 6, occasionally 7 later.",
       "sea_state": "Rough, occasionally very rough.",
       "weather": "Rain.",
@@ -187,6 +189,7 @@
     },
     "Malin": {
       "text": "Wind\nEast or southeast 4 to 6, increasing 6 or 7.\nSea state\nModerate or rough, occasionally slight in southeast.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Feb 2026\nEasterly gale force 8 expected later",
       "wind": "East or southeast 4 to 6, increasing 6 or 7.",
       "sea_state": "Moderate or rough, occasionally slight in southeast.",
       "weather": "Rain.",
