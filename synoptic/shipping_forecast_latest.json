@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-11T10:00:02Z",
+  "fetched_at": "2026-02-11T10:15:01Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 11 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Wed 11 Feb 2026 to 06:00 (UTC) on Thu 12 Feb 2026",
   "general_synopsis": "Low west Shannon 974 expected Irish Sea 975 by midnight tonight. New low expected Dover 974 by same time",
@@ -115,6 +115,7 @@
     },
     "Plymouth": {
       "text": "Wind\nWest becoming cyclonic for a time, 5 to 7.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nWesterly gale force 8 expected soon",
       "wind": "West becoming cyclonic for a time, 5 to 7.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or showers.",
@@ -145,7 +146,7 @@
     },
     "Sole": {
       "text": "Wind\nWest 6 to gale 8, becoming cyclonic 4 to 6 for a time.\nSea state\nVery rough or high.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Tue 10 Feb 2026\nWesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nGale force 8 veering northwesterly and increasing severe gale force 9 soon",
       "wind": "West 6 to gale 8, becoming cyclonic 4 to 6 for a time.",
       "sea_state": "Very rough or high.",
       "weather": "Thundery showers.",
@@ -160,7 +161,6 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or drizzle.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 10 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or drizzle.",
@@ -175,7 +175,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or drizzle.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Wed 11 Feb 2026\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nGale now ceased but westerly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or drizzle.",
@@ -183,7 +183,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or drizzle.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Feb 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nGale force 8 backing northeasterly imminent",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, decreasing 4 for a time.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or drizzle.",
@@ -191,7 +191,7 @@
     },
     "Malin": {
       "text": "Wind\nEast or northeast 5 to 7, occasionally gale 8 until later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Feb 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nNortheasterly gale force 8 expected soon",
       "wind": "East or northeast 5 to 7, occasionally gale 8 until later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
