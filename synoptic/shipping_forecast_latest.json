@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-12T03:45:02Z",
+  "fetched_at": "2026-02-12T04:00:01Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 11 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Thu 12 Feb 2026 to 00:00 (UTC) on Fri 13 Feb 2026",
   "general_synopsis": "Low Plymouth 973 expected Germany 977 by 1800 Thursday. Low Ireland 973 slow-moving, filling 981 by same time",
@@ -64,6 +64,7 @@
     },
     "Fisher": {
       "text": "Wind\nNortheast 5 to 7.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally moderate. Light icing in far northeast.",
+      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nNortheasterly gale force 8 expected soon",
       "wind": "Northeast 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
@@ -122,7 +123,7 @@
     },
     "Biscay": {
       "text": "Wind\nWesterly gale 8 to storm 10, occasionally violent storm 11 at first in south, backing southwesterly 5 to 7 later.\nSea state\nHigh or very high, becoming very rough later.\nWeather\nThundery showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 11 Feb 2026\nWesterly violent storm force 11 decreasing storm force 10 imminent, then decreasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nWesterly storm force 10 decreasing severe gale force 9 imminent, then decreasing gale force 8 soon",
       "wind": "Westerly gale 8 to storm 10, occasionally violent storm 11 at first in south, backing southwesterly 5 to 7 later.",
       "sea_state": "High or very high, becoming very rough later.",
       "weather": "Thundery showers.",
@@ -130,6 +131,7 @@
     },
     "Trafalgar": {
       "text": "Wind\nWest 4 or 5, backing southwest 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nFair, then rain or showers.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nWesterly gale force 8 expected later",
       "wind": "West 4 or 5, backing southwest 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Fair, then rain or showers.",
@@ -145,7 +147,7 @@
     },
     "Sole": {
       "text": "Wind\nWest 7 to severe gale 9, decreasing 4 to 6 later.\nSea state\nVery rough or high.\nWeather\nRain or showers.\nVisibility\nModerate, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nGale force 8 veering northwesterly and increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nSevere gale force 9 backing westerly and decreasing gale force 8 imminent",
       "wind": "West 7 to severe gale 9, decreasing 4 to 6 later.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or showers.",
@@ -174,7 +176,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 6 to gale 8.\nSea state\nVery rough or high.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 11 Feb 2026\nGale now ceased but westerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nGale force 8 veering northwesterly imminent",
       "wind": "Cyclonic 6 to gale 8.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or showers.",
@@ -204,7 +206,6 @@
     },
     "Bailey": {
       "text": "Wind\nNortheast 5 to 7, occasionally gale 8 at first.\nSea state\nRough, occasionally very rough at first.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 11 Feb 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough, occasionally very rough at first.",
       "weather": "Wintry showers.",
