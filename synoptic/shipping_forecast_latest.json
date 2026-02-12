@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-12T15:45:01Z",
+  "fetched_at": "2026-02-12T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 12 Feb 2026",
   "valid": "For the period 12:00 (UTC) on Thu 12 Feb 2026 to 12:00 (UTC) on Fri 13 Feb 2026",
   "general_synopsis": "Low Rockall 977 expected Fastnet 985 by 0600 tomorrow",
@@ -15,6 +15,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic, 5 to 7, perhaps gale 8 later.\nSea state\nModerate, occasionally rough later in north.\nWeather\nSnow showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 12 Feb 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate, occasionally rough later in north.",
       "weather": "Snow showers.",
@@ -64,7 +65,6 @@
     },
     "Fisher": {
       "text": "Wind\nNortheast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nWintry showers.\nVisibility\nModerate or good. Light icing in northeast.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 12 Feb 2026\nNortheasterly gale force 8 expected soon",
       "wind": "Northeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Wintry showers.",
@@ -136,7 +136,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWest or southwest, veering northwest later, 5 to 7, increasing gale 8 at times.\nSea state\nVery rough or high, becoming rough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 11 Feb 2026\nWesterly violent storm force 11 decreasing severe gale force 9 imminent, then decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 12 Feb 2026\nGale force 8 veering northwesterly soon",
       "wind": "West or southwest, veering northwest later, 5 to 7, increasing gale 8 at times.",
       "sea_state": "Very rough or high, becoming rough or very rough.",
       "weather": "Rain or showers.",
