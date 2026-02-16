@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-16T03:45:01Z",
+  "fetched_at": "2026-02-16T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Sun 15 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Mon 16 Feb 2026 to 00:00 (UTC) on Tue 17 Feb 2026",
   "general_synopsis": "Low Forth 987 expected Forties 988 by 1800 Monday",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic 4 to 6.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nSoutherly severe gale force 9 now decreased gale force 8, then veering southeasterly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nGale force 8 veering northerly later",
       "wind": "Southeast 6 to gale 8, becoming cyclonic 4 to 6.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Sleet.",
@@ -48,6 +48,7 @@
     },
     "Forth": {
       "text": "Wind\nWest or northwest 5 to 7.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later",
       "wind": "West or northwest 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
@@ -55,6 +56,7 @@
     },
     "Tyne": {
       "text": "Wind\nWest or northwest 5 to 7.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later",
       "wind": "West or northwest 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
@@ -62,6 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nSoutheast becoming cyclonic, 5 to 7.\nSea state\nModerate or rough.\nWeather\nSleet.\nVisibility\nModerate, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Southeast becoming cyclonic, 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Sleet.",
@@ -106,7 +109,7 @@
     },
     "Wight": {
       "text": "Wind\nWest 6 to gale 8, veering northwest 4 to 6 later.\nSea state\nRough or very rough, occasionally moderate later.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Sun 15 Feb 2026\nGale force 8 veering westerly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nWesterly gale force 8 continuing",
       "wind": "West 6 to gale 8, veering northwest 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally moderate later.",
       "weather": "Squally showers.",
@@ -114,7 +117,7 @@
     },
     "Portland": {
       "text": "Wind\nWest 6 to gale 8, veering northwest 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Sun 15 Feb 2026\nGale force 8 veering westerly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nWesterly gale force 8 continuing",
       "wind": "West 6 to gale 8, veering northwest 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally showers.",
@@ -130,7 +133,6 @@
     },
     "Biscay": {
       "text": "Wind\nWest 6 to gale 8, veering northwest 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nGale force 8 now veered westerly",
       "wind": "West 6 to gale 8, veering northwest 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally showers.",
@@ -145,7 +147,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nWest 6 to gale 8, veering northwest 4 to 6 later.\nSea state\nRough or very rough, increasing high for a time.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Sun 15 Feb 2026\nSouthwesterly gale force 8 veering westerly soon",
       "wind": "West 6 to gale 8, veering northwest 4 to 6 later.",
       "sea_state": "Rough or very rough, increasing high for a time.",
       "weather": "Rain.",
@@ -161,7 +162,7 @@
     },
     "Lundy": {
       "text": "Wind\nWest 6 to gale 8, veering northwest 4 to 6 later.\nSea state\nRough or very rough, increasing high for a time.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Sun 15 Feb 2026\nGale now ceased but westerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nWesterly gale force 8 continuing",
       "wind": "West 6 to gale 8, veering northwest 4 to 6 later.",
       "sea_state": "Rough or very rough, increasing high for a time.",
       "weather": "Squally showers.",
@@ -239,7 +240,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly 7 to severe gale 9, backing northwesterly 4 to 6 later.\nSea state\nRough or very rough in west, very rough or high in east.\nWeather\nSnow showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nNortheasterly severe gale force 9 decreasing gale force 8 imminent but backing northerly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nNortherly severe gale force 9 decreasing gale force 8 soon",
       "wind": "Northerly 7 to severe gale 9, backing northwesterly 4 to 6 later.",
       "sea_state": "Rough or very rough in west, very rough or high in east.",
       "weather": "Snow showers.",
