@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-16T10:00:02Z",
+  "fetched_at": "2026-02-16T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Mon 16 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Mon 16 Feb 2026 to 06:00 (UTC) on Tue 17 Feb 2026",
   "general_synopsis": "New low expected Forties 991 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nSouth 6 to gale 8, becoming cyclonic 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 15 Feb 2026\nNortherly severe gale 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nGale force 8 now backed southeasterly",
       "wind": "South 6 to gale 8, becoming cyclonic 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Sleet.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sun 15 Feb 2026\nNortherly severe gale 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nGale force 8 now backed southeasterly",
       "wind": "Southerly or southeasterly 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Sleet.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nSoutherly severe gale force 9 now decreased gale force 8, then veering southeasterly soon",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Sleet.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nCyclonic 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 16 Feb 2026\nGale force 8 veering northerly later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nGale force 8 now backed southeasterly, veering northwesterly later",
       "wind": "Cyclonic 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Sleet.",
@@ -72,7 +72,7 @@
     },
     "Fisher": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic, 5 to 7.\nSea state\nModerate or rough.\nWeather\nSleet.\nVisibility\nModerate, occasionally poor. Icing in east at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nGale force 8 now veered southeasterly",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8, becoming cyclonic, 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Sleet.",
@@ -80,7 +80,6 @@
     },
     "German Bight": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic, 5 to 7.\nSea state\nModerate or rough.\nWeather\nSleet.\nVisibility\nModerate, occasionally poor. Icing in east at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Sun 15 Feb 2026\nGale force 8 now veered southeasterly",
       "wind": "Southeast 6 to gale 8, becoming cyclonic, 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Sleet.",
@@ -148,6 +147,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWest or southwest 4 to 6, occasionally 7 at first.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 imminent",
       "wind": "West or southwest 4 to 6, occasionally 7 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -194,7 +194,7 @@
     },
     "Rockall": {
       "text": "Wind\nIn south, westerly 6 to gale 8, becoming cyclonic 5 to 7 later. In north, cyclonic 5 to 7, becoming northeasterly 5 or 6 later.\nSea state\nIn south, very rough or high. in north, rough or very rough, occasionally high at first.\nWeather\nIn south, squally showers. In north, wintry showers.\nVisibility\nIn south, good, occasionally poor. In north, good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Sun 15 Feb 2026\nWesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nGale force 8 veering northerly imminent",
       "wind": "In south, westerly 6 to gale 8, becoming cyclonic 5 to 7 later. In north, cyclonic 5 to 7, becoming northeasterly 5 or 6 later.",
       "sea_state": "In south, very rough or high. in north, rough or very rough, occasionally high at first.",
       "weather": "In south, squally showers. In north, wintry showers.",
@@ -233,7 +233,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorth or northwest 5 to 7, increasing gale 8 for a time.\nSea state\nRough or very rough, occasionally high for a time.\nWeather\nSleet.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Sun 15 Feb 2026\nNortheasterly gale force 8 backing northerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 16 Feb 2026\nNortherly gale force 8 increasing severe gale force 9 soon",
       "wind": "North or northwest 5 to 7, increasing gale 8 for a time.",
       "sea_state": "Rough or very rough, occasionally high for a time.",
       "weather": "Sleet.",
