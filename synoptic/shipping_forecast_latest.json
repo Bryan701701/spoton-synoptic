@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-17T22:00:02Z",
+  "fetched_at": "2026-02-17T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 17 Feb 2026",
   "valid": "For the period 18:00 (UTC) on Tue 17 Feb 2026 to 18:00 (UTC) on Wed 18 Feb 2026",
   "general_synopsis": "Low moving slowly northeast expected just west of Rockall 981 by midday tomorrow. New low expected FitzRoy 991 by same time. Low German Bight 1001 losing its identity",
@@ -71,7 +71,6 @@
     },
     "German Bight": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 3 to 5, occasionally 6 later.\nSea state\nRough or very rough at first in west, otherwise mainly moderate.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Cyclonic 6 to gale 8, decreasing 3 to 5, occasionally 6 later.",
       "sea_state": "Rough or very rough at first in west, otherwise mainly moderate.",
       "weather": "Wintry showers.",
@@ -79,6 +78,7 @@
     },
     "Humber": {
       "text": "Wind\nNorthwest veering east, 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 17 Feb 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest veering east, 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -86,6 +86,7 @@
     },
     "Thames": {
       "text": "Wind\nNorthwest veering east, 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 17 Feb 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest veering east, 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -187,7 +188,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutheast 7 to severe gale 9, becoming cyclonic 5 to 7 later.\nSea state\nVery rough occasionally high.\nWeather\nRain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 16 Feb 2026\nGale now ceased, but southeasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 17 Feb 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Southeast 7 to severe gale 9, becoming cyclonic 5 to 7 later.",
       "sea_state": "Very rough occasionally high.",
       "weather": "Rain.",
@@ -211,7 +212,7 @@
     },
     "Bailey": {
       "text": "Wind\nEasterly or southeasterly 5 to 7, occasionally gale 8 in south.\nSea state\nRough becoming very rough, occasionally high later in south.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 16 Feb 2026\nGale now ceased, but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 17 Feb 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 5 to 7, occasionally gale 8 in south.",
       "sea_state": "Rough becoming very rough, occasionally high later in south.",
       "weather": "Showers.",
@@ -233,7 +234,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 6 to gale 8 in west, otherwise cyclonic 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Mon 16 Feb 2026\nNortheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Tue 17 Feb 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 6 to gale 8 in west, otherwise cyclonic 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers.",
