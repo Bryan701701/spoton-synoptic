@@ -34,8 +34,8 @@
       "lat": 55.125,
       "x": 2795.325,
       "y": 857.9431818181818,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:43 (UTC) on Tue 17 Feb 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Dover",
@@ -89,7 +89,7 @@
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Tue 17 Feb 2026\nSouthwesterly severe gale force 9 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nSouthwesterly gale force 8 expected soon, veering westerly and increasing severe gale force 9 later"
     },
     {
       "name": "Forth",
@@ -106,8 +106,8 @@
       "lat": 57.25,
       "x": 2766.163636363636,
       "y": 716.340909090909,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:43 (UTC) on Tue 17 Feb 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "German Bight",
@@ -116,7 +116,7 @@
       "x": 3088.104751794571,
       "y": 906.5732721462239,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nNorthwesterly gale force 8 continuing"
     },
     {
       "name": "Hebrides",
@@ -133,8 +133,8 @@
       "lat": 53.49949032600005,
       "x": 2824.655930230702,
       "y": 966.2612355492694,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Irish Sea",
@@ -169,8 +169,8 @@
       "lat": 49.3641670790001,
       "x": 2340.9253976126233,
       "y": 1241.8241391902664,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nSoutheasterly gale force 8 imminent"
     },
     {
       "name": "Portland",
@@ -197,7 +197,7 @@
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:55 (UTC) on Mon 16 Feb 2026\nGale now ceased, but southeasterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nGale force 8 veering westerly and increasing severe gale force 9 later"
     },
     {
       "name": "Sole",
@@ -206,7 +206,7 @@
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Tue 17 Feb 2026\nSouthwesterly gale force 8 expected soon, veering northwesterly later"
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nSouthwesterly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 later"
     },
     {
       "name": "Southeast Iceland",
@@ -232,8 +232,8 @@
       "lat": 51.988296187000046,
       "x": 2849.5258142282423,
       "y": 1066.9617177208152,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:47 (UTC) on Mon 16 Feb 2026\nNorthwesterly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Tyne",
@@ -241,8 +241,8 @@
       "lat": 55.119202289,
       "x": 2612.2737150516245,
       "y": 858.3295201966364,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:43 (UTC) on Tue 17 Feb 2026\nNorthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Viking",
@@ -250,8 +250,8 @@
       "lat": 59.750010633500054,
       "x": 2799.435120669437,
       "y": 549.7492914222237,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:43 (UTC) on Tue 17 Feb 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Wight",
@@ -269,7 +269,7 @@
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Tue 17 Feb 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nSouthwesterly severe gale force 9 expected later"
     },
     {
       "name": "Trafalgar",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-02-17T16:00:41Z"
+  "generated_utc": "2026-02-17T16:30:47Z"
 }
