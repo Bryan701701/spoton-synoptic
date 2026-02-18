@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-18T15:45:01Z",
+  "fetched_at": "2026-02-18T16:00:01Z",
   "issued": "Issued at: 11:30 (UTC) on Wed 18 Feb 2026",
   "valid": "For the period 12:00 (UTC) on Wed 18 Feb 2026 to 12:00 (UTC) on Thu 19 Feb 2026",
   "general_synopsis": "Low northwest FitzRoy 991 expected Wight 991 by 0600 tomorrow",
@@ -71,6 +71,7 @@
     },
     "German Bight": {
       "text": "Wind\nVariable 2 to 4 becoming southeasterly 4 to 6, but increasing 7 in southwest.\nSea state\nSlight or moderate, becoming rough in west.\nWeather\nMainly fair.\nVisibility\nModerate or good, but light icing developing.",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Variable 2 to 4 becoming southeasterly 4 to 6, but increasing 7 in southwest.",
       "sea_state": "Slight or moderate, becoming rough in west.",
       "weather": "Mainly fair.",
@@ -108,6 +109,7 @@
     },
     "Portland": {
       "text": "Wind\nSoutheast 5 to 7 becoming cyclonic 3 to 5, then northwest 5 to 7 later.\nSea state\nModerate or rough, becoming very rough later in west.\nWeather\nRain at times.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southeast 5 to 7 becoming cyclonic 3 to 5, then northwest 5 to 7 later.",
       "sea_state": "Moderate or rough, becoming very rough later in west.",
       "weather": "Rain at times.",
@@ -123,7 +125,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic becoming northwest 7 to severe gale 9, occasionally storm 10 at first.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nRain then showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 18 Feb 2026\nSouthwesterly gale force 8 increasing storm force 10 soon",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nStorm force 10 veering westerly imminent",
       "wind": "Cyclonic becoming northwest 7 to severe gale 9, occasionally storm 10 at first.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Rain then showers.",
@@ -138,7 +140,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic becoming northwest 7 to severe gale 9, occasionally storm 10 at first, then decreasing 5 to 7 later.\nSea state\nVery rough or high.\nWeather\nRain then showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 18 Feb 2026\nNorthwesterly severe gale force 9 increasing storm force 10 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nNorthwesterly storm force 10 decreasing severe gale force 9 imminent",
       "wind": "Cyclonic becoming northwest 7 to severe gale 9, occasionally storm 10 at first, then decreasing 5 to 7 later.",
       "sea_state": "Very rough or high.",
       "weather": "Rain then showers.",
@@ -146,7 +148,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic becoming northwest 7 to severe gale 9, decreasing 5 to 7 later.\nSea state\nRough or very rough at first in east, otherwise very rough or high.\nWeather\nRain then showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 17 Feb 2026\nSouthwesterly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nNorthwesterly severe gale force 9 continuing",
       "wind": "Cyclonic becoming northwest 7 to severe gale 9, decreasing 5 to 7 later.",
       "sea_state": "Rough or very rough at first in east, otherwise very rough or high.",
       "weather": "Rain then showers.",
@@ -194,7 +196,7 @@
     },
     "Malin": {
       "text": "Wind\nSoutheasterly 6 to gale 8, occasionally severe gale 9 at first, becoming cyclonic 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 18 Feb 2026\nSoutheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southeasterly 6 to gale 8, occasionally severe gale 9 at first, becoming cyclonic 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -202,7 +204,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSoutheasterly 6 to gale 8, occasionally severe gale 9 at first, becoming cyclonic 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 18 Feb 2026\nSoutheasterly severe gale force 9 continuing",
+      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 18 Feb 2026\nSoutheasterly severe gale force 9 now decreased gale force 8",
       "wind": "Southeasterly 6 to gale 8, occasionally severe gale 9 at first, becoming cyclonic 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
