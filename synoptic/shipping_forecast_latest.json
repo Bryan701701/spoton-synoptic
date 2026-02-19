@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-19T22:00:02Z",
+  "fetched_at": "2026-02-19T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Thu 19 Feb 2026",
   "valid": "For the period 18:00 (UTC) on Thu 19 Feb 2026 to 18:00 (UTC) on Fri 20 Feb 2026",
   "general_synopsis": "Low northeast Rockall 995 losing its identity",
@@ -123,7 +123,6 @@
     },
     "Biscay": {
       "text": "Wind\nNorthwest 6 to gale 8 backing west or southwest 4 to 6.\nSea state\nHigh becoming very rough, then rough later.\nWeather\nShowers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Thu 19 Feb 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest 6 to gale 8 backing west or southwest 4 to 6.",
       "sea_state": "High becoming very rough, then rough later.",
       "weather": "Showers.",
@@ -153,6 +152,7 @@
     },
     "Lundy": {
       "text": "Wind\nWest or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough, occasionally moderate in north.\nWeather\nRain or showers, becoming squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate in north.",
       "weather": "Rain or showers, becoming squally later.",
@@ -160,6 +160,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWest or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough, occasionally moderate in north.\nWeather\nRain or showers, becoming squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "West or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate in north.",
       "weather": "Rain or showers, becoming squally later.",
@@ -167,6 +168,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nWest or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain or showers, becoming squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain or showers, becoming squally later.",
