@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-20T03:45:01Z",
+  "fetched_at": "2026-02-20T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Thu 19 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Fri 20 Feb 2026 to 00:00 (UTC) on Sat 21 Feb 2026",
   "general_synopsis": "New low expected southwest Bailey 990 by 1800 Friday. High Trafalgar 1030 expected south Biscay 1032 by same time. Low Hebrides 995 losing its identity",
@@ -81,6 +81,7 @@
     },
     "Humber": {
       "text": "Wind\nCyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional sleet then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Cyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional sleet then rain.",
@@ -88,6 +89,7 @@
     },
     "Thames": {
       "text": "Wind\nCyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nOccasional sleet then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Cyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Occasional sleet then rain.",
@@ -95,6 +97,7 @@
     },
     "Dover": {
       "text": "Wind\nNorthwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain or showers.",
@@ -102,6 +105,7 @@
     },
     "Wight": {
       "text": "Wind\nNorthwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Northwest 4 to 6 backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain or showers.",
@@ -144,7 +148,6 @@
     },
     "Sole": {
       "text": "Wind\nSouthwest 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Thu 19 Feb 2026\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "Southwest 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers.",
@@ -184,7 +187,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8.\nSea state\nRough or very rough, becoming very rough or high later.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 19 Feb 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent, backing southwesterly later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Cyclonic 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough, becoming very rough or high later.",
       "weather": "Rain or squally showers.",
@@ -207,7 +210,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8.\nSea state\nRough or very rough, becoming very rough or high later in south.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 19 Feb 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nGale force 8 backing northeasterly and increasing severe gale force 9 soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough, becoming very rough or high later in south.",
       "weather": "Rain or squally showers.",
@@ -215,7 +218,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first in east.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Thu 19 Feb 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first in east.",
       "weather": "Rain.",
