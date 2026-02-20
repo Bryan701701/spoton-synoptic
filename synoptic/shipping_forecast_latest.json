@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-20T16:00:02Z",
+  "fetched_at": "2026-02-20T16:15:02Z",
   "issued": "Issued at: 11:30 (UTC) on Fri 20 Feb 2026",
   "valid": "For the period 12:00 (UTC) on Fri 20 Feb 2026 to 12:00 (UTC) on Sat 21 Feb 2026",
   "general_synopsis": "Low west of Bailey 983 losing its identity by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly 5 to 7, occasionally gale 8 except, veering northwesterly 4 to 6.\nSea state\nRough or very rough becoming moderate.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Fri 20 Feb 2026\nSoutherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southerly 5 to 7, occasionally gale 8 except, veering northwesterly 4 to 6.",
       "sea_state": "Rough or very rough becoming moderate.",
       "weather": "Rain.",
@@ -16,7 +15,6 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly 5 to 7, occasionally gale 8, veering northwesterly 4 to 6.\nSea state\nRough or very rough becoming moderate.\nWeather\nRain, sleet at first.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Fri 20 Feb 2026\nSoutherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southerly 5 to 7, occasionally gale 8, veering northwesterly 4 to 6.",
       "sea_state": "Rough or very rough becoming moderate.",
       "weather": "Rain, sleet at first.",
@@ -153,7 +151,6 @@
     },
     "Lundy": {
       "text": "Wind\nSouthwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough, but moderate or rough in northeast.\nWeather\nRain or thundery showers, fog patches later.\nVisibility\nModerate or good, occasionally very poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough, but moderate or rough in northeast.",
       "weather": "Rain or thundery showers, fog patches later.",
@@ -161,7 +158,6 @@
     },
     "Fastnet": {
       "text": "Wind\nSouthwest 6 to gale 8, decreasing 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers, fog patches later.\nVisibility\nModerate or good, occasionally very poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers, fog patches later.",
@@ -169,7 +165,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nSouthwest 6 to gale 8, decreasing 4 to 6.\nSea state\nSlight or moderate, occasionally rough in south.\nWeather\nRain or thundery showers, fog patches later.\nVisibility\nModerate or good, occasionally very poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 19 Feb 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Slight or moderate, occasionally rough in south.",
       "weather": "Rain or thundery showers, fog patches later.",
@@ -206,7 +201,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 7 to severe gale 9 becoming east 5 to 7.\nSea state\nRough or very rough, occasionally high in south.\nWeather\nSqually showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Fri 20 Feb 2026\nGale force 8 backing northeasterly and increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n16:02 (UTC) on Fri 20 Feb 2026\nNortheasterly severe gale force 9 decreasing gale force 8 imminent, veering southeasterly later",
       "wind": "Cyclonic 7 to severe gale 9 becoming east 5 to 7.",
       "sea_state": "Rough or very rough, occasionally high in south.",
       "weather": "Squally showers, rain later.",
