@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-24T10:00:01Z",
+  "fetched_at": "2026-02-24T10:15:01Z",
   "issued": "Issued at: 05:05 (UTC) on Tue 24 Feb 2026",
   "valid": "For the period 06:00 (UTC) on Tue 24 Feb 2026 to 06:00 (UTC) on Wed 25 Feb 2026",
   "general_synopsis": "New low Rockall 999 expected by midnight tonight. Atlantic low 977 moving quickly north expected far north Atlantic 966 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate, becoming moderate or rough, occasionally very rough later.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Mon 23 Feb 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Tue 24 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 soon",
       "wind": "Southerly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate, becoming moderate or rough, occasionally very rough later.",
       "weather": "Rain, fog patches.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate, becoming moderate or rough, occasionally very rough later.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Mon 23 Feb 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Tue 24 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 soon",
       "wind": "Southerly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate, becoming moderate or rough, occasionally very rough later.",
       "weather": "Rain, fog patches.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.\nSea state\nModerate, becoming moderate or rough.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Mon 23 Feb 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Tue 24 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 soon",
       "wind": "Southerly or southeasterly 3 to 5, increasing 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Moderate, becoming moderate or rough.",
       "weather": "Rain, fog patches.",
@@ -179,7 +179,6 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later, becoming cyclonic later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Mon 23 Feb 2026\nGale now ceased but southerly gale force 8 expected later",
       "wind": "Southerly 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later, becoming cyclonic later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -218,7 +217,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 6 to gale 8, increasing severe gale 9 at times, decreasing 3 to 5 later.\nSea state\nRough or very rough, becoming very rough or high for a time in north.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:38 (UTC) on Tue 24 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Tue 24 Feb 2026\nSevere gale force 9 veering southerly and decreasing gale force 8 imminent",
       "wind": "Cyclonic 6 to gale 8, increasing severe gale 9 at times, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming very rough or high for a time in north.",
       "weather": "Rain or showers.",
@@ -226,7 +225,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 6 to gale 8, increasing severe gale 9 at times, decreasing 3 to 5 later, but northwesterly 6 or 7 in far northwest.\nSea state\nRough or very rough, becoming very rough or high for a time in south.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:38 (UTC) on Tue 24 Feb 2026\nSoutheasterly gale force 8 increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Tue 24 Feb 2026\nSevere gale force 9 veering southerly and decreasing gale force 8 imminent, veering northwesterly and increasing severe gale force 9 later",
       "wind": "Cyclonic 6 to gale 8, increasing severe gale 9 at times, decreasing 3 to 5 later, but northwesterly 6 or 7 in far northwest.",
       "sea_state": "Rough or very rough, becoming very rough or high for a time in south.",
       "weather": "Rain or showers.",
