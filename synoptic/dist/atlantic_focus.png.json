@@ -1,8 +1,7 @@
 {
-  "status": "ok",
-  "product_time": "2026-02-25T19:00:00Z",
-  "generated_utc": "2026-02-25T20:31:20Z",
+  "status": "placeholder",
+  "product_time": null,
+  "generated_utc": "2026-02-25T21:07:54Z",
   "collection": "EO:EUM:DAT:MSG:HRSEVIRI",
-  "reason": null,
-  "sf_url": "synoptic/shipping_forecast_latest.json"
+  "reason": "ConnectionError: HTTPSConnectionPool(host='api.eumetsat.int', port=443): Max retries exceeded with url: /data/download/1.0.0/collections/EO%3AEUM%3ADAT%3AMSG%3AHRSEVIRI/products/MSG3-SEVI-MSG15-0100-NA-20260225194243.800000000Z-NA/entry?name=MSG3-SEVI-MSG15-0100-NA-20260225194243.800000000Z-NA.nat (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x702ae3f85820>: Failed to resolve 'api.eumetsat.int' ([Errno -3] Temporary failure in name resolution)\"))"
 }
