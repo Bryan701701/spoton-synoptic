@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-02-28T21:45:01Z",
+  "fetched_at": "2026-02-28T22:00:01Z",
   "issued": "Issued at: 17:25 (UTC) on Sat 28 Feb 2026",
   "valid": "For the period 18:00 (UTC) on Sat 28 Feb 2026 to 18:00 (UTC) on Sun 1 Mar 2026",
   "general_synopsis": "Low Dogger 1008 expected Gulf of Bothnia 1006 by midday tomorrow",
@@ -71,7 +71,6 @@
     },
     "German Bight": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, becoming southwest 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, occasionally rough at first and later.\nWeather\nShowers.\nVisibility\nModerate or good,.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Sat 28 Feb 2026\nWesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, becoming southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, occasionally rough at first and later.",
       "weather": "Showers.",
@@ -79,7 +78,6 @@
     },
     "Humber": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, becoming southwest 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, occasionally rough at first and later.\nWeather\nShowers.\nVisibility\nModerate or good,.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Sat 28 Feb 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, becoming southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, occasionally rough at first and later.",
       "weather": "Showers.",
@@ -144,7 +142,7 @@
     },
     "Sole": {
       "text": "Wind\nSouthwesterly 4 to 6, increasing 6 to gale 8 later.\nSea state\nRough or very rough, occasionally moderate later in southeast.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 28 Feb 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nSoutherly gale force 8 expected soon",
       "wind": "Southwesterly 4 to 6, increasing 6 to gale 8 later.",
       "sea_state": "Rough or very rough, occasionally moderate later in southeast.",
       "weather": "Rain.",
@@ -176,7 +174,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic, mainly south or southwest, 6 to gale 8, decreasing 5 at times.\nSea state\nVery rough, occasionally rough until later in east.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Fri 27 Feb 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nGale force 8 now veered southwesterly, backing southerly soon",
       "wind": "Cyclonic, mainly south or southwest, 6 to gale 8, decreasing 5 at times.",
       "sea_state": "Very rough, occasionally rough until later in east.",
       "weather": "Rain.",
@@ -200,7 +198,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 28 Feb 2026\nSoutherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nGale force 8 backing southeasterly soon",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -208,7 +206,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 28 Feb 2026\nSoutherly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nGale now ceased but southeasterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -223,6 +221,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouth or southeast, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nSoutheasterly gale force 8 imminent",
       "wind": "South or southeast, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Showers, rain later.",
