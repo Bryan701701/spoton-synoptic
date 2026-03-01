@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-01T04:00:01Z",
+  "fetched_at": "2026-03-01T04:15:01Z",
   "issued": "Issued at: 23:30 (UTC) on Sat 28 Feb 2026",
   "valid": "For the period 00:00 (UTC) on Sun 1 Mar 2026 to 00:00 (UTC) on Mon 2 Mar 2026",
   "general_synopsis": "New low expected Malin 985 by 1800 Sunday. Low Fisher 1007 losing its identity",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 4, becoming southeasterly 4 to 6, occasionally 7 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 4, becoming southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 4, becoming southeasterly 4 to 6, occasionally 7 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 4, becoming southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -113,6 +115,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSouthwesterly backing southerly, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwesterly backing southerly, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain.",
@@ -182,7 +185,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth 5 to 7, becoming cyclonic 6 to gale 8, occasionally 5 later.\nSea state\nRough or very rough, occasionally high later in west.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Sat 28 Feb 2026\nGale now ceased but southeasterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutheasterly gale force 8 veering southwesterly later",
       "wind": "South 5 to 7, becoming cyclonic 6 to gale 8, occasionally 5 later.",
       "sea_state": "Rough or very rough, occasionally high later in west.",
       "weather": "Occasional rain.",
@@ -198,7 +201,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth 5 to 7, becoming cyclonic 6 to gale 8, occasionally 5 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nGale force 8 backing southeasterly soon",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutheasterly gale force 8 veering southerly and increasing severe gale force 9 later",
       "wind": "South 5 to 7, becoming cyclonic 6 to gale 8, occasionally 5 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
@@ -206,7 +209,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 to gale 8, decreasing 3 to 5 later in west.\nSea state\nRough occasionally very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nGale now ceased but southeasterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutheasterly gale force 8 veering southwesterly and increasing severe gale force 9 later",
       "wind": "Cyclonic 4 to 6, increasing 6 to gale 8, decreasing 3 to 5 later in west.",
       "sea_state": "Rough occasionally very rough.",
       "weather": "Rain or showers.",
@@ -214,6 +217,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutheast 5 to 7, occasionally 4 at first, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough at first in west.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Southeast 5 to 7, occasionally 4 at first, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough at first in west.",
       "weather": "Showers, rain later.",
@@ -221,7 +225,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutheast, becoming cyclonic later, 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sat 28 Feb 2026\nSoutheasterly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n04:04 (UTC) on Sun 1 Mar 2026\nSoutheasterly gale force 8 veering southerly and increasing severe gale force 9 later",
       "wind": "Southeast, becoming cyclonic later, 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
