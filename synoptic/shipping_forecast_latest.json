@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-03T21:45:01Z",
+  "fetched_at": "2026-03-03T22:00:02Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 3 Mar 2026",
   "valid": "For the period 18:00 (UTC) on Tue 3 Mar 2026 to 18:00 (UTC) on Wed 4 Mar 2026",
   "general_synopsis": "High Tyne 1029 expected German Bight 1030 by midday tomorrow",
@@ -126,8 +126,8 @@
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "therly or northeasterly 6 to gale 8, occasionally severe gale 9 for a time in southwest.\nSea state\nModerate or rough in east, rough or very rough in west.\nWeather\nThundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Tue 3 Mar 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent\nForecast issued:\n00:15 (UTC) on Tue 3 Mar 2026",
+      "text": "Wind\nCyclonic 4 to 6 in east, but in west, northerly or northeasterly 6 to gale 8, occasionally severe gale 9 for a time in southwest.\nSea state\nModerate or rough in east, rough or very rough in west.\nWeather\nThundery showers.\nVisibility\nModerate or good, occasionally poor.",
+      "wind": "Cyclonic 4 to 6 in east, but in west, northerly or northeasterly 6 to gale 8, occasionally severe gale 9 for a time in southwest.",
       "sea_state": "Moderate or rough in east, rough or very rough in west.",
       "weather": "Thundery showers.",
       "visibility": "Moderate or good, occasionally poor."
@@ -176,7 +176,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly 6 to gale 8, occasionally severe gale 9 at first in northwest, becoming cyclonic 5 to 7 later.\nSea state\nRough or very rough occasionally high in northwest.\nWeather\nFair then rain.\nVisibility\nGood, becoming moderate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 3 Mar 2026\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Tue 3 Mar 2026\nSoutherly severe gale force 9 now decreased gale force 8",
       "wind": "Southerly 6 to gale 8, occasionally severe gale 9 at first in northwest, becoming cyclonic 5 to 7 later.",
       "sea_state": "Rough or very rough occasionally high in northwest.",
       "weather": "Fair then rain.",
@@ -199,7 +199,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth or southwest 6 to gale 8, occasionally gale 9 at first, becoming cyclonic 4 to 6 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nOccasional rain.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Tue 3 Mar 2026\nGale now ceased but southerly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Tue 3 Mar 2026\nSevere gale force 9 veering southwesterly and decreasing gale force 8 soon",
       "wind": "South or southwest 6 to gale 8, occasionally gale 9 at first, becoming cyclonic 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Occasional rain.",
