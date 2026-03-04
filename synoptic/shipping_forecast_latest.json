@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-04T09:45:01Z",
+  "fetched_at": "2026-03-04T10:00:01Z",
   "issued": "Issued at: 05:05 (UTC) on Wed 4 Mar 2026",
   "valid": "For the period 06:00 (UTC) on Wed 4 Mar 2026 to 06:00 (UTC) on Thu 5 Mar 2026",
   "general_synopsis": "High German Bight 1031 expected Denmark 1030 by midnight tonight",
@@ -126,14 +126,15 @@
       "visibility": "Good, occasionally moderate."
     },
     "Trafalgar": {
-      "text": "Wind\nNortherly backing northwesterly later, 4 to 6, but variable 2 to 4 in far southeast.\nSea state\nVery rough at first in south, otherwise slight or moderate.\nWeather\nThundery showers in south, rain later in northwest.\nVisibility\nModerate or good, occasionally poor at first in south.",
-      "wind": "Northerly backing northwesterly later, 4 to 6, but variable 2 to 4 in far southeast.",
+      "text": "to 6, but variable 2 to 4 in far southeast.\nSea state\nVery rough at first in south, otherwise slight or moderate.\nWeather\nThundery showers in south, rain later in northwest.\nVisibility\nModerate or good, occasionally poor at first in south.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 4 Mar 2026\nNortherly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Wed 4 Mar 2026",
       "sea_state": "Very rough at first in south, otherwise slight or moderate.",
       "weather": "Thundery showers in south, rain later in northwest.",
       "visibility": "Moderate or good, occasionally poor at first in south."
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 3 to 5, becoming northwest 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or showers in west.\nVisibility\nGood occasionally poor in west.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 4 Mar 2026\nNortherly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming northwest 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers in west.",
@@ -197,7 +198,6 @@
     },
     "Bailey": {
       "text": "Wind\nSouth 6 to gale 8, becoming cyclonic, mainly southwest, 4 to 6.\nSea state\nHigh becoming very rough.\nWeather\nOccasional rain, wintry showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Tue 3 Mar 2026\nSevere gale force 9 veering southwesterly and decreasing gale force 8 soon",
       "wind": "South 6 to gale 8, becoming cyclonic, mainly southwest, 4 to 6.",
       "sea_state": "High becoming very rough.",
       "weather": "Occasional rain, wintry showers later.",
@@ -220,7 +220,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutherly 6 to gale 8, veering southwesterly 4 or 5, occasionally 6 at first.\nSea state\nVery rough or high, becoming rough or very rough later.\nWeather\nRain then wintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Wed 4 Mar 2026\nSoutherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southerly 6 to gale 8, veering southwesterly 4 or 5, occasionally 6 at first.",
       "sea_state": "Very rough or high, becoming rough or very rough later.",
       "weather": "Rain then wintry showers.",
