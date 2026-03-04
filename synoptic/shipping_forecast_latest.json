@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-04T21:45:02Z",
+  "fetched_at": "2026-03-04T22:00:02Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 4 Mar 2026",
   "valid": "For the period 18:00 (UTC) on Wed 4 Mar 2026 to 18:00 (UTC) on Thu 5 Mar 2026",
   "general_synopsis": "High German Bight 1030 expected poland 1028 by midday tomorrow. New low expected Biscay 1012 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nSouth 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Wed 4 Mar 2026\nSoutherly gale force 8 expected soon",
       "wind": "South 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain later.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Wed 4 Mar 2026\nSoutherly gale force 8 expected soon",
       "wind": "Southerly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -163,6 +165,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheasterly 4 to 6, becoming variable 2 to 4, then northerly 5 to 7 later in west.\nSea state\nSlight or moderate.\nWeather\nRain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Wed 4 Mar 2026\nNortherly gale force 8 expected later",
       "wind": "Southeasterly 4 to 6, becoming variable 2 to 4, then northerly 5 to 7 later in west.",
       "sea_state": "Slight or moderate.",
       "weather": "Rain later.",
@@ -177,6 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 5 to 7, becoming west or northwest 4 to 6.\nSea state\nRough, occasionally very rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Wed 4 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, becoming west or northwest 4 to 6.",
       "sea_state": "Rough, occasionally very rough.",
       "weather": "Rain then showers.",
@@ -198,6 +202,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic becoming southwest 4 to 6.\nSea state\nVery rough, occasionally rough later.\nWeather\nRain then wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Wed 4 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic becoming southwest 4 to 6.",
       "sea_state": "Very rough, occasionally rough later.",
       "weather": "Rain then wintry showers.",
