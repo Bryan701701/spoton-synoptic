@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-05T04:00:02Z",
+  "fetched_at": "2026-03-05T04:15:02Z",
   "issued": "Issued at: 23:30 (UTC) on Wed 4 Mar 2026",
   "valid": "For the period 00:00 (UTC) on Thu 5 Mar 2026 to 00:00 (UTC) on Fri 6 Mar 2026",
   "general_synopsis": "High northern Germany 1028 expected poland 1027 by 1800 Thursday",
@@ -152,6 +152,7 @@
     },
     "Lundy": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, veering northwesterly 5 to 7 later.\nSea state\nModerate or rough, but slight or moderate in east.\nWeather\nOccasional rain.\nVisibility\nGood occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Thu 5 Mar 2026\nNortherly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 3 to 5, veering northwesterly 5 to 7 later.",
       "sea_state": "Moderate or rough, but slight or moderate in east.",
       "weather": "Occasional rain.",
@@ -159,6 +160,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, veering northwesterly 5 to 7.\nSea state\nModerate or rough, occasionally very rough later in south.\nWeather\nOccasional rain.\nVisibility\nGood occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Thu 5 Mar 2026\nNortherly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 3 to 5, veering northwesterly 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough later in south.",
       "weather": "Occasional rain.",
@@ -225,6 +227,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:56 (UTC) on Thu 5 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers.",
