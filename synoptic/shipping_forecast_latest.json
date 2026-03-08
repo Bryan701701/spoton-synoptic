@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-08T15:45:01Z",
+  "fetched_at": "2026-03-08T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Sun 8 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Sun 8 Mar 2026 to 12:00 (UTC) on Mon 9 Mar 2026",
   "general_synopsis": "New low expected Sole 1013 by 0600 tomorrow",
@@ -176,6 +176,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic becoming south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Sun 8 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic becoming south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -197,6 +198,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth or southwest 5 to 7, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Sun 8 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or wintry showers.",
