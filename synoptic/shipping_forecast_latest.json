@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-09T22:00:02Z",
+  "fetched_at": "2026-03-09T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Mon 9 Mar 2026",
   "valid": "For the period 18:00 (UTC) on Mon 9 Mar 2026 to 18:00 (UTC) on Tue 10 Mar 2026",
   "general_synopsis": "Low 200 miles southwest of Iceland 974 expected northwest Iceland 968 by midday tomorrow. New low expected 250 miles west of Rockall 969 by same time",
@@ -141,6 +141,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 5 to 7, perhaps gale 8 later in west.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 9 Mar 2026\nWesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, perhaps gale 8 later in west.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -185,7 +186,7 @@
     },
     "Malin": {
       "text": "Wind\nSouth or southwest, 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Mon 9 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 9 Mar 2026\nGale force 8 veering southwesterly and increasing severe gale force 9 later",
       "wind": "South or southwest, 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -193,7 +194,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth or southwest 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sun 8 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 9 Mar 2026\nSoutherly gale force 8 increasing severe gale force 9 later",
       "wind": "South or southwest 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -217,7 +218,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouth or southwest 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sun 8 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Mon 9 Mar 2026\nSoutherly gale force 8 continuing",
       "wind": "South or southwest 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
