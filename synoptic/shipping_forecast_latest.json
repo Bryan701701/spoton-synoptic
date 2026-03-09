@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-09T15:45:02Z",
+  "fetched_at": "2026-03-09T16:00:01Z",
   "issued": "Issued at: 11:30 (UTC) on Mon 9 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Mon 9 Mar 2026 to 12:00 (UTC) on Tue 10 Mar 2026",
   "general_synopsis": "Low 350 miles southwest of Iceland 976 expected northwest Iceland 968 by 0600 tomorrow",
@@ -134,7 +134,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 4 to 6, but 6 to gale 8 at first in south.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sun 8 Mar 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, but 6 to gale 8 at first in south.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -170,6 +169,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or southwest 5 to 7.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 9 Mar 2026\nSouthwesterly severe gale force 9 expected later",
       "wind": "West or southwest 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -177,7 +177,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth 6 to gale 8, backing west 4 to 6 for a time.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Sun 8 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 9 Mar 2026\nGale force 8 veering southwesterly and increasing severe gale force 9 later",
       "wind": "South 6 to gale 8, backing west 4 to 6 for a time.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -201,7 +201,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth or southwest 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough, but high at times in northwest.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:44 (UTC) on Mon 9 Mar 2026\nSoutherly gale force 8 increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 9 Mar 2026\nSevere gale force 9 decreasing gale force 8 imminent, veering southwesterly soon",
       "wind": "South or southwest 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough, but high at times in northwest.",
       "weather": "Rain or showers.",
@@ -225,7 +225,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic, mainly southerly, 6 to gale 8, becoming southwesterly 5 to 7 later.\nSea state\nRough or very rough, becoming very rough or high later.\nWeather\nRain or showers, wintry at times.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:59 (UTC) on Sun 8 Mar 2026\nGale now ceased but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 9 Mar 2026\nGale force 8 veering southwesterly soon",
       "wind": "Cyclonic, mainly southerly, 6 to gale 8, becoming southwesterly 5 to 7 later.",
       "sea_state": "Rough or very rough, becoming very rough or high later.",
       "weather": "Rain or showers, wintry at times.",
