@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-10T15:45:01Z",
+  "fetched_at": "2026-03-10T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Tue 10 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Tue 10 Mar 2026 to 12:00 (UTC) on Wed 11 Mar 2026",
   "general_synopsis": "Atlantic low 978 expected Faeroes 962 by 0600 Wednesday",
@@ -164,6 +164,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 or 7.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nRain, then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 10 Mar 2026\nWesterly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, increasing 6 or 7.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Rain, then squally showers.",
@@ -171,6 +172,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 or 7.\nSea state\nModerate or rough.\nWeather\nRain, then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 10 Mar 2026\nSoutherly gale force 8 imminent",
       "wind": "Cyclonic 4 to 6, increasing 6 or 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain, then squally showers.",
@@ -178,7 +180,7 @@
     },
     "Shannon": {
       "text": "Wind\nSouthwest 5 to 7, increasing 7 to severe gale 9, veering west 6 to gale 8 later.\nSea state\nVery rough becoming high, occasionally very high for a time in north.\nWeather\nRain or squally showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Mon 9 Mar 2026\nSouthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 10 Mar 2026\nSouthwesterly severe gale force 9 veering westerly imminent",
       "wind": "Southwest 5 to 7, increasing 7 to severe gale 9, veering west 6 to gale 8 later.",
       "sea_state": "Very rough becoming high, occasionally very high for a time in north.",
       "weather": "Rain or squally showers.",
