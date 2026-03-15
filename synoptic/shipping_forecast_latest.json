@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-15T03:45:02Z",
+  "fetched_at": "2026-03-15T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Sat 14 Mar 2026",
   "valid": "For the period 00:00 (UTC) on Sun 15 Mar 2026 to 00:00 (UTC) on Mon 16 Mar 2026",
   "general_synopsis": "Low 500 miles west of Bailey 958 expected 150 miles west of Bailey 966 by 1800 Sunday evening",
@@ -63,6 +63,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouthwest 2 to 4, increasing 5 to 7, perhaps gale 8 for a time later.\nSea state\nSlight or moderate, occasionally rough.\nWeather\nFair then rain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 15 Mar 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwest 2 to 4, increasing 5 to 7, perhaps gale 8 for a time later.",
       "sea_state": "Slight or moderate, occasionally rough.",
       "weather": "Fair then rain or showers.",
@@ -70,6 +71,7 @@
     },
     "Fisher": {
       "text": "Wind\nSouthwest 2 to 4, increasing 5 to 7, perhaps gale 8 for a time later.\nSea state\nSlight or moderate, occasionally rough.\nWeather\nFair then rain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 15 Mar 2026\nSoutherly gale force 8 expected soon",
       "wind": "Southwest 2 to 4, increasing 5 to 7, perhaps gale 8 for a time later.",
       "sea_state": "Slight or moderate, occasionally rough.",
       "weather": "Fair then rain or showers.",
@@ -199,7 +201,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic becoming west or southwest, 6 to gale 8.\nSea state\nRough or very rough becoming very rough or high, then very high later.\nWeather\nRain or squally showers, perhaps wintry.\nVisibility\nGood, becoming moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Sat 14 Mar 2026\nSoutherly severe gale force 9 imminent, veering southwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 15 Mar 2026\nSoutherly severe gale force 9 veering southwesterly and decreasing gale force 8 imminent, increasing severe gale force 9 later",
       "wind": "Cyclonic becoming west or southwest, 6 to gale 8.",
       "sea_state": "Rough or very rough becoming very rough or high, then very high later.",
       "weather": "Rain or squally showers, perhaps wintry.",
@@ -215,7 +217,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouth or southwest 4 to 6, increasing 7 to severe gale 9.\nSea state\nModerate or rough, becoming rough or very rough, then very rough or high later.\nWeather\nRain then squally showers, perhaps wintry.\nVisibility\nGood, becoming moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sat 14 Mar 2026\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 15 Mar 2026\nSoutherly severe gale force 9 veering southwesterly and decreasing gale force 8 soon",
       "wind": "South or southwest 4 to 6, increasing 7 to severe gale 9.",
       "sea_state": "Moderate or rough, becoming rough or very rough, then very rough or high later.",
       "weather": "Rain then squally showers, perhaps wintry.",
@@ -223,7 +225,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouth or southwest 4 to 6, increasing 7 to severe gale 9.\nSea state\nModerate or rough, becoming rough or very rough, then very rough or high later, occasionally very high later.\nWeather\nRain then squally showers, perhaps wintry.\nVisibility\nGood, becoming moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sat 14 Mar 2026\nSoutherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Sun 15 Mar 2026\nSoutherly severe gale force 9 veering southwesterly and decreasing gale force 8 soon",
       "wind": "South or southwest 4 to 6, increasing 7 to severe gale 9.",
       "sea_state": "Moderate or rough, becoming rough or very rough, then very rough or high later, occasionally very high later.",
       "weather": "Rain then squally showers, perhaps wintry.",
