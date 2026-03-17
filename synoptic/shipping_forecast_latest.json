@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-17T03:45:02Z",
+  "fetched_at": "2026-03-17T04:00:02Z",
   "issued": "Issued at: 23:30 (UTC) on Mon 16 Mar 2026",
   "valid": "For the period 00:00 (UTC) on Tue 17 Mar 2026 to 00:00 (UTC) on Wed 18 Mar 2026",
   "general_synopsis": "Atlantic low 962 expected 125 miles south of Southeast Iceland 970 by 1800 Tuesday",
   "areas": {
     "Viking": {
       "text": "Wind\nSouth 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n04:35 (UTC) on Mon 16 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Tue 17 Mar 2026\nSoutherly gale force 8 continuing",
       "wind": "South 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSouth 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain, fog patches later.\nVisibility\nModerate or good, occasionally very poor later.",
-      "gale_warning": "Gale warning\nIssued:\n04:35 (UTC) on Mon 16 Mar 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Tue 17 Mar 2026\nSoutherly gale force 8 continuing",
       "wind": "South 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain, fog patches later.",
@@ -132,7 +132,7 @@
     },
     "Trafalgar": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, but in southeast, easterly 6 to gale 8, decreasing 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nShowers later.\nVisibility\nGood, occasionally moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Mon 16 Mar 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Tue 17 Mar 2026\nEasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 3 to 5, but in southeast, easterly 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers later.",
@@ -140,7 +140,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nSouthwesterly 4 to 6, but 6 to gale 8 in northwest, becoming cyclonic 4 to 6 later.\nSea state\nRough or very rough, occasionally high later in far west.\nWeather\nRain later.\nVisibility\nGood, occasionally moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n04:35 (UTC) on Mon 16 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6, but 6 to gale 8 in northwest, becoming cyclonic 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally high later in far west.",
       "weather": "Rain later.",
@@ -148,7 +147,6 @@
     },
     "Sole": {
       "text": "Wind\nSouthwesterly 4 to 6, but 6 to gale 8 in northwest, becoming cyclonic 4 to 6 later.\nSea state\nRough or very rough, occasionally high later in far west.\nWeather\nRain later.\nVisibility\nGood, occasionally moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n21:46 (UTC) on Mon 16 Mar 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 4 to 6, but 6 to gale 8 in northwest, becoming cyclonic 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally high later in far west.",
       "weather": "Rain later.",
