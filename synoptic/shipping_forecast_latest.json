@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-18T16:00:02Z",
+  "fetched_at": "2026-03-18T16:15:01Z",
   "issued": "Issued at: 11:30 (UTC) on Wed 18 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Wed 18 Mar 2026 to 12:00 (UTC) on Thu 19 Mar 2026",
   "general_synopsis": "New high expected Rockall 1030 by 0600 tomorrow",
@@ -134,6 +134,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn south, cyclonic mainly easterly, 4 to 6, occasionally 7 in west, perhaps gale 8 later in west. In north, easterly or northeasterly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nIn south, thundery showers. In north, showers at first.\nVisibility\nIn south, good, occasionally poor. In north, moderate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Wed 18 Mar 2026\nEasterly gale force 8 expected later",
       "wind": "In south, cyclonic mainly easterly, 4 to 6, occasionally 7 in west, perhaps gale 8 later in west. In north, easterly or northeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "In south, thundery showers. In north, showers at first.",
@@ -212,6 +213,7 @@
     },
     "Faeroes": {
       "text": "Wind\nWesterly or southwesterly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Wed 18 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Westerly or southwesterly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers.",
@@ -219,7 +221,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 3 to 5 becoming southwesterly 5 to 7, occasionally gale 8 later, perhaps severe gale 9 later.\nSea state\nRough or very rough, occasionally high later in west.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Wed 18 Mar 2026\nGale now ceased but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Wed 18 Mar 2026\nSouthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "Cyclonic 3 to 5 becoming southwesterly 5 to 7, occasionally gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough, occasionally high later in west.",
       "weather": "Showers, rain later.",
