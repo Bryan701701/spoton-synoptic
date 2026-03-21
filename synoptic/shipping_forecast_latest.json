@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-21T10:00:02Z",
+  "fetched_at": "2026-03-21T10:15:01Z",
   "issued": "Issued at: 05:05 (UTC) on Sat 21 Mar 2026",
   "valid": "For the period 06:00 (UTC) on Sat 21 Mar 2026 to 06:00 (UTC) on Sun 22 Mar 2026",
   "general_synopsis": "Atlantic low expected Southeast Iceland 969 by midnight tonight",
@@ -15,6 +15,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southwesterly 4 to 6, increasing 6 or 7 later.\nSea state\nModerate or rough.\nWeather\nFog patches, rain later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Sat 21 Mar 2026\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southwesterly 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fog patches, rain later.",
@@ -207,7 +208,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nWest or southwest, 5 or 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n22:32 (UTC) on Fri 20 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Sat 21 Mar 2026\nSouthwesterly severe gale force 9 expected later",
       "wind": "West or southwest, 5 or 6, increasing 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
