@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-23T10:00:01Z",
+  "fetched_at": "2026-03-23T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Mon 23 Mar 2026",
   "valid": "For the period 06:00 (UTC) on Mon 23 Mar 2026 to 06:00 (UTC) on Tue 24 Mar 2026",
   "general_synopsis": "Atlantic low expected Bailey 964 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nWesterly backing southerly or southwesterly, 5 to 7, occasionally gale 8 later.\nSea state\nRough or very rough.\nWeather\nWintry showers then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Mon 23 Mar 2026\nGale now ceased but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSoutherly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
       "wind": "Westerly backing southerly or southwesterly, 5 to 7, occasionally gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers then rain.",
@@ -47,6 +47,7 @@
     },
     "Forth": {
       "text": "Wind\nNorthwest 3 to 5, backing south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nSmooth or slight, becoming slight or moderate.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Smooth or slight, becoming slight or moderate.",
       "weather": "Occasional rain later.",
@@ -54,6 +55,7 @@
     },
     "Tyne": {
       "text": "Wind\nNorthwest 3 to 5, backing south or southwest 5 to 7, perhaps gale 8 later.\nSea state\nSmooth or slight, becoming slight or moderate.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing south or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Smooth or slight, becoming slight or moderate.",
       "weather": "Occasional rain later.",
@@ -61,6 +63,7 @@
     },
     "Dogger": {
       "text": "Wind\nVariable becoming south or southwest, 2 to 4, increasing 5 or 6 later.\nSea state\nSlight or moderate.\nWeather\nMainly fair.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Variable becoming south or southwest, 2 to 4, increasing 5 or 6 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Mainly fair.",
@@ -130,8 +133,8 @@
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "Wind\nEasterly or northeasterly 4 to 6, occasionally 7 later in far southeast.\nSea state\nModerate or rough, occasionally slight in southeast.\nWeather\nFair.\nVisibility\nGood.",
-      "wind": "Easterly or northeasterly 4 to 6, occasionally 7 later in far southeast.",
+      "text": "ally 7 later in far southeast.\nSea state\nModerate or rough, occasionally slight in southeast.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nEasterly gale force 8 expected later\nForecast issued:\n00:15 (UTC) on Mon 23 Mar 2026",
       "sea_state": "Moderate or rough, occasionally slight in southeast.",
       "weather": "Fair.",
       "visibility": "Good."
@@ -180,7 +183,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly or southwesterly 6 to gale 8, occasionally severe gale 9 in north.\nSea state\nRough or very rough, becoming very rough or high, occasionally very high later in north.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Sun 22 Mar 2026\nSouthwesterly gale force 8 expected soon increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 increasing storm force 10 soon",
       "wind": "Southerly or southwesterly 6 to gale 8, occasionally severe gale 9 in north.",
       "sea_state": "Rough or very rough, becoming very rough or high, occasionally very high later in north.",
       "weather": "Rain or squally showers.",
@@ -196,7 +199,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth or southwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9 later, perhaps storm 10 later.\nSea state\nRough or very rough, becoming very rough or high later, then high or very high later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Sun 22 Mar 2026\nGale now ceased but southerly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nGale force 8 veering southwesterly and increasing severe gale force 9 imminent, increasing storm force 10 later",
       "wind": "South or southwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9 later, perhaps storm 10 later.",
       "sea_state": "Rough or very rough, becoming very rough or high later, then high or very high later.",
       "weather": "Rain or showers.",
@@ -204,7 +207,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth 4 to 6, veering southwest 7 to severe gale 9, occasionally storm 10 later.\nSea state\nVery rough becoming high, then very high later.\nWeather\nRain or squally showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Mon 23 Mar 2026\nSoutherly gale force 8 expected imminent, veering southwesterly and increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nGale force 8 veering southwesterly and increasing severe gale force 9 imminent, increasing storm force 10 soon",
       "wind": "South 4 to 6, veering southwest 7 to severe gale 9, occasionally storm 10 later.",
       "sea_state": "Very rough becoming high, then very high later.",
       "weather": "Rain or squally showers.",
@@ -220,7 +223,7 @@
     },
     "Faeroes": {
       "text": "Wind\nWest 5 to 7, backing south 6 to gale 8, veering southwest 7 to severe gale 9 later.\nSea state\nRough or very rough, becoming very rough or high later, occasionally very high later in south.\nWeather\nRain or wintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Mon 23 Mar 2026\nGale now ceased but southerly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nSoutherly severe gale force 9 imminent, veering southwesterly soon, increasing storm force 10 later",
       "wind": "West 5 to 7, backing south 6 to gale 8, veering southwest 7 to severe gale 9 later.",
       "sea_state": "Rough or very rough, becoming very rough or high later, occasionally very high later in south.",
       "weather": "Rain or wintry showers.",
@@ -228,7 +231,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly 4 to 6, becoming cyclonic 7 to severe gale 9, occasionally storm 10 later in north.\nSea state\nRough or very rough, becoming very rough or high later.\nWeather\nRain, sleet or snow.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Mon 23 Mar 2026\nNortheasterly severe gale force 9 expected soon, backing northerly and increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Mon 23 Mar 2026\nEasterly severe gale force 9 imminent, backing northeasterly soon, backing northerly and increasing storm force 10 later",
       "wind": "Westerly 4 to 6, becoming cyclonic 7 to severe gale 9, occasionally storm 10 later in north.",
       "sea_state": "Rough or very rough, becoming very rough or high later.",
       "weather": "Rain, sleet or snow.",
