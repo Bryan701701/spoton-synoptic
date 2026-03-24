@@ -1,0 +1,256 @@
+{
+  "source": "metoffice_shipping_forecast",
+  "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
+  "fetched_at": "2026-03-24T14:00:02Z",
+  "issued": "Issued at: 11:30 (UTC) on Tue 24 Mar 2026",
+  "valid": "For the period 12:00 (UTC) on Tue 24 Mar 2026 to 12:00 (UTC) on Wed 25 Mar 2026",
+  "general_synopsis": "New low expected just northeast of Fisher 974 by 0600 tomorrow",
+  "areas": {
+    "Viking": {
+      "text": "Wind\nWesterly or southwesterly 6 to gale 8, occasionally severe gale 9 at first, veering northwesterly 7 to severe gale 9 later.\nSea state\nVery rough or high, becoming rough or very rough for a time.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent, veering northwesterly and increasing severe gale force 9 later",
+      "wind": "Westerly or southwesterly 6 to gale 8, occasionally severe gale 9 at first, veering northwesterly 7 to severe gale 9 later.",
+      "sea_state": "Very rough or high, becoming rough or very rough for a time.",
+      "weather": "Showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "North Utsire": {
+      "text": "Wind\nWesterly or southwesterly 6 to gale 8, veering northwesterly 7 to severe gale 9 later.\nSea state\nVery rough or high, becoming rough or very rough for a time.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nGale force 8 now veered westerly, veering northwesterly and increasing severe gale force 9 later",
+      "wind": "Westerly or southwesterly 6 to gale 8, veering northwesterly 7 to severe gale 9 later.",
+      "sea_state": "Very rough or high, becoming rough or very rough for a time.",
+      "weather": "Showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "South Utsire": {
+      "text": "Wind\nSouthwesterly 4 to 6, veering northwesterly 6 to gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected later",
+      "wind": "Southwesterly 4 to 6, veering northwesterly 6 to gale 8 later.",
+      "sea_state": "Moderate or rough, becoming rough or very rough later.",
+      "weather": "Rain then squally showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Forties": {
+      "text": "Wind\nSouthwesterly 4 to 6, veering northwesterly 6 to gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected later",
+      "wind": "Southwesterly 4 to 6, veering northwesterly 6 to gale 8 later.",
+      "sea_state": "Moderate or rough, becoming rough or very rough later.",
+      "weather": "Rain then squally showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Cromarty": {
+      "text": "Wind\nSouthwesterly 4 to 6, occasionally 7 at first, veering northwesterly 6 to gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nGale now ceased but northwesterly gale force 8 expected later",
+      "wind": "Southwesterly 4 to 6, occasionally 7 at first, veering northwesterly 6 to gale 8 later.",
+      "sea_state": "Moderate or rough.",
+      "weather": "Rain then squally showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Forth": {
+      "text": "Wind\nSouthwesterly 4 to 6, veering northwesterly 5 to 7 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "wind": "Southwesterly 4 to 6, veering northwesterly 5 to 7 later.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Rain then squally showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Tyne": {
+      "text": "Wind\nSouthwesterly 4 to 6, veering northwesterly 6 to gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected later",
+      "wind": "Southwesterly 4 to 6, veering northwesterly 6 to gale 8 later.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Rain then squally showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Dogger": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nModerate or rough.\nWeather\nRain, squally showers later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nSouthwesterly gale force 8 expected soon, veering northwesterly later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Moderate or rough.",
+      "weather": "Rain, squally showers later.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Fisher": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain, squally showers later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Moderate or rough, occasionally very rough later.",
+      "weather": "Rain, squally showers later.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "German Bight": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain, squally showers later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Moderate or rough, occasionally very rough later.",
+      "weather": "Rain, squally showers later.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Humber": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nSlight or moderate becoming moderate or rough, then rough or very rough later.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Slight or moderate becoming moderate or rough, then rough or very rough later.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Thames": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Dover": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Wight": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nSlight or moderate becoming moderate or rough, then rough or very rough later.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Slight or moderate becoming moderate or rough, then rough or very rough later.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Portland": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nSlight or moderate becoming moderate or rough, then rough or very rough later.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Slight or moderate becoming moderate or rough, then rough or very rough later.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Plymouth": {
+      "text": "Wind\nSouthwest 4 to 6, increasing 6 to gale 8, veering northwest later.\nSea state\nModerate or rough becoming very rough or high later.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest 4 to 6, increasing 6 to gale 8, veering northwest later.",
+      "sea_state": "Moderate or rough becoming very rough or high later.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or good, occasionally poor."
+    },
+    "Biscay": {
+      "text": "Wind\nVariable 2 to 4 at first in south, otherwise southwesterly veering northerly or northwesterly 4 to 6, increasing 6 to gale 8 in north.\nSea state\nModerate or rough, becoming rough or very rough, then high for a time in north.\nWeather\nOccasional rain.\nVisibility\nGood occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected later",
+      "wind": "Variable 2 to 4 at first in south, otherwise southwesterly veering northerly or northwesterly 4 to 6, increasing 6 to gale 8 in north.",
+      "sea_state": "Moderate or rough, becoming rough or very rough, then high for a time in north.",
+      "weather": "Occasional rain.",
+      "visibility": "Good occasionally moderate."
+    },
+    "Trafalgar": {
+      "text": ", 4 to 6, but 6 to gale 8 in southeast.\nSea state\nModerate, occasionally rough southeast.\nWeather\nFair.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nEasterly gale force 8 continuing\nForecast issued:\n00:15 (UTC) on Tue 24 Mar 2026",
+      "sea_state": "Moderate, occasionally rough southeast.",
+      "weather": "Fair.",
+      "visibility": "Moderate or good."
+    },
+    "FitzRoy": {
+      "text": "Wind\nVariable 2 to 4 at first in south, otherwise southwesterly veering northerly or northwesterly 4 to 6, increasing 6 to gale 8 in north.\nSea state\nModerate or rough, becoming rough or very rough, then high for a time in north.\nWeather\nOccasional rain.\nVisibility\nGood occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNorthwesterly gale force 8 expected soon",
+      "wind": "Variable 2 to 4 at first in south, otherwise southwesterly veering northerly or northwesterly 4 to 6, increasing 6 to gale 8 in north.",
+      "sea_state": "Moderate or rough, becoming rough or very rough, then high for a time in north.",
+      "weather": "Occasional rain.",
+      "visibility": "Good occasionally moderate."
+    },
+    "Sole": {
+      "text": "Wind\nSouthwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nSqually rain or showers.\nVisibility\nModerate or poor, becoming good occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nWesterly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 soon",
+      "wind": "Southwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.",
+      "sea_state": "Rough or very rough becoming very rough or high.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or poor, becoming good occasionally poor."
+    },
+    "Lundy": {
+      "text": "Wind\nSouthwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.\nSea state\nModerate becoming rough or very rough then very rough or high later.\nWeather\nSqually rain or showers.\nVisibility\nModerate or poor, becoming good occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nSouthwesterly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 soon",
+      "wind": "Southwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.",
+      "sea_state": "Moderate becoming rough or very rough then very rough or high later.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or poor, becoming good occasionally poor."
+    },
+    "Fastnet": {
+      "text": "Wind\nSouthwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nSqually rain or showers.\nVisibility\nModerate or poor, becoming good occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nSouthwesterly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 soon",
+      "wind": "Southwest veering northwest 6 to gale 8, occasionally severe gale 9 until later.",
+      "sea_state": "Rough or very rough becoming very rough or high.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or poor, becoming good occasionally poor."
+    },
+    "Irish Sea": {
+      "text": "Wind\nSouthwest veering northwest 6 to gale 8.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nSqually rain or showers.\nVisibility\nModerate or poor, becoming good occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 23 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "wind": "Southwest veering northwest 6 to gale 8.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Squally rain or showers.",
+      "visibility": "Moderate or poor, becoming good occasionally poor."
+    },
+    "Shannon": {
+      "text": "Wind\nWest veering northwest 7 to severe gale 9.\nSea state\nVery rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 23 Mar 2026\nNorthwesterly severe gale force 9 expected later",
+      "wind": "West veering northwest 7 to severe gale 9.",
+      "sea_state": "Very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Rockall": {
+      "text": "Wind\nWest 5 to 7, veering northwest 7 to severe gale 9.\nSea state\nVery rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nGale now ceased but westerly gale force 8 imminent, veering northwesterly and increasing severe gale force 9 soon",
+      "wind": "West 5 to 7, veering northwest 7 to severe gale 9.",
+      "sea_state": "Very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Malin": {
+      "text": "Wind\nWest veering northwest 4 to 6, increasing 6 to gale 8.\nSea state\nVery rough or high.\nWeather\nRain then squally wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nGale now ceased but northwesterly gale force 8 expected later",
+      "wind": "West veering northwest 4 to 6, increasing 6 to gale 8.",
+      "sea_state": "Very rough or high.",
+      "weather": "Rain then squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Hebrides": {
+      "text": "Wind\nWest veering north or northwest, 6 to gale 8.\nSea state\nVery rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent, veering northwesterly soon",
+      "wind": "West veering north or northwest, 6 to gale 8.",
+      "sea_state": "Very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Bailey": {
+      "text": "Wind\nWest veering north or northwest, 6 to gale 8.\nSea state\nVery rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nWesterly severe gale force 9 decreasing gale force 8 imminent, veering northwesterly soon",
+      "wind": "West veering north or northwest, 6 to gale 8.",
+      "sea_state": "Very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Fair Isle": {
+      "text": "Wind\nWest or southwest veering northwest 7 to severe gale 9.\nSea state\nRough or very rough becoming moderate or rough for a time in southeast, otherwise high or very high becoming very rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Tue 24 Mar 2026\nSouthwesterly severe gale force 9 continuing",
+      "wind": "West or southwest veering northwest 7 to severe gale 9.",
+      "sea_state": "Rough or very rough becoming moderate or rough for a time in southeast, otherwise high or very high becoming very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Faeroes": {
+      "text": "Wind\nWest or southwest veering northwest 7 to severe gale 9.\nSea state\nHigh or very high becoming very rough or high.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Tue 24 Mar 2026\nSouthwesterly storm force 10 decreasing severe gale force 9 imminent",
+      "wind": "West or southwest veering northwest 7 to severe gale 9.",
+      "sea_state": "High or very high becoming very rough or high.",
+      "weather": "Squally wintry showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Southeast Iceland": {
+      "text": "Wind\nNortherly 6 to gale 8, occasionally 9 at first in far north.\nSea state\nHigh becoming very rough.\nWeather\nOccasional snow.\nVisibility\nModerate or good, occasionally very poor. Light icing later in north.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 24 Mar 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent",
+      "wind": "Northerly 6 to gale 8, occasionally 9 at first in far north.",
+      "sea_state": "High becoming very rough.",
+      "weather": "Occasional snow.",
+      "visibility": "Moderate or good, occasionally very poor. Light icing later in north."
+    }
+  }
+}
