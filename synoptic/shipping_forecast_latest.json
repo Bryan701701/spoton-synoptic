@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-26T22:00:02Z",
+  "fetched_at": "2026-03-26T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Thu 26 Mar 2026",
   "valid": "For the period 18:00 (UTC) on Thu 26 Mar 2026 to 18:00 (UTC) on Fri 27 Mar 2026",
   "general_synopsis": "High 100 miles west of FitzRoy 1033, dissipating by midday tomorrow. Atlantic low expected just south of Iceland 974 by same time",
@@ -128,8 +128,9 @@
       "visibility": "Good occasionally moderate."
     },
     "Trafalgar": {
-      "text": "or very rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nNortheasterly gale force 8 continuing\nForecast issued:\n00:15 (UTC) on Thu 26 Mar 2026",
+      "text": "Wind\nNortheasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Northeasterly 6 to gale 8.",
+      "sea_state": "Rough or very rough.",
       "weather": "Fair.",
       "visibility": "Good."
     },
@@ -186,7 +187,7 @@
     },
     "Malin": {
       "text": "Wind\nWest or southwest 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough, becoming high or very high.\nWeather\nRain then squally showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Thu 26 Mar 2026\nWesterly gale force 8 increasing severe gale force 9 later",
       "wind": "West or southwest 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough, becoming high or very high.",
       "weather": "Rain then squally showers.",
@@ -194,7 +195,7 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or southwest 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough, becoming high or very high.\nWeather\nRain then squally showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Thu 26 Mar 2026\nSouthwesterly gale force 8 continuing, veering and increasing westerly severe gale force 9 later",
       "wind": "West or southwest 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough, becoming high or very high.",
       "weather": "Rain then squally showers.",
