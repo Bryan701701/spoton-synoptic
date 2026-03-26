@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-26T15:45:01Z",
+  "fetched_at": "2026-03-26T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Thu 26 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Thu 26 Mar 2026 to 12:00 (UTC) on Fri 27 Mar 2026",
   "general_synopsis": "High just west of FitzRoy 1031, dissipating by 0600 tomorrow. Atlantic low expected just south of Iceland 967 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly, backing southwesterly, 5 to 7, occasionally gale 8 at first.\nSea state\nVery rough becoming rough.\nWeather\nRain or showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "Northwesterly, backing southwesterly, 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Very rough becoming rough.",
       "weather": "Rain or showers.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nNorthwesterly, backing southwesterly, 5 to 7, occasionally gale 8 at first.\nSea state\nVery rough becoming rough, occasionally moderate later.\nWeather\nRain or showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "Northwesterly, backing southwesterly, 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Very rough becoming rough, occasionally moderate later.",
       "weather": "Rain or showers.",
@@ -24,7 +24,6 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing southwesterly 4 to 6.\nSea state\nVery rough becoming moderate, occasionally rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 6 to gale 8, backing southwesterly 4 to 6.",
       "sea_state": "Very rough becoming moderate, occasionally rough later.",
       "weather": "Occasional rain later.",
@@ -32,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing southwesterly 4 to 6.\nSea state\nVery rough becoming moderate, occasionally rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Thu 26 Mar 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, backing southwesterly 4 to 6.",
       "sea_state": "Very rough becoming moderate, occasionally rough later.",
       "weather": "Occasional rain later.",
@@ -61,7 +59,6 @@
     },
     "Dogger": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 4 to 6.\nSea state\nVery rough, becoming moderate or rough.\nWeather\nWintry showers, rain later.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Thu 26 Mar 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8, backing southwest 4 to 6.",
       "sea_state": "Very rough, becoming moderate or rough.",
       "weather": "Wintry showers, rain later.",
@@ -69,7 +66,6 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 4 to 6.\nSea state\nVery rough, becoming moderate or rough.\nWeather\nWintry showers, rain later.\nVisibility\nGood occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest 6 to gale 8, backing southwest 4 to 6.",
       "sea_state": "Very rough, becoming moderate or rough.",
       "weather": "Wintry showers, rain later.",
@@ -133,13 +129,13 @@
     },
     "Trafalgar": {
       "text": "or very rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:45 (UTC) on Wed 25 Mar 2026\nNortheasterly gale force 8 expected soon\nForecast issued:\n00:15 (UTC) on Thu 26 Mar 2026",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nNortheasterly gale force 8 continuing\nForecast issued:\n00:15 (UTC) on Thu 26 Mar 2026",
       "weather": "Fair.",
       "visibility": "Good."
     },
     "FitzRoy": {
       "text": "Wind\nIn south, northeasterly 5 to 7, occasionally gale 8 at first. In north, westerly 3 to 5.\nSea state\nIn south, rough or very rough, occasionally moderate later. in north, moderate or rough.\nWeather\nIn south, fair . In north, showers then occasional rain.\nVisibility\nIn south, good. In north, good occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Thu 26 Mar 2026\nNortheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nNortheasterly gale force 8 continuing",
       "wind": "In south, northeasterly 5 to 7, occasionally gale 8 at first. In north, westerly 3 to 5.",
       "sea_state": "In south, rough or very rough, occasionally moderate later. in north, moderate or rough.",
       "weather": "In south, fair . In north, showers then occasional rain.",
@@ -182,7 +178,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouthwest, veering west, 5 to 7, increasing gale 8.\nSea state\nRough or very rough, becoming high, occasionally very high later in northwest.\nWeather\nRain then squally showers.\nVisibility\nModerate occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 25 Mar 2026\nGale now ceased, but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nGale force 8 veering westerly soon and increasing severe gale force 9 later",
       "wind": "Southwest, veering west, 5 to 7, increasing gale 8.",
       "sea_state": "Rough or very rough, becoming high, occasionally very high later in northwest.",
       "weather": "Rain then squally showers.",
@@ -190,6 +186,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwest, veering west, 5 to 7.\nSea state\nRough or very rough, becoming high.\nWeather\nRain then squally showers.\nVisibility\nModerate occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 26 Mar 2026\nWesterly gale force 8 expected later",
       "wind": "Southwest, veering west, 5 to 7.",
       "sea_state": "Rough or very rough, becoming high.",
       "weather": "Rain then squally showers.",
