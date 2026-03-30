@@ -25,8 +25,8 @@
       "lat": 57.750491731,
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n06:40 (UTC) on Mon 30 Mar 2026\nWesterly gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Dogger",
@@ -53,7 +53,7 @@
       "x": 2182.8615621556096,
       "y": 438.6553311406299,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:45 (UTC) on Mon 30 Mar 2026\nSevere gale force 9 veering northwesterly imminent, decreasing gale force 8 soon"
+      "gale_text": "Gale warning\nIssued:\n21:56 (UTC) on Mon 30 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon"
     },
     {
       "name": "Fair Isle",
@@ -61,8 +61,8 @@
       "lat": 60.1392036430001,
       "x": 2464.804822966019,
       "y": 523.8148845164478,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:57 (UTC) on Mon 30 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Fastnet",
@@ -106,8 +106,8 @@
       "lat": 57.25,
       "x": 2766.163636363636,
       "y": 716.340909090909,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:55 (UTC) on Mon 30 Mar 2026\nWesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "German Bight",
@@ -250,8 +250,8 @@
       "lat": 59.750010633500054,
       "x": 2799.435120669437,
       "y": 549.7492914222237,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:57 (UTC) on Mon 30 Mar 2026\nNorthwesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Wight",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-03-30T22:00:51Z"
+  "generated_utc": "2026-03-30T22:30:52Z"
 }
