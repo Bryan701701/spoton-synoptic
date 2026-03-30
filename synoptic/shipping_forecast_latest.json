@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-30T22:00:01Z",
+  "fetched_at": "2026-03-30T22:15:02Z",
   "issued": "Issued at: 16:25 (UTC) on Mon 30 Mar 2026",
   "valid": "For the period 18:00 (UTC) on Mon 30 Mar 2026 to 18:00 (UTC) on Tue 31 Mar 2026",
   "general_synopsis": "Low mid-Atlantic 1003, moving rapidly northeast, expected east of Iceland 982 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 4 to 6, backing southwesterly later.\nSea state\nRough or very rough, occasionally high at first in far north, becoming moderate or rough later.\nWeather\nShowers, occasional rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Mon 30 Mar 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 4 to 6, backing southwesterly later.",
       "sea_state": "Rough or very rough, occasionally high at first in far north, becoming moderate or rough later.",
       "weather": "Showers, occasional rain later.",
@@ -30,7 +29,6 @@
     },
     "Forties": {
       "text": "Wind\nWesterly or northwesterly 5 to 7, occasionally gale 8 at first, backing southwesterly 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough, then slight or moderate later.\nWeather\nOccasional rain or drizzle.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Mon 30 Mar 2026\nWesterly gale force 8 continuing",
       "wind": "Westerly or northwesterly 5 to 7, occasionally gale 8 at first, backing southwesterly 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough, then slight or moderate later.",
       "weather": "Occasional rain or drizzle.",
@@ -38,7 +36,6 @@
     },
     "Cromarty": {
       "text": "Wind\nWesterly or northwesterly 5 to 7, occasionally gale 8 at first, backing southwesterly 3 to 5 later.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nOccasional rain or drizzle.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n06:40 (UTC) on Mon 30 Mar 2026\nWesterly gale force 8 imminent",
       "wind": "Westerly or northwesterly 5 to 7, occasionally gale 8 at first, backing southwesterly 3 to 5 later.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Occasional rain or drizzle.",
@@ -208,7 +205,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwest backing southwest 5 to 7, occasionally gale 8 at first.\nSea state\nRough or very rough becoming moderate or rough in southeast, otherwise high or very high becoming rough or very rough.\nWeather\nRain or showers, fog patches for a time.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 30 Mar 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest backing southwest 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Rough or very rough becoming moderate or rough in southeast, otherwise high or very high becoming rough or very rough.",
       "weather": "Rain or showers, fog patches for a time.",
@@ -216,7 +212,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorthwest backing southwest 5 to 7, occasionally gale 8 at first, perhaps gale 8 later.\nSea state\nHigh or very high becoming rough or very rough.\nWeather\nRain or showers, fog patches for a time.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Mon 30 Mar 2026\nSevere gale force 9 veering northwesterly imminent, decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Mon 30 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "Northwest backing southwest 5 to 7, occasionally gale 8 at first, perhaps gale 8 later.",
       "sea_state": "High or very high becoming rough or very rough.",
       "weather": "Rain or showers, fog patches for a time.",
