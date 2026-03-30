@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-30T16:00:01Z",
+  "fetched_at": "2026-03-30T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Mon 30 Mar 2026",
   "valid": "For the period 12:00 (UTC) on Mon 30 Mar 2026 to 12:00 (UTC) on Tue 31 Mar 2026",
   "general_synopsis": "High 100 miles west of FitzRoy 1040, expected FitzRoy 1037 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 5 to 7 later.\nSea state\nRough or very rough, occasionally high in far north, becoming moderate or rough later.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n16:00 (UTC) on Sun 29 Mar 2026\nGale now ceased, but northwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Mon 30 Mar 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8, backing southwest 5 to 7 later.",
       "sea_state": "Rough or very rough, occasionally high in far north, becoming moderate or rough later.",
       "weather": "Squally showers.",
@@ -30,7 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nWest 5 to 7, occasionally gale 8 at first, backing south 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n16:00 (UTC) on Sun 29 Mar 2026\nSouthwesterly gale force 8 veering westerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Mon 30 Mar 2026\nWesterly gale force 8 continuing",
       "wind": "West 5 to 7, occasionally gale 8 at first, backing south 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers, rain later.",
@@ -193,7 +193,6 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or northwest backing southwest later, 5 to 7, occasionally gale 8 at first.\nSea state\nHigh or very high becoming very rough or high, then rough or very rough later.\nWeather\nShowers then rain, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Mon 30 Mar 2026\nSevere gale force 9 veering northwesterly and decreasing gale force 8 imminent",
       "wind": "West or northwest backing southwest later, 5 to 7, occasionally gale 8 at first.",
       "sea_state": "High or very high becoming very rough or high, then rough or very rough later.",
       "weather": "Showers then rain, fog patches at first.",
@@ -201,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nWest or northwest backing southwest later, 5 to 7, occasionally gale 8.\nSea state\nHigh or very high becoming very rough or high, then rough or very rough later.\nWeather\nShowers then rain, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Mon 30 Mar 2026\nSevere gale force 9 veering northwesterly and decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Mon 30 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon",
       "wind": "West or northwest backing southwest later, 5 to 7, occasionally gale 8.",
       "sea_state": "High or very high becoming very rough or high, then rough or very rough later.",
       "weather": "Showers then rain, fog patches at first.",
@@ -225,7 +224,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing southwesterly 5 to 7, increasing 7 to severe gale 9 later.\nSea state\nVery rough or high becoming rough or very rough.\nWeather\nRain or showers, wintry at times.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 30 Mar 2026\nGale force 8 backing southwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Mon 30 Mar 2026\nGale now ceased but southwesterly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "Northwesterly 6 to gale 8, backing southwesterly 5 to 7, increasing 7 to severe gale 9 later.",
       "sea_state": "Very rough or high becoming rough or very rough.",
       "weather": "Rain or showers, wintry at times.",
