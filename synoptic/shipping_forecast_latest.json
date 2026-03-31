@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-03-31T10:00:02Z",
+  "fetched_at": "2026-03-31T10:15:01Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 31 Mar 2026",
   "valid": "For the period 06:00 (UTC) on Tue 31 Mar 2026 to 06:00 (UTC) on Wed 1 Apr 2026",
   "general_synopsis": "Low 100 miles southwest of Iceland 992 expected 400 miles northeast of Iceland 977 by midnight tonight. High just west of FitzRoy 1039 expected west FitzRoy 1035 by same time",
@@ -190,6 +190,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwesterly, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later in east.\nSea state\nRough or very rough.\nWeather\nDrizzle, then rain later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 31 Mar 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later in east.",
       "sea_state": "Rough or very rough.",
       "weather": "Drizzle, then rain later.",
@@ -205,6 +206,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwesterly 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later in west.\nSea state\nVery rough until later in northwest, otherwise moderate or rough.\nWeather\nRain or drizzle, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first and poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 31 Mar 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later in west.",
       "sea_state": "Very rough until later in northwest, otherwise moderate or rough.",
       "weather": "Rain or drizzle, fog patches at first.",
