@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-01T03:45:01Z",
+  "fetched_at": "2026-04-01T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Tue 31 Mar 2026",
   "valid": "For the period 00:00 (UTC) on Wed 1 Apr 2026 to 00:00 (UTC) on Thu 2 Apr 2026",
   "general_synopsis": "High FitzRoy 1036 dissipating",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southwesterly 4 to 6, veering northerly 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain, then showers later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected soon",
       "wind": "Southerly or southwesterly 4 to 6, veering northerly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain, then showers later.",
@@ -29,6 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nSouthwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain for a time.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected soon",
       "wind": "Southwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain for a time.",
@@ -36,6 +38,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSouthwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later in east.\nWeather\nRain for a time.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected soon",
       "wind": "Southwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later in east.",
       "weather": "Rain for a time.",
@@ -43,6 +46,7 @@
     },
     "Forth": {
       "text": "Wind\nSouthwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain for a time.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected later",
       "wind": "Southwesterly 3 to 5, veering northerly or northwesterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain for a time.",
@@ -190,7 +194,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwest veering north 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nSqually rain, then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 31 Mar 2026\nSouthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nGale force 8 veering northerly imminent",
       "wind": "Southwest veering north 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Squally rain, then showers.",
@@ -198,6 +202,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorthwest 4 to 6 becoming variable 2 to 4, then southeast 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nRain at first in southeast, otherwise wintry showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest 4 to 6 becoming variable 2 to 4, then southeast 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain at first in southeast, otherwise wintry showers.",
@@ -205,7 +210,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwesterly veering northerly 5 to 7, occasionally gale 8 in south, then backing northwesterly 4 to 6 later.\nSea state\nVery rough at first in west and north, otherwise moderate or rough.\nWeather\nRain, perhaps squally, then wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 31 Mar 2026\nSouthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nGale force 8 veering northerly imminent",
       "wind": "Southwesterly veering northerly 5 to 7, occasionally gale 8 in south, then backing northwesterly 4 to 6 later.",
       "sea_state": "Very rough at first in west and north, otherwise moderate or rough.",
       "weather": "Rain, perhaps squally, then wintry showers.",
