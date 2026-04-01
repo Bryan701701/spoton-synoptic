@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-01T22:00:02Z",
+  "fetched_at": "2026-04-01T22:15:02Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 1 Apr 2026",
   "valid": "For the period 18:00 (UTC) on Wed 1 Apr 2026 to 18:00 (UTC) on Thu 2 Apr 2026",
   "general_synopsis": "Low Cromarty 1013 expected south Norway 1005 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nNorth 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected soon",
       "wind": "North 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
@@ -23,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nCyclonic becoming northwesterly, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain then wintry showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Wed 1 Apr 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming northwesterly, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain then wintry showers.",
@@ -38,7 +38,6 @@
     },
     "Cromarty": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected soon",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate.",
       "weather": "Showers.",
@@ -46,7 +45,6 @@
     },
     "Forth": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nNortherly gale force 8 expected later",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, becoming slight or moderate.",
       "weather": "Showers.",
@@ -68,6 +66,7 @@
     },
     "Fisher": {
       "text": "Wind\nSouthwesterly veering northwesterly, 4 to 6, occasionally 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nRain, fog patches.\nVisibility\nModerate, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Wed 1 Apr 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Southwesterly veering northwesterly, 4 to 6, occasionally 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Rain, fog patches.",
@@ -211,6 +210,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwest 6 becoming variable 4, then southeast 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nWintry showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Wed 1 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest 6 becoming variable 4, then southeast 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Wintry showers.",
