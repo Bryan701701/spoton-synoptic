@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-01T10:00:02Z",
+  "fetched_at": "2026-04-01T10:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 1 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Wed 1 Apr 2026 to 06:00 (UTC) on Thu 2 Apr 2026",
   "general_synopsis": "High FitzRoy 1035 dissipating",
@@ -180,6 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 5 to 7 becoming variable 2 to 4, then south or southwest 5 to 7 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 1 Apr 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7 becoming variable 2 to 4, then south or southwest 5 to 7 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally rain or showers.",
@@ -194,7 +195,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4, then south or southwest 5 to 7 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nSqually rain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nGale force 8 veering northerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 1 Apr 2026\nGale now ceased but southeasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4, then south or southwest 5 to 7 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Squally rain or showers.",
@@ -202,7 +203,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorthwest 4 to 6 becoming variable 2 to 4, then southeast 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nWintry showers, then rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Wed 1 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 1 Apr 2026\nSoutheasterly severe gale force 9 expected later",
       "wind": "Northwest 4 to 6 becoming variable 2 to 4, then southeast 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Wintry showers, then rain later.",
@@ -218,6 +219,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorthwesterly 4 to 6, becoming variable 2 to 4 later, then becoming southeasterly 5 or 6 later in west.\nSea state\nModerate or rough, becoming very rough for a time in northwest.\nWeather\nWintry showers at first.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 1 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwesterly 4 to 6, becoming variable 2 to 4 later, then becoming southeasterly 5 or 6 later in west.",
       "sea_state": "Moderate or rough, becoming very rough for a time in northwest.",
       "weather": "Wintry showers at first.",
@@ -225,7 +227,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNorthwesterly 6 to gale 8 becoming variable 2 to 4, then southeasterly 6 to gale 8 later.\nSea state\nModerate or rough in far north, but elsewhere rough or very rough.\nWeather\nSleet or snow showers at first.\nVisibility\nModerate or good, occasionally very poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Tue 31 Mar 2026\nGale now ceased but northwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Wed 1 Apr 2026\nGale now ceased but southeasterly severe gale force 9 expected later",
       "wind": "Northwesterly 6 to gale 8 becoming variable 2 to 4, then southeasterly 6 to gale 8 later.",
       "sea_state": "Moderate or rough in far north, but elsewhere rough or very rough.",
       "weather": "Sleet or snow showers at first.",
