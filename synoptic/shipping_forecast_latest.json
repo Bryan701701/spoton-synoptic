@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-03T09:45:02Z",
+  "fetched_at": "2026-04-03T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Fri 3 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Fri 3 Apr 2026 to 06:00 (UTC) on Sat 4 Apr 2026",
   "general_synopsis": "New lows expected Norwegian Basin 977 and Southeast Iceland 985 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 5 to 7, increasing 7 to severe gale 9, veering westerly 4 to 6 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 2 Apr 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Fri 3 Apr 2026\nSevere gale force 9 backing southerly and decreasing gale force 8 imminent",
       "wind": "Southeasterly 5 to 7, increasing 7 to severe gale 9, veering westerly 4 to 6 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, increasing 7 to severe gale 9, veering westerly 4 to 6 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 2 Apr 2026\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Fri 3 Apr 2026\nSevere gale force 9 backing southerly and decreasing gale force 8 soon",
       "wind": "Southeasterly 5 to 7, increasing 7 to severe gale 9, veering westerly 4 to 6 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 4 or 5, increasing 6 to gale 8, veering westerly 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 2 Apr 2026\nGale now ceased but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Fri 3 Apr 2026\nSoutherly gale force 8 continuing",
       "wind": "Southerly or southeasterly 4 or 5, increasing 6 to gale 8, veering westerly 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -210,7 +210,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming west 5 to 7.\nSea state\nRough or very rough, but moderate or rough in southeast.\nWeather\nRain then squally wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 2 Apr 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Fri 3 Apr 2026\nGale force 8 veering westerly imminent",
       "wind": "Cyclonic 6 to gale 8, becoming west 5 to 7.",
       "sea_state": "Rough or very rough, but moderate or rough in southeast.",
       "weather": "Rain then squally wintry showers.",
@@ -218,7 +218,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic becoming west later, 6 to gale 8, occasionally severe gale 9 later.\nSea state\nRough or very rough.\nWeather\nRain or squally wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n05:40 (UTC) on Fri 3 Apr 2026\nSoutheasterly gale force 8 veering westerly severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Fri 3 Apr 2026\nSevere gale force 9 now decreased gale force 8, backing westerly imminent",
       "wind": "Cyclonic becoming west later, 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or squally wintry showers.",
