@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-03T05:45:01Z",
+  "fetched_at": "2026-04-03T06:00:01Z",
   "issued": "Issued at: 04:05 (UTC) on Fri 3 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Fri 3 Apr 2026 to 06:00 (UTC) on Sat 4 Apr 2026",
   "general_synopsis": "New lows expected Norwegian Basin 977 and Southeast Iceland 985 by midnight tonight",
@@ -137,6 +137,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn south, northerly 4 to 6 in southeast until later, otherwise variable 2 to 4. In north, westerly or southwesterly 5 to 7, occasionally gale 8 later.\nSea state\nIn south, moderate or rough. in north, rough or very rough.\nWeather\nIn south, fair. In north, rain or drizzle.\nVisibility\nIn south, good. In north, moderate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n05:40 (UTC) on Fri 3 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "In south, northerly 4 to 6 in southeast until later, otherwise variable 2 to 4. In north, westerly or southwesterly 5 to 7, occasionally gale 8 later.",
       "sea_state": "In south, moderate or rough. in north, rough or very rough.",
       "weather": "In south, fair. In north, rain or drizzle.",
@@ -144,6 +145,7 @@
     },
     "Sole": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, occasionally gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or drizzle.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n05:40 (UTC) on Fri 3 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Westerly or southwesterly 5 to 7, occasionally gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or drizzle.",
@@ -172,6 +174,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or southwest 5 to 7, becoming cyclonic 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n05:40 (UTC) on Fri 3 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or southwest 5 to 7, becoming cyclonic 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -215,7 +218,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic becoming west later, 6 to gale 8, occasionally severe gale 9 later.\nSea state\nRough or very rough.\nWeather\nRain or squally wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Thu 2 Apr 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n05:40 (UTC) on Fri 3 Apr 2026\nSoutheasterly gale force 8 veering westerly severe gale force 9 later",
       "wind": "Cyclonic becoming west later, 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or squally wintry showers.",
@@ -223,7 +226,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nRain or squally wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Thu 2 Apr 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Westerly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or squally wintry showers.",
