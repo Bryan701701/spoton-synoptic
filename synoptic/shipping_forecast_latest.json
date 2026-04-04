@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-04T22:00:02Z",
+  "fetched_at": "2026-04-04T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Sat 4 Apr 2026",
   "valid": "For the period 18:00 (UTC) on Sat 4 Apr 2026 to 18:00 (UTC) on Sun 5 Apr 2026",
   "general_synopsis": "Low Shannon 992 expected south Norway 980 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly 3 to 5, becoming cyclonic, then northwesterly later, 7 to severe gale 9, perhaps storm 10 later, becoming westerly 5 to 7 later.\nSea state\nRough or very rough, occasionally high for a time later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 4 Apr 2026\nGale now ceased but southeasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nSevere gale force 9 backing northeasterly imminent, backing northwesterly and increasing storm force 10 soon",
       "wind": "Southerly 3 to 5, becoming cyclonic, then northwesterly later, 7 to severe gale 9, perhaps storm 10 later, becoming westerly 5 to 7 later.",
       "sea_state": "Rough or very rough, occasionally high for a time later.",
       "weather": "Rain.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly 3 to 5, becoming cyclonic, then northwesterly later, 7 to severe gale 9, perhaps storm 10 later, becoming westerly 5 to 7 later.\nSea state\nRough or very rough, occasionally high for a time later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sat 4 Apr 2026\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nSevere gale force 9 veering westerly and increasing storm force 10 soon",
       "wind": "Southerly 3 to 5, becoming cyclonic, then northwesterly later, 7 to severe gale 9, perhaps storm 10 later, becoming westerly 5 to 7 later.",
       "sea_state": "Rough or very rough, occasionally high for a time later.",
       "weather": "Rain.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nCyclonic 6 to gale 8, increasing gale 8 to storm 10, becoming west 6 to gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough, occasionally high for a time later.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sat 4 Apr 2026\nSouthwesterly storm force 10 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nGale force 8 increasing storm force 10 imminent, veering northwesterly and increasing violent storm force 11 soon",
       "wind": "Cyclonic 6 to gale 8, increasing gale 8 to storm 10, becoming west 6 to gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough, occasionally high for a time later.",
       "weather": "Rain.",
@@ -150,7 +150,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 4 to 6, but 6 to gale 8 at first north, becoming variable 2 to 4.\nSea state\nRough or very rough, occasionally moderate at first in south, and high at first in north.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n04:45 (UTC) on Sat 4 Apr 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Cyclonic 4 to 6, but 6 to gale 8 at first north, becoming variable 2 to 4.",
       "sea_state": "Rough or very rough, occasionally moderate at first in south, and high at first in north.",
       "weather": "Showers.",
@@ -166,7 +165,7 @@
     },
     "Lundy": {
       "text": "Wind\nSouth or southwest 7 to severe gale 9, veering west 5 to 7.\nSea state\nRough or very rough, occasionally high at first in west, becoming moderate or rough later.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Fri 3 Apr 2026\nSouthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent",
       "wind": "South or southwest 7 to severe gale 9, veering west 5 to 7.",
       "sea_state": "Rough or very rough, occasionally high at first in west, becoming moderate or rough later.",
       "weather": "Rain, then showers.",
@@ -174,7 +173,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSouth or southwest 7 to severe gale 9, veering west 5 to 7.\nSea state\nRough or very rough, occasionally high at first, becoming moderate or rough later.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Fri 3 Apr 2026\nSouthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent",
       "wind": "South or southwest 7 to severe gale 9, veering west 5 to 7.",
       "sea_state": "Rough or very rough, occasionally high at first, becoming moderate or rough later.",
       "weather": "Rain, then showers.",
@@ -182,7 +181,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSouth or southwest 7 to severe gale 9, occasionally storm 10 for a time, veering west 5 to 7.\nSea state\nRough or very rough, occasionally moderate, becoming moderate or rough later.\nWeather\nRain, then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Sat 4 Apr 2026\nSoutherly gale force 8 veering southwesterly storm force 10 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nStorm force 10 veering westerly and decreasing gale force 8 imminent",
       "wind": "South or southwest 7 to severe gale 9, occasionally storm 10 for a time, veering west 5 to 7.",
       "sea_state": "Rough or very rough, occasionally moderate, becoming moderate or rough later.",
       "weather": "Rain, then showers.",
@@ -190,7 +189,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 7 to severe gale 9, becoming west 5 to 7, backing southwest 3 to 5 later.\nSea state\nVery rough or high, becoming rough later.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sat 4 Apr 2026\nSoutherly severe gale force 9 veering northwesterly gale force 8 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nGale force 8 backing westerly imminent, backing southerly later",
       "wind": "Cyclonic 7 to severe gale 9, becoming west 5 to 7, backing southwest 3 to 5 later.",
       "sea_state": "Very rough or high, becoming rough later.",
       "weather": "Squally showers.",
@@ -198,6 +197,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic becoming west 5 to 7.\nSea state\nRough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nWesterly gale force 8 expected soon, backing southeasterly later",
       "wind": "Cyclonic becoming west 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally showers.",
@@ -205,7 +205,7 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic becoming west 5 to 7, but 7 to severe gale 9 at first.\nSea state\nRough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Fri 3 Apr 2026\nNortherly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nSevere gale force 9 now backed northwesterly, backing westerly and decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming west 5 to 7, but 7 to severe gale 9 at first.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally showers.",
@@ -213,7 +213,7 @@
     },
     "Hebrides": {
       "text": "Wind\nNortherly 5 to 7, occasionally gale 8 in south, backing westerly 5 to 7, occasionally gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Sat 4 Apr 2026\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nGale force 8 backing westerly imminent",
       "wind": "Northerly 5 to 7, occasionally gale 8 in south, backing westerly 5 to 7, occasionally gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -229,7 +229,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic 3 to 5, increasing 7 to severe gale 9 for a time, becoming westerly 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain or wintry showers.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:44 (UTC) on Sat 4 Apr 2026\nSoutheasterly gale force 8 backing northerly severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sat 4 Apr 2026\nGale force 8 now backed northeasterly, backing northerly and increasing severe gale force 9 imminent, backing northwesterly and increasing storm force 10 soon",
       "wind": "Cyclonic 3 to 5, increasing 7 to severe gale 9 for a time, becoming westerly 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or wintry showers.",
