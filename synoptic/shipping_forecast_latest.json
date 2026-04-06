@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-06T10:00:02Z",
+  "fetched_at": "2026-04-06T10:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Mon 6 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Mon 6 Apr 2026 to 06:00 (UTC) on Tue 7 Apr 2026",
   "general_synopsis": "Atlantic low 957 moving northwards expected 200 miles southwest of Iceland 968 by midnight tonight",
@@ -127,14 +127,15 @@
       "visibility": "Good."
     },
     "Trafalgar": {
-      "text": "Wind\nEasterly or southeasterly 4 to 6, but 6 or 7 in far southeast, veering westerly or southwesterly later in west.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
-      "wind": "Easterly or southeasterly 4 to 6, but 6 or 7 in far southeast, veering westerly or southwesterly later in west.",
+      "text": "r 7 in far southeast, veering westerly or southwesterly later in west.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 6 Apr 2026\nNorthwesterly gale force 8 expected later\nForecast issued:\n23:15 (UTC) on Sun 5 Apr 2026",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
       "visibility": "Moderate or good."
     },
     "FitzRoy": {
       "text": "Wind\nVariable 3 or less at first in southeast, otherwise southerly or southeasterly 4 to 6.\nSea state\nRough or very rough, occasionally moderate in east, and high at times later in southwest.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 6 Apr 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 3 or less at first in southeast, otherwise southerly or southeasterly 4 to 6.",
       "sea_state": "Rough or very rough, occasionally moderate in east, and high at times later in southwest.",
       "weather": "Showers, rain later.",
@@ -179,7 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutheast 6 to gale 8, occasional severe gale 9, becoming cyclonic 4 to 6 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Sun 5 Apr 2026\nGale force 8 backing southeasterly soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 6 Apr 2026\nSevere gale force 9 veering southerly and decreasing gale force 8 imminent",
       "wind": "Southeast 6 to gale 8, occasional severe gale 9, becoming cyclonic 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Occasional rain.",
@@ -203,7 +204,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheasterly 7 to severe gale 9, veering south 6 to gale 8, but decreasing 3 to 5 later in east.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Sun 5 Apr 2026\nGale force 8 backing southeasterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 6 Apr 2026\nSoutheasterly severe gale force 9 continuing",
       "wind": "Southeasterly 7 to severe gale 9, veering south 6 to gale 8, but decreasing 3 to 5 later in east.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Occasional rain.",
