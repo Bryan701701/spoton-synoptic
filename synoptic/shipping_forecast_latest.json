@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-07T03:45:01Z",
+  "fetched_at": "2026-04-07T04:00:02Z",
   "issued": "Issued at: 23:15 (UTC) on Mon 6 Apr 2026",
   "valid": "For the period 00:00 (UTC) on Tue 7 Apr 2026 to 00:00 (UTC) on Wed 8 Apr 2026",
   "general_synopsis": "Low just west of FitzRoy 1003 expected south FitzRoy 1005 by 1800 tomorrow, high German Bight 1028 dissipating by same time",
@@ -178,6 +178,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 4 to 6.\nSea state\nMainly very rough or high, becoming rough or very rough.\nWeather\nRain at times.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Tue 7 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6.",
       "sea_state": "Mainly very rough or high, becoming rough or very rough.",
       "weather": "Rain at times.",
@@ -215,7 +216,6 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, occasionally gale 8 at first in east and decreasing 4 at times.\nSea state\nVery rough, occasionally high, becoming rough or very rough later.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Mon 6 Apr 2026\nSoutheasterly severe gale force 9 now decreased gale force 8",
       "wind": "Southerly or southeasterly 5 to 7, occasionally gale 8 at first in east and decreasing 4 at times.",
       "sea_state": "Very rough, occasionally high, becoming rough or very rough later.",
       "weather": "Occasional rain.",
