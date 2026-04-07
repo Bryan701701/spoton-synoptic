@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-07T15:45:02Z",
+  "fetched_at": "2026-04-07T16:00:01Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 7 Apr 2026",
   "valid": "For the period 12:00 (UTC) on Tue 7 Apr 2026 to 12:00 (UTC) on Wed 8 Apr 2026",
   "general_synopsis": "Low FitzRoy 1005 expected Trafalgar with little change by 0600 tomorrow. High Norway 1030 dissipating by same time",
@@ -134,7 +134,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn south, cyclonic 4 to 6, but northwesterly 7 to severe gale 9 at first in west, becoming variable 3 or less later in east. In north, northerly 6 or 7 at first in far west, otherwise cyclonic 3 to 5, occasionally 6 in west.\nSea state\nIn south, rough or very rough, but high at first in far southwest. in north, very rough, becoming rough later.\nWeather\nIn south, thundery showers. In north, occasional rain, fog patches.\nVisibility\nIn south, good, occasionally poor. In north, moderate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Mon 6 Apr 2026\nNorthwesterly gale force 8 expected soon and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 7 Apr 2026\nSevere gale force 9 backing northerly and decreasing gale force 8 imminent",
       "wind": "In south, cyclonic 4 to 6, but northwesterly 7 to severe gale 9 at first in west, becoming variable 3 or less later in east. In north, northerly 6 or 7 at first in far west, otherwise cyclonic 3 to 5, occasionally 6 in west.",
       "sea_state": "In south, rough or very rough, but high at first in far southwest. in north, very rough, becoming rough later.",
       "weather": "In south, thundery showers. In north, occasional rain, fog patches.",
@@ -192,6 +192,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 4 to 6, becoming south or southwest 5 to 7 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Tue 7 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, becoming south or southwest 5 to 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
