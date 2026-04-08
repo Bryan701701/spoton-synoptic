@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-08T09:45:02Z",
+  "fetched_at": "2026-04-08T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 8 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Wed 8 Apr 2026 to 06:00 (UTC) on Thu 9 Apr 2026",
   "general_synopsis": "Low Trafalgar 1004 moving away slowly southwards",
@@ -24,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, occasionally 7 later.\nSea state\nModerate or rough in west, slight or moderate in east.\nWeather\nRain at times.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough in west, slight or moderate in east.",
       "weather": "Rain at times.",
@@ -129,7 +130,7 @@
     },
     "Trafalgar": {
       "text": "in west, occasionally severe gale 9 in west.\nSea state\nRough or very rough in east, very rough or high in west.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:40 (UTC) on Tue 7 Apr 2026\nSevere gale force 9 veering northerly soon\nForecast issued:\n23:15 (UTC) on Tue 7 Apr 2026",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nNortherly severe gale force 9 veering northeasterly and decreasing gale force 8 soon\nForecast issued:\n23:15 (UTC) on Tue 7 Apr 2026",
       "sea_state": "Rough or very rough in east, very rough or high in west.",
       "weather": "Rain or thundery showers.",
       "visibility": "Moderate or good, occasionally poor."
@@ -171,6 +172,7 @@
     },
     "Shannon": {
       "text": "Wind\nNorthwesterly 3 at first in southeast, otherwise southwesterly 4 to 6, veering westerly 5 to 7 later, perhaps gale 8 later.\nSea state\nRough or very rough.\nWeather\nFair then rain, then showers later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nWesterly gale force 8 expected later",
       "wind": "Northwesterly 3 at first in southeast, otherwise southwesterly 4 to 6, veering westerly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Fair then rain, then showers later.",
@@ -178,7 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Wed 8 Apr 2026\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nGale force 8 veering westerly later",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -186,6 +188,7 @@
     },
     "Malin": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, decreasing 4 at times.\nSea state\nRough or very rough in west, moderate or rough in east.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nSouthwesterly gale force 8 imminent",
       "wind": "Southerly or southwesterly 5 to 7, decreasing 4 at times.",
       "sea_state": "Rough or very rough in west, moderate or rough in east.",
       "weather": "Rain or showers.",
@@ -201,7 +204,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 7 Apr 2026\nGale now ceased, but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nSoutherly gale force 8 continuing, veering southwesterly imminent",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
@@ -225,7 +228,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutherly or southwesterly 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:43 (UTC) on Tue 7 Apr 2026\nGale now ceased, but southerly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nSoutherly gale force 8 continuing",
       "wind": "Southerly or southwesterly 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
