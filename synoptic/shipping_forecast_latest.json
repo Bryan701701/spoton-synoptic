@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-09T09:45:02Z",
+  "fetched_at": "2026-04-09T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Thu 9 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Thu 9 Apr 2026 to 06:00 (UTC) on Fri 10 Apr 2026",
   "general_synopsis": "Developing low moving rapidly northeastwards, expected 350 miles west of Shannon 993 by midnight tonight",
@@ -76,6 +76,7 @@
     },
     "German Bight": {
       "text": "Wind\nSoutheast, becoming cyclonic later, 5 to 7, decreasing 4 at times.\nSea state\nSlight or moderate, becoming moderate or rough in north.\nWeather\nShowers, then rain or snow later.\nVisibility\nGood, becoming moderate to very poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Southeast, becoming cyclonic later, 5 to 7, decreasing 4 at times.",
       "sea_state": "Slight or moderate, becoming moderate or rough in north.",
       "weather": "Showers, then rain or snow later.",
@@ -146,6 +147,7 @@
     },
     "Sole": {
       "text": "Wind\nIn west, northwesterly 4 to 6 becoming variable 2 to 4, then southerly 5 to 7 later, perhaps gale 8 later. In east, westerly or southwesterly 3 to 5 veering westerly or northwesterly 5 to 7, becoming variable 2 to 4 later.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nIn west, showers. In east, occasional rain, then showers.\nVisibility\nIn west, moderate or good. In east, good, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nSoutherly gale force 8 expected later",
       "wind": "In west, northwesterly 4 to 6 becoming variable 2 to 4, then southerly 5 to 7 later, perhaps gale 8 later. In east, westerly or southwesterly 3 to 5 veering westerly or northwesterly 5 to 7, becoming variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "In west, showers. In east, occasional rain, then showers.",
@@ -160,6 +162,7 @@
     },
     "Fastnet": {
       "text": "Wind\nWesterly or southwesterly 3 to 5 veering westerly or northwesterly 5 to 7, becoming variable 2 to 4 later.\nSea state\nModerate or rough, becoming very rough in southwest.\nWeather\nOccasional rain, then showers.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nSoutherly gale force 8 expected later",
       "wind": "Westerly or southwesterly 3 to 5 veering westerly or northwesterly 5 to 7, becoming variable 2 to 4 later.",
       "sea_state": "Moderate or rough, becoming very rough in southwest.",
       "weather": "Occasional rain, then showers.",
@@ -174,7 +177,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest, backing south or southeast later, 6 to gale 8, decreasing 3 to 5 for a time.\nSea state\nRough or very rough, becoming high for a time in north.\nWeather\nSqually showers, then rain later.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nGale force 8 backing southeasterly and increasing severe gale force 9 later",
       "wind": "West, backing south or southeast later, 6 to gale 8, decreasing 3 to 5 for a time.",
       "sea_state": "Rough or very rough, becoming high for a time in north.",
       "weather": "Squally showers, then rain later.",
@@ -182,7 +185,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest, backing south or southeast later, 6 to gale 8, decreasing 3 to 5 for a time.\nSea state\nRough or very rough, becoming high for a time.\nWeather\nSqually showers, then rain later.\nVisibility\nModerate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Wed 8 Apr 2026\nGale force 8 veering westerly later",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nGale force 8 backing southeasterly and increasing severe gale force 9 later",
       "wind": "West, backing south or southeast later, 6 to gale 8, decreasing 3 to 5 for a time.",
       "sea_state": "Rough or very rough, becoming high for a time.",
       "weather": "Squally showers, then rain later.",
@@ -190,6 +193,7 @@
     },
     "Malin": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, occasionally 4 at first, then decreasing 4 or 5 later.\nSea state\nVery rough or high.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nWesterly gale force 8 expected soon",
       "wind": "Westerly or southwesterly 5 to 7, occasionally 4 at first, then decreasing 4 or 5 later.",
       "sea_state": "Very rough or high.",
       "weather": "Squally showers.",
@@ -204,7 +208,7 @@
     },
     "Bailey": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, increasing gale 8 at times, then decreasing 4 or 5 later.\nSea state\nVery rough or high.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:58 (UTC) on Thu 9 Apr 2026\nGale force 8 veering westerly imminent",
+      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Thu 9 Apr 2026\nGale force 8 backing southeasterly later",
       "wind": "Westerly or southwesterly 5 to 7, increasing gale 8 at times, then decreasing 4 or 5 later.",
       "sea_state": "Very rough or high.",
       "weather": "Squally showers.",
