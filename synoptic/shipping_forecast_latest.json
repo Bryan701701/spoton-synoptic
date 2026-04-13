@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-13T09:45:02Z",
+  "fetched_at": "2026-04-13T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Mon 13 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Mon 13 Apr 2026 to 06:00 (UTC) on Tue 14 Apr 2026",
   "general_synopsis": "Low Faeroes 985 expected 200 miles north of Iceland 1001 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 6 to gale 8 decreasing 4 to 6.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:40 (UTC) on Sun 12 Apr 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southeasterly 6 to gale 8 decreasing 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -16,7 +15,6 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 6 to gale 8 decreasing 4 to 6.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:43 (UTC) on Sun 12 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8 decreasing 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -206,7 +204,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwest 6 to gale 8 backing south or southeast 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:43 (UTC) on Sun 12 Apr 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 soon",
       "wind": "Southwest 6 to gale 8 backing south or southeast 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Showers, squally at first.",
@@ -214,7 +211,6 @@
     },
     "Faeroes": {
       "text": "Wind\nIn east, southwest 6 to gale 8 backing south or southeast 4 to 6. In west, cyclonic, becoming mainly southeasterly, 3 to 5, increasing 6 at times.\nSea state\nIn east, moderate or rough, occasionally very rough at first. in west, moderate or rough.\nWeather\nIn east, showers, squally at first. In west, showers.\nVisibility\nIn east, good, occasionally poor. In west, good, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:42 (UTC) on Sun 12 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "In east, southwest 6 to gale 8 backing south or southeast 4 to 6. In west, cyclonic, becoming mainly southeasterly, 3 to 5, increasing 6 at times.",
       "sea_state": "In east, moderate or rough, occasionally very rough at first. in west, moderate or rough.",
       "weather": "In east, showers, squally at first. In west, showers.",
