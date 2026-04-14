@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-14T16:00:01Z",
+  "fetched_at": "2026-04-14T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 14 Apr 2026",
   "valid": "For the period 12:00 (UTC) on Tue 14 Apr 2026 to 12:00 (UTC) on Wed 15 Apr 2026",
   "general_synopsis": "Low 450 miles west of Rockall 978 expected 300 miles west of Shannon 985 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, increasing 5 to 7 later.\nSea state\nSlight or moderate, becoming rough later in west.\nWeather\nOccasional rain at first.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 3 to 5, increasing 5 to 7 later.",
       "sea_state": "Slight or moderate, becoming rough later in west.",
       "weather": "Occasional rain at first.",
@@ -22,6 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, increasing 5 to 7 later.\nSea state\nSlight or moderate.\nWeather\nOccasional rain at first.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 3 to 5, increasing 5 to 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Occasional rain at first.",
@@ -29,6 +31,7 @@
     },
     "Forties": {
       "text": "Wind\nSouth or southeast 2 to 4 increasing 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, becoming rough later in north.\nWeather\nRain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "South or southeast 2 to 4 increasing 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, becoming rough later in north.",
       "weather": "Rain later.",
@@ -142,6 +145,7 @@
     },
     "Sole": {
       "text": "Wind\nSouthwesterly 4 to 6 increasing 6 or 7, perhaps gale 8 later in west.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nOccasional rain and fog patches, then showers later.\nVisibility\nModerate or good, occasionally very poor until later.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6 increasing 6 or 7, perhaps gale 8 later in west.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Occasional rain and fog patches, then showers later.",
@@ -170,6 +174,7 @@
     },
     "Shannon": {
       "text": "Wind\nSoutherly 4 to 6, veering southwesterly 6 or 7 later, perhaps gale 8 later in southwest.\nSea state\nModerate at first in northeast, otherwise rough, but becoming very rough later in west and south.\nWeather\nRain and fog patches, then showers.\nVisibility\nModerate or good, occasionally very poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southerly 4 to 6, veering southwesterly 6 or 7 later, perhaps gale 8 later in southwest.",
       "sea_state": "Moderate at first in northeast, otherwise rough, but becoming very rough later in west and south.",
       "weather": "Rain and fog patches, then showers.",
