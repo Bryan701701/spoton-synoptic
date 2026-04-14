@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-14T09:45:02Z",
+  "fetched_at": "2026-04-14T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 14 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Tue 14 Apr 2026 to 06:00 (UTC) on Wed 15 Apr 2026",
   "general_synopsis": "Low 50 miles south of Iceland 998 losing its identity",
@@ -134,6 +134,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nSouthwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later in west.\nSea state\nModerate or rough, becoming rough or very rough later in west.\nWeather\nOccasional rain and fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 4 to 6, occasionally 7 later, perhaps gale 8 later in west.",
       "sea_state": "Moderate or rough, becoming rough or very rough later in west.",
       "weather": "Occasional rain and fog patches.",
@@ -190,6 +191,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth or southeast 4 to 6, occasionally 7 until later.\nSea state\nModerate or rough.\nWeather\nRain at times.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "South or southeast 4 to 6, occasionally 7 until later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain at times.",
@@ -205,6 +207,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouth backing southeast 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers then occasional rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "South backing southeast 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Showers then occasional rain later.",
@@ -212,6 +215,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouth backing southeast 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers then occasional rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "South backing southeast 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Showers then occasional rain later.",
@@ -219,7 +223,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic becoming southeasterly, 3 to 5, increasing 5 to 7 later, occasionally gale 8 later in west.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected soon, backing northeasterly and increasing severe gale force 9 later",
       "wind": "Cyclonic becoming southeasterly, 3 to 5, increasing 5 to 7 later, occasionally gale 8 later in west.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain or showers.",
