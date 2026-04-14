@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-14T22:00:01Z",
+  "fetched_at": "2026-04-14T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 14 Apr 2026",
   "valid": "For the period 18:00 (UTC) on Tue 14 Apr 2026 to 18:00 (UTC) on Wed 15 Apr 2026",
   "general_synopsis": "Low 550 miles west of Rockall 977 losing its identity",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nEasterly or southeasterly 3 to 5 veering southerly or southeasterly 5 to 7.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nOccasional rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Easterly or southeasterly 3 to 5 veering southerly or southeasterly 5 to 7.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Occasional rain later.",
@@ -196,7 +197,6 @@
     },
     "Hebrides": {
       "text": "Wind\nSoutheasterly 5 to 7, occasionally gale 8 in west, becoming cyclonic mainly southerly 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain and fog patches, then thundery showers.\nVisibility\nModerate or good, occasionally very poor until later.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Southeasterly 5 to 7, occasionally gale 8 in west, becoming cyclonic mainly southerly 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain and fog patches, then thundery showers.",
@@ -204,7 +204,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheasterly 5 to 7, increasing gale 8 at times, then becoming cyclonic mainly southerly 4 to 6.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain and fog patches, then thundery showers.\nVisibility\nModerate or good, occasionally very poor until later.",
-      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Mon 13 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 5 to 7, increasing gale 8 at times, then becoming cyclonic mainly southerly 4 to 6.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain and fog patches, then thundery showers.",
