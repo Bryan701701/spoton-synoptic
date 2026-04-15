@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-15T15:45:02Z",
+  "fetched_at": "2026-04-15T16:00:01Z",
   "issued": "Issued at: 10:30 (UTC) on Wed 15 Apr 2026",
   "valid": "For the period 12:00 (UTC) on Wed 15 Apr 2026 to 12:00 (UTC) on Thu 16 Apr 2026",
   "general_synopsis": "Atlantic low 984 expected Bailey 994 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain, fog patches.",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nModerate or rough, occasionally slight at first and very rough later.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally slight at first and very rough later.",
       "weather": "Rain, fog patches.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutheasterly 6 to gale 8, veering southerly 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8, veering southerly 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain, fog patches.",
@@ -145,7 +145,6 @@
     },
     "Sole": {
       "text": "Wind\nSouthwest 6 to gale 8, backing south 5 to 7.\nSea state\nVery rough, occasionally high in west.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 6 to gale 8, backing south 5 to 7.",
       "sea_state": "Very rough, occasionally high in west.",
       "weather": "Thundery showers, rain later.",
@@ -174,7 +173,7 @@
     },
     "Shannon": {
       "text": "Wind\nSouthwest 6 to gale 8, backing south 4 to 6.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 14 Apr 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 15 Apr 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwest 6 to gale 8, backing south 4 to 6.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Thundery showers, rain later.",
@@ -218,7 +217,6 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8, becoming cyclonic 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain, fog patches.",
@@ -226,7 +224,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming variable 4 or less.\nSea state\nRough, occasionally very rough at first.\nWeather\nRain, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 15 Apr 2026\nNortheasterly severe gale force 9 now veered southeasterly and decreased gale force 8",
       "wind": "Cyclonic 6 to gale 8, becoming variable 4 or less.",
       "sea_state": "Rough, occasionally very rough at first.",
       "weather": "Rain, fog patches.",
