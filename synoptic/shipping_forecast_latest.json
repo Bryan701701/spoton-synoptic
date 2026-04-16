@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-16T09:45:02Z",
+  "fetched_at": "2026-04-16T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Thu 16 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Thu 16 Apr 2026 to 06:00 (UTC) on Fri 17 Apr 2026",
   "general_synopsis": "Low 450 miles west of Sole 997 expected 100 miles west of south Rockall 993 by midnight tonight",
@@ -32,7 +32,6 @@
     },
     "Forties": {
       "text": "Wind\nIn northeast, southerly or southeasterly 6 to gale 8 decreasing 4 to 6. In southwest, southerly 4 to 6, veering southwesterly 3 to 5 for a time.\nSea state\nModerate or rough, becoming slight or moderate in southwest.\nWeather\nIn northeast, rain then showers, fog patches. In southwest, showers, then rain later.\nVisibility\nIn northeast, moderate or good, occasionally very poor. In southwest, good, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "In northeast, southerly or southeasterly 6 to gale 8 decreasing 4 to 6. In southwest, southerly 4 to 6, veering southwesterly 3 to 5 for a time.",
       "sea_state": "Moderate or rough, becoming slight or moderate in southwest.",
       "weather": "In northeast, rain then showers, fog patches. In southwest, showers, then rain later.",
@@ -189,6 +188,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwesterly backing southerly 4 to 6, occasionally 7 later.\nSea state\nRough or very rough in west, moderate or rough in east.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:46 (UTC) on Thu 16 Apr 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwesterly backing southerly 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough in west, moderate or rough in east.",
       "weather": "Showers then rain.",
@@ -210,7 +210,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutheasterly 6 to gale 8 at first in northeast, otherwise cyclonic 3 to 5 becoming southerly 4 to 6.\nSea state\nVery rough at first in far northeast, otherwise moderate or rough.\nWeather\nRain or showers, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Wed 15 Apr 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8 at first in northeast, otherwise cyclonic 3 to 5 becoming southerly 4 to 6.",
       "sea_state": "Very rough at first in far northeast, otherwise moderate or rough.",
       "weather": "Rain or showers, fog patches at first.",
