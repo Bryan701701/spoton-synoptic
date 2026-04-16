@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-16T04:00:02Z",
+  "fetched_at": "2026-04-16T04:15:01Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 15 Apr 2026",
   "valid": "For the period 00:00 (UTC) on Thu 16 Apr 2026 to 00:00 (UTC) on Fri 17 Apr 2026",
   "general_synopsis": "Low 500 miles west of Sole 998 expected 150 miles west of Shannon 993 by 1800 Thursday",
@@ -166,7 +166,6 @@
     },
     "Irish Sea": {
       "text": "Wind\nSouthwesterly 5 to 7, occasionally gale 8 at first, then backing southerly 4 to 6.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:24 (UTC) on Wed 15 Apr 2026\nSouthwesterly gale force 8 imminent",
       "wind": "Southwesterly 5 to 7, occasionally gale 8 at first, then backing southerly 4 to 6.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers then rain.",
@@ -182,6 +181,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth or southwest becoming cyclonic, 4 to 6, occasionally 7 later.\nSea state\nRough or very rough.\nWeather\nThundery showers, then rain later.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 16 Apr 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southwest becoming cyclonic, 4 to 6, occasionally 7 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery showers, then rain later.",
