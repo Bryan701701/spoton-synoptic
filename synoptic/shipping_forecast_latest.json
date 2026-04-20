@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-20T16:00:02Z",
+  "fetched_at": "2026-04-20T16:15:02Z",
   "issued": "Issued at: 10:30 (UTC) on Mon 20 Apr 2026",
   "valid": "For the period 12:00 (UTC) on Mon 20 Apr 2026 to 12:00 (UTC) on Tue 21 Apr 2026",
   "general_synopsis": "New low expected FitzRoy 994 by 0600 tomorrow",
@@ -113,6 +113,7 @@
     },
     "Plymouth": {
       "text": "Wind\nEast 5 or 6, increasing 6 or 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "East 5 or 6, increasing 6 or 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Mainly fair.",
@@ -142,7 +143,7 @@
     },
     "Sole": {
       "text": "Wind\nEast 5 or 6, increasing 6 to gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later in west.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 20 Apr 2026\nEasterly severe gale force 9 expected later",
       "wind": "East 5 or 6, increasing 6 to gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later in west.",
       "weather": "Occasional rain.",
@@ -157,6 +158,7 @@
     },
     "Fastnet": {
       "text": "Wind\nEast 4 to 6, increasing 6 or 7 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "East 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Mainly fair.",
