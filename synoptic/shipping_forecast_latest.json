@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-20T10:00:01Z",
+  "fetched_at": "2026-04-20T10:15:01Z",
   "issued": "Issued at: 04:05 (UTC) on Mon 20 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Mon 20 Apr 2026 to 06:00 (UTC) on Tue 21 Apr 2026",
   "general_synopsis": "High Southeast Iceland 1032 expected just south of Iceland 1041 by midnight tonight. New low expected Trafalgar 999 by same time. Low Viking 1021 losing its identity. High FitzRoy 1016 dissipating",
@@ -126,14 +126,15 @@
       "visibility": "Good, occasionally very poor in south."
     },
     "Trafalgar": {
-      "text": "Wind\nCyclonic 3 to 5, increasing 5 to 7 later.\nSea state\nSlight or moderate.\nWeather\nThundery showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
-      "wind": "Cyclonic 3 to 5, increasing 5 to 7 later.",
+      "text": "Sea state\nSlight or moderate.\nWeather\nThundery showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 20 Apr 2026\nNorthwesterly gale force 8 expected later\nForecast issued:\n23:15 (UTC) on Sun 19 Apr 2026",
       "sea_state": "Slight or moderate.",
       "weather": "Thundery showers, fog patches.",
       "visibility": "Moderate or good, occasionally very poor."
     },
     "FitzRoy": {
       "text": "Wind\nIn south, variable 2 to 4, becoming easterly or southeasterly 3 to 5, increasing 5 to 7 later. In north, easterly or southeasterly 4 to 6, occasionally 3 in southwest.\nSea state\nIn south, slight or moderate, becoming moderate or rough later. in north, moderate or rough.\nWeather\nIn south, thundery showers, fog patches. In north, occasional rain or showers.\nVisibility\nIn south, moderate or good, occasionally very poor. In north, good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "In south, variable 2 to 4, becoming easterly or southeasterly 3 to 5, increasing 5 to 7 later. In north, easterly or southeasterly 4 to 6, occasionally 3 in southwest.",
       "sea_state": "In south, slight or moderate, becoming moderate or rough later. in north, moderate or rough.",
       "weather": "In south, thundery showers, fog patches. In north, occasional rain or showers.",
@@ -141,6 +142,7 @@
     },
     "Sole": {
       "text": "Wind\nEast 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "East 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -169,6 +171,7 @@
     },
     "Shannon": {
       "text": "Wind\nEast or northeast 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "East or northeast 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
