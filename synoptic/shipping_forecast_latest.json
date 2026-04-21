@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-21T22:00:01Z",
+  "fetched_at": "2026-04-21T22:15:02Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 21 Apr 2026",
   "valid": "For the period 18:00 (UTC) on Tue 21 Apr 2026 to 18:00 (UTC) on Wed 22 Apr 2026",
   "general_synopsis": "Low just west of FitzRoy 988 expected 350 miles west of FitzRoy 975 by midday tomorrow",
@@ -152,6 +152,7 @@
     },
     "Lundy": {
       "text": "Wind\nEast 5 to 7.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 21 Apr 2026\nEasterly gale force 8 expected soon",
       "wind": "East 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -174,7 +175,7 @@
     },
     "Shannon": {
       "text": "Wind\nEasterly 6 to gale 8, occasionally severe gale 9 at first in south.\nSea state\nRough or very rough, becoming high for a time in far southwest.\nWeather\nOccasional rain.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Mon 20 Apr 2026\nEasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Tue 21 Apr 2026\nEasterly severe gale force 9 continuing",
       "wind": "Easterly 6 to gale 8, occasionally severe gale 9 at first in south.",
       "sea_state": "Rough or very rough, becoming high for a time in far southwest.",
       "weather": "Occasional rain.",
