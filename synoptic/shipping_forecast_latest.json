@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-28T10:00:02Z",
+  "fetched_at": "2026-04-28T10:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 28 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Tue 28 Apr 2026 to 06:00 (UTC) on Wed 29 Apr 2026",
   "general_synopsis": "High Viking 1032 expected Forties 1033 by midnight tonight. Low Trafalgar 1009 expected southeast FitzRoy 1007 by same time",
@@ -106,6 +106,7 @@
     },
     "Portland": {
       "text": "Wind\nNortheast 4 to 6, increasing 6 or 7.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 28 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "Northeast 4 to 6, increasing 6 or 7.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers, perhaps thundery later.",
@@ -113,6 +114,7 @@
     },
     "Plymouth": {
       "text": "Wind\nNortheast 4 to 6, increasing 6 or 7.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 28 Apr 2026\nEasterly gale force 8 expected later",
       "wind": "Northeast 4 to 6, increasing 6 or 7.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers, perhaps thundery later.",
@@ -218,6 +220,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 5 to 7.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 28 Apr 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly 5 to 7.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain.",
