@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-28T22:00:01Z",
+  "fetched_at": "2026-04-28T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 28 Apr 2026",
   "valid": "For the period 18:00 (UTC) on Tue 28 Apr 2026 to 18:00 (UTC) on Wed 29 Apr 2026",
   "general_synopsis": "High Forties 1034 slow moving with little change",
@@ -99,6 +99,7 @@
     },
     "Wight": {
       "text": "Wind\nNortheast 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers at first.\nVisibility\nGood occasionally moderate at first.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 28 Apr 2026\nEasterly gale force 8 expected soon",
       "wind": "Northeast 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers at first.",
@@ -150,6 +151,7 @@
     },
     "Lundy": {
       "text": "Wind\nEast or northeast 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate becoming moderate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 28 Apr 2026\nEasterly gale force 8 expected soon",
       "wind": "East or northeast 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate becoming moderate or rough.",
       "weather": "Showers.",
@@ -220,7 +222,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 4 to 6, but 6 to gale 8 at first in north.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:56 (UTC) on Tue 28 Apr 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly 4 to 6, but 6 to gale 8 at first in north.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
