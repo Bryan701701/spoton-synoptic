@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-04-29T07:00:01Z",
+  "fetched_at": "2026-04-29T07:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 29 Apr 2026",
   "valid": "For the period 06:00 (UTC) on Wed 29 Apr 2026 to 06:00 (UTC) on Thu 30 Apr 2026",
   "general_synopsis": "Low Portugal 1006 expected Biscay with little change by midnight tonight. High Forties 1033 slow-moving with little change",
@@ -144,6 +144,7 @@
     },
     "Sole": {
       "text": "Wind\nNortheast, veering east, 5 to 7.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n07:01 (UTC) on Wed 29 Apr 2026\nEasterly gale force 8 expected imminent",
       "wind": "Northeast, veering east, 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers.",
@@ -159,6 +160,7 @@
     },
     "Fastnet": {
       "text": "Wind\nNortheast, veering east, 5 to 7.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n07:01 (UTC) on Wed 29 Apr 2026\nEasterly gale force 8 expected imminent",
       "wind": "Northeast, veering east, 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers.",
