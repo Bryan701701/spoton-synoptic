@@ -1,9 +1,9 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-06T15:00:02Z",
-  "issued": "Issued at: 10:30 (UTC) on Wed 6 May 2026",
-  "valid": "For the period 12:00 (UTC) on Wed 6 May 2026 to 12:00 (UTC) on Thu 7 May 2026",
+  "fetched_at": "2026-05-06T15:15:02Z",
+  "issued": "Issued at: 10:30 (UTC) on Wed 06 May 2026",
+  "valid": "For the period 12:00 (UTC) on Wed 06 May 2026 to 12:00 (UTC) on Thu 07 May 2026",
   "general_synopsis": "Low 150 miles west of Bailey 1004 expected Bailey 999 by 0600 tomorrow. High Scotland 1017 expected Dogger with little change by same time",
   "areas": {
     "Viking": {
@@ -125,19 +125,19 @@
       "weather": "In north, showers. In south, showers.",
       "visibility": "In north, good. In south, good."
     },
-    "Trafalgar": {
-      "text": "Wind\nNortherly or northwesterly 4 or 5, occasionally 6 just south of portugal, decreasing 3 at times elsewhere.\nSea state\nModerate, occasionally slight in southeast.\nWeather\nShowers.\nVisibility\nGood.",
-      "wind": "Northerly or northwesterly 4 or 5, occasionally 6 just south of portugal, decreasing 3 at times elsewhere.",
-      "sea_state": "Moderate, occasionally slight in southeast.",
-      "weather": "Showers.",
-      "visibility": "Good."
-    },
     "FitzRoy": {
       "text": "Wind\nIn southeast, northwesterly, veering easterly or northeasterly, 3 to 5. In northwest, northerly, becoming variable, 2 to 4.\nSea state\nIn southeast, slight or moderate. in northwest, slight or moderate.\nWeather\nIn southeast, showers. In northwest, showers.\nVisibility\nIn southeast, good. In northwest, good.",
       "wind": "In southeast, northwesterly, veering easterly or northeasterly, 3 to 5. In northwest, northerly, becoming variable, 2 to 4.",
       "sea_state": "In southeast, slight or moderate. in northwest, slight or moderate.",
       "weather": "In southeast, showers. In northwest, showers.",
       "visibility": "In southeast, good. In northwest, good."
+    },
+    "Trafalgar": {
+      "text": "Wind\nNortherly or northwesterly 4 or 5, occasionally 6 just south of portugal, decreasing 3 at times elsewhere.\nSea state\nModerate, occasionally slight in southeast.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Northerly or northwesterly 4 or 5, occasionally 6 just south of portugal, decreasing 3 at times elsewhere.",
+      "sea_state": "Moderate, occasionally slight in southeast.",
+      "weather": "Showers.",
+      "visibility": "Good."
     },
     "Sole": {
       "text": "Wind\nNortherly, becoming variable, 2 to 4.\nSea state\nSlight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
@@ -197,7 +197,7 @@
     },
     "Bailey": {
       "text": "Wind\nIn southeast, cyclonic 5 to 7. In northwest, easterly 5 to 7, backing northeasterly 7 to severe gale 9.\nSea state\nIn southeast, moderate or rough, occasionally very rough later in southeast. in northwest, moderate, becoming rough or very rough, occasionally high later.\nWeather\nIn southeast, occasional rain. In northwest, rain then wintry showers.\nVisibility\nIn southeast, moderate occasionally poor. In northwest, moderate or poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 6 May 2026\nNortheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 06 May 2026\nNortheasterly gale force 8 expected soon, increasing severe gale force 9 later",
       "wind": "In southeast, cyclonic 5 to 7. In northwest, easterly 5 to 7, backing northeasterly 7 to severe gale 9.",
       "sea_state": "In southeast, moderate or rough, occasionally very rough later in southeast. in northwest, moderate, becoming rough or very rough, occasionally high later.",
       "weather": "In southeast, occasional rain. In northwest, rain then wintry showers.",
@@ -212,7 +212,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 3 to 5, increasing 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough in far southwest.\nWeather\nWintry showers then rain.\nVisibility\nGood becoming poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 6 May 2026\nNortheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 06 May 2026\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, increasing 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough in far southwest.",
       "weather": "Wintry showers then rain.",
@@ -220,7 +220,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortheasterly 6 to gale 8.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nSnow showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:44 (UTC) on Wed 6 May 2026\nNortheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:44 (UTC) on Wed 06 May 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Snow showers.",
