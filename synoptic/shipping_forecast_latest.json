@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-07T04:00:04Z",
+  "fetched_at": "2026-05-07T04:15:02Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 06 May 2026",
   "valid": "For the period 00:00 (UTC) on Thu 07 May 2026 to 00:00 (UTC) on Fri 08 May 2026",
   "general_synopsis": "Low 50 miles west of Bailey 999 expected northwest Hebrides 998 by 1800 Thursday",
@@ -176,6 +176,7 @@
     },
     "Rockall": {
       "text": "Wind\nIn northwest, southwesterly 4 to 6 veering northwesterly 5 to 7, perhaps gale 8 later. In southeast, southerly or southwesterly, becoming cyclonic later, 4 to 6.\nSea state\nIn northwest, rough, becoming very rough later. in southeast, moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 07 May 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "In northwest, southwesterly 4 to 6 veering northwesterly 5 to 7, perhaps gale 8 later. In southeast, southerly or southwesterly, becoming cyclonic later, 4 to 6.",
       "sea_state": "In northwest, rough, becoming very rough later. in southeast, moderate or rough.",
       "weather": "Rain or showers.",
@@ -190,6 +191,7 @@
     },
     "Hebrides": {
       "text": "Wind\nIn southeast, southerly or southwesterly, becoming cyclonic later, 4 to 6. In northwest, cyclonic 4 to 6, becoming northwesterly 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later in northwest.\nWeather\nIn southeast, rain or showers. In northwest, occasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 07 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "In southeast, southerly or southwesterly, becoming cyclonic later, 4 to 6. In northwest, cyclonic 4 to 6, becoming northwesterly 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later in northwest.",
       "weather": "In southeast, rain or showers. In northwest, occasional rain.",
@@ -197,7 +199,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 3 to 5 at first in south, otherwise northeasterly backing northerly 6 to gale 8, increasing severe gale 9 at times.\nSea state\nModerate or rough at first in south, otherwise rough or very rough, occasionally high in west.\nWeather\nRain or wintry showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 06 May 2026\nNortheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 07 May 2026\nSevere gale force 9 backing northerly soon",
       "wind": "Cyclonic 3 to 5 at first in south, otherwise northeasterly backing northerly 6 to gale 8, increasing severe gale 9 at times.",
       "sea_state": "Moderate or rough at first in south, otherwise rough or very rough, occasionally high in west.",
       "weather": "Rain or wintry showers.",
