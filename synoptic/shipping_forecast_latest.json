@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-10T09:45:02Z",
+  "fetched_at": "2026-05-10T10:00:01Z",
   "issued": "Issued at: 04:05 (UTC) on Sun 10 May 2026",
   "valid": "For the period 06:00 (UTC) on Sun 10 May 2026 to 06:00 (UTC) on Mon 11 May 2026",
   "general_synopsis": "Low north Trafalgar 1002 expected south FitzRoy 1007 by midnight tonight. New low expected Forties 1004 by same time",
@@ -29,6 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nNorthwest becoming cyclonic, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later.\nWeather\nShowers then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortherly gale force 8 expected later",
       "wind": "Northwest becoming cyclonic, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later.",
       "weather": "Showers then rain.",
@@ -36,6 +37,7 @@
     },
     "Cromarty": {
       "text": "Wind\nNorthwest becoming cyclonic, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortherly gale force 8 expected soon",
       "wind": "Northwest becoming cyclonic, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers then rain.",
@@ -57,6 +59,7 @@
     },
     "Dogger": {
       "text": "Wind\nNorth or northwest 3 to 5, becoming variable 2 to 4, then cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later.\nWeather\nRain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "North or northwest 3 to 5, becoming variable 2 to 4, then cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later.",
       "weather": "Rain later.",
@@ -144,7 +147,7 @@
     },
     "Sole": {
       "text": "Wind\nNortheasterly 6 to gale 8.\nSea state\nRough or very rough, occasionally moderate later.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough, occasionally moderate later.",
       "weather": "Showers.",
@@ -159,7 +162,6 @@
     },
     "Fastnet": {
       "text": "Wind\nNortheast 5 to 7, occasionally gale 8 at first, backing north 4 to 6 later.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 expected later",
       "wind": "Northeast 5 to 7, occasionally gale 8 at first, backing north 4 to 6 later.",
       "sea_state": "Moderate or rough, becoming slight or moderate later.",
       "weather": "Showers.",
@@ -174,7 +176,6 @@
     },
     "Shannon": {
       "text": "Wind\nNortheast backing north or northwest, 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first in south.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeast backing north or northwest, 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first in south.",
       "weather": "Showers.",
