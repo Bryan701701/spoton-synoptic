@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-10T03:45:02Z",
+  "fetched_at": "2026-05-10T04:00:03Z",
   "issued": "Issued at: 23:15 (UTC) on Sat 09 May 2026",
   "valid": "For the period 00:00 (UTC) on Sun 10 May 2026 to 00:00 (UTC) on Mon 11 May 2026",
   "general_synopsis": "Low north Trafalgar 1000 expected south FitzRoy 1005 by 1800 Sunday. New low expected Fair Isle 1005 by same time",
@@ -92,6 +92,7 @@
     },
     "Dover": {
       "text": "Wind\nNortheast 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate, occasionally slight at first then becoming rough at times.\nWeather\nShowers, thundery at first.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 10 May 2026\nNortheasterly gale force 8 expected soon",
       "wind": "Northeast 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate, occasionally slight at first then becoming rough at times.",
       "weather": "Showers, thundery at first.",
@@ -99,6 +100,7 @@
     },
     "Wight": {
       "text": "Wind\nNortheast 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate, occasionally slight at first then becoming rough at times.\nWeather\nShowers, thundery at first.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Sun 10 May 2026\nNortheasterly gale force 8 expected soon",
       "wind": "Northeast 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate, occasionally slight at first then becoming rough at times.",
       "weather": "Showers, thundery at first.",
@@ -134,7 +136,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, cyclonic 4 to 6. In northwest, northeasterly 6 to gale 8.\nSea state\nIn southeast, moderate or rough. in northwest, rough or very rough.\nWeather\nIn southeast, thundery showers. In northwest, showers.\nVisibility\nIn southeast, good, occasionally poor. In northwest, moderate or good.",
-      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:47 (UTC) on Sun 10 May 2026\nNortheasterly gale force 8 continuing",
       "wind": "In southeast, cyclonic 4 to 6. In northwest, northeasterly 6 to gale 8.",
       "sea_state": "In southeast, moderate or rough. in northwest, rough or very rough.",
       "weather": "In southeast, thundery showers. In northwest, showers.",
