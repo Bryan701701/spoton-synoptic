@@ -25,8 +25,8 @@
       "lat": 57.750491731,
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortherly gale force 8 expected soon"
     },
     {
       "name": "Dogger",
@@ -34,8 +34,8 @@
       "lat": 55.125,
       "x": 2795.325,
       "y": 857.9431818181818,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNorthwesterly gale force 8 expected later"
     },
     {
       "name": "Dover",
@@ -70,8 +70,8 @@
       "lat": 51.289964965500104,
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 expected later"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Fisher",
@@ -106,8 +106,8 @@
       "lat": 57.25,
       "x": 2766.163636363636,
       "y": 716.340909090909,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortherly gale force 8 expected later"
     },
     {
       "name": "German Bight",
@@ -196,8 +196,8 @@
       "lat": 51.762720115,
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Sole",
@@ -206,7 +206,7 @@
       "x": 1957.9772727272725,
       "y": 1250.3479571323185,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:48 (UTC) on Sat 09 May 2026\nNortheasterly gale force 8 continuing"
+      "gale_text": "Gale warning\nIssued:\n09:50 (UTC) on Sun 10 May 2026\nNortheasterly gale force 8 continuing"
     },
     {
       "name": "Southeast Iceland",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-05-10T09:30:50Z"
+  "generated_utc": "2026-05-10T10:01:03Z"
 }
