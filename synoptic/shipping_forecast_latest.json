@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-11T09:45:01Z",
+  "fetched_at": "2026-05-11T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Mon 11 May 2026",
   "valid": "For the period 06:00 (UTC) on Mon 11 May 2026 to 06:00 (UTC) on Tue 12 May 2026",
   "general_synopsis": "Low FitzRoy 1006 expected Trafalgar 1012 by midnight tonight. Low Forties 1002 moving steadily southeast and losing its identity",
@@ -29,7 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nNorth 7 to severe gale 9, decreasing 4 to 6, backing west or southwest later.\nSea state\nModerate or rough, occasionally very rough at first in south.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 10 May 2026\nNortherly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Mon 11 May 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "North 7 to severe gale 9, decreasing 4 to 6, backing west or southwest later.",
       "sea_state": "Moderate or rough, occasionally very rough at first in south.",
       "weather": "Squally showers.",
@@ -58,7 +58,7 @@
     },
     "Dogger": {
       "text": "Wind\nNorth or northwest 6 to gale 8, occasionally severe gale 9 at first, backing west 5 later.\nSea state\nRough or very rough, becoming moderate later.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Sun 10 May 2026\nNorthwesterly gale force 8 expected soon, veering northerly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Mon 11 May 2026\nNortherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "North or northwest 6 to gale 8, occasionally severe gale 9 at first, backing west 5 later.",
       "sea_state": "Rough or very rough, becoming moderate later.",
       "weather": "Squally showers.",
@@ -223,6 +223,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly veering westerly or northwesterly, 5 to 7, occasionally 4 in north, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough later in south.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Mon 11 May 2026\nWesterly gale force 8 expected soon",
       "wind": "Southwesterly veering westerly or northwesterly, 5 to 7, occasionally 4 in north, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough later in south.",
       "weather": "Rain then showers.",
