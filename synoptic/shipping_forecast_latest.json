@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-12T03:45:02Z",
+  "fetched_at": "2026-05-12T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Mon 11 May 2026",
   "valid": "For the period 00:00 (UTC) on Tue 12 May 2026 to 00:00 (UTC) on Wed 13 May 2026",
   "general_synopsis": "Low Trafalgar 1010 slow-moving, filling 1017 by 1800 Tuesday. Low German Bight 999 losing its identity",
@@ -71,7 +71,6 @@
     },
     "German Bight": {
       "text": "Wind\nNorth 6 to gale 8, backing west 4 or 5.\nSea state\nModerate or rough.\nWeather\nThundery showers at first, rain later.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 11 May 2026\nNortherly gale force 8 continuing",
       "wind": "North 6 to gale 8, backing west 4 or 5.",
       "sea_state": "Moderate or rough.",
       "weather": "Thundery showers at first, rain later.",
@@ -170,6 +169,7 @@
     },
     "Shannon": {
       "text": "Wind\nNorth 4 or 5, backing northwest 5 to 7.\nSea state\nModerate or rough, becoming very rough later in far north.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Tue 12 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "North 4 or 5, backing northwest 5 to 7.",
       "sea_state": "Moderate or rough, becoming very rough later in far north.",
       "weather": "Showers.",
@@ -185,6 +185,7 @@
     },
     "Malin": {
       "text": "Wind\nWest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain at first, then showers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Tue 12 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "West 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain at first, then showers.",
@@ -221,7 +222,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly 6 to gale 8, becoming cyclonic 4 to 6, then northeasterly 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Mon 11 May 2026\nWesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n03:44 (UTC) on Tue 12 May 2026\nGale now ceased but northerly gale force 8 expected later",
       "wind": "Westerly 6 to gale 8, becoming cyclonic 4 to 6, then northeasterly 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain.",
