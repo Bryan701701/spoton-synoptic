@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-13T21:30:02Z",
+  "fetched_at": "2026-05-13T22:00:02Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 13 May 2026",
   "valid": "For the period 18:00 (UTC) on Wed 13 May 2026 to 18:00 (UTC) on Thu 14 May 2026",
   "general_synopsis": "New low expected Norway 986 by midday tomorrow",
@@ -24,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNortherly 3 to 5, backing northwesterly 4 to 6, increasing 7 at times later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 13 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Northerly 3 to 5, backing northwesterly 4 to 6, increasing 7 at times later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -31,6 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nNortherly 3 to 5, backing northwesterly 4 to 6, increasing 7 at times later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming rough or very rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 13 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Northerly 3 to 5, backing northwesterly 4 to 6, increasing 7 at times later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough or very rough later.",
       "weather": "Showers, rain later.",
@@ -206,6 +208,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorth 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later in east.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:51 (UTC) on Wed 13 May 2026\nNortherly gale force 8 expected later",
       "wind": "North 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later in east.",
       "weather": "Showers.",
