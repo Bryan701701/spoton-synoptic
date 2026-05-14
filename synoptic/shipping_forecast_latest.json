@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-05-14T03:45:02Z",
+  "fetched_at": "2026-05-14T04:00:02Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 13 May 2026",
   "valid": "For the period 00:00 (UTC) on Thu 14 May 2026 to 00:00 (UTC) on Fri 15 May 2026",
   "general_synopsis": "Low southern Sweden 992 expected eastern South Utsire 986 by 1800 Thursday",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 4 or 5 veering northerly 6 to gale 8, perhaps severe gale 9 later.\nSea state\nSlight or moderate becoming rough or very rough.\nWeather\nShowers then rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Wed 13 May 2026\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Thu 14 May 2026\nNortherly gale force 8 imminent, increasing severe gale force 9 soon",
       "wind": "Northwesterly 4 or 5 veering northerly 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate becoming rough or very rough.",
       "weather": "Showers then rain.",
@@ -40,6 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nNorth or northwest 3 or 4 increasing 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSmooth or slight becoming moderate or rough, then becoming very rough later in east.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Thu 14 May 2026\nNorthwesterly gale force 8 expected later",
       "wind": "North or northwest 3 or 4 increasing 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Smooth or slight becoming moderate or rough, then becoming very rough later in east.",
       "weather": "Showers, perhaps thundery.",
@@ -68,6 +69,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate, becoming rough or very rough later.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Thu 14 May 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwest 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate, becoming rough or very rough later.",
       "weather": "Showers, then rain later.",
