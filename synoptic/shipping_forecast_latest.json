@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-02T16:00:01Z",
+  "fetched_at": "2026-06-02T16:15:02Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 02 Jun 2026",
   "valid": "For the period 12:00 (UTC) on Tue 02 Jun 2026 to 12:00 (UTC) on Wed 03 Jun 2026",
   "general_synopsis": "Low west Atlantic 994, moving rapidly east, expected Rockall 985 by 0600 tomorrow. Lows Cromarty 998 and Rockall 998 losing their identities",
@@ -127,6 +127,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, westerly or southwesterly 4 to 6. In northwest, westerly 4 to 6, backing southwesterly 5 to 7 later.\nSea state\nIn southeast, moderate or rough. in northwest, rough, becoming very rough later in west.\nWeather\nIn southeast, showers, rain later. In northwest, rain or showers.\nVisibility\nIn southeast, good, occasionally moderate. In northwest, moderate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 02 Jun 2026\nWesterly gale force 8 expected later",
       "wind": "In southeast, westerly or southwesterly 4 to 6. In northwest, westerly 4 to 6, backing southwesterly 5 to 7 later.",
       "sea_state": "In southeast, moderate or rough. in northwest, rough, becoming very rough later in west.",
       "weather": "In southeast, showers, rain later. In northwest, rain or showers.",
@@ -141,6 +142,7 @@
     },
     "Sole": {
       "text": "Wind\nWesterly 4 to 6, backing southwesterly 5 to 7 later.\nSea state\nRough, becoming very rough later in west.\nWeather\nRain or showers.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 02 Jun 2026\nWesterly gale force 8 expected later",
       "wind": "Westerly 4 to 6, backing southwesterly 5 to 7 later.",
       "sea_state": "Rough, becoming very rough later in west.",
       "weather": "Rain or showers.",
@@ -169,6 +171,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest 4 or 5, becoming cyclonic then southwesterly 5 to 7, perhaps gale 8 later.\nSea state\nRough, becoming rough or very rough later.\nWeather\nRain or showers, thundery later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 02 Jun 2026\nWesterly gale force 8 expected later",
       "wind": "West 4 or 5, becoming cyclonic then southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough, becoming rough or very rough later.",
       "weather": "Rain or showers, thundery later.",
