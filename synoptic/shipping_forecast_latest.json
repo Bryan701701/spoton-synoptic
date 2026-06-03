@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-03T21:45:01Z",
+  "fetched_at": "2026-06-03T22:00:02Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 03 Jun 2026",
   "valid": "For the period 18:00 (UTC) on Wed 03 Jun 2026 to 18:00 (UTC) on Thu 04 Jun 2026",
   "general_synopsis": "Low Rockall 981 expected Fair Isle 982 by midday tomorrow",
@@ -85,6 +85,7 @@
     },
     "Thames": {
       "text": "Wind\nSouthwesterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Wed 03 Jun 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally showers.",
@@ -92,6 +93,7 @@
     },
     "Dover": {
       "text": "Wind\nSouthwesterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Wed 03 Jun 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally showers.",
@@ -150,7 +152,6 @@
     },
     "Lundy": {
       "text": "Wind\nWesterly or southwesterly veering westerly or northwesterly, 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nSqually showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 03 Jun 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Westerly or southwesterly veering westerly or northwesterly, 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Squally showers.",
