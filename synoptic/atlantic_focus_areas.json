@@ -16,8 +16,8 @@
       "lat": 60.20768232800005,
       "x": 1832.9999999666522,
       "y": 519.2517139614514,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n03:44 (UTC) on Thu 04 Jun 2026\nWesterly gale force 8 expected later"
     },
     {
       "name": "Cromarty",
@@ -71,7 +71,7 @@
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:58 (UTC) on Wed 03 Jun 2026\nWesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n03:44 (UTC) on Thu 04 Jun 2026\nWesterly gale force 8 continuing"
     },
     {
       "name": "Fisher",
@@ -88,8 +88,8 @@
       "lat": 46.04365322100005,
       "x": 1957.9261628216761,
       "y": 1463.0911080915423,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:52 (UTC) on Wed 03 Jun 2026\nWesterly gale force 8 continuing"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Forth",
@@ -160,8 +160,8 @@
       "lat": 55.5690157085001,
       "x": 2142.388659287721,
       "y": 828.3555896063114,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n03:44 (UTC) on Thu 04 Jun 2026\nWesterly gale force 8 expected later"
     },
     {
       "name": "Plymouth",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-06-04T03:31:15Z"
+  "generated_utc": "2026-06-04T04:01:23Z"
 }
