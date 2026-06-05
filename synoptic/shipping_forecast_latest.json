@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-05T09:45:02Z",
+  "fetched_at": "2026-06-05T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Fri 05 Jun 2026",
   "valid": "For the period 06:00 (UTC) on Fri 05 Jun 2026 to 06:00 (UTC) on Sat 06 Jun 2026",
   "general_synopsis": "Low 450 miles west of FitzRoy 997 expected Fastnet 989 by midnight tonight",
@@ -99,6 +99,7 @@
     },
     "Wight": {
       "text": "Wind\nWest backing south or southwest, 3 to 5, increasing 6 or 7 later.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Fri 05 Jun 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West backing south or southwest, 3 to 5, increasing 6 or 7 later.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers, then rain later.",
@@ -106,6 +107,7 @@
     },
     "Portland": {
       "text": "Wind\nWest backing south or southwest, 3 to 5, increasing 6 or 7 later.\nSea state\nModerate or rough.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Fri 05 Jun 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West backing south or southwest, 3 to 5, increasing 6 or 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, then rain later.",
@@ -113,7 +115,7 @@
     },
     "Plymouth": {
       "text": "Wind\nWest backing south or southwest, 3 to 5, increasing 6 or 7 later, occasionally gale 8 later.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nShowers, then rain later.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Fri 05 Jun 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Fri 05 Jun 2026\nSoutherly gale force 8 expected soon, veering westerly later",
       "wind": "West backing south or southwest, 3 to 5, increasing 6 or 7 later, occasionally gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Showers, then rain later.",
@@ -129,7 +131,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nVariable 2 to 4 at first except in northwest, otherwise southerly or southwesterly, veering westerly or northwesterly later, 5 to 7, occasionally gale 8 in north.\nSea state\nRough or very rough, becoming high for a time in northwest.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Thu 04 Jun 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Fri 05 Jun 2026\nSoutherly gale force 8 veering westerly and increasing severe gale force 9 soon",
       "wind": "Variable 2 to 4 at first except in northwest, otherwise southerly or southwesterly, veering westerly or northwesterly later, 5 to 7, occasionally gale 8 in north.",
       "sea_state": "Rough or very rough, becoming high for a time in northwest.",
       "weather": "Rain or showers.",
@@ -152,7 +154,7 @@
     },
     "Lundy": {
       "text": "Wind\nWest 4 or 5 becoming cyclonic 6 to gale 8.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers then rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Thu 04 Jun 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:49 (UTC) on Fri 05 Jun 2026\nSoutheasterly gale force 8 expected soon, veering westerly later",
       "wind": "West 4 or 5 becoming cyclonic 6 to gale 8.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers then rain.",
