@@ -160,8 +160,8 @@
       "lat": 55.5690157085001,
       "x": 2142.388659287721,
       "y": 828.3555896063114,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Fri 12 Jun 2026\nWesterly gale force 8 expected soon"
     },
     {
       "name": "Plymouth",
@@ -188,7 +188,7 @@
       "x": 1833.0252271642187,
       "y": 815.5703560222279,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:42 (UTC) on Thu 11 Jun 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n09:49 (UTC) on Fri 12 Jun 2026\nGale force 8 veering westerly imminent"
     },
     {
       "name": "Shannon",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-06-12T09:31:01Z"
+  "generated_utc": "2026-06-12T10:01:10Z"
 }
