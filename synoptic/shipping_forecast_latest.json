@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-13T15:30:01Z",
+  "fetched_at": "2026-06-13T15:45:02Z",
   "issued": "Issued at: 10:30 (UTC) on Sat 13 Jun 2026",
   "valid": "For the period 12:00 (UTC) on Sat 13 Jun 2026 to 12:00 (UTC) on Sun 14 Jun 2026",
   "general_synopsis": "Low Fair Isle 1003 losing its identity by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 4 or less, becoming northwesterly 5 or 6, occasionally 7 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:41 (UTC) on Sat 13 Jun 2026\nNortherly gale force 8 expected later",
       "wind": "Variable 4 or less, becoming northwesterly 5 or 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Rain.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 4 or less, becoming northwesterly 5 or 6, occasionally 7 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:41 (UTC) on Sat 13 Jun 2026\nNortherly gale force 8 expected later",
       "wind": "Variable 4 or less, becoming northwesterly 5 or 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Rain.",
