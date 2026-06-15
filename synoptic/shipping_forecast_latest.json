@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-15T03:45:01Z",
+  "fetched_at": "2026-06-15T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Sun 14 Jun 2026",
   "valid": "For the period 00:00 (UTC) on Mon 15 Jun 2026 to 00:00 (UTC) on Tue 16 Jun 2026",
   "general_synopsis": "High northeast of Iceland 1029 slow moving and declining 1021 by 1800 Monday",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 4 to 6, occasionally 3 later in west.\nSea state\nModerate or rough, occasionally very rough at first, becoming moderate later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Sun 14 Jun 2026\nNortherly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 4 to 6, occasionally 3 later in west.",
       "sea_state": "Moderate or rough, occasionally very rough at first, becoming moderate later.",
       "weather": "Showers.",
@@ -24,7 +23,6 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first, becoming moderate later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 14 Jun 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first, becoming moderate later.",
       "weather": "Showers.",
@@ -67,7 +65,6 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 6 or 7, occasionally gale 8, decreasing 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Sun 14 Jun 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 or 7, occasionally gale 8, decreasing 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Showers.",
