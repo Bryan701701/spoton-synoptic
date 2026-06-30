@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-06-30T09:45:02Z",
+  "fetched_at": "2026-06-30T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 30 Jun 2026",
   "valid": "For the period 06:00 (UTC) on Tue 30 Jun 2026 to 06:00 (UTC) on Wed 01 Jul 2026",
   "general_synopsis": "Low Rockall 1011 expected Tyne 1019 by midnight tonight",
@@ -134,6 +134,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, northerly or northeasterly 5 to 7, perhaps gale 8 later. In northwest, cyclonic becoming northwesterly, 4 to 6, backing southwesterly 3 to 5 later in northwest.\nSea state\nModerate or rough.\nWeather\nIn southeast, fair. In northwest, occasional drizzle or showers.\nVisibility\nIn southeast, good. In northwest, good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 30 Jun 2026\nNortherly gale force 8 expected later",
       "wind": "In southeast, northerly or northeasterly 5 to 7, perhaps gale 8 later. In northwest, cyclonic becoming northwesterly, 4 to 6, backing southwesterly 3 to 5 later in northwest.",
       "sea_state": "Moderate or rough.",
       "weather": "In southeast, fair. In northwest, occasional drizzle or showers.",
@@ -176,6 +177,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic becoming northwest, then backing south or southwest later, 4 to 6, decreasing 3 at times.\nSea state\nModerate or rough.\nWeather\nOccasional rain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 30 Jun 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic becoming northwest, then backing south or southwest later, 4 to 6, decreasing 3 at times.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain or showers.",
