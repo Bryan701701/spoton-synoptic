@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-01T15:45:01Z",
+  "fetched_at": "2026-07-01T16:00:02Z",
   "issued": "Issued at: 10:30 (UTC) on Wed 01 Jul 2026",
   "valid": "For the period 12:00 (UTC) on Wed 01 Jul 2026 to 12:00 (UTC) on Thu 02 Jul 2026",
   "general_synopsis": "Low 200 miles west of Rockall 1006, expected Fair Isle 1000 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 3 or 4 becoming cyclonic 5 or 6, occasionally 7 later in southwest.\nSea state\nSlight becoming moderate, occasionally rough later in southwest.\nWeather\nFair then rain.\nVisibility\nGood, becoming moderate or poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 3 or 4 becoming cyclonic 5 or 6, occasionally 7 later in southwest.",
       "sea_state": "Slight becoming moderate, occasionally rough later in southwest.",
       "weather": "Fair then rain.",
@@ -22,6 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nVariable 3 or 4 becoming cyclonic 5 or 6.\nSea state\nSlight becoming moderate.\nWeather\nFair then rain.\nVisibility\nGood, becoming moderate or poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 3 or 4 becoming cyclonic 5 or 6.",
       "sea_state": "Slight becoming moderate.",
       "weather": "Fair then rain.",
@@ -69,6 +71,7 @@
     },
     "Fisher": {
       "text": "Wind\nVariable 3 or 4 becoming west or southwest 5 to 7.\nSea state\nSmooth or slight becoming slight or moderate, occasionally rough later.\nWeather\nRain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 3 or 4 becoming west or southwest 5 to 7.",
       "sea_state": "Smooth or slight becoming slight or moderate, occasionally rough later.",
       "weather": "Rain later.",
@@ -76,6 +79,7 @@
     },
     "German Bight": {
       "text": "Wind\nVariable 3 or 4 becoming west or southwest 5 to 7.\nSea state\nSmooth or slight becoming slight or moderate, occasionally rough later.\nWeather\nRain later.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 3 or 4 becoming west or southwest 5 to 7.",
       "sea_state": "Smooth or slight becoming slight or moderate, occasionally rough later.",
       "weather": "Rain later.",
@@ -132,7 +136,7 @@
     },
     "Trafalgar": {
       "text": "Wind\nNortherly or northeasterly 5 or 6, but 6 to gale 8 except in south.\nSea state\nModerate or rough, becoming rough or very rough except in south.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Jun 2026\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNortherly gale force 8 continuing",
       "wind": "Northerly or northeasterly 5 or 6, but 6 to gale 8 except in south.",
       "sea_state": "Moderate or rough, becoming rough or very rough except in south.",
       "weather": "Fair.",
@@ -184,7 +188,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 6 to gale 8 becoming west 5 or 6.\nSea state\nRough or very rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering southwesterly imminent",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nGale force 8 veering westerly imminent",
       "wind": "Cyclonic 6 to gale 8 becoming west 5 or 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then showers.",
@@ -192,7 +196,7 @@
     },
     "Malin": {
       "text": "Wind\nSouth 4 or 5 becoming cyclonic 6 to gale 8, becoming northwest 5 or 6 later.\nSea state\nModerate, becoming rough or very rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering southwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nGale force 8 veering westerly soon",
       "wind": "South 4 or 5 becoming cyclonic 6 to gale 8, becoming northwest 5 or 6 later.",
       "sea_state": "Moderate, becoming rough or very rough.",
       "weather": "Rain then showers.",
@@ -208,7 +212,6 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 6 to gale 8 at first in south, otherwise southerly veering westerly 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:41 (UTC) on Wed 01 Jul 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Cyclonic 6 to gale 8 at first in south, otherwise southerly veering westerly 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
