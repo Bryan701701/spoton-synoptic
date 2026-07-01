@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-01T09:30:02Z",
+  "fetched_at": "2026-07-01T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 01 Jul 2026",
   "valid": "For the period 06:00 (UTC) on Wed 01 Jul 2026 to 06:00 (UTC) on Thu 02 Jul 2026",
   "general_synopsis": "Developing Atlantic low moving rather quickly northeast, expected Hebrides 1001 by midnight tonight",
@@ -140,7 +140,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nNortheasterly 6 to gale 8, but variable 3 or 4 in north.\nSea state\nModerate or rough, becoming rough or very rough later in south.\nWeather\nOccasional rain, fog patches later in north.\nVisibility\nGood, occasionally very poor later.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 30 Jun 2026\nNortherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering northeasterly soon",
       "wind": "Northeasterly 6 to gale 8, but variable 3 or 4 in north.",
       "sea_state": "Moderate or rough, becoming rough or very rough later in south.",
       "weather": "Occasional rain, fog patches later in north.",
@@ -184,7 +184,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 4 to 6, increasing 6 to gale 8 for a time.\nSea state\nModerate, becoming moderate or rough, occasionally very rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 30 Jun 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering southwesterly imminent",
       "wind": "Cyclonic 4 to 6, increasing 6 to gale 8 for a time.",
       "sea_state": "Moderate, becoming moderate or rough, occasionally very rough later.",
       "weather": "Rain or showers.",
@@ -192,7 +192,7 @@
     },
     "Malin": {
       "text": "Wind\nVariable 3 at first, otherwise cyclonic 4 to 6, increasing 6 to gale 8 for a time.\nSea state\nModerate, becoming moderate or rough, occasionally very rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Jun 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering southwesterly soon",
       "wind": "Variable 3 at first, otherwise cyclonic 4 to 6, increasing 6 to gale 8 for a time.",
       "sea_state": "Moderate, becoming moderate or rough, occasionally very rough later.",
       "weather": "Rain or showers.",
@@ -200,7 +200,7 @@
     },
     "Hebrides": {
       "text": "Wind\nVariable 3 at first, otherwise cyclonic 4 to 6, increasing 6 to gale 8 for a time.\nSea state\nModerate, becoming moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 30 Jun 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nGale force 8 veering northwesterly later",
       "wind": "Variable 3 at first, otherwise cyclonic 4 to 6, increasing 6 to gale 8 for a time.",
       "sea_state": "Moderate, becoming moderate or rough.",
       "weather": "Rain or showers.",
@@ -216,6 +216,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nVariable 2 to 4, becoming southeast 4 to 6, then becoming cyclonic later, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nFair, then rain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:50 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming southeast 4 to 6, then becoming cyclonic later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Fair, then rain or showers.",
