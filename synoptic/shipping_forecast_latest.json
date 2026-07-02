@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-02T21:30:02Z",
+  "fetched_at": "2026-07-02T21:45:02Z",
   "issued": "Issued at: 16:25 (UTC) on Thu 02 Jul 2026",
   "valid": "For the period 18:00 (UTC) on Thu 02 Jul 2026 to 18:00 (UTC) on Fri 03 Jul 2026",
   "general_synopsis": "Low Viking 1000 expected southern Sweden 1000 by midday tomorrow",
@@ -24,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 7 to severe gale 9, decreasing 4 to 6 later.\nSea state\nRough or very rough, occasionally moderate later.\nWeather\nOccasional rain.\nVisibility\nModerate, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:41 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 7 to severe gale 9, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally moderate later.",
       "weather": "Occasional rain.",
@@ -40,7 +40,6 @@
     },
     "Cromarty": {
       "text": "Wind\nNorthwesterly 6 to gale 8 backing southwesterly 3 to 5.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 imminent",
       "wind": "Northwesterly 6 to gale 8 backing southwesterly 3 to 5.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -62,7 +61,6 @@
     },
     "Dogger": {
       "text": "Wind\nWesterly or northwesterly 5 to 7, occasionally gale 8 at first in northeast, backing southwest 3 to 5 later.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nGale force 8 veering northwesterly imminent",
       "wind": "Westerly or northwesterly 5 to 7, occasionally gale 8 at first in northeast, backing southwest 3 to 5 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair.",
@@ -135,7 +133,7 @@
     },
     "Trafalgar": {
       "text": "Wind\nNortherly or northeasterly mainly 4 to 6, but 6 to gale 8 until later in north, and veering easterly 5 to 7 later in far southeast.\nSea state\nRough or very rough until later in north, otherwise moderate or rough.\nWeather\nFair.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:42 (UTC) on Wed 01 Jul 2026\nGale force 8 veering northeasterly soon",
+      "gale_warning": "Gale warning\nIssued:\n21:41 (UTC) on Thu 02 Jul 2026\nGale force 8 veering easterly soon",
       "wind": "Northerly or northeasterly mainly 4 to 6, but 6 to gale 8 until later in north, and veering easterly 5 to 7 later in far southeast.",
       "sea_state": "Rough or very rough until later in north, otherwise moderate or rough.",
       "weather": "Fair.",
@@ -214,7 +212,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwest 6 to gale 8 backing west or southwest 4 to 6.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8 backing west or southwest 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
