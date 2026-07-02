@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-02T15:45:02Z",
+  "fetched_at": "2026-07-02T16:00:01Z",
   "issued": "Issued at: 10:30 (UTC) on Thu 02 Jul 2026",
   "valid": "For the period 12:00 (UTC) on Thu 02 Jul 2026 to 12:00 (UTC) on Fri 03 Jul 2026",
   "general_synopsis": "Low Fair Isle 1000 expected southern Sweden 999 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic becoming northwesterly 6 to gale 8, occasionally severe gale 9 at first in south, backing westerly 4 or 5 later.\nSea state\nSlight or moderate becoming moderate or rough, occasionally very rough in south.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming northwesterly 6 to gale 8, occasionally severe gale 9 at first in south, backing westerly 4 or 5 later.",
       "sea_state": "Slight or moderate becoming moderate or rough, occasionally very rough in south.",
       "weather": "Rain then showers.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nNorthwesterly 6 to gale 8, occasionally severe gale 9 at first in northeast, backing westerly or southwesterly 4 or 5 later.\nSea state\nModerate or rough , occasionally very rough in northeast.\nWeather\nShowers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nGale force 8 veering northwesterly imminent, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 6 to gale 8, occasionally severe gale 9 at first in northeast, backing westerly or southwesterly 4 or 5 later.",
       "sea_state": "Moderate or rough , occasionally very rough in northeast.",
       "weather": "Showers.",
@@ -48,7 +48,6 @@
     },
     "Forth": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing westerly or southwesterly 4 or 5 later.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nWesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, backing westerly or southwesterly 4 or 5 later.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -56,7 +55,6 @@
     },
     "Tyne": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing westerly or southwesterly 4 or 5 later.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nGale force 8 veering northwesterly imminent",
       "wind": "Northwesterly 6 to gale 8, backing westerly or southwesterly 4 or 5 later.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -80,7 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nWesterly or northwesterly 6 to gale 8, decreasing 5 later in southwest.\nSea state\nModerate or rough becoming very rough in north.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 01 Jul 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Westerly or northwesterly 6 to gale 8, decreasing 5 later in southwest.",
       "sea_state": "Moderate or rough becoming very rough in north.",
       "weather": "Showers.",
