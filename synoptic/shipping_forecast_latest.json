@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-03T03:30:02Z",
+  "fetched_at": "2026-07-03T03:45:02Z",
   "issued": "Issued at: 23:15 (UTC) on Thu 02 Jul 2026",
   "valid": "For the period 00:00 (UTC) on Fri 03 Jul 2026 to 00:00 (UTC) on Sat 04 Jul 2026",
   "general_synopsis": "High 150 miles west of FitzRoy 1033 expected northwest FitzRoy 1032 by 1800 Friday",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 to 5 later.\nSea state\nRough or very rough, becoming moderate.\nWeather\nRain then showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming moderate.",
       "weather": "Rain then showers.",
@@ -16,7 +15,7 @@
     },
     "North Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 to 5 later.\nSea state\nRough or very rough, becoming moderate.\nWeather\nRain then showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:39 (UTC) on Fri 03 Jul 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming moderate.",
       "weather": "Rain then showers.",
@@ -32,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nIn northeast, northwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 or 4 later. In southwest, westerly or northwesterly 4 to 6 backing westerly or southwesterly 3 to 5.\nSea state\nIn northeast, rough or very rough, becoming moderate. in southwest, moderate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate at first in northeast.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Thu 02 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "In northeast, northwesterly 6 to gale 8 backing westerly 4 or 5, then southwesterly 3 or 4 later. In southwest, westerly or northwesterly 4 to 6 backing westerly or southwesterly 3 to 5.",
       "sea_state": "In northeast, rough or very rough, becoming moderate. in southwest, moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -68,7 +66,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 6 to gale 8, occasionally severe gale 9 at first, backing west 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n03:40 (UTC) on Thu 02 Jul 2026\nNorthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:39 (UTC) on Fri 03 Jul 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 soon",
       "wind": "Northwest 6 to gale 8, occasionally severe gale 9 at first, backing west 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers.",
