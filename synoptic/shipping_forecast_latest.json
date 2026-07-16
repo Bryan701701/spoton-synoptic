@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-16T15:00:02Z",
+  "fetched_at": "2026-07-16T15:15:02Z",
   "issued": "Issued at: 10:30 (UTC) on Thu 16 Jul 2026",
   "valid": "For the period 12:00 (UTC) on Thu 16 Jul 2026 to 12:00 (UTC) on Fri 17 Jul 2026",
   "general_synopsis": "High 600 miles west of northern Scotland 1030 slow-moving, intensifying 1031 by 0600 tomorrow. Low west FitzRoy 1017 losing its identity",
@@ -126,18 +126,14 @@
       "visibility": "Good, occasionally poor."
     },
     "FitzRoy": {
-      "text": "Wind\nVariable 2 to 4.\nSea state\nSlight.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "text": "Wind\nVariable 2 to 4.\nSea state\nSlight.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.\nTrafalgar (issued 23:15 UTC+1)\nWind\nVariable, becoming westerly or northwesterly, 3 or 4, increasing 5 or 6 later in southeast.\nSea state\nSlight, occasionally moderate in far southeast.\nWeather\nShowers.\nVisibility\nGood.",
       "wind": "Variable 2 to 4.",
       "sea_state": "Slight.",
       "weather": "Thundery showers.",
-      "visibility": "Good, occasionally poor."
+      "visibility": "Good, occasionally poor.\nTrafalgar (issued 23:15 UTC+1)"
     },
     "Trafalgar": {
-      "text": "Wind\nVariable, becoming westerly or northwesterly, 3 or 4, increasing 5 or 6 later in southeast.\nSea state\nSlight, occasionally moderate in far southeast.\nWeather\nShowers.\nVisibility\nGood.",
-      "wind": "Variable, becoming westerly or northwesterly, 3 or 4, increasing 5 or 6 later in southeast.",
-      "sea_state": "Slight, occasionally moderate in far southeast.",
-      "weather": "Showers.",
-      "visibility": "Good."
+      "text": ""
     },
     "Sole": {
       "text": "Wind\nEast or northeast becoming variable mainly north, 2 to 4.\nSea state\nSmooth or slight, occasionally moderate at first in east.\nWeather\nThundery showers.\nVisibility\nGood, occasionally moderate.",
