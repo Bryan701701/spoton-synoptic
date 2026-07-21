@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-07-21T09:45:01Z",
+  "fetched_at": "2026-07-21T10:00:01Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 21 Jul 2026",
   "valid": "For the period 06:00 (UTC) on Tue 21 Jul 2026 to 06:00 (UTC) on Wed 22 Jul 2026",
   "general_synopsis": "High 450 miles west of Ireland 1038 slow-moving with little change",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 4 to 6, occasionally 7 in southeast, perhaps gale 8 later in southeast.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nDrizzle.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 21 Jul 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 4 to 6, occasionally 7 in southeast, perhaps gale 8 later in southeast.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Drizzle.",
@@ -64,6 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwesterly 5 or 6, occasionally 4 at first and 7 later, perhaps gale 8 later in northeast.\nSea state\nModerate, becoming rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 21 Jul 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 5 or 6, occasionally 4 at first and 7 later, perhaps gale 8 later in northeast.",
       "sea_state": "Moderate, becoming rough later.",
       "weather": "Showers.",
