@@ -1,0 +1,29 @@
+# Ignore everything by default
+*
+
+# Allow these files
+!.gitignore
+!README.md
+!atlantic_focus.png
+!shipping_forecast_latest.json
+
+# But keep the synoptic publish folder
+!synoptic/
+!synoptic/*.png
+!synoptic/*.json
+
+# Keep the tools for atomic publish
+!tools/
+!tools/*.sh
+!tools/*.py
+
+# --- NEW: keep warehouse artifacts ---
+!warehouse/
+!warehouse/**/
+!warehouse/**/*.parquet
+!warehouse/**/*.csv
+!warehouse/**/*.json
+!warehouse/**/*.md
+
+# Generated Netlify distribution
+synoptic/dist/
