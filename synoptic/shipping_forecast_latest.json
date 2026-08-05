@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-08-05T18:45:02Z",
+  "fetched_at": "2026-08-05T19:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 05 Aug 2026",
   "valid": "For the period 18:00 (UTC) on Wed 05 Aug 2026 to 18:00 (UTC) on Thu 06 Aug 2026",
   "general_synopsis": "Low northeast Scotland 1000 losing its identity",
@@ -85,6 +85,7 @@
     },
     "Thames": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7, decreasing 3 at times later.\nSea state\nSlight or moderate.\nWeather\nShowers at first.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n18:44 (UTC) on Wed 05 Aug 2026\nSouthwesterly gale force 8 imminent",
       "wind": "Cyclonic 4 to 6, occasionally 7, decreasing 3 at times later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers at first.",
@@ -92,6 +93,7 @@
     },
     "Dover": {
       "text": "Wind\nCyclonic 4 to 6, decreasing 3 at times later.\nSea state\nSlight or moderate.\nWeather\nShowers at first.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n18:44 (UTC) on Wed 05 Aug 2026\nSouthwesterly gale force 8 imminent",
       "wind": "Cyclonic 4 to 6, decreasing 3 at times later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers at first.",
