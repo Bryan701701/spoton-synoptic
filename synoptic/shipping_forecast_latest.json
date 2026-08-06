@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-08-06T03:45:02Z",
+  "fetched_at": "2026-08-06T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 05 Aug 2026",
   "valid": "For the period 00:00 (UTC) on Thu 06 Aug 2026 to 00:00 (UTC) on Fri 07 Aug 2026",
   "general_synopsis": "High 450 miles west of Shannon 1027 expected east Sole 1026 by 1800 Thursday. Low southeast Fair Isle 1001 losing its identity",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSouthwesterly 3 to 5 veering northwesterly 5 to 7, perhaps gale 8 later in east.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nThundery rain, then showers.\nVisibility\nGood, occasionally poor at first.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Thu 06 Aug 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Southwesterly 3 to 5 veering northwesterly 5 to 7, perhaps gale 8 later in east.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Thundery rain, then showers.",
@@ -65,6 +66,7 @@
     },
     "Fisher": {
       "text": "Wind\nSouthwesterly veering northwesterly 5 to 7, perhaps gale 8 later in northeast.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Thu 06 Aug 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Southwesterly veering northwesterly 5 to 7, perhaps gale 8 later in northeast.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
