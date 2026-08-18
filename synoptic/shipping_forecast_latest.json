@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-08-18T04:00:02Z",
+  "fetched_at": "2026-08-18T04:15:02Z",
   "issued": "Issued at: 23:15 (UTC) on Mon 17 Aug 2026",
   "valid": "For the period 00:00 (UTC) on Tue 18 Aug 2026 to 00:00 (UTC) on Wed 19 Aug 2026",
   "general_synopsis": "New low expected Bailey 997 by 1800 Tuesday",
@@ -190,6 +190,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 in north.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain or showers, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first and poor later.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 18 Aug 2026\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, occasionally 7 in north.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain or showers, fog patches at first.",
@@ -197,6 +198,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 in north, perhaps gale 8 later in north.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain or showers, fog patches at first.\nVisibility\nModerate or good, occasionally very poor at first and poor later.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Tue 18 Aug 2026\nNortheasterly gale force 8 expected later",
       "wind": "Cyclonic 4 to 6, occasionally 7 in north, perhaps gale 8 later in north.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain or showers, fog patches at first.",
