@@ -1,0 +1,228 @@
+{
+  "source": "metoffice_shipping_forecast",
+  "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
+  "fetched_at": "2026-08-24T04:00:02Z",
+  "issued": "Issued at: 23:15 (UTC) on Sun 23 Aug 2026",
+  "valid": "For the period 00:00 (UTC) on Mon 24 Aug 2026 to 00:00 (UTC) on Tue 25 Aug 2026",
+  "general_synopsis": "Low northwest Trafalgar 1002 expected Biscay 1006 by 1800 Monday. High Humber 1026 expected Norwegian Basin 1024 by same time",
+  "areas": {
+    "Viking": {
+      "text": "Wind\nVariable 3 or less in west but northerly or northwesterly 3 or 4 in east.\nSea state\nSlight or moderate.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Variable 3 or less in west but northerly or northwesterly 3 or 4 in east.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "North Utsire": {
+      "text": "Wind\nNorthwesterly 3 to 5.\nSea state\nSlight or moderate.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Northwesterly 3 to 5.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "South Utsire": {
+      "text": "Wind\nNorthwesterly 3 to 5, occasionally 6 at first, becoming variable 2 to 4 later.\nSea state\nSlight or moderate, occasionally rough at first in south.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Northwesterly 3 to 5, occasionally 6 at first, becoming variable 2 to 4 later.",
+      "sea_state": "Slight or moderate, occasionally rough at first in south.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "Forties": {
+      "text": "Wind\nVariable 2 to 4.\nSea state\nModerate at first in east, otherwise smooth or slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4.",
+      "sea_state": "Moderate at first in east, otherwise smooth or slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Cromarty": {
+      "text": "Wind\nVariable 2 to 4, becoming southeast 3 to 5 later.\nSea state\nSmooth or slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4, becoming southeast 3 to 5 later.",
+      "sea_state": "Smooth or slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Forth": {
+      "text": "Wind\nVariable 2 to 4, becoming southeast 3 to 5 later.\nSea state\nSmooth or slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4, becoming southeast 3 to 5 later.",
+      "sea_state": "Smooth or slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Tyne": {
+      "text": "Wind\nVariable 2 to 4, becoming southeast 3 to 5 later.\nSea state\nSmooth or slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4, becoming southeast 3 to 5 later.",
+      "sea_state": "Smooth or slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Dogger": {
+      "text": "Wind\nVariable 2 to 4.\nSea state\nModerate at first in east, otherwise smooth or slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4.",
+      "sea_state": "Moderate at first in east, otherwise smooth or slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Fisher": {
+      "text": "Wind\nNorthwest 4 to 6 becoming variable 2 to 4.\nSea state\nModerate, occasionally rough at first, becoming slight later.\nWeather\nShowers at first.\nVisibility\nGood.",
+      "wind": "Northwest 4 to 6 becoming variable 2 to 4.",
+      "sea_state": "Moderate, occasionally rough at first, becoming slight later.",
+      "weather": "Showers at first.",
+      "visibility": "Good."
+    },
+    "German Bight": {
+      "text": "Wind\nNorthwesterly becoming variable 2 to 4, then becoming northeasterly 5 later in southwest.\nSea state\nModerate becoming slight.\nWeather\nShowers.\nVisibility\nGood.",
+      "wind": "Northwesterly becoming variable 2 to 4, then becoming northeasterly 5 later in southwest.",
+      "sea_state": "Moderate becoming slight.",
+      "weather": "Showers.",
+      "visibility": "Good."
+    },
+    "Humber": {
+      "text": "Wind\nNortheast 2 to 4 veering east 3 to 5.\nSea state\nSlight or moderate.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Northeast 2 to 4 veering east 3 to 5.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Thames": {
+      "text": "Wind\nNortheast 2 to 4 veering east 3 to 5, occasionally 6 later.\nSea state\nSlight or moderate.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Northeast 2 to 4 veering east 3 to 5, occasionally 6 later.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Dover": {
+      "text": "Wind\nNortheast 4 to 6.\nSea state\nSlight or moderate.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Northeast 4 to 6.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Wight": {
+      "text": "Wind\nEasterly or northeasterly 4 to 6, occasionally 7 in north.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers, perhaps thundery later in south.\nVisibility\nGood, occasionally moderate later.",
+      "wind": "Easterly or northeasterly 4 to 6, occasionally 7 in north.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Showers, perhaps thundery later in south.",
+      "visibility": "Good, occasionally moderate later."
+    },
+    "Portland": {
+      "text": "Wind\nEasterly or northeasterly 4 to 6, occasionally 7 in north.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers, perhaps thundery later in south.\nVisibility\nGood, occasionally moderate later.",
+      "wind": "Easterly or northeasterly 4 to 6, occasionally 7 in north.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Showers, perhaps thundery later in south.",
+      "visibility": "Good, occasionally moderate later."
+    },
+    "Plymouth": {
+      "text": "Wind\nEasterly or northeasterly 4 to 6, occasionally 7 in north.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nShowers, perhaps thundery later in south.\nVisibility\nGood, occasionally moderate later.",
+      "wind": "Easterly or northeasterly 4 to 6, occasionally 7 in north.",
+      "sea_state": "Slight or moderate becoming moderate or rough.",
+      "weather": "Showers, perhaps thundery later in south.",
+      "visibility": "Good, occasionally moderate later."
+    },
+    "Biscay": {
+      "text": "Wind\nEast or northeast 4 to 6 becoming cyclonic 3 to 5.\nSea state\nSlight or moderate.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "wind": "East or northeast 4 to 6 becoming cyclonic 3 to 5.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Thundery showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Trafalgar": {
+      "text": "Wind\nCyclonic 4 to 6 becoming west or northwest 3 to 5.\nSea state\nModerate or rough.\nWeather\nShowers, thundery at first in north.\nVisibility\nGood, occasionally poor at first.",
+      "wind": "Cyclonic 4 to 6 becoming west or northwest 3 to 5.",
+      "sea_state": "Moderate or rough.",
+      "weather": "Showers, thundery at first in north.",
+      "visibility": "Good, occasionally poor at first."
+    },
+    "FitzRoy": {
+      "text": "Wind\nCyclonic 3 to 5, occasionally 6 at first.\nSea state\nModerate or rough, becoming slight or moderate later.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
+      "wind": "Cyclonic 3 to 5, occasionally 6 at first.",
+      "sea_state": "Moderate or rough, becoming slight or moderate later.",
+      "weather": "Thundery showers.",
+      "visibility": "Good, occasionally poor."
+    },
+    "Sole": {
+      "text": "Wind\nEasterly or northeasterly 4 to 6, becoming variable 3 or less later in west.\nSea state\nModerate, occasionally rough later in east.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally moderate.",
+      "wind": "Easterly or northeasterly 4 to 6, becoming variable 3 or less later in west.",
+      "sea_state": "Moderate, occasionally rough later in east.",
+      "weather": "Showers, perhaps thundery.",
+      "visibility": "Good, occasionally moderate."
+    },
+    "Lundy": {
+      "text": "Wind\nEast or northeast 4 to 6, occasionally 3 at first.\nSea state\nSmooth or slight becoming slight or moderate.\nWeather\nFair then showers.\nVisibility\nGood, occasionally moderate later.",
+      "wind": "East or northeast 4 to 6, occasionally 3 at first.",
+      "sea_state": "Smooth or slight becoming slight or moderate.",
+      "weather": "Fair then showers.",
+      "visibility": "Good, occasionally moderate later."
+    },
+    "Fastnet": {
+      "text": "Wind\nEast or northeast 4 to 6, occasionally 3 at first.\nSea state\nSlight or moderate.\nWeather\nFair then showers.\nVisibility\nGood, occasionally moderate later.",
+      "wind": "East or northeast 4 to 6, occasionally 3 at first.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Fair then showers.",
+      "visibility": "Good, occasionally moderate later."
+    },
+    "Irish Sea": {
+      "text": "Wind\nVariable 2 to 4 becoming southeast 3 to 5, then backing northeast later.\nSea state\nSmooth or slight.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4 becoming southeast 3 to 5, then backing northeast later.",
+      "sea_state": "Smooth or slight.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "Shannon": {
+      "text": "Wind\nEast or southeast 3 to 5.\nSea state\nSlight or moderate at first in east, otherwise moderate.\nWeather\nShowers later.\nVisibility\nGood.",
+      "wind": "East or southeast 3 to 5.",
+      "sea_state": "Slight or moderate at first in east, otherwise moderate.",
+      "weather": "Showers later.",
+      "visibility": "Good."
+    },
+    "Rockall": {
+      "text": "Wind\nSoutherly backing southeasterly 3 to 5, occasionally 6 in northwest.\nSea state\nModerate or rough.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Southerly backing southeasterly 3 to 5, occasionally 6 in northwest.",
+      "sea_state": "Moderate or rough.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Malin": {
+      "text": "Wind\nVariable 2 to 4 becoming southerly or southeasterly 3 to 5.\nSea state\nModerate or rough in west, slight or moderate in east.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Variable 2 to 4 becoming southerly or southeasterly 3 to 5.",
+      "sea_state": "Moderate or rough in west, slight or moderate in east.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Hebrides": {
+      "text": "Wind\nSoutherly backing southeasterly, 3 to 5.\nSea state\nSlight or moderate in southeast, moderate or rough in northwest.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "wind": "Southerly backing southeasterly, 3 to 5.",
+      "sea_state": "Slight or moderate in southeast, moderate or rough in northwest.",
+      "weather": "Mainly fair.",
+      "visibility": "Good."
+    },
+    "Bailey": {
+      "text": "Wind\nSoutherly 5 to 7, decreasing 4 later in southeast.\nSea state\nMainly rough, but becoming very rough for a time in northwest.\nWeather\nRain in west.\nVisibility\nGood, occasionally poor in west.",
+      "wind": "Southerly 5 to 7, decreasing 4 later in southeast.",
+      "sea_state": "Mainly rough, but becoming very rough for a time in northwest.",
+      "weather": "Rain in west.",
+      "visibility": "Good, occasionally poor in west."
+    },
+    "Fair Isle": {
+      "text": "Wind\nVariable 3 or less at first in southeast, otherwise southwesterly backing southeasterly 3 to 5.\nSea state\nSlight or moderate.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Variable 3 or less at first in southeast, otherwise southwesterly backing southeasterly 3 to 5.",
+      "sea_state": "Slight or moderate.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "Faeroes": {
+      "text": "Wind\nSouthwesterly backing southeasterly, 3 to 5.\nSea state\nModerate or rough.\nWeather\nFair.\nVisibility\nGood.",
+      "wind": "Southwesterly backing southeasterly, 3 to 5.",
+      "sea_state": "Moderate or rough.",
+      "weather": "Fair.",
+      "visibility": "Good."
+    },
+    "Southeast Iceland": {
+      "text": "Wind\nSoutherly 4 to 6, becoming cyclonic 5 to 7 for a time, occasionally gale 8 for a time in far west.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Sun 23 Aug 2026\nEasterly gale force 8 expected soon",
+      "wind": "Southerly 4 to 6, becoming cyclonic 5 to 7 for a time, occasionally gale 8 for a time in far west.",
+      "sea_state": "Moderate or rough becoming rough or very rough.",
+      "weather": "Rain.",
+      "visibility": "Moderate or good, occasionally poor."
+    }
+  }
+}
