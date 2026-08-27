@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-08-27T21:45:02Z",
+  "fetched_at": "2026-08-27T22:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Thu 27 Aug 2026",
   "valid": "For the period 18:00 (UTC) on Thu 27 Aug 2026 to 18:00 (UTC) on Fri 28 Aug 2026",
   "general_synopsis": "Low Sole 1002 losing its identity by midday tomorrow. New low expected Forties 996 by same time",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Thu 27 Aug 2026\nEasterly gale force 8 expected soon",
       "wind": "Southeasterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain, perhaps thundery.",
@@ -64,6 +65,7 @@
     },
     "Fisher": {
       "text": "Wind\nEast 5 to 7, perhaps gale 8 later, veering south 4 or 5 later.\nSea state\nSlight or moderate, occasionally rough in northwest.\nWeather\nThundery rain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Thu 27 Aug 2026\nEasterly gale force 8 expected soon",
       "wind": "East 5 to 7, perhaps gale 8 later, veering south 4 or 5 later.",
       "sea_state": "Slight or moderate, occasionally rough in northwest.",
       "weather": "Thundery rain or showers.",
