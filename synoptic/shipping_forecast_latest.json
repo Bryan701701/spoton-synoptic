@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-01T22:00:01Z",
+  "fetched_at": "2026-09-01T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 01 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Tue 01 Sep 2026 to 18:00 (UTC) on Wed 02 Sep 2026",
   "general_synopsis": "Low north of Faeroes 997 expected Norwegian Basin 994 by midday tomorrow",
@@ -194,6 +194,7 @@
     },
     "Bailey": {
       "text": "Wind\nNorthwest veering southeast, 4 to 6, increasing 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Tue 01 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest veering southeast, 4 to 6, increasing 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -209,7 +210,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, occasionally high, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Mon 31 Aug 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:55 (UTC) on Tue 01 Sep 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, occasionally high, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -217,7 +218,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNorthwesterly 6 to gale 8, decreasing 4 to 6 later, veering easterly or northeasterly later.\nSea state\nModerate or rough, occasionally very rough, but slight in northwest.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n07:13 (UTC) on Tue 01 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 6 to gale 8, decreasing 4 to 6 later, veering easterly or northeasterly later.",
       "sea_state": "Moderate or rough, occasionally very rough, but slight in northwest.",
       "weather": "Showers.",
