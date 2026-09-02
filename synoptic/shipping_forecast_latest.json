@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-02T16:00:02Z",
+  "fetched_at": "2026-09-02T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Wed 02 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Wed 02 Sep 2026 to 12:00 (UTC) on Thu 03 Sep 2026",
   "general_synopsis": "Low Norwegian Basin 993 losing its identity. High Biscay 1023 slow moving with little change",
   "areas": {
     "Viking": {
       "text": "Wind\nWesterly 5 to 7, occasionally gale 8 at first in north, becoming cyclonic 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nRain at times.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Tue 01 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Westerly 5 to 7, occasionally gale 8 at first in north, becoming cyclonic 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Rain at times.",
@@ -173,6 +172,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic becoming west or southwest, 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, occasionally very rough later in west.\nWeather\nRain then thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Wed 02 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming west or southwest, 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, occasionally very rough later in west.",
       "weather": "Rain then thundery showers.",
