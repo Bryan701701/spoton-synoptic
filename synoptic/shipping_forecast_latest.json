@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-03T03:45:02Z",
+  "fetched_at": "2026-09-03T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 02 Sep 2026",
   "valid": "For the period 00:00 (UTC) on Thu 03 Sep 2026 to 00:00 (UTC) on Fri 04 Sep 2026",
   "general_synopsis": "Low 400 miles west of Bailey 983 expected just west of Bailey 986 by 1800 Thursday. High Biscay 1024 slow-moving, declining 1023 by same time",
@@ -184,6 +184,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwest 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers, squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers, squally later.",
@@ -191,6 +192,7 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nShowers, squally later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming southwest, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Showers, squally later.",
@@ -198,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times.\nSea state\nRough, becoming very rough later in south.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Wed 02 Sep 2026\nGale force 8 veering southwesterly later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 03 Sep 2026\nGale now ceased but westerly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough, becoming very rough later in south.",
       "weather": "Rain or squally showers.",
