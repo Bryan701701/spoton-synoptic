@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-03T22:00:02Z",
+  "fetched_at": "2026-09-03T22:15:02Z",
   "issued": "Issued at: 16:25 (UTC) on Thu 03 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Thu 03 Sep 2026 to 18:00 (UTC) on Fri 04 Sep 2026",
   "general_synopsis": "Low 200 miles west of Bailey 985 expected Faeroes 988 by midday tomorrow",
@@ -78,6 +78,7 @@
     },
     "Humber": {
       "text": "Wind\nIn north, southwesterly 4 to 6 veering westerly 5 to 7 later. In south, westerly or southwesterly 5 to 7, perhaps gale 8 later.\nSea state\nIn north, slight or moderate, occasionally rough later. in south, slight or moderate, becoming rough for a time.\nWeather\nIn north, showers. In south, occasional rain.\nVisibility\nIn north, good, occasionally poor. In south, good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "In north, southwesterly 4 to 6 veering westerly 5 to 7 later. In south, westerly or southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "In north, slight or moderate, occasionally rough later. in south, slight or moderate, becoming rough for a time.",
       "weather": "In north, showers. In south, occasional rain.",
@@ -85,6 +86,7 @@
     },
     "Thames": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming rough for a time.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Westerly or southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough for a time.",
       "weather": "Occasional rain.",
@@ -92,6 +94,7 @@
     },
     "Dover": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming rough for a time.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Westerly or southwesterly 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming rough for a time.",
       "weather": "Occasional rain.",
@@ -183,7 +186,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwest veering west 6 to gale 8.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nGale force 8 veering westerly soon",
       "wind": "Southwest veering west 6 to gale 8.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Thundery showers.",
@@ -191,7 +194,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwest veering west 6 to gale 8, perhaps severe gale 9 later.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nThundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 03 Sep 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nGale force 8 veering westerly soon",
       "wind": "Southwest veering west 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Thundery showers.",
@@ -207,6 +210,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSouthwest 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough later in southwest.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Thu 03 Sep 2026\nWesterly gale force 8 expected later",
       "wind": "Southwest 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough later in southwest.",
       "weather": "Showers.",
@@ -221,7 +225,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nEasterly 6 to gale 8 at first in far west, otherwise cyclonic 4 to 6.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n10:00 (UTC) on Thu 03 Sep 2026\nEasterly gale force 8 continuing",
       "wind": "Easterly 6 to gale 8 at first in far west, otherwise cyclonic 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
