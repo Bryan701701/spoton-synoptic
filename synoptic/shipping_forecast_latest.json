@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-05T10:00:02Z",
+  "fetched_at": "2026-09-05T10:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Sat 05 Sep 2026",
   "valid": "For the period 06:00 (UTC) on Sat 05 Sep 2026 to 06:00 (UTC) on Sun 06 Sep 2026",
   "general_synopsis": "Low Viking 995 losing its identity by midnight tonight. High FitzRoy 1025 expected Low countries 1027 by same time. New low expected 100 miles west of Shannon 991 by that time",
@@ -171,6 +171,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain later.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sat 05 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain later.",
@@ -178,6 +179,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally very rough later.\nWeather\nRain later.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sat 05 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West 4 or 5 becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally very rough later.",
       "weather": "Rain later.",
@@ -185,6 +187,7 @@
     },
     "Malin": {
       "text": "Wind\nWest or northwest 5 or 6 becoming cyclonic 5 to 7.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sat 05 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West or northwest 5 or 6 becoming cyclonic 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Showers then rain.",
@@ -192,6 +195,7 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or northwest 5 or 6 becoming cyclonic 5 to 7.\nSea state\nModerate or rough, occasionally very rough at first.\nWeather\nShowers then rain.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n09:57 (UTC) on Sat 05 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West or northwest 5 or 6 becoming cyclonic 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough at first.",
       "weather": "Showers then rain.",
