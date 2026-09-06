@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-06T21:45:02Z",
+  "fetched_at": "2026-09-06T22:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Sun 06 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Sun 06 Sep 2026 to 18:00 (UTC) on Mon 07 Sep 2026",
   "general_synopsis": "Low 500 miles west of Rockall 986 declining 974 by 1800 tomorrow",
@@ -127,6 +127,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nIn southeast, variable 2 to 4. In northwest, westerly or northwesterly backing southwesterly later, 3 to 5, occasionally 6 later.\nSea state\nIn southeast, slight or moderate, occasionally rough. in northwest, moderate or rough.\nWeather\nIn southeast, rain or showers. In northwest, thundery showers.\nVisibility\nIn southeast, moderate or good. In northwest, good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Sun 06 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "In southeast, variable 2 to 4. In northwest, westerly or northwesterly backing southwesterly later, 3 to 5, occasionally 6 later.",
       "sea_state": "In southeast, slight or moderate, occasionally rough. in northwest, moderate or rough.",
       "weather": "In southeast, rain or showers. In northwest, thundery showers.",
@@ -180,7 +181,7 @@
     },
     "Malin": {
       "text": "Wind\nSouthwesterly 6 to gale 8.\nSea state\nRough or very rough, occasionally high later.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Sat 05 Sep 2026\nGale force 8 veering southwesterly later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Sun 06 Sep 2026\nGale now ceased, but southwesterly gale force 8 expected soon",
       "wind": "Southwesterly 6 to gale 8.",
       "sea_state": "Rough or very rough, occasionally high later.",
       "weather": "Rain or thundery showers.",
@@ -196,7 +197,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic 6 to gale 8, becoming southwest gale 8 to storm 10, then northwest 6 to gale 8 later.\nSea state\nRough or very rough, becoming very rough or high.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Sun 06 Sep 2026\nEasterly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Sun 06 Sep 2026\nSevere gale force 9 veering northwesterly later",
       "wind": "Cyclonic 6 to gale 8, becoming southwest gale 8 to storm 10, then northwest 6 to gale 8 later.",
       "sea_state": "Rough or very rough, becoming very rough or high.",
       "weather": "Rain or thundery showers.",
@@ -220,7 +221,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 6 to gale 8, occasionally severe gale 9 in northwest.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:45 (UTC) on Sun 06 Sep 2026\nEasterly gale force 8 expected soon, backing northeasterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Sun 06 Sep 2026\nSevere gale force 9 backing northerly and decreasing gale force 8 later",
       "wind": "Cyclonic 6 to gale 8, occasionally severe gale 9 in northwest.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain.",
