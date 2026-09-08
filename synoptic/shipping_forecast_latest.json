@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-08T15:45:02Z",
+  "fetched_at": "2026-09-08T16:00:01Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 08 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Tue 08 Sep 2026 to 12:00 (UTC) on Wed 09 Sep 2026",
   "general_synopsis": "Low Fair Isle 984 expected Humber 1002 by 0600 tomorrow. Low north Biscay 1006 moving rather quickly northeast, losing its identity",
@@ -83,6 +83,7 @@
     },
     "Humber": {
       "text": "Wind\nSouthwest 4 or 5, veering west or northwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain then squally showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwest 4 or 5, veering west or northwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain then squally showers.",
@@ -127,7 +128,6 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first in north, becoming northwesterly 3 to 5.\nSea state\nModerate or rough, becoming moderate later.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor at first.\nTrafalgar (issued 23:15 UTC+1)\nWind\nCyclonic at first in southeast, otherwise northerly or northwesterly, 3 to 5, occasionally 6 in east.\nSea state\nSlight or moderate.\nWeather\nRain later in north.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Mon 07 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first in north, becoming northwesterly 3 to 5.",
       "sea_state": "Moderate or rough, becoming moderate later.",
       "weather": "Rain then showers.",
@@ -187,7 +187,6 @@
     },
     "Malin": {
       "text": "Wind\nNorthwest 6 to gale 8, decreasing 4 to 6, backing southwest 3 to 5.\nSea state\nRough or very rough, becoming moderate later.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 07 Sep 2026\nGale force 8 veering northwesterly later",
       "wind": "Northwest 6 to gale 8, decreasing 4 to 6, backing southwest 3 to 5.",
       "sea_state": "Rough or very rough, becoming moderate later.",
       "weather": "Showers, squally at first.",
@@ -195,7 +194,6 @@
     },
     "Hebrides": {
       "text": "Wind\nNorthwest 6 to gale 8, decreasing 4 to 6, backing southwest 3 to 5.\nSea state\nRough or very rough, becoming moderate later.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8, decreasing 4 to 6, backing southwest 3 to 5.",
       "sea_state": "Rough or very rough, becoming moderate later.",
       "weather": "Showers, squally at first.",
