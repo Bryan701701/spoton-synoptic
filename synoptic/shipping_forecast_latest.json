@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-08T10:00:01Z",
+  "fetched_at": "2026-09-08T10:15:02Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 08 Sep 2026",
   "valid": "For the period 06:00 (UTC) on Tue 08 Sep 2026 to 06:00 (UTC) on Wed 09 Sep 2026",
   "general_synopsis": "Low Hebrides 980 expected Dogger 998 by midnight tonight",
@@ -29,6 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nSouthwesterly becoming cyclonic, then northwesterly later, 4 to 6, occasionally 7 in west.\nSea state\nModerate or rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwesterly becoming cyclonic, then northwesterly later, 4 to 6, occasionally 7 in west.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally showers.",
@@ -36,6 +37,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSouthwesterly becoming cyclonic, then northwesterly later, 4 to 6, occasionally 7.\nSea state\nModerate or rough in east, slight or moderate in west.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwesterly becoming cyclonic, then northwesterly later, 4 to 6, occasionally 7.",
       "sea_state": "Moderate or rough in east, slight or moderate in west.",
       "weather": "Squally showers.",
@@ -43,6 +45,7 @@
     },
     "Forth": {
       "text": "Wind\nSouthwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, becoming squally.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, becoming squally.",
@@ -50,6 +53,7 @@
     },
     "Tyne": {
       "text": "Wind\nSouthwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, becoming squally.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, becoming squally.",
@@ -57,6 +61,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouthwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, becoming squally.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southwest veering west, then northwest later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, becoming squally.",
@@ -128,7 +133,6 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic becoming northerly or northwesterly, mainly 4 to 6, but 6 to gale 8 at first in northeast.\nSea state\nModerate or rough.\nWeather\nSqually rain, then showers.\nVisibility\nGood, occasionally poor at first.\nTrafalgar (issued 23:15 UTC+1)\nWind\nCyclonic at first in southeast, otherwise northerly or northwesterly, 3 to 5, occasionally 6 in east.\nSea state\nSlight or moderate.\nWeather\nRain later in north.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Mon 07 Sep 2026\nGale force 8 veering northwesterly imminent",
       "wind": "Cyclonic becoming northerly or northwesterly, mainly 4 to 6, but 6 to gale 8 at first in northeast.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally rain, then showers.",
@@ -174,7 +178,6 @@
     },
     "Rockall": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 07 Sep 2026\nGale force 8 veering northwesterly soon",
       "wind": "West or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers, squally at first.",
@@ -190,7 +193,7 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Mon 07 Sep 2026\nSevere gale force 9 veering northwesterly and decreasing gale force 8 later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 continuing",
       "wind": "West or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers, squally at first.",
@@ -198,7 +201,6 @@
     },
     "Bailey": {
       "text": "Wind\nWest or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 07 Sep 2026\nSevere gale force 9 veering northwesterly and decreasing gale force 8 imminent",
       "wind": "West or northwest 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers, squally at first.",
@@ -213,7 +215,6 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first in west, becoming northerly 4 to 6, backing westerly 3 to 5 later.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 07 Sep 2026\nSevere gale force 9 veering northerly and decreasing gale force 8 imminent",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first in west, becoming northerly 4 to 6, backing westerly 3 to 5 later.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers, squally at first.",
@@ -221,7 +222,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly 6 to gale 8 at first in east, otherwise variable 2 to 4 becoming southwesterly 4 to 6.\nSea state\nVery rough at first in east, otherwise rough becoming moderate.\nWeather\nShowers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Mon 07 Sep 2026\nNortherly gale force 8 continuing",
       "wind": "Northerly 6 to gale 8 at first in east, otherwise variable 2 to 4 becoming southwesterly 4 to 6.",
       "sea_state": "Very rough at first in east, otherwise rough becoming moderate.",
       "weather": "Showers.",
