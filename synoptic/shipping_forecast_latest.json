@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-09T21:45:01Z",
+  "fetched_at": "2026-09-09T22:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Wed 09 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Wed 09 Sep 2026 to 18:00 (UTC) on Thu 10 Sep 2026",
   "general_synopsis": "High FitzRoy 1024 dissipating",
@@ -22,7 +22,6 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing southwesterly 3 to 5.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:58 (UTC) on Wed 09 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 6 to gale 8, backing southwesterly 3 to 5.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -65,7 +64,6 @@
     },
     "Fisher": {
       "text": "Wind\nNorthwest 6 to gale 8, backing southwest 3 to 5.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:58 (UTC) on Wed 09 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Northwest 6 to gale 8, backing southwest 3 to 5.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers.",
@@ -191,6 +189,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouthwest 4 to 6, backing south 5 to 7 for a time.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:37 (UTC) on Wed 09 Sep 2026\nSoutherly gale force 8 expected soon",
       "wind": "Southwest 4 to 6, backing south 5 to 7 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -198,6 +197,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouthwest 4 to 6, backing south 5 to 7 for a time.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:37 (UTC) on Wed 09 Sep 2026\nSoutherly gale force 8 imminent",
       "wind": "Southwest 4 to 6, backing south 5 to 7 for a time.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -212,6 +212,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouthwesterly 4 to 6, backing southeasterly, veering southwesterly later, 5 to 7.\nSea state\nModerate or rough.\nWeather\nShowers then rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:37 (UTC) on Wed 09 Sep 2026\nSoutherly gale force 8 expected soon",
       "wind": "Southwesterly 4 to 6, backing southeasterly, veering southwesterly later, 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers then rain.",
