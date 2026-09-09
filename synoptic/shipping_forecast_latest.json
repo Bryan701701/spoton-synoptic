@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-09T04:00:02Z",
+  "fetched_at": "2026-09-09T04:15:02Z",
   "issued": "Issued at: 23:15 (UTC) on Tue 08 Sep 2026",
   "valid": "For the period 00:00 (UTC) on Wed 09 Sep 2026 to 00:00 (UTC) on Thu 10 Sep 2026",
   "general_synopsis": "Low southeast Cromarty 994 moving steadily southeastwards and losing its identity",
@@ -22,6 +22,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 3 or 4 increasing 5 to 7, perhaps gale 8 later.\nSea state\nModerate, becoming rough for a time later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate at first.",
+      "gale_warning": "Gale warning\nIssued:\n03:58 (UTC) on Wed 09 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 3 or 4 increasing 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate, becoming rough for a time later.",
       "weather": "Showers.",
@@ -50,7 +51,6 @@
     },
     "Tyne": {
       "text": "Wind\nNorthwesterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nShowers, squally at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 08 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Northwesterly 5 to 7, occasionally gale 8 at first, becoming variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Showers, squally at first.",
@@ -66,6 +66,7 @@
     },
     "Fisher": {
       "text": "Wind\nWest or southwest 3 to 5 veering northwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nRain then thundery showers.\nVisibility\nGood, occasionally poor at first and moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n03:58 (UTC) on Wed 09 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "West or southwest 3 to 5 veering northwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Rain then thundery showers.",
