@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-10T22:00:01Z",
+  "fetched_at": "2026-09-10T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Thu 10 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Thu 10 Sep 2026 to 18:00 (UTC) on Fri 11 Sep 2026",
   "general_synopsis": "New low expected just north of Iceland 978 by 1800 Friday",
@@ -165,6 +165,7 @@
     },
     "Shannon": {
       "text": "Wind\nWest or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:02 (UTC) on Thu 10 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -172,6 +173,7 @@
     },
     "Rockall": {
       "text": "Wind\nWest or southwest 4 to 6, occasionally 7 later.\nSea state\nModerate or rough, becoming very rough in far northwest.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:02 (UTC) on Thu 10 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "West or southwest 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough, becoming very rough in far northwest.",
       "weather": "Showers.",
@@ -208,6 +210,7 @@
     },
     "Faeroes": {
       "text": "Wind\nWest or southwest 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming very rough in west.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:02 (UTC) on Thu 10 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming very rough in west.",
       "weather": "Rain or showers.",
