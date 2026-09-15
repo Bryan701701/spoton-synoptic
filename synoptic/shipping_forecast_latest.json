@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-15T09:45:02Z",
+  "fetched_at": "2026-09-15T10:00:02Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 15 Sep 2026",
   "valid": "For the period 06:00 (UTC) on Tue 15 Sep 2026 to 06:00 (UTC) on Wed 16 Sep 2026",
   "general_synopsis": "New low expected Norway 993 by midnight tonight",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or thundery showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or thundery showers, fog patches.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or thundery showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or thundery showers, fog patches.",
@@ -22,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain or thundery showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Southerly or southeasterly 3 to 5, becoming cyclonic, then westerly or northwesterly later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or thundery showers, fog patches.",
@@ -65,6 +68,7 @@
     },
     "Fisher": {
       "text": "Wind\nSoutherly, veering southwesterly then northwesterly later, 4 to 6, occasionally 7 later in north.\nSea state\nModerate becoming rough later.\nWeather\nRain or showers, fog patches.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Southerly, veering southwesterly then northwesterly later, 4 to 6, occasionally 7 later in north.",
       "sea_state": "Moderate becoming rough later.",
       "weather": "Rain or showers, fog patches.",
@@ -120,7 +124,8 @@
       "visibility": "Good."
     },
     "Biscay": {
-      "text": "Wind\nVariable 4 or less, becoming northwest 4 to 6.\nSea state\nSlight or moderate becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood.\nTrafalgar (issued 23:15 UTC+1)\nWind\nEasterly at first in far southeast, otherwise northerly 4 to 6, occasionally 7 later in north.\nSea state\nSmooth or slight in far southeast, elsewhere moderate, occasionally slight in far east, becoming rough at times later in north.\nWeather\nFair.\nVisibility\nGood.",
+      "text": "Wind\nVariable 4 or less, becoming northwest 4 to 6.\nSea state\nSlight or moderate becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood.\nTrafalgar (issued 23:15 UTC+1)\n Wind\nEasterly at first in far southeast, otherwise northerly 4 to 6, occasionally 7 later in north.\nSea state\nSmooth or slight in far southeast, elsewhere moderate, occasionally slight in far east, becoming rough at times later in north.\nWeather\nFair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nNortherly gale force 8 expected later",
       "wind": "Variable 4 or less, becoming northwest 4 to 6.",
       "sea_state": "Slight or moderate becoming moderate or rough later.",
       "weather": "Showers.",
