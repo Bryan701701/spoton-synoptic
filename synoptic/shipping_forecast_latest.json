@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-15T21:45:02Z",
+  "fetched_at": "2026-09-15T22:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 15 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Tue 15 Sep 2026 to 18:00 (UTC) on Wed 16 Sep 2026",
   "general_synopsis": "Low Viking 996 expected Norway 990 by midday tomorrow",
@@ -24,7 +24,6 @@
     },
     "South Utsire": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first, becoming northwesterly 4 to 6.\nSea state\nModerate or rough.\nWeather\nRain or thundery showers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 15 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first, becoming northwesterly 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or thundery showers.",
@@ -32,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nIn east, cyclonic 5 to 7, occasionally gale 8 at first, becoming northwesterly 4 to 6. In west, westerly or northwesterly 4 to 6, backing southerly 3 to 5 later.\nSea state\nIn east, moderate or rough. in west, moderate or rough.\nWeather\nIn east, rain or thundery showers. In west, showers, thundery at first.\nVisibility\nIn east, good occasionally poor. In west, good occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Mon 14 Sep 2026\nWesterly gale force 8 expected later",
       "wind": "In east, cyclonic 5 to 7, occasionally gale 8 at first, becoming northwesterly 4 to 6. In west, westerly or northwesterly 4 to 6, backing southerly 3 to 5 later.",
       "sea_state": "In east, moderate or rough. in west, moderate or rough.",
       "weather": "In east, rain or thundery showers. In west, showers, thundery at first.",
@@ -185,6 +183,7 @@
     },
     "Malin": {
       "text": "Wind\nNorthwest 4 to 6, backing south or southwest 5 to 7 later.\nSea state\nModerate or rough becoming rough.\nWeather\nShowers, rain later.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n21:43 (UTC) on Tue 15 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 4 to 6, backing south or southwest 5 to 7 later.",
       "sea_state": "Moderate or rough becoming rough.",
       "weather": "Showers, rain later.",
