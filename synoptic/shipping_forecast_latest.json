@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-18T15:45:02Z",
+  "fetched_at": "2026-09-18T16:00:02Z",
   "issued": "Issued at: 10:30 (UTC) on Fri 18 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Fri 18 Sep 2026 to 12:00 (UTC) on Sat 19 Sep 2026",
   "general_synopsis": "New low moving quickly northeast, expected Faeroes 974 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSouthwest 5 to 7, perhaps gale 8 at times later.\nSea state\nRough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Fri 18 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 5 to 7, perhaps gale 8 at times later.",
       "sea_state": "Rough.",
       "weather": "Rain.",
@@ -29,6 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nSouthwest 5 to 7, perhaps gale 8 later.\nSea state\nRough, occasionally moderate in west.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Fri 18 Sep 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Rough, occasionally moderate in west.",
       "weather": "Rain.",
