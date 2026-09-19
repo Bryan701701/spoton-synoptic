@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-19T15:45:01Z",
+  "fetched_at": "2026-09-19T16:00:01Z",
   "issued": "Issued at: 10:30 (UTC) on Sat 19 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Sat 19 Sep 2026 to 12:00 (UTC) on Sun 20 Sep 2026",
   "general_synopsis": "Low north Bailey 979 losing its identity by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Fri 18 Sep 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -16,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -23,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -30,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:46 (UTC) on Fri 18 Sep 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -38,7 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, occasionally slight in west.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Sat 19 Sep 2026\nSouthwesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nGale force 8 veering westerly soon",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, occasionally slight in west.",
       "weather": "Squally showers.",
@@ -46,7 +48,6 @@
     },
     "Forth": {
       "text": "Wind\nSouthwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.\nSea state\nModerate or rough, occasionally slight in west.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Sat 19 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwesterly veering northwesterly later, 5 to 7, perhaps gale 8 later in the utsires, occasionally gale 8 elsewhere.",
       "sea_state": "Moderate or rough, occasionally slight in west.",
       "weather": "Squally showers.",
@@ -61,6 +62,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouthwest veering west later, 5 to 7.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Southwest veering west later, 5 to 7.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers.",
@@ -68,6 +70,7 @@
     },
     "Fisher": {
       "text": "Wind\nSouthwest veering west later, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nWesterly gale force 8 expected soon",
       "wind": "Southwest veering west later, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers.",
@@ -75,6 +78,7 @@
     },
     "German Bight": {
       "text": "Wind\nSouthwest veering west later, 5 to 7.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sat 19 Sep 2026\nWesterly gale force 8 expected later",
       "wind": "Southwest veering west later, 5 to 7.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Showers.",
