@@ -16,8 +16,8 @@
       "lat": 60.20768232800005,
       "x": 1832.9999999666522,
       "y": 519.2517139614514,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n03:47 (UTC) on Mon 21 Sep 2026\nSouthwesterly gale force 8 expected later"
     },
     {
       "name": "Cromarty",
@@ -223,8 +223,8 @@
       "lat": 58.37721943550005,
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:51 (UTC) on Sun 20 Sep 2026\nGale force 8 veering northwesterly soon"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Thames",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-09-21T03:31:32Z"
+  "generated_utc": "2026-09-21T04:01:42Z"
 }
