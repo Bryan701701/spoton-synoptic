@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-22T22:00:02Z",
+  "fetched_at": "2026-09-22T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 22 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Tue 22 Sep 2026 to 18:00 (UTC) on Wed 23 Sep 2026",
   "general_synopsis": "New low expected northeast Forties 1014 by midday tomorrow",
@@ -15,6 +15,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic then northwesterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFog patches, rain, perhaps thundery later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic then northwesterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fog patches, rain, perhaps thundery later.",
@@ -22,6 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic then northwesterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFog patches, rain, perhaps thundery later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic then northwesterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fog patches, rain, perhaps thundery later.",
@@ -65,6 +67,7 @@
     },
     "Fisher": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight becoming moderate or rough later.\nWeather\nFog patches, thundery rain later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight becoming moderate or rough later.",
       "weather": "Fog patches, thundery rain later.",
@@ -72,6 +75,7 @@
     },
     "German Bight": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSmooth or slight becoming slight or moderate later.\nWeather\nFog patches, thundery rain later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Smooth or slight becoming slight or moderate later.",
       "weather": "Fog patches, thundery rain later.",
@@ -166,6 +170,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic 3 to 5, becoming south 4 to 6 later.\nSea state\nRough, becoming moderate or rough later.\nWeather\nRain then showers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming south 4 to 6 later.",
       "sea_state": "Rough, becoming moderate or rough later.",
       "weather": "Rain then showers.",
@@ -173,6 +178,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic 3 to 5, becoming south 4 to 6 later.\nSea state\nVery rough at first in north, otherwise rough.\nWeather\nRain then showers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:00 (UTC) on Tue 22 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming south 4 to 6 later.",
       "sea_state": "Very rough at first in north, otherwise rough.",
       "weather": "Rain then showers.",
@@ -215,7 +221,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 6 to gale 8, decreasing 4 to 6.\nSea state\nVery rough or high at becoming rough or very rough, then rough occasionally moderate later.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Tue 22 Sep 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Very rough or high at becoming rough or very rough, then rough occasionally moderate later.",
       "weather": "Squally showers.",
