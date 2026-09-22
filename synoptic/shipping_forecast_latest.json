@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-22T16:00:02Z",
+  "fetched_at": "2026-09-22T16:15:02Z",
   "issued": "Issued at: 10:30 (UTC) on Tue 22 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Tue 22 Sep 2026 to 12:00 (UTC) on Wed 23 Sep 2026",
   "general_synopsis": "New low expected Forties 1017 by 0600 tomorrow",
@@ -29,6 +29,7 @@
     },
     "Forties": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic 5 to 7 later.\nSea state\nSlight or moderate.\nWeather\nFog patches, rain, thundery later.\nVisibility\nModerate or good, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic 5 to 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Fog patches, rain, thundery later.",
@@ -193,7 +194,6 @@
     },
     "Bailey": {
       "text": "Wind\nWesterly or southwesterly 4 to 6, but 6 to gale 8 at first in north.\nSea state\nVery rough or high becoming rough or very rough.\nWeather\nShowers.\nVisibility\nGood occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:35 (UTC) on Tue 22 Sep 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Westerly or southwesterly 4 to 6, but 6 to gale 8 at first in north.",
       "sea_state": "Very rough or high becoming rough or very rough.",
       "weather": "Showers.",
