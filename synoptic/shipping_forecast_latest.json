@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-23T16:00:01Z",
+  "fetched_at": "2026-09-23T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Wed 23 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Wed 23 Sep 2026 to 12:00 (UTC) on Thu 24 Sep 2026",
   "general_synopsis": "Complex low Forties 1019 and Forth 1019 expected single centre Denmark 1011 by 0600 tomorrow",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nCyclonic 5 to 7, becoming northwesterly 6 to gale 8 for a time, decreasing 3 to 5 later.\nSea state\nSlight or moderate becoming moderate or rough.\nWeather\nThundery rain then showers.\nVisibility\nModerate or poor, becoming good.",
-      "gale_warning": "Gale warning\nIssued:\n15:54 (UTC) on Tue 22 Sep 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 23 Sep 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Cyclonic 5 to 7, becoming northwesterly 6 to gale 8 for a time, decreasing 3 to 5 later.",
       "sea_state": "Slight or moderate becoming moderate or rough.",
       "weather": "Thundery rain then showers.",
@@ -180,7 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nVariable 2 to 4 becoming south 6 to gale 8, occasionally severe gale 9 later.\nSea state\nModerate or rough, becoming very rough later, then becoming high later in northwest.\nWeather\nFair then rain.\nVisibility\nGood, becoming poor later.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Wed 23 Sep 2026\nSoutherly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 23 Sep 2026\nSoutherly gale force 8 imminent, increasing severe gale force 9 soon",
       "wind": "Variable 2 to 4 becoming south 6 to gale 8, occasionally severe gale 9 later.",
       "sea_state": "Moderate or rough, becoming very rough later, then becoming high later in northwest.",
       "weather": "Fair then rain.",
@@ -204,7 +204,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouthwest backing southeast 4 to 6, increasing 7 to severe gale 9 later.\nSea state\nRough, becoming very rough or high later.\nWeather\nRain later.\nVisibility\nGood, becoming poor later.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Wed 23 Sep 2026\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 23 Sep 2026\nSoutheasterly severe gale force 9 expected soon, veering southwesterly and increasing storm force 10 later",
       "wind": "Southwest backing southeast 4 to 6, increasing 7 to severe gale 9 later.",
       "sea_state": "Rough, becoming very rough or high later.",
       "weather": "Rain later.",
@@ -212,6 +212,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwesterly 3 to 5, backing southerly 5 to 7 later, perhaps gale 8 later in west.\nSea state\nMainly moderate or rough, but slight or moderate in far southeast.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Wed 23 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "Northwesterly 3 to 5, backing southerly 5 to 7 later, perhaps gale 8 later in west.",
       "sea_state": "Mainly moderate or rough, but slight or moderate in far southeast.",
       "weather": "Showers.",
