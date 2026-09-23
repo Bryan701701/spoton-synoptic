@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-23T08:00:02Z",
+  "fetched_at": "2026-09-23T08:15:01Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 23 Sep 2026",
   "valid": "For the period 06:00 (UTC) on Wed 23 Sep 2026 to 06:00 (UTC) on Thu 24 Sep 2026",
   "general_synopsis": "Low Forth 1022 expected Denmark 1009 by midnight tonight. New high expected England 1027 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic 3 to 5, becoming northwesterly 5 to 7.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nThundery rain then showers, fog patches.\nVisibility\nModerate, occasionally very poor.",
+      "gale_warning": "Gale warning\nIssued:\n07:55 (UTC) on Wed 23 Sep 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 3 to 5, becoming northwesterly 5 to 7.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Thundery rain then showers, fog patches.",
@@ -23,7 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nCyclonic 3 to 5, becoming northwesterly 5 to 7, occasionally gale 8, increasing 7 to severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nThundery rain then showers, fog patches.\nVisibility\nModerate, occasionally very poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Wed 23 Sep 2026\nNorthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n07:55 (UTC) on Wed 23 Sep 2026\nNorthwesterly severe gale force 9 expected soon",
       "wind": "Cyclonic 3 to 5, becoming northwesterly 5 to 7, occasionally gale 8, increasing 7 to severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Thundery rain then showers, fog patches.",
