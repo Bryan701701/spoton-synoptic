@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-26T16:00:02Z",
+  "fetched_at": "2026-09-26T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Sat 26 Sep 2026",
   "valid": "For the period 12:00 (UTC) on Sat 26 Sep 2026 to 12:00 (UTC) on Sun 27 Sep 2026",
   "general_synopsis": "Low just west of FitzRoy 1018 expected Fastnet 1001 by 0600 tomorrow. High northwest France 1024 dissipating",
@@ -137,6 +137,7 @@
     },
     "Sole": {
       "text": "Wind\nSouthwest becoming cyclonic, then west later, 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain for a time.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Sat 26 Sep 2026\nSouthwesterly gale force 8 expected soon",
       "wind": "Southwest becoming cyclonic, then west later, 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain for a time.",
@@ -144,6 +145,7 @@
     },
     "Lundy": {
       "text": "Wind\nSouthwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough later.\nWeather\nFair then occasional rain or showers.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Sat 26 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough later.",
       "weather": "Fair then occasional rain or showers.",
@@ -151,6 +153,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSouthwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nFair then occasional rain or showers.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Sat 26 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair then occasional rain or showers.",
@@ -158,6 +161,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSouthwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate.\nWeather\nFair then occasional rain or showers.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Sat 26 Sep 2026\nSoutherly gale force 8 expected later",
       "wind": "Southwest backing south, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Fair then occasional rain or showers.",
@@ -220,7 +224,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly 6 to gale 8, becoming cyclonic 4 to 6, occasionally 3 in northwest.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sat 26 Sep 2026\nSouthwesterly gale force 8 continuing",
       "wind": "Southwesterly 6 to gale 8, becoming cyclonic 4 to 6, occasionally 3 in northwest.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Occasional rain or showers.",
