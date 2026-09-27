@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-27T21:45:01Z",
+  "fetched_at": "2026-09-27T22:00:02Z",
   "issued": "Issued at: 16:25 (UTC) on Sun 27 Sep 2026",
   "valid": "For the period 18:00 (UTC) on Sun 27 Sep 2026 to 18:00 (UTC) on Mon 28 Sep 2026",
   "general_synopsis": "New high expected Humber 1023 by midday tomorrow. Lows Southeast Iceland 987 and southwest Scotland 1000 losing their identities",
@@ -24,7 +24,6 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 6 to gale 8, veering northwesterly 3 to 5.\nSea state\nModerate, occasionally rough at first.\nWeather\nRain at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:48 (UTC) on Sat 26 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly 6 to gale 8, veering northwesterly 3 to 5.",
       "sea_state": "Moderate, occasionally rough at first.",
       "weather": "Rain at first.",
@@ -32,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nRain at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Rain at first.",
@@ -47,7 +45,6 @@
     },
     "Forth": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate, then smooth or slight later.\nWeather\nRain at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate, then smooth or slight later.",
       "weather": "Rain at first.",
@@ -55,7 +52,6 @@
     },
     "Tyne": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate, then smooth or slight later.\nWeather\nRain at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Cyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate, then smooth or slight later.",
       "weather": "Rain at first.",
@@ -63,7 +59,6 @@
     },
     "Dogger": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.\nSea state\nModerate or rough becoming slight or moderate, then smooth or slight later.\nWeather\nRain at first.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8, becoming west or southwest 3 to 5, then variable 2 to 4 later.",
       "sea_state": "Moderate or rough becoming slight or moderate, then smooth or slight later.",
       "weather": "Rain at first.",
@@ -172,6 +167,7 @@
     },
     "Shannon": {
       "text": "Wind\nSouthwest 4 to 6, backing southeast 5 to 7 later, perhaps gale 8 later.\nSea state\nRough, occasionally very rough later in west.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southwest 4 to 6, backing southeast 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough, occasionally very rough later in west.",
       "weather": "Showers.",
@@ -179,6 +175,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouthwest 4 to 6, backing southeast 5 to 7 later, perhaps gale 8 later.\nSea state\nRough, occasionally very rough later in west.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southwest 4 to 6, backing southeast 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Rough, occasionally very rough later in west.",
       "weather": "Showers.",
@@ -200,6 +197,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouthwest 5 to 7, backing south 4 to 6 later.\nSea state\nRough, occasionally very rough until later.\nWeather\nShowers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:47 (UTC) on Sun 27 Sep 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southwest 5 to 7, backing south 4 to 6 later.",
       "sea_state": "Rough, occasionally very rough until later.",
       "weather": "Showers, perhaps thundery.",
@@ -207,7 +205,6 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutherly 6 to gale 8 at first in east, otherwise southwesterly 5 to 7, occasionally 4 later.\nSea state\nModerate or rough.\nWeather\nRain then squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Sun 27 Sep 2026\nSoutherly gale force 8 continuing",
       "wind": "Southerly 6 to gale 8 at first in east, otherwise southwesterly 5 to 7, occasionally 4 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain then squally showers.",
