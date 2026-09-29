@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-09-29T03:45:01Z",
+  "fetched_at": "2026-09-29T04:00:02Z",
   "issued": "Issued at: 23:15 (UTC) on Mon 28 Sep 2026",
   "valid": "For the period 00:00 (UTC) on Tue 29 Sep 2026 to 00:00 (UTC) on Wed 30 Sep 2026",
   "general_synopsis": "Atlantic low moving rather quickly north, expected 100 miles west of Rockall 964 by 1800 Tuesday. High Dogger 1024 expected Sweden 1034 by same time",
@@ -117,6 +117,7 @@
     },
     "Plymouth": {
       "text": "Wind\nSoutheast, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate becoming moderate or rough, occasionally very rough later in west.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Tue 29 Sep 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Southeast, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate becoming moderate or rough, occasionally very rough later in west.",
       "weather": "Showers, rain later.",
@@ -124,6 +125,7 @@
     },
     "Biscay": {
       "text": "Wind\nSoutheast, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nModerate becoming moderate or rough, occasionally very rough later in west.\nWeather\nThundery showers, rain later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Tue 29 Sep 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Southeast, becoming cyclonic later, 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Moderate becoming moderate or rough, occasionally very rough later in west.",
       "weather": "Thundery showers, rain later.",
@@ -179,7 +181,7 @@
     },
     "Shannon": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic 7 to severe gale 9.\nSea state\nRough or very rough, becoming very rough occasionally high.\nWeather\nSqually rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Mon 28 Sep 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Tue 29 Sep 2026\nSoutheasterly gale force 8 increasing severe gale force 9 imminent, increasing storm force 10 soon",
       "wind": "Southeast 6 to gale 8, becoming cyclonic 7 to severe gale 9.",
       "sea_state": "Rough or very rough, becoming very rough occasionally high.",
       "weather": "Squally rain or showers.",
@@ -187,7 +189,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutheast 6 to gale 8, becoming cyclonic 7 to severe gale 9.\nSea state\nRough or very rough, becoming very rough occasionally high.\nWeather\nSqually rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Mon 28 Sep 2026\nSoutheasterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Tue 29 Sep 2026\nSoutheasterly gale force 8 increasing storm force 10 soon",
       "wind": "Southeast 6 to gale 8, becoming cyclonic 7 to severe gale 9.",
       "sea_state": "Rough or very rough, becoming very rough occasionally high.",
       "weather": "Squally rain or showers.",
