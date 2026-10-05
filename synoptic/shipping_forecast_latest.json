@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-05T22:00:02Z",
+  "fetched_at": "2026-10-05T22:15:02Z",
   "issued": "Issued at: 16:25 (UTC) on Mon 05 Oct 2026",
   "valid": "For the period 18:00 (UTC) on Mon 05 Oct 2026 to 18:00 (UTC) on Tue 06 Oct 2026",
   "general_synopsis": "New low expected Biscay 1012 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nWesterly 5 to 7, occasionally gale 8 at first in north, decreasing 4 or 5 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 05 Oct 2026\nGale force 8 veering westerly imminent",
       "wind": "Westerly 5 to 7, occasionally gale 8 at first in north, decreasing 4 or 5 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -187,7 +186,6 @@
     },
     "Hebrides": {
       "text": "Wind\nWest or southwest 6 to gale 8, decreasing 4 to 6.\nSea state\nVery rough becoming rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 05 Oct 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "West or southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Very rough becoming rough.",
       "weather": "Squally showers.",
@@ -195,7 +193,6 @@
     },
     "Bailey": {
       "text": "Wind\nWest or southwest 6 to gale 8, decreasing 4 to 6.\nSea state\nVery rough becoming rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 05 Oct 2026\nSouthwesterly storm force 10 now decreased severe gale force 9, decreasing gale force 8 imminent",
       "wind": "West or southwest 6 to gale 8, decreasing 4 to 6.",
       "sea_state": "Very rough becoming rough.",
       "weather": "Squally showers.",
@@ -219,7 +216,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly or northwesterly 6 to gale 8, becoming cyclonic 4 to 6, then variable 2 to 4 later.\nSea state\nRough or very rough, becoming moderate or rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:52 (UTC) on Mon 05 Oct 2026\nSevere gale force 9 veering westerly and decreasing gale force 8 imminent",
       "wind": "Westerly or northwesterly 6 to gale 8, becoming cyclonic 4 to 6, then variable 2 to 4 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later.",
       "weather": "Rain or showers.",
