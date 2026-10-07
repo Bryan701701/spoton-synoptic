@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-07T09:45:02Z",
+  "fetched_at": "2026-10-07T10:00:01Z",
   "issued": "Issued at: 04:05 (UTC) on Wed 07 Oct 2026",
   "valid": "For the period 06:00 (UTC) on Wed 07 Oct 2026 to 06:00 (UTC) on Thu 08 Oct 2026",
   "general_synopsis": "Low Biscay 1009 expected north Germany 1003 by midnight tonight. Low Southeast Iceland 1007 losing its identity",
@@ -64,6 +64,7 @@
     },
     "Fisher": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Wed 07 Oct 2026\nNortherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain, perhaps thundery.",
@@ -71,6 +72,7 @@
     },
     "German Bight": {
       "text": "Wind\nVariable 2 to 4, becoming cyclonic 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain, perhaps thundery.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Wed 07 Oct 2026\nNortherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming cyclonic 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain, perhaps thundery.",
@@ -85,6 +87,7 @@
     },
     "Thames": {
       "text": "Wind\nVariable 2 to 4, becoming northwest 5 to 7, perhaps gale 8 later.\nSea state\nSmooth or slight becoming moderate occasionally rough.\nWeather\nOccasional rain, perhaps thundery, showers later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Wed 07 Oct 2026\nNortherly gale force 8 expected soon",
       "wind": "Variable 2 to 4, becoming northwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Smooth or slight becoming moderate occasionally rough.",
       "weather": "Occasional rain, perhaps thundery, showers later.",
@@ -92,6 +95,7 @@
     },
     "Dover": {
       "text": "Wind\nVariable 2 to 4, becoming northwest 5 to 7, perhaps gale 8 later.\nSea state\nSmooth or slight becoming moderate occasionally rough.\nWeather\nOccasional rain, perhaps thundery, showers later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:39 (UTC) on Wed 07 Oct 2026\nNortherly gale force 8 expected soon",
       "wind": "Variable 2 to 4, becoming northwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Smooth or slight becoming moderate occasionally rough.",
       "weather": "Occasional rain, perhaps thundery, showers later.",
