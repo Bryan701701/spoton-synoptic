@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-08T15:45:07Z",
+  "fetched_at": "2026-10-08T16:00:16Z",
   "issued": "Issued at: 10:30 (UTC) on Thu 08 Oct 2026",
   "valid": "For the period 12:00 (UTC) on Thu 08 Oct 2026 to 12:00 (UTC) on Fri 09 Oct 2026",
   "general_synopsis": "New low expected Iceland 984 by 0600 Friday",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwest 5 to 7, becoming variable 2 to 4, then south 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nRain later.\nVisibility\nGood, becoming moderate or poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwest 5 to 7, becoming variable 2 to 4, then south 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain later.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nNorthwesterly 5 to 7, becoming variable 2 to 4, then southerly 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nRain later.\nVisibility\nGood, becoming moderate or poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwesterly 5 to 7, becoming variable 2 to 4, then southerly 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain later.",
@@ -22,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nNorthwesterly 5 to 7, becoming variable 2 to 4, then southerly 5 to 7 later.\nSea state\nModerate or rough.\nWeather\nRain later.\nVisibility\nGood, becoming moderate or poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Northwesterly 5 to 7, becoming variable 2 to 4, then southerly 5 to 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain later.",
@@ -94,6 +97,7 @@
     },
     "Dover": {
       "text": "Wind\nNorthwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFair at first, then occasional rain.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fair at first, then occasional rain.",
@@ -101,6 +105,7 @@
     },
     "Wight": {
       "text": "Wind\nNorthwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFair at first, then occasional rain.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fair at first, then occasional rain.",
@@ -108,6 +113,7 @@
     },
     "Portland": {
       "text": "Wind\nNorthwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFair at first, then occasional rain.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fair at first, then occasional rain.",
@@ -115,6 +121,7 @@
     },
     "Plymouth": {
       "text": "Wind\nNorthwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nFair at first, then occasional rain.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing southwest 5 to 7, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Fair at first, then occasional rain.",
@@ -190,7 +197,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth veering west 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 07 Oct 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 continuing",
       "wind": "South veering west 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain then showers.",
@@ -198,7 +205,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth veering west 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 07 Oct 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 continuing",
       "wind": "South veering west 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain then showers.",
@@ -213,7 +220,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutheast 6 to gale 8, veering southwest 4 to 6.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 07 Oct 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8, veering southwest 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain then showers.",
@@ -221,7 +228,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutheasterly 6 to gale 8, veering southwesterly 4 to 6.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:55 (UTC) on Wed 07 Oct 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:43 (UTC) on Thu 08 Oct 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8, veering southwesterly 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain then showers.",
