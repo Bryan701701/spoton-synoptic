@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-11T21:45:02Z",
+  "fetched_at": "2026-10-11T22:00:02Z",
   "issued": "Issued at: 16:25 (UTC) on Sun 11 Oct 2026",
   "valid": "For the period 18:00 (UTC) on Sun 11 Oct 2026 to 18:00 (UTC) on Mon 12 Oct 2026",
   "general_synopsis": "New low expected northwest Shannon 991 by midday tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later in west.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later in west.",
       "weather": "Showers, rain later.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, rain later.",
@@ -22,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nVariable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate.\nWeather\nShowers, rain later.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 3 or less, becoming southerly or southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, rain later.",
@@ -181,6 +184,7 @@
     },
     "Malin": {
       "text": "Wind\nSouth or southeast, becoming cyclonic for a time, 5 to 7, decreasing 4 at times, perhaps gale 8 later.\nSea state\nSlight or moderate in southeast, elsewhere moderate or rough.\nWeather\nFair then rain and fog patches.\nVisibility\nGood, becoming moderate to very poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southeast, becoming cyclonic for a time, 5 to 7, decreasing 4 at times, perhaps gale 8 later.",
       "sea_state": "Slight or moderate in southeast, elsewhere moderate or rough.",
       "weather": "Fair then rain and fog patches.",
@@ -188,6 +192,7 @@
     },
     "Hebrides": {
       "text": "Wind\nSouth or southeast, becoming cyclonic for a time, 5 to 7, decreasing 4 at times, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nFair then rain and fog patches.\nVisibility\nGood, becoming moderate to very poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southeast, becoming cyclonic for a time, 5 to 7, decreasing 4 at times, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Fair then rain and fog patches.",
@@ -195,7 +200,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast 6 to gale 8, veering southwest 4 to 6, backing southeast 3 to 5 later.\nSea state\nModerate or rough, occasionally very rough in west.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sun 11 Oct 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 6 to gale 8, veering southwest 4 to 6, backing southeast 3 to 5 later.",
       "sea_state": "Moderate or rough, occasionally very rough in west.",
       "weather": "Occasional rain.",
