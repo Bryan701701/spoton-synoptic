@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-12T03:45:02Z",
+  "fetched_at": "2026-10-12T04:00:01Z",
   "issued": "Issued at: 23:15 (UTC) on Sun 11 Oct 2026",
   "valid": "For the period 00:00 (UTC) on Mon 12 Oct 2026 to 00:00 (UTC) on Tue 13 Oct 2026",
   "general_synopsis": "New low expected Rockall 987 by 1800 Monday",
   "areas": {
     "Viking": {
       "text": "Wind\nVariable 2 to 4, becoming southerly or southeasterly 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later in north.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later in north.\nWeather\nShowers, rain later.\nVisibility\nModerate or good, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 12 Oct 2026\nSoutherly gale force 8 expected later increasing severe gale force 9 later",
       "wind": "Variable 2 to 4, becoming southerly or southeasterly 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later in north.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later in north.",
       "weather": "Showers, rain later.",
@@ -16,7 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nVariable 2 to 4, becoming southerly or southeasterly 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later in north.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later in north.\nWeather\nShowers, rain later.\nVisibility\nModerate or good, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n21:52 (UTC) on Sun 11 Oct 2026\nSoutherly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 12 Oct 2026\nSoutherly gale force 8 expected later increasing severe gale force 9 later",
       "wind": "Variable 2 to 4, becoming southerly or southeasterly 4 to 6, increasing 6 to gale 8 later, perhaps severe gale 9 later in north.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later in north.",
       "weather": "Showers, rain later.",
@@ -32,6 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, then rain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 12 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, then rain.",
@@ -212,6 +213,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nVariable 2 to 4, becoming southeasterly 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:43 (UTC) on Mon 12 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Variable 2 to 4, becoming southeasterly 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Occasional rain.",
