@@ -1,14 +1,13 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-15T03:45:01Z",
+  "fetched_at": "2026-10-15T04:00:02Z",
   "issued": "Issued at: 23:15 (UTC) on Wed 14 Oct 2026",
   "valid": "For the period 00:00 (UTC) on Thu 15 Oct 2026 to 00:00 (UTC) on Fri 16 Oct 2026",
   "general_synopsis": "Low southeastern Iceland 935 moving away rather quickly northeastwards",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southwesterly 6 to gale 8 veering westerly or southwesterly 4 to 6.\nSea state\nRough or very rough.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nSoutherly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southerly or southwesterly 6 to gale 8 veering westerly or southwesterly 4 to 6.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then showers.",
@@ -31,7 +30,6 @@
     },
     "Forties": {
       "text": "Wind\nSouth or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.\nSea state\nModerate or rough, occasionally very rough at first in north.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nGale force 8 veering southwesterly imminent",
       "wind": "South or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.",
       "sea_state": "Moderate or rough, occasionally very rough at first in north.",
       "weather": "Rain then showers.",
@@ -39,7 +37,6 @@
     },
     "Cromarty": {
       "text": "Wind\nSouth or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nGale force 8 now veered southwesterly",
       "wind": "South or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Rain then showers.",
@@ -47,7 +44,6 @@
     },
     "Forth": {
       "text": "Wind\nSouth or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.\nSea state\nModerate or rough becoming slight or moderate.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nGale force 8 now veered southwesterly",
       "wind": "South or southwest 5 to 7, occasionally gale 8 at first, veering west or southwest 4 to 6.",
       "sea_state": "Moderate or rough becoming slight or moderate.",
       "weather": "Rain then showers.",
@@ -175,7 +171,6 @@
     },
     "Shannon": {
       "text": "Wind\nSouthwesterly 6 to gale 8 at first in southeast, otherwise westerly or northwesterly 4 to 6.\nSea state\nMainly very rough, but occasionally high at first and rough later.\nWeather\nRain then showers.\nVisibility\nModerate or good, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Wed 14 Oct 2026\nSevere gale force 9 now veered southwesterly and decreased gale force 8",
       "wind": "Southwesterly 6 to gale 8 at first in southeast, otherwise westerly or northwesterly 4 to 6.",
       "sea_state": "Mainly very rough, but occasionally high at first and rough later.",
       "weather": "Rain then showers.",
@@ -221,7 +216,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouthwesterly gale 8 to storm 10 becoming cyclonic 6 to gale 8, decreasing 3 to 5 later.\nSea state\nHigh or very high, becoming very rough later.\nWeather\nSqually showers.\nVisibility\nPoor, becoming moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nSouthwesterly storm force 10 decreasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Thu 15 Oct 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 soon",
       "wind": "Southwesterly gale 8 to storm 10 becoming cyclonic 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "High or very high, becoming very rough later.",
       "weather": "Squally showers.",
@@ -229,7 +224,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSouthwesterly gale 8 to storm 10, occasionally violent storm 11 at first, becoming cyclonic 6 to gale 8, decreasing 3 to 5 later.\nSea state\nPhenomenal at first in east, otherwise high or very high, becoming very rough later.\nWeather\nSqually showers.\nVisibility\nPoor, becoming moderate later.",
-      "gale_warning": "Gale warning\nIssued:\n21:50 (UTC) on Wed 14 Oct 2026\nSouthwesterly violent storm force 11 decreasing storm force 10 imminent",
+      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Thu 15 Oct 2026\nSouthwesterly storm force 10 decreasing severe gale force 9 imminent, decreasing gale force 8 soon",
       "wind": "Southwesterly gale 8 to storm 10, occasionally violent storm 11 at first, becoming cyclonic 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Phenomenal at first in east, otherwise high or very high, becoming very rough later.",
       "weather": "Squally showers.",
