@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-16T22:00:02Z",
+  "fetched_at": "2026-10-16T22:15:01Z",
   "issued": "Issued at: 16:25 (UTC) on Fri 16 Oct 2026",
   "valid": "For the period 18:00 (UTC) on Fri 16 Oct 2026 to 18:00 (UTC) on Sat 17 Oct 2026",
   "general_synopsis": "High 150 miles west of Sole 1034 expected Malin 1039 by midday tomorrow",
@@ -194,6 +194,7 @@
     },
     "Bailey": {
       "text": "Wind\nWest backing south 4 to 6.\nSea state\nRough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 16 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "West backing south 4 to 6.",
       "sea_state": "Rough.",
       "weather": "Showers.",
@@ -215,6 +216,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nWesterly backing southwesterly 4 to 6.\nSea state\nRough, occasionally very rough at first.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:56 (UTC) on Fri 16 Oct 2026\nSoutherly gale force 8 expected later",
       "wind": "Westerly backing southwesterly 4 to 6.",
       "sea_state": "Rough, occasionally very rough at first.",
       "weather": "Showers.",
