@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-19T16:00:02Z",
+  "fetched_at": "2026-10-19T16:15:01Z",
   "issued": "Issued at: 10:30 (UTC) on Mon 19 Oct 2026",
   "valid": "For the period 12:00 (UTC) on Mon 19 Oct 2026 to 12:00 (UTC) on Tue 20 Oct 2026",
   "general_synopsis": "Low Portland 1022 losing its identity. New low expected northwest France 1008 by 0600 tomorrow",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later.\nSea state\nModerate or rough.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Mainly fair.",
@@ -22,6 +23,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nMainly fair.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Mainly fair.",
@@ -29,6 +31,7 @@
     },
     "Forties": {
       "text": "Wind\nSoutherly or southeasterly 4 to 6, increasing 6 or 7 later.\nSea state\nModerate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -64,6 +67,7 @@
     },
     "Fisher": {
       "text": "Wind\nEast or southeast 4 to 6, increasing 6 or 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nEasterly gale force 8 expected later",
       "wind": "East or southeast 4 to 6, increasing 6 or 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -153,6 +157,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic becoming south later, 4 to 6.\nSea state\nSlight or moderate, becoming moderate or rough.\nWeather\nRain or showers, thundery at first.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming south later, 4 to 6.",
       "sea_state": "Slight or moderate, becoming moderate or rough.",
       "weather": "Rain or showers, thundery at first.",
@@ -175,7 +180,7 @@
     },
     "Rockall": {
       "text": "Wind\nSouth backing southeast 4 to 6, becoming cyclonic 6 to gale 8 later.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 19 Oct 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected soon, veering northwesterly later",
       "wind": "South backing southeast 4 to 6, becoming cyclonic 6 to gale 8 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -212,6 +217,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSouthwest backing southeast 5 to 7.\nSea state\nIn west very rough, occasionally high at first, in east rough or very rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Southwest backing southeast 5 to 7.",
       "sea_state": "In west very rough, occasionally high at first, in east rough or very rough.",
       "weather": "Occasional rain.",
