@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-20T03:45:01Z",
+  "fetched_at": "2026-10-20T04:00:01Z",
   "issued": "Issued at: 04:05 (UTC) on Tue 20 Oct 2026",
   "valid": "For the period 06:00 (UTC) on Tue 20 Oct 2026 to 06:00 (UTC) on Wed 21 Oct 2026",
   "general_synopsis": "New low expected Bailey 993 by midnight tonight",
@@ -117,6 +117,7 @@
     },
     "Plymouth": {
       "text": "Wind\nVariable 4 or less, becoming cyclonic, then northwest later, 6 to gale 8, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming rough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Variable 4 or less, becoming cyclonic, then northwest later, 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -124,6 +125,7 @@
     },
     "Biscay": {
       "text": "Wind\nVariable 4 or less, becoming cyclonic, then northwest later, 6 to gale 8.\nSea state\nSlight or moderate, becoming rough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.\nTrafalgar (issued 23:15 UTC+1)\nWind\nNortherly or northwesterly 3 to 5, occasionally 6 later in northwest.\nSea state\nModerate or rough, occasionally slight in southeast.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Variable 4 or less, becoming cyclonic, then northwest later, 6 to gale 8.",
       "sea_state": "Slight or moderate, becoming rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -150,6 +152,7 @@
     },
     "Lundy": {
       "text": "Wind\nSouth or southeast 3 to 5, becoming cyclonic 6 to gale 8, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming rough or very rough in west.\nWeather\nRain, perhaps thundery later.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 expected later",
       "wind": "South or southeast 3 to 5, becoming cyclonic 6 to gale 8, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming rough or very rough in west.",
       "weather": "Rain, perhaps thundery later.",
@@ -172,7 +175,7 @@
     },
     "Shannon": {
       "text": "Wind\nSoutheast becoming cyclonic, then northwest, 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 19 Oct 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nSoutheasterly gale force 8 imminent, veering northwesterly soon",
       "wind": "Southeast becoming cyclonic, then northwest, 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -180,7 +183,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutheast becoming cyclonic, then northwest, 6 to gale 8, occasionally severe gale 9.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Mon 19 Oct 2026\nSoutheasterly gale force 8 expected soon, veering northwesterly later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nGale force 8 veering northwesterly and increasing severe gale force 9 soon",
       "wind": "Southeast becoming cyclonic, then northwest, 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
@@ -202,7 +205,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheasterly, becoming cyclonic, 5 to 7, occasionally gale 8.\nSea state\nRough or very rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:48 (UTC) on Mon 19 Oct 2026\nGale now ceased but southeasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nGale force 8 veering northwesterly later",
       "wind": "Southeasterly, becoming cyclonic, 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain.",
