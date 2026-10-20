@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-20T21:45:01Z",
+  "fetched_at": "2026-10-20T22:00:01Z",
   "issued": "Issued at: 16:25 (UTC) on Tue 20 Oct 2026",
   "valid": "For the period 18:00 (UTC) on Tue 20 Oct 2026 to 18:00 (UTC) on Wed 21 Oct 2026",
   "general_synopsis": "Low Rockall 994 losing its identity",
@@ -76,6 +76,7 @@
     },
     "German Bight": {
       "text": "Wind\nEast or southeast 5 to 7, veering south or southeast 4 to 6 later.\nSea state\nSlight or moderate in south and east, moderate or rough in north and west.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "East or southeast 5 to 7, veering south or southeast 4 to 6 later.",
       "sea_state": "Slight or moderate in south and east, moderate or rough in north and west.",
       "weather": "Occasional rain.",
@@ -83,6 +84,7 @@
     },
     "Humber": {
       "text": "Wind\nSoutheast 5 to 7 veering southwest 4 to 6, becoming cyclonic 5 to 7 later.\nSea state\nModerate or rough, becoming slight or moderate in west.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
       "wind": "Southeast 5 to 7 veering southwest 4 to 6, becoming cyclonic 5 to 7 later.",
       "sea_state": "Moderate or rough, becoming slight or moderate in west.",
       "weather": "Rain or showers.",
@@ -90,7 +92,7 @@
     },
     "Thames": {
       "text": "Wind\nCyclonic 4 to 6 becoming south 5 to 7, veering west or southwest 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSoutherly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
       "wind": "Cyclonic 4 to 6 becoming south 5 to 7, veering west or southwest 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers.",
@@ -98,7 +100,7 @@
     },
     "Dover": {
       "text": "Wind\nCyclonic 4 to 6 becoming south 5 to 7, veering west or southwest 6 to gale 8 later, perhaps severe gale 9 later.\nSea state\nSlight or moderate, becoming moderate or rough later, occasionally very rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly severe gale force 9 expected soon",
       "wind": "Cyclonic 4 to 6 becoming south 5 to 7, veering west or southwest 6 to gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later, occasionally very rough later.",
       "weather": "Rain or showers.",
@@ -149,7 +151,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or squally showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or squally showers.",
@@ -165,7 +167,7 @@
     },
     "Fastnet": {
       "text": "Wind\nCyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or squally showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 imminent, increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or squally showers.",
@@ -173,7 +175,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheast 3 to 5 becoming cyclonic then west or northwest 6 to gale 8.\nSea state\nSlight becoming moderate or rough, occasionally very rough.\nWeather\nRain or squally showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 imminent, increasing severe gale force 9 soon",
       "wind": "Southeast 3 to 5 becoming cyclonic then west or northwest 6 to gale 8.",
       "sea_state": "Slight becoming moderate or rough, occasionally very rough.",
       "weather": "Rain or squally showers.",
@@ -181,7 +183,7 @@
     },
     "Shannon": {
       "text": "Wind\nCyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or squally showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 20 Oct 2026\nGale force 8 now veered northwesterly, increasing severe gale force 9 imminent",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or squally showers.",
@@ -189,7 +191,7 @@
     },
     "Rockall": {
       "text": "Wind\nCyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.\nSea state\nRough or very rough, occasionally high.\nWeather\nRain or squally showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nGale force 8 veering northwesterly and increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic becoming west or northwest, 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Rain or squally showers.",
@@ -212,7 +214,6 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast veering northwest 5 to 7, occasionally gale 8.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Tue 20 Oct 2026\nGale force 8 veering northwesterly later",
       "wind": "Southeast veering northwest 5 to 7, occasionally gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
