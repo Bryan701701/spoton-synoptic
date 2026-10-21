@@ -26,7 +26,7 @@
       "x": 2502.2791214080653,
       "y": 682.9899601070002,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:46 (UTC) on Wed 21 Oct 2026\nNorthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nNorthwesterly severe gale force 9 expected soon"
     },
     {
       "name": "Dogger",
@@ -71,7 +71,7 @@
       "x": 2124.604291070742,
       "y": 1113.4959709353113,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:46 (UTC) on Wed 21 Oct 2026\nGale force 8 backing westerly imminent"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nGale force 8 veering northwesterly and increasing storm force 10 later"
     },
     {
       "name": "Fisher",
@@ -116,7 +116,7 @@
       "x": 3088.104751794571,
       "y": 906.5732721462239,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nSouthwesterly gale force 8 continuing"
     },
     {
       "name": "Hebrides",
@@ -134,7 +134,7 @@
       "x": 2824.655930230702,
       "y": 966.2612355492694,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nSoutherly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nSouthwesterly severe gale force 9 now decreased gale force 8"
     },
     {
       "name": "Irish Sea",
@@ -142,8 +142,8 @@
       "lat": 53.5004243685001,
       "x": 2360.4420605235596,
       "y": 966.1989943535843,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "Lundy",
@@ -170,7 +170,7 @@
       "x": 2340.9253976126233,
       "y": 1241.8241391902664,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nGale force 8 backing southwesterly imminent"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nSouthwesterly gale force 8 increasing storm force 10 later"
     },
     {
       "name": "Portland",
@@ -179,7 +179,7 @@
       "x": 2487.756562177697,
       "y": 1225.1305169510422,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nGale force 8 backing southwesterly soon"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nGale force 8 backing southerly and increasing severe gale force 9 later"
     },
     {
       "name": "Rockall",
@@ -197,7 +197,7 @@
       "x": 1827.516320061238,
       "y": 1081.9932868822727,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nGale force 8 veering northerly and increasing storm force 10 later"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nGale now ceased but northerly violent storm force 11 expected later"
     },
     {
       "name": "Sole",
@@ -224,7 +224,7 @@
       "x": 3000.9907009597464,
       "y": 641.2271048889511,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n09:46 (UTC) on Wed 21 Oct 2026\nGale force 8 veering southeasterly imminent"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nSoutheasterly gale force 8, increasing severe gale force 9 later"
     },
     {
       "name": "Thames",
@@ -251,7 +251,7 @@
       "x": 2799.435120669437,
       "y": 549.7492914222237,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nSoutheasterly gale force 8 continuing"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nGale now ceased but southeasterly gale force 8 expected soon, increasing severe gale force 9 later"
     },
     {
       "name": "Wight",
@@ -269,7 +269,7 @@
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nSouthwesterly gale force 8 expected later"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nSouthwesterly storm force 10 expected later"
     },
     {
       "name": "Trafalgar",
@@ -287,8 +287,8 @@
       "x": 2991.53299758165,
       "y": 533.0942827900454,
       "gale": true,
-      "gale_text": "Gale warning\nIssued:\n15:51 (UTC) on Wed 21 Oct 2026\nSoutheasterly gale force 8 continuing"
+      "gale_text": "Gale warning\nIssued:\n21:50 (UTC) on Wed 21 Oct 2026\nGale now ceased but southeasterly gale force 8 expected soon, increasing severe gale force 9 later"
     }
   ],
-  "generated_utc": "2026-10-21T21:32:10Z"
+  "generated_utc": "2026-10-21T22:02:01Z"
 }
