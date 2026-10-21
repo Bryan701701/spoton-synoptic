@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-10-21T04:00:02Z",
+  "fetched_at": "2026-10-21T04:15:01Z",
   "issued": "Issued at: 23:15 (UTC) on Tue 20 Oct 2026",
   "valid": "For the period 00:00 (UTC) on Wed 21 Oct 2026 to 00:00 (UTC) on Thu 22 Oct 2026",
   "general_synopsis": "New lows expected Fair Isle 991 and Southeast Iceland 991 by 1800 Wednesday. Low Shannon 995 losing its identity",
@@ -54,6 +54,7 @@
     },
     "Tyne": {
       "text": "Wind\nSoutheasterly becoming cyclonic, 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nWesterly gale force 8 expected later",
       "wind": "Southeasterly becoming cyclonic, 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -61,6 +62,7 @@
     },
     "Dogger": {
       "text": "Wind\nSoutheasterly becoming cyclonic, 4 to 6, increasing 7 at times, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nWesterly gale force 8 expected later",
       "wind": "Southeasterly becoming cyclonic, 4 to 6, increasing 7 at times, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -68,7 +70,7 @@
     },
     "Fisher": {
       "text": "Wind\nEast or southeast 6 to gale 8.\nSea state\nModerate or rough.\nWeather\nRain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:52 (UTC) on Tue 20 Oct 2026\nEasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nGale force 8 veering southeasterly imminent",
       "wind": "East or southeast 6 to gale 8.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain.",
@@ -84,7 +86,7 @@
     },
     "Humber": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 later, perhaps severe gale 9 later.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:49 (UTC) on Tue 20 Oct 2026\nSouthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nSoutherly gale force 8 expected soon, veering southwesterly and increasing severe gale force 9 later",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 later, perhaps severe gale 9 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -124,7 +126,7 @@
     },
     "Plymouth": {
       "text": "Wind\nCyclonic 7 to severe gale 9, becoming west 6 to gale 8.\nSea state\nRough or very rough, occasionally moderate at first in east and high at first in west.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Cyclonic 7 to severe gale 9, becoming west 6 to gale 8.",
       "sea_state": "Rough or very rough, occasionally moderate at first in east and high at first in west.",
       "weather": "Squally showers.",
@@ -163,7 +165,7 @@
     },
     "Lundy": {
       "text": "Wind\nSoutheasterly 4 to 6 at first in northeast, otherwise westerly or northwesterly 7 to severe gale 9, decreasing 5 to 7 later.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nRain or squally showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n10:28 (UTC) on Tue 20 Oct 2026\nNorthwesterly gale force 8 expected soon, increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Wed 21 Oct 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Southeasterly 4 to 6 at first in northeast, otherwise westerly or northwesterly 7 to severe gale 9, decreasing 5 to 7 later.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Rain or squally showers.",
