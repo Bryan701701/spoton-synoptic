@@ -6,7 +6,6 @@ PRODUCT_TIME="${PRODUCT_TIME:-}"     # e.g. 2025-09-19T08:20:00Z
 GENERATED_UTC="${GENERATED_UTC:-}"   # defaults to now inside gen_sidecar.py if empty
 
 need_files=(
-  synoptic/atlantic_focus.png
   synoptic/atlantic_focus_areas.json
   synoptic/shipping_forecast_latest.json
 )
@@ -21,12 +20,12 @@ git add -f "${need_files[@]}"
 
 # If nothing changed, exit gracefully (no-op publish)
 if git diff --cached --quiet; then
-  echo "Nothing to publish — all three artefacts unchanged."
+  echo "Nothing to publish — metadata artefacts unchanged."
   exit 0
 fi
 
 # 2) Commit payloads
-git commit -m "Synoptic atomic: PNG + areas + SF"
+git commit -m "Synoptic atomic: areas + SF"
 
 # 3) Generate sidecar pinned to THIS commit
 COMMIT_SHA="$(git rev-parse HEAD)"
@@ -40,7 +39,6 @@ python3 tools/gen_sidecar.py
 
 # 4) Sanity-check the blobs exist in THIS commit (local, no network)
 for path in \
-  synoptic/atlantic_focus.png \
   synoptic/atlantic_focus_areas.json \
   synoptic/shipping_forecast_latest.json
 do
