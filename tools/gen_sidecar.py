@@ -8,7 +8,6 @@ gen     = os.environ.get("GENERATED_UTC","")   # render time, ISO
 owner   = os.environ.get("GH_OWNER","Bryan701701")
 repo    = os.environ.get("GH_REPO","spoton-synoptic")
 
-png_path   = "synoptic/atlantic_focus.png"
 areas_path = "synoptic/atlantic_focus_areas.json"
 sf_path    = "synoptic/shipping_forecast_latest.json"
 
@@ -23,7 +22,7 @@ sidecar = {
     "product_time": prod or None,
     "generated_utc": gen,
     "commit": commit or None,
-    "png_url": mk_url(png_path),
+    "png_url": "https://synoptic.spoton.tips/latest/atlantic.png",
     "areas_url": mk_url(areas_path),
     "sf_url": mk_url(sf_path),
 }

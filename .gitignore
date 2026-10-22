@@ -4,13 +4,15 @@
 # Allow these files
 !.gitignore
 !README.md
-!atlantic_focus.png
 !shipping_forecast_latest.json
 
 # But keep the synoptic publish folder
 !synoptic/
-!synoptic/*.png
 !synoptic/*.json
+
+# Images are published directly by TFE and archived on the storage box.
+# Keeping them out of Git prevents a new multi-megabyte blob every run.
+*.png
 
 # Keep the tools for atomic publish
 !tools/
