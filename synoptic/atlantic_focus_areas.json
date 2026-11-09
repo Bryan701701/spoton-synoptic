@@ -268,8 +268,8 @@
       "lat": 45.869279561,
       "x": 2420.8675662341197,
       "y": 1474.710734707909,
-      "gale": false,
-      "gale_text": null
+      "gale": true,
+      "gale_text": "Gale warning\nIssued:\n21:46 (UTC) on Sun 08 Nov 2026\nGale force 8 now veered southwesterly"
     },
     {
       "name": "Trafalgar",
@@ -277,8 +277,8 @@
       "lat": 38.0140501120001,
       "x": 1871.5331767975526,
       "y": 1998.154660718539,
-      "gale": true,
-      "gale_text": "Gale warning\nIssued:\n21:46 (UTC) on Sun 08 Nov 2026\nGale force 8 now veered southwesterly"
+      "gale": false,
+      "gale_text": null
     },
     {
       "name": "North Utsire",
@@ -290,5 +290,5 @@
       "gale_text": null
     }
   ],
-  "generated_utc": "2026-11-09T05:02:11Z"
+  "generated_utc": "2026-11-09T05:31:35Z"
 }
