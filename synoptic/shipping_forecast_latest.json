@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-10T22:00:02Z",
+  "fetched_at": "2026-11-10T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 10 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Tue 10 Nov 2026 to 18:00 (UTC) on Wed 11 Nov 2026",
   "general_synopsis": "Low 250 miles west of FitzRoy 978 moving slowly southeast, filling 984 by midday tomorrow. Developing low moving rapidly northeast, expected Trafalgar 988 by same time",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic, becoming westerly or northwesterly later, 4 to 6.\nSea state\nModerate or rough.\nWeather\nShowers, wintry later.\nVisibility\nGood, occasionally moderate, but poor later.",
+      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic, becoming westerly or northwesterly later, 4 to 6.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, wintry later.",
@@ -29,6 +30,7 @@
     },
     "Forties": {
       "text": "Wind\nWesterly or northwesterly 3 to 5, increasing 5 to 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Westerly or northwesterly 3 to 5, increasing 5 to 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -36,6 +38,7 @@
     },
     "Cromarty": {
       "text": "Wind\nWesterly or northwesterly 3 to 5, increasing 5 to 7 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Westerly or northwesterly 3 to 5, increasing 5 to 7 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers.",
@@ -127,7 +130,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 7 in west.\nSea state\nRough or very rough.\nWeather\nThundery rain.\nVisibility\nModerate or good, occasionally poor.\nTrafalgar (issued 00:15 UTC)\n Wind\nSouthwesterly 5 or 6, occasionally 7 in far northwest and 4 elsewhere.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Nov 2026\nSoutherly storm force 10 expected later",
+      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nSoutherly gale force 8 expected soon increasing storm force 10 later",
       "wind": "Cyclonic 4 to 6, occasionally 7 in west.",
       "sea_state": "Rough or very rough.",
       "weather": "Thundery rain.",
