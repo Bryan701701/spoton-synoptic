@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-10T16:00:01Z",
+  "fetched_at": "2026-11-10T16:15:01Z",
   "issued": "Issued at: 11:30 (UTC) on Tue 10 Nov 2026",
   "valid": "For the period 12:00 (UTC) on Tue 10 Nov 2026 to 12:00 (UTC) on Wed 11 Nov 2026",
   "general_synopsis": "Low 200 miles west of FitzRoy 975 expected 150 miles west of FitzRoy 984 by 0600 tomorrow",
@@ -201,6 +201,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic becoming west or northwest, 4 to 6, occasionally 7 later.\nSea state\nSlight or moderate at first in southeast, otherwise moderate or rough.\nWeather\nRain or showers, wintry later in north.\nVisibility\nGood occasionally moderate, but poor later in north.",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Cyclonic becoming west or northwest, 4 to 6, occasionally 7 later.",
       "sea_state": "Slight or moderate at first in southeast, otherwise moderate or rough.",
       "weather": "Rain or showers, wintry later in north.",
@@ -208,7 +209,7 @@
     },
     "Faeroes": {
       "text": "Wind\nNorth or northeast backing west 4 to 6, veering northwest 6 to gale 8 later.\nSea state\nModerate occasionally rough, becoming rough or very rough later, then high later in far north.\nWeather\nShowers, becoming wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:55 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 10 Nov 2026\nNorthwesterly severe gale force 9 expected later",
       "wind": "North or northeast backing west 4 to 6, veering northwest 6 to gale 8 later.",
       "sea_state": "Moderate occasionally rough, becoming rough or very rough later, then high later in far north.",
       "weather": "Showers, becoming wintry.",
@@ -216,7 +217,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic, mainly westerly, 5 to 7, occasionally gale 8 at first in northwest, becoming northerly or northwesterly 6 to gale 8 later in east, perhaps severe gale 9 later in east.\nSea state\nModerate or rough, becoming very rough or high later in northeast.\nWeather\nShowers, becoming wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:53 (UTC) on Tue 10 Nov 2026\nWesterly gale force 8 expected soon",
+      "gale_warning": "Gale warning\nIssued:\n15:53 (UTC) on Tue 10 Nov 2026\nGale force 8 veering northwesterly soon, increasing severe gale force 9 later",
       "wind": "Cyclonic, mainly westerly, 5 to 7, occasionally gale 8 at first in northwest, becoming northerly or northwesterly 6 to gale 8 later in east, perhaps severe gale 9 later in east.",
       "sea_state": "Moderate or rough, becoming very rough or high later in northeast.",
       "weather": "Showers, becoming wintry.",
