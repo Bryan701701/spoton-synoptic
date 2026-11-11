@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-11T21:45:02Z",
+  "fetched_at": "2026-11-11T22:00:01Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 11 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Wed 11 Nov 2026 to 18:00 (UTC) on Thu 12 Nov 2026",
   "general_synopsis": "Atlantic low 984 expected FitzRoy 993 by midday tomorrow. Low Trafalgar 990 losing its identity by same time. Low Norwegian Sea 992 losing its identity by that time",
   "areas": {
     "Viking": {
       "text": "Wind\nCyclonic, mainly west or northwest, 4 to 6, increasing 6 to gale 8, becoming north later.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Cyclonic, mainly west or northwest, 4 to 6, increasing 6 to gale 8, becoming north later.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Wintry showers.",
@@ -32,7 +32,7 @@
     },
     "Forties": {
       "text": "Wind\nNorthwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 11 Nov 2026\nNorthwesetrly severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 imminent",
       "wind": "Northwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Showers.",
@@ -40,7 +40,7 @@
     },
     "Cromarty": {
       "text": "Wind\nNorthwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9.\nSea state\nSlight or moderate, becoming rough or very rough in east.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 11 Nov 2026\nNorthwesetrly severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 imminent",
       "wind": "Northwest 4 to 6, increasing 6 to gale 8, occasionally severe gale 9.",
       "sea_state": "Slight or moderate, becoming rough or very rough in east.",
       "weather": "Showers.",
@@ -56,7 +56,6 @@
     },
     "Tyne": {
       "text": "Wind\nNorthwest 4 to 6, increasing 6 to gale 8.\nSea state\nSlight or moderate becoming rough or very rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "Northwest 4 to 6, increasing 6 to gale 8.",
       "sea_state": "Slight or moderate becoming rough or very rough.",
       "weather": "Showers.",
@@ -136,8 +135,8 @@
       "visibility": "Moderate or good, occasionally poor."
     },
     "FitzRoy": {
-      "text": "Wind\nCyclonic 5 to 7.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.\nTrafalgar (issued 00:15 UTC)\n Wind\nIn south, cyclonic 4 to 6, increasing gale 8 to storm 10, becoming westerly 5 to 7 later. In north, cyclonic 5 to 7.\nSea state\nIn south, rough or very rough, occasionally high for a time. in north, rough or very rough.\nWeather\nIn south, thundery rain. In north, thundery showers.\nVisibility\nIn south, moderate or poor. In north, moderate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:13 (UTC) on Tue 10 Nov 2026\nSoutherly gale force 8 expected soon increasing storm force 10 later",
+      "text": "Wind\nCyclonic 5 to 7.\nSea state\nModerate or rough, occasionally very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.\nTrafalgar (issued 00:15 UTC)\nWind\nIn south, cyclonic 4 to 6, increasing gale 8 to storm 10, becoming westerly 5 to 7 later. In north, cyclonic 5 to 7.\nSea state\nIn south, rough or very rough, occasionally high for a time. in north, rough or very rough.\nWeather\nIn south, thundery rain. In north, thundery showers.\nVisibility\nIn south, moderate or poor. In north, moderate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:53 (UTC) on Wed 11 Nov 2026\nWesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7.",
       "sea_state": "Moderate or rough, occasionally very rough.",
       "weather": "Rain or thundery showers.",
@@ -198,7 +197,6 @@
     },
     "Hebrides": {
       "text": "Wind\nNorth 4 to 6, increasing 7 to gale 8 for a time.\nSea state\nModerate or rough, becoming rough or very rough for a time.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "North 4 to 6, increasing 7 to gale 8 for a time.",
       "sea_state": "Moderate or rough, becoming rough or very rough for a time.",
       "weather": "Showers.",
