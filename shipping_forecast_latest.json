@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-12T03:45:01Z",
+  "fetched_at": "2026-11-12T04:00:02Z",
   "issued": "Issued at: 00:15 (UTC) on Thu 12 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Thu 12 Nov 2026 to 06:00 (UTC) on Fri 13 Nov 2026",
   "general_synopsis": "Low west of FitzRoy 984 expected south FitzRoy 996 by 1800 Thursday. Low Norwegian Basin 991 expected Sweden 981 by same time",
@@ -48,7 +48,7 @@
     },
     "Forth": {
       "text": "Wind\nNorthwest 5 to 7, occasionally gale 8.\nSea state\nSlight or moderate in southwest, otherwise moderate or rough becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 5 to 7, occasionally gale 8.",
       "sea_state": "Slight or moderate in southwest, otherwise moderate or rough becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -63,7 +63,7 @@
     },
     "Dogger": {
       "text": "Wind\nNorthwest 5 to 7, occasionally gale 8.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 imminent",
       "wind": "Northwest 5 to 7, occasionally gale 8.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Squally showers.",
@@ -71,7 +71,7 @@
     },
     "Fisher": {
       "text": "Wind\nWest 5 to 7 veering northwest 6 to gale 8.\nSea state\nModerate becoming rough, then very rough, occasionally high.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 imminent",
       "wind": "West 5 to 7 veering northwest 6 to gale 8.",
       "sea_state": "Moderate becoming rough, then very rough, occasionally high.",
       "weather": "Squally showers.",
@@ -79,7 +79,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest 5 to 7 veering northwest 6 to gale 8.\nSea state\nSlight at first in southeast, otherwise moderate becoming rough, then very rough.\nWeather\nSqually showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 imminent",
       "wind": "West 5 to 7 veering northwest 6 to gale 8.",
       "sea_state": "Slight at first in southeast, otherwise moderate becoming rough, then very rough.",
       "weather": "Squally showers.",
@@ -151,7 +151,7 @@
     },
     "Sole": {
       "text": "Wind\nNortheast 6 to gale 8, decreasing 5 or 6.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nThundery rain then showers.\nVisibility\nGood, occasionally poor at first.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNortheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNortheasterly gale force 8 continuing",
       "wind": "Northeast 6 to gale 8, decreasing 5 or 6.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Thundery rain then showers.",
@@ -215,7 +215,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nNorthwest 7 to severe gale 9, decreasing 5 to 7.\nSea state\nRough or very rough, occasionally high at first.\nWeather\nSqually wintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:51 (UTC) on Wed 11 Nov 2026\nNorthwesterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n03:49 (UTC) on Thu 12 Nov 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northwest 7 to severe gale 9, decreasing 5 to 7.",
       "sea_state": "Rough or very rough, occasionally high at first.",
       "weather": "Squally wintry showers.",
@@ -231,7 +231,6 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nNortherly or northwesterly 6 to gale 8, backing westerly 4 to 6.\nSea state\nRough or very rough, occasionally moderate in west, becoming slight or moderate.\nWeather\nSqually wintry showers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Wed 11 Nov 2026\nNorthwesterly severe gale force 9 decreasing gale force 8 imminent",
       "wind": "Northerly or northwesterly 6 to gale 8, backing westerly 4 to 6.",
       "sea_state": "Rough or very rough, occasionally moderate in west, becoming slight or moderate.",
       "weather": "Squally wintry showers, rain later.",
