@@ -1,14 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-13T10:00:02Z",
+  "fetched_at": "2026-11-13T10:15:02Z",
   "issued": "Issued at: 05:05 (UTC) on Fri 13 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Fri 13 Nov 2026 to 06:00 (UTC) on Sat 14 Nov 2026",
   "general_synopsis": "Low FitzRoy 999 expected Biscay 1010 by midnight tonight. High Rockall 1019 expected Germany 1021 by same time. Low northwest of Iceland 997 expected northeast of Iceland 982 by that time",
   "areas": {
     "Viking": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing westerly or southwesterly 4 to 6, occasionally 3 later.\nSea state\nVery rough becoming moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:09 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Fri 13 Nov 2026\nGale now ceased but southwesterly gale force 8 expected later",
       "wind": "Northwesterly 6 to gale 8, backing westerly or southwesterly 4 to 6, occasionally 3 later.",
       "sea_state": "Very rough becoming moderate or rough.",
       "weather": "Rain or showers.",
@@ -16,7 +16,6 @@
     },
     "North Utsire": {
       "text": "Wind\nNorthwesterly 6 to gale 8, backing westerly or southwesterly 4 to 6, occasionally 3 later.\nSea state\nVery rough becoming moderate or rough.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwesterly 6 to gale 8, backing westerly or southwesterly 4 to 6, occasionally 3 later.",
       "sea_state": "Very rough becoming moderate or rough.",
       "weather": "Rain or showers.",
@@ -32,7 +31,6 @@
     },
     "Forties": {
       "text": "Wind\nNorthwest 6 to gale 8 backing west 5 to 7.\nSea state\nRough or very rough becoming moderate or rough.\nWeather\nShowers.\nVisibility\nGood.",
-      "gale_warning": "Gale warning\nIssued:\n22:09 (UTC) on Thu 12 Nov 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Northwest 6 to gale 8 backing west 5 to 7.",
       "sea_state": "Rough or very rough becoming moderate or rough.",
       "weather": "Showers.",
@@ -223,7 +221,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nCyclonic 5 to 7, increasing 7 to severe gale 9, perhaps storm 10 later.\nSea state\nModerate or rough becoming rough or very rough, occasionally high later in north.\nWeather\nRain, sleet later.\nVisibility\nGood, occasionally poor. Light icing.",
-      "gale_warning": "Gale warning\nIssued:\n04:00 (UTC) on Fri 13 Nov 2026\nWesterly gale force 8 expected soon, veering northwesterly and increasing severe gale force 9 later",
+      "gale_warning": "Gale warning\nIssued:\n09:51 (UTC) on Fri 13 Nov 2026\nWesterly gale force 8 imminent, veering northwesterly and increasing storm force 10 later",
       "wind": "Cyclonic 5 to 7, increasing 7 to severe gale 9, perhaps storm 10 later.",
       "sea_state": "Moderate or rough becoming rough or very rough, occasionally high later in north.",
       "weather": "Rain, sleet later.",
