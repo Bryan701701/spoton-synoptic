@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-14T22:15:01Z",
+  "fetched_at": "2026-11-14T22:30:01Z",
   "issued": "Issued at: 17:25 (UTC) on Sat 14 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Sat 14 Nov 2026 to 18:00 (UTC) on Sun 15 Nov 2026",
   "general_synopsis": "New low expected Wales 994 by midday tomorrow. Lows 150 miles west of Sole 995 moving steadily east and just west of Rockall 997 moving rather quickly northeast, losing their identities",
@@ -144,6 +144,7 @@
     },
     "Sole": {
       "text": "Wind\nWesterly or southwesterly 5 to 7, becoming cyclonic 6 to gale 8, becoming variable 4 later in west.\nSea state\nModerate or rough, becoming rough or very rough occasionally high.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:07 (UTC) on Sat 14 Nov 2026\nWesterly gale force 8 continuing",
       "wind": "Westerly or southwesterly 5 to 7, becoming cyclonic 6 to gale 8, becoming variable 4 later in west.",
       "sea_state": "Moderate or rough, becoming rough or very rough occasionally high.",
       "weather": "Rain or thundery showers.",
@@ -208,7 +209,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough.\nWeather\nRain then wintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:59 (UTC) on Sat 14 Nov 2026\nSouthwesterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n22:07 (UTC) on Sat 14 Nov 2026\nGale now ceased but northwesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain then wintry showers.",
@@ -216,7 +217,7 @@
     },
     "Faeroes": {
       "text": "Wind\nCyclonic 5 to 7, increasing gale 8 at times.\nSea state\nRough or very rough, occasionally high.\nWeather\nWintry showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:59 (UTC) on Sat 14 Nov 2026\nGale force 8 veering northwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n22:07 (UTC) on Sat 14 Nov 2026\nGale now ceased but northwesterly gale force 8 expected later",
       "wind": "Cyclonic 5 to 7, increasing gale 8 at times.",
       "sea_state": "Rough or very rough, occasionally high.",
       "weather": "Wintry showers.",
