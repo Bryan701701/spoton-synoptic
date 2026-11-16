@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-16T15:45:02Z",
+  "fetched_at": "2026-11-16T16:00:02Z",
   "issued": "Issued at: 11:30 (UTC) on Mon 16 Nov 2026",
   "valid": "For the period 12:00 (UTC) on Mon 16 Nov 2026 to 12:00 (UTC) on Tue 17 Nov 2026",
   "general_synopsis": "New low expected 350 miles west of Rockall 954 by 0600 tomorrow",
@@ -71,6 +71,7 @@
     },
     "German Bight": {
       "text": "Wind\nWest or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, occasionally rough at first, becoming moderate or rough later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "West or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, occasionally rough at first, becoming moderate or rough later.",
       "weather": "Rain or showers.",
@@ -78,6 +79,7 @@
     },
     "Humber": {
       "text": "Wind\nWest or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "West or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers.",
@@ -85,6 +87,7 @@
     },
     "Thames": {
       "text": "Wind\nWest or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers, squally later.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "West or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers, squally later.",
@@ -92,6 +95,7 @@
     },
     "Dover": {
       "text": "Wind\nWest or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nRain or showers, squally later.\nVisibility\nModerate or good, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSouthwesterly gale force 8 expected later",
       "wind": "West or northwest, backing southeast, 4 to 6, becoming cyclonic 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Rain or showers, squally later.",
@@ -123,7 +127,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic becoming southwest 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sun 15 Nov 2026\nGale now ceased but southwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSouthwesterly gale force 8 increasing severe gale force 9 later",
       "wind": "Cyclonic becoming southwest 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -158,7 +162,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSoutheasterly 4 to 6, increasing 6 to gale 8, veering southwesterly later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain then thundery showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:51 (UTC) on Sun 15 Nov 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nGale force 8 veering southwesterly soon",
       "wind": "Southeasterly 4 to 6, increasing 6 to gale 8, veering southwesterly later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Rain then thundery showers.",
@@ -206,7 +210,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutheast 5 to 7, increasing 7 to severe gale 9, perhaps storm 10 later.\nSea state\nModerate or rough, becoming rough or very rough, then very rough or high.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:54 (UTC) on Sun 15 Nov 2026\nSoutheasterly severe gale force 9 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:50 (UTC) on Mon 16 Nov 2026\nSoutheasterly gale force 8 increasing storm force 10 soon",
       "wind": "Southeast 5 to 7, increasing 7 to severe gale 9, perhaps storm 10 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough, then very rough or high.",
       "weather": "Showers, rain later.",
