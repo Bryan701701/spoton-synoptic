@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-17T21:45:01Z",
+  "fetched_at": "2026-11-17T22:00:02Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 17 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Tue 17 Nov 2026 to 18:00 (UTC) on Wed 18 Nov 2026",
   "general_synopsis": "Low Humber 975 expected southeast German Bight 972 by midday tomorrow. Low Malin 971 losing its identity",
@@ -82,7 +82,7 @@
     },
     "Humber": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Tue 17 Nov 2026\nSoutheasterly gale force 8 imminent, veering southwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nGale force 8 veering northwesterly imminent",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Rain or showers.",
@@ -90,7 +90,7 @@
     },
     "Thames": {
       "text": "Wind\nWest or southwest 6 to gale 8, decreasing 4 to 6 later.\nSea state\nModerate or rough.\nWeather\nSqually thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:48 (UTC) on Tue 17 Nov 2026\nSoutheasterly gale force 8 imminent, veering southwesterly soon",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nGale force 8 veering westerly imminent",
       "wind": "West or southwest 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Squally thundery showers.",
@@ -130,7 +130,7 @@
     },
     "Biscay": {
       "text": "Wind\nWest or southwest 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough becoming very rough or high.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Tue 17 Nov 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 later",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nSouthwesterly severe gale force 9 now decreased gale force 8",
       "wind": "West or southwest 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough becoming very rough or high.",
       "weather": "Rain or thundery showers.",
@@ -138,7 +138,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nWest or southwest 6 to gale 8, occasionally severe gale 9 at first.\nSea state\nRough or very rough at first in south, otherwise very rough or high, becoming very high for a time in northwest.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 17 Nov 2026\nSouthwesterly severe gale force 9 decreasing gale force 8 later",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nSouthwesterly severe gale force 9 now decreased gale force 8",
       "wind": "West or southwest 6 to gale 8, occasionally severe gale 9 at first.",
       "sea_state": "Rough or very rough at first in south, otherwise very rough or high, becoming very high for a time in northwest.",
       "weather": "Rain or thundery showers.",
@@ -195,7 +195,7 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first in northeast.\nSea state\nModerate or rough becoming rough or very rough.\nWeather\nRain or showers, perhaps thundery.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n21:45 (UTC) on Mon 16 Nov 2026\nSoutheasterly severe gale force 9 decreasing gale force 8 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first in northeast.",
       "sea_state": "Moderate or rough becoming rough or very rough.",
       "weather": "Rain or showers, perhaps thundery.",
@@ -211,7 +211,7 @@
     },
     "Bailey": {
       "text": "Wind\nEasterly or southeasterly 6 to gale 8, increasing severe gale 9 for a time in south.\nSea state\nVery rough or high.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:48 (UTC) on Tue 17 Nov 2026\nEasterly gale force 8 increasing severe gale force 9 soon",
+      "gale_warning": "Gale warning\nIssued:\n21:44 (UTC) on Tue 17 Nov 2026\nEasterly gale force 8 continuing",
       "wind": "Easterly or southeasterly 6 to gale 8, increasing severe gale 9 for a time in south.",
       "sea_state": "Very rough or high.",
       "weather": "Rain or showers.",
@@ -226,7 +226,6 @@
     },
     "Faeroes": {
       "text": "Wind\nEasterly or northeasterly 5 to 7, occasionally gale 8 at first in southwest.\nSea state\nRough or very rough, but moderate or rough in northeast.\nWeather\nShowers, perhaps wintry.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:47 (UTC) on Tue 17 Nov 2026\nEasterly gale force 8 continuing",
       "wind": "Easterly or northeasterly 5 to 7, occasionally gale 8 at first in southwest.",
       "sea_state": "Rough or very rough, but moderate or rough in northeast.",
       "weather": "Showers, perhaps wintry.",
