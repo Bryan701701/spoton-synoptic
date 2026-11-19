@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-19T04:00:02Z",
+  "fetched_at": "2026-11-19T04:15:02Z",
   "issued": "Issued at: 00:15 (UTC) on Thu 19 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Thu 19 Nov 2026 to 06:00 (UTC) on Fri 20 Nov 2026",
   "general_synopsis": "Low 50 miles west of south Rockall 968 expected east Shannon 988 by 1800 Thursday",
@@ -160,6 +160,7 @@
     },
     "Fastnet": {
       "text": "Wind\nSouthwesterly becoming cyclonic 4 to 6, occasionally 7 in south, perhaps gale 8 later in south.\nSea state\nRough or very rough in north, high in south.\nWeather\nSqually thundery showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n04:06 (UTC) on Thu 19 Nov 2026\nWesterly gale force 8 expected later",
       "wind": "Southwesterly becoming cyclonic 4 to 6, occasionally 7 in south, perhaps gale 8 later in south.",
       "sea_state": "Rough or very rough in north, high in south.",
       "weather": "Squally thundery showers.",
@@ -182,7 +183,6 @@
     },
     "Rockall": {
       "text": "Wind\nIn south, cyclonic 3 to 5 becoming easterly 4 to 6. In north, easterly or northeasterly 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.\nSea state\nIn south, very rough, becoming rough later. in north, rough or very rough, becoming moderate or rough later.\nWeather\nIn south, showers, perhaps thundery at first. In north, showers.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:47 (UTC) on Wed 18 Nov 2026\nEasterly gale force 8 continuing",
       "wind": "In south, cyclonic 3 to 5 becoming easterly 4 to 6. In north, easterly or northeasterly 5 to 7, occasionally gale 8 at first, decreasing 3 to 5 later.",
       "sea_state": "In south, very rough, becoming rough later. in north, rough or very rough, becoming moderate or rough later.",
       "weather": "In south, showers, perhaps thundery at first. In north, showers.",
