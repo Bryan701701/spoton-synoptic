@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-23T22:00:02Z",
+  "fetched_at": "2026-11-23T22:15:01Z",
   "issued": "Issued at: 17:25 (UTC) on Mon 23 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Mon 23 Nov 2026 to 18:00 (UTC) on Tue 24 Nov 2026",
   "general_synopsis": "New low expected northwest Biscay 1007 by midday tomorrow. Low 350 miles west of Rockall 989, losing its identity",
@@ -122,6 +122,7 @@
     },
     "Biscay": {
       "text": "Wind\nSouth becoming cyclonic, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nWesterly gale force 8 expected later",
       "wind": "South becoming cyclonic, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Rain or thundery showers.",
@@ -129,14 +130,14 @@
     },
     "FitzRoy": {
       "text": "Wind\nSouth becoming cyclonic, 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough, becoming rough or very rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nNorthwesterly gale force 8 expected later",
       "wind": "South becoming cyclonic, 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, becoming rough or very rough later.",
       "weather": "Rain or thundery showers.",
       "visibility": "Good occasionally poor."
     },
     "Sole": {
-      "text": "Wind\nSouth becoming cyclonic, 5 to 7.\nSea state\nRough, becoming rough or very rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood occasionally poor.\nTrafalgar (issued 00:15 UTC)\n Wind\nVariable 2 to 4, becoming southerly or southwesterly 3 to 5 except in southeast, occasionally 6 later in north.\nSea state\nModerate, occasionally rough in north.\nWeather\nShowers, rain later in west.\nVisibility\nGood, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nNorthwesterly gale force 8 expected soon",
+      "text": "Wind\nSouth becoming cyclonic, 5 to 7.\nSea state\nRough, becoming rough or very rough later.\nWeather\nRain or thundery showers.\nVisibility\nGood occasionally poor.\nTrafalgar (issued 00:15 UTC)\nWind\nVariable 2 to 4, becoming southerly or southwesterly 3 to 5 except in southeast, occasionally 6 later in north.\nSea state\nModerate, occasionally rough in north.\nWeather\nShowers, rain later in west.\nVisibility\nGood, occasionally poor later.",
       "wind": "South becoming cyclonic, 5 to 7.",
       "sea_state": "Rough, becoming rough or very rough later.",
       "weather": "Rain or thundery showers.",
@@ -147,6 +148,7 @@
     },
     "Lundy": {
       "text": "Wind\nSouth or southeast 5 to 7, becoming cyclonic 4 to 6 later.\nSea state\nSlight or moderate fair in east, otherwise moderate or rough.\nWeather\nRain or showers, squally for a time.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "South or southeast 5 to 7, becoming cyclonic 4 to 6 later.",
       "sea_state": "Slight or moderate fair in east, otherwise moderate or rough.",
       "weather": "Rain or showers, squally for a time.",
@@ -176,7 +178,6 @@
     },
     "Rockall": {
       "text": "Wind\nSouth or southeast becoming cyclonic, 6 to gale 8, decreasing 3 to 5 later.\nSea state\nRough or very rough, becoming rough later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "South or southeast becoming cyclonic, 6 to gale 8, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming rough later.",
       "weather": "Rain or showers.",
