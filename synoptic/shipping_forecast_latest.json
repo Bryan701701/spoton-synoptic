@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-23T16:00:02Z",
+  "fetched_at": "2026-11-23T16:15:01Z",
   "issued": "Issued at: 11:30 (UTC) on Mon 23 Nov 2026",
   "valid": "For the period 12:00 (UTC) on Mon 23 Nov 2026 to 12:00 (UTC) on Tue 24 Nov 2026",
   "general_synopsis": "Low 350 miles west of Rockall 990, expected 100 miles southwest of Iceland 987 by 0600 tomorrow",
@@ -36,6 +36,7 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutherly 3 to 5, backing southeasterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, occasional rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly 3 to 5, backing southeasterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, occasional rain later.",
@@ -43,6 +44,7 @@
     },
     "Forth": {
       "text": "Wind\nSoutherly 3 to 5, backing southeasterly 5 to 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, occasional rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southerly 3 to 5, backing southeasterly 5 to 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, occasional rain later.",
@@ -119,7 +121,8 @@
       "visibility": "Good occasionally moderate, but poor later."
     },
     "Biscay": {
-      "text": "Wind\nCyclonic 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nShowers, squally rain later in west.\nVisibility\nGood occasionally moderate, but poor later.\nTrafalgar (issued 00:15 UTC)\nWind\nVariable 2 to 4, becoming southerly or southwesterly 3 to 5 except in southeast, occasionally 6 later in north.\nSea state\nModerate, occasionally rough in north.\nWeather\nShowers, rain later in west.\nVisibility\nGood, occasionally poor later.",
+      "text": "Wind\nCyclonic 4 to 6, occasionally 7 later.\nSea state\nModerate or rough.\nWeather\nShowers, squally rain later in west.\nVisibility\nGood occasionally moderate, but poor later.\nTrafalgar (issued 00:15 UTC)\n Wind\nVariable 2 to 4, becoming southerly or southwesterly 3 to 5 except in southeast, occasionally 6 later in north.\nSea state\nModerate, occasionally rough in north.\nWeather\nShowers, rain later in west.\nVisibility\nGood, occasionally poor later.",
+      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nNorthwesterly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, occasionally 7 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, squally rain later in west.",
@@ -213,7 +216,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nModerate or rough until later in east, otherwise rough or very rough.\nWeather\nOccasional rain or showers.\nVisibility\nModerate or good, occasionally poor later.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Sun 22 Nov 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough until later in east, otherwise rough or very rough.",
       "weather": "Occasional rain or showers.",
@@ -221,7 +224,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain or showers.\nVisibility\nModerate or good, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Sun 22 Nov 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n15:58 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or showers.",
