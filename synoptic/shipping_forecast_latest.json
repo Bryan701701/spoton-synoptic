@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-23T04:00:02Z",
+  "fetched_at": "2026-11-23T04:15:01Z",
   "issued": "Issued at: 00:15 (UTC) on Mon 23 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Mon 23 Nov 2026 to 06:00 (UTC) on Tue 24 Nov 2026",
   "general_synopsis": "Low Wight 1006 losing its identity",
@@ -162,6 +162,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nSoutheast 4 to 6, occasionally 7 later, perhaps gale 8 later.\nSea state\nSlight or moderate, becoming moderate or rough later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeast 4 to 6, occasionally 7 later, perhaps gale 8 later.",
       "sea_state": "Slight or moderate, becoming moderate or rough later.",
       "weather": "Showers, rain later.",
@@ -176,7 +177,7 @@
     },
     "Rockall": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, veering southwesterly 4 to 6 later.\nSea state\nRough or very rough.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Sun 22 Nov 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 6 to gale 8, veering southwesterly 4 to 6 later.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or showers.",
@@ -184,7 +185,7 @@
     },
     "Malin": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8, veering southwesterly 4 to 6 later in southwest.\nSea state\nRough or very rough, occasionally moderate.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Sun 22 Nov 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 23 Nov 2026\nGale now ceased but southeasterly gale force 8 expected later",
       "wind": "Southerly or southeasterly 6 to gale 8, veering southwesterly 4 to 6 later in southwest.",
       "sea_state": "Rough or very rough, occasionally moderate.",
       "weather": "Occasional rain or showers.",
@@ -200,7 +201,7 @@
     },
     "Bailey": {
       "text": "Wind\nSoutherly or southeasterly 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:52 (UTC) on Sun 22 Nov 2026\nSoutheasterly gale force 8 continuing",
+      "gale_warning": "Gale warning\nIssued:\n03:50 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southerly or southeasterly 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Occasional rain or showers.",
