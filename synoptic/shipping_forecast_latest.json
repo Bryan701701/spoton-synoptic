@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-24T16:15:02Z",
+  "fetched_at": "2026-11-24T16:30:02Z",
   "issued": "Issued at: 11:30 (UTC) on Tue 24 Nov 2026",
   "valid": "For the period 12:00 (UTC) on Tue 24 Nov 2026 to 12:00 (UTC) on Wed 25 Nov 2026",
   "general_synopsis": "New low expected Biscay 1001 by 0600 tomorrow. Lows FitzRoy 1009 and sligo 1004 losing their identities",
@@ -184,7 +184,6 @@
     },
     "Malin": {
       "text": "Wind\nCyclonic 5 to 7, occasionally gale 8 at first in east, decreasing 3 to 5 later.\nSea state\nRough or very rough, becoming moderate or rough, then moderate later.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n03:46 (UTC) on Tue 24 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Cyclonic 5 to 7, occasionally gale 8 at first in east, decreasing 3 to 5 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough, then moderate later.",
       "weather": "Rain or showers.",
@@ -199,6 +198,7 @@
     },
     "Bailey": {
       "text": "Wind\nCyclonic, becoming south later, 4 to 6.\nSea state\nRough or very rough becoming rough, then moderate later in southeast.\nWeather\nOccasional rain.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n16:24 (UTC) on Tue 24 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic, becoming south later, 4 to 6.",
       "sea_state": "Rough or very rough becoming rough, then moderate later in southeast.",
       "weather": "Occasional rain.",
@@ -214,6 +214,7 @@
     },
     "Faeroes": {
       "text": "Wind\nSoutheasterly, becoming cyclonic later, 6 to gale 8.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n16:24 (UTC) on Tue 24 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly, becoming cyclonic later, 6 to gale 8.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
