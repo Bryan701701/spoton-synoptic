@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-24T22:00:02Z",
+  "fetched_at": "2026-11-24T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Tue 24 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Tue 24 Nov 2026 to 18:00 (UTC) on Wed 25 Nov 2026",
   "general_synopsis": "Low FitzRoy 1004 expected Biscay 1004 by midday tomorrow. Low Malin 1003 losing its identity",
@@ -121,7 +121,7 @@
     },
     "Biscay": {
       "text": "Wind\nCyclonic 6 to gale 8, perhaps severe gale 9 later in south.\nSea state\nModerate or rough, becoming rough or very rough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nWesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 24 Nov 2026\nGale force 8 veering northwesterly soon",
       "wind": "Cyclonic 6 to gale 8, perhaps severe gale 9 later in south.",
       "sea_state": "Moderate or rough, becoming rough or very rough.",
       "weather": "Rain or thundery showers.",
@@ -129,7 +129,7 @@
     },
     "FitzRoy": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6 later.\nSea state\nRough or very rough, becoming moderate or rough later in northwest.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.\nTrafalgar (issued 00:15 UTC)\nWind\nCyclonic 4 to 6, occasionally 7 in north, becoming northwest later.\nSea state\nModerate or rough, occasionally very rough later in far north.\nWeather\nRain then showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nNorthwesterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 24 Nov 2026\nNorthwesterly gale force 8 continuing",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6 later.",
       "sea_state": "Rough or very rough, becoming moderate or rough later in northwest.",
       "weather": "Rain or thundery showers.",
@@ -221,6 +221,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutheasterly becoming cyclonic 5 to 7.\nSea state\nRough or very rough.\nWeather\nRain or showers.\nVisibility\nModerate or good, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n21:58 (UTC) on Tue 24 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly becoming cyclonic 5 to 7.",
       "sea_state": "Rough or very rough.",
       "weather": "Rain or showers.",
