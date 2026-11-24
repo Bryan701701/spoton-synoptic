@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-24T09:45:01Z",
+  "fetched_at": "2026-11-24T10:00:01Z",
   "issued": "Issued at: 05:05 (UTC) on Tue 24 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Tue 24 Nov 2026 to 06:00 (UTC) on Wed 25 Nov 2026",
   "general_synopsis": "New lows expected north Biscay 1002 and Southeast Iceland 1005 by midnight tonight. Low Fastnet 1005 losing its identity",
@@ -141,6 +141,7 @@
     },
     "Sole": {
       "text": "Wind\nCyclonic 4 to 6, occasionally 3 at first, and 7 later in east, perhaps gale 8 later in east.\nSea state\nRough.\nWeather\nRain or thundery showers.\nVisibility\nGood, occasionally poor.",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Tue 24 Nov 2026\nNortherly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, occasionally 3 at first, and 7 later in east, perhaps gale 8 later in east.",
       "sea_state": "Rough.",
       "weather": "Rain or thundery showers.",
@@ -148,7 +149,6 @@
     },
     "Lundy": {
       "text": "Wind\nCyclonic 4 to 6, but 6 to gale 8 at first.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n22:01 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected soon",
       "wind": "Cyclonic 4 to 6, but 6 to gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -193,7 +193,6 @@
     },
     "Hebrides": {
       "text": "Wind\nCyclonic 6 to gale 8, decreasing 4 to 6, occasionally 3 later.\nSea state\nModerate or rough, occasionally very rough until later.\nWeather\nRain, showers later.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 23 Nov 2026\nGale now ceased but southeasterly gale force 8 expected soon",
       "wind": "Cyclonic 6 to gale 8, decreasing 4 to 6, occasionally 3 later.",
       "sea_state": "Moderate or rough, occasionally very rough until later.",
       "weather": "Rain, showers later.",
@@ -208,7 +207,7 @@
     },
     "Fair Isle": {
       "text": "Wind\nSoutheasterly 6 to gale 8.\nSea state\nModerate or rough, becoming rough or very rough in west.\nWeather\nOccasional rain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n09:54 (UTC) on Mon 23 Nov 2026\nSoutheasterly gale force 8 expected later",
+      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Tue 24 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeasterly 6 to gale 8.",
       "sea_state": "Moderate or rough, becoming rough or very rough in west.",
       "weather": "Occasional rain or showers.",
