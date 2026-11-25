@@ -1,13 +1,14 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-25T22:00:02Z",
+  "fetched_at": "2026-11-25T22:15:02Z",
   "issued": "Issued at: 17:25 (UTC) on Wed 25 Nov 2026",
   "valid": "For the period 18:00 (UTC) on Wed 25 Nov 2026 to 18:00 (UTC) on Thu 26 Nov 2026",
   "general_synopsis": "Low Biscay 1004 losing its identity",
   "areas": {
     "Viking": {
       "text": "Wind\nSoutheast 4 to 6, increasing 6 or 7, perhaps gale 8 later.\nSea state\nModerate or rough, occasionally slight at first in east and very rough later in west.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Wed 25 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Southeast 4 to 6, increasing 6 or 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough, occasionally slight at first in east and very rough later in west.",
       "weather": "Showers.",
@@ -15,6 +16,7 @@
     },
     "North Utsire": {
       "text": "Wind\nSoutheasterly 4 to 6, occasionally 3 at first.\nSea state\nSlight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Wed 25 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Southeasterly 4 to 6, occasionally 3 at first.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers.",
@@ -22,6 +24,7 @@
     },
     "South Utsire": {
       "text": "Wind\nSoutheasterly 4 to 6.\nSea state\nSlight or moderate.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Wed 25 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "Southeasterly 4 to 6.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers.",
@@ -146,6 +149,7 @@
     },
     "Lundy": {
       "text": "Wind\nCyclonic 3 to 5, becoming southerly or southeasterly 4 to 6.\nSea state\nSlight or moderate.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Wed 25 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming southerly or southeasterly 4 to 6.",
       "sea_state": "Slight or moderate.",
       "weather": "Showers, rain later.",
@@ -160,6 +164,7 @@
     },
     "Irish Sea": {
       "text": "Wind\nCyclonic 3 to 5, becoming southerly or southeasterly 4 to 6, occasionally 7.\nSea state\nSmooth or slight, becoming slight or moderate later.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate later.",
+      "gale_warning": "Gale warning\nIssued:\n21:57 (UTC) on Wed 25 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Cyclonic 3 to 5, becoming southerly or southeasterly 4 to 6, occasionally 7.",
       "sea_state": "Smooth or slight, becoming slight or moderate later.",
       "weather": "Showers, rain later.",
