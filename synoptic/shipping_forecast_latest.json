@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-25T04:00:02Z",
+  "fetched_at": "2026-11-25T04:15:01Z",
   "issued": "Issued at: 00:15 (UTC) on Wed 25 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Wed 25 Nov 2026 to 06:00 (UTC) on Thu 26 Nov 2026",
   "general_synopsis": "Low Biscay 1000 expected southern France 1007 by 1800 Wednesday. Low Hebrides 1004 losing its identity",
@@ -36,7 +36,6 @@
     },
     "Cromarty": {
       "text": "Wind\nSoutheast 5 to 7, occasionally gale 8 at first.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nModerate or good.",
-      "gale_warning": "Gale warning\nIssued:\n15:56 (UTC) on Tue 24 Nov 2026\nSoutheasterly gale force 8 continuing",
       "wind": "Southeast 5 to 7, occasionally gale 8 at first.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -144,7 +143,6 @@
     },
     "Sole": {
       "text": "Wind\nNortherly 5 to 7, occasionally gale 8 in east, becoming variable 2 to 4, then southwesterly 4 or 5 later in west.\nSea state\nModerate or rough.\nWeather\nOccasional rain.\nVisibility\nGood, occasionally moderate.",
-      "gale_warning": "Gale warning\nIssued:\n09:53 (UTC) on Tue 24 Nov 2026\nNortherly gale force 8 expected soon",
       "wind": "Northerly 5 to 7, occasionally gale 8 in east, becoming variable 2 to 4, then southwesterly 4 or 5 later in west.",
       "sea_state": "Moderate or rough.",
       "weather": "Occasional rain.",
@@ -180,6 +178,7 @@
     },
     "Rockall": {
       "text": "Wind\nNorthwest 3 to 5, backing south 5 to 7, perhaps gale 8 later.\nSea state\nModerate or rough.\nWeather\nShowers, rain later.\nVisibility\nGood, occasionally moderate.",
+      "gale_warning": "Gale warning\nIssued:\n03:54 (UTC) on Wed 25 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "Northwest 3 to 5, backing south 5 to 7, perhaps gale 8 later.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers, rain later.",
