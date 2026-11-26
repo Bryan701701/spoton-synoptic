@@ -1,7 +1,7 @@
 {
   "source": "metoffice_shipping_forecast",
   "source_url": "https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/shipping-forecast",
-  "fetched_at": "2026-11-26T04:00:02Z",
+  "fetched_at": "2026-11-26T04:15:02Z",
   "issued": "Issued at: 00:15 (UTC) on Thu 26 Nov 2026",
   "valid": "For the period 06:00 (UTC) on Thu 26 Nov 2026 to 06:00 (UTC) on Fri 27 Nov 2026",
   "general_synopsis": "Low expected just south of Iceland 949 by 1800 Thursday",
@@ -56,6 +56,7 @@
     },
     "Tyne": {
       "text": "Wind\nSouth or southeast 5 to 7.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 26 Nov 2026\nSoutherly gale force 8 expected later",
       "wind": "South or southeast 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -63,6 +64,7 @@
     },
     "Dogger": {
       "text": "Wind\nSouth or southeast 5 to 7.\nSea state\nModerate or rough.\nWeather\nShowers.\nVisibility\nGood.",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 26 Nov 2026\nSoutheasterly gale force 8 expected later",
       "wind": "South or southeast 5 to 7.",
       "sea_state": "Moderate or rough.",
       "weather": "Showers.",
@@ -209,7 +211,7 @@
     },
     "Bailey": {
       "text": "Wind\nSouth or southeast 5 to 7, increasing 7 to severe gale 9, occasionally storm 10 later, then veering southwest 5 to 7 later, occasionally gale 8 later.\nSea state\nRough or very rough becoming very rough or high later, occasionally very high later in west.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Wed 25 Nov 2026\nSoutheasterly gale force 8 increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 26 Nov 2026\nSoutheasterly gale force 8 increasing storm force 10 soon, veering southerly and decreasing gale force 8 later",
       "wind": "South or southeast 5 to 7, increasing 7 to severe gale 9, occasionally storm 10 later, then veering southwest 5 to 7 later, occasionally gale 8 later.",
       "sea_state": "Rough or very rough becoming very rough or high later, occasionally very high later in west.",
       "weather": "Rain or showers.",
@@ -233,7 +235,7 @@
     },
     "Southeast Iceland": {
       "text": "Wind\nSoutherly or southeasterly 5 to 7, increasing 7 to severe gale 9, occasionally storm 10 later.\nSea state\nRough or very rough, becoming high later, occasionally very high later in west.\nWeather\nRain or showers.\nVisibility\nGood, occasionally poor.",
-      "gale_warning": "Gale warning\nIssued:\n15:57 (UTC) on Wed 25 Nov 2026\nSoutheasterly gale force 8 increasing storm force 10 later",
+      "gale_warning": "Gale warning\nIssued:\n03:55 (UTC) on Thu 26 Nov 2026\nSoutheasterly gale force 8 increasing storm force 10 soon, veering southerly and decreasing gale force 9 later",
       "wind": "Southerly or southeasterly 5 to 7, increasing 7 to severe gale 9, occasionally storm 10 later.",
       "sea_state": "Rough or very rough, becoming high later, occasionally very high later in west.",
       "weather": "Rain or showers.",
